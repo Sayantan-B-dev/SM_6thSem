@@ -1,4 +1,22 @@
-# MSME Registration for Start-ups & Its Benefits
+# MSME Registration for Start ups its benefits
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2q3K5xX0WmE](https://www.youtube.com/watch?v=2q3K5xX0WmE)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/NILA0L3thw7T53BrBOQV8ZWXGXKcmO_lPzTXw-loQRHa6EqXBYkgRlmqeXNkmQFUFSFjGO-PnLhXfolWREXkbu0jjbiq0n4zgz_guKV6cx4qaSfAGGUDWepWQD5WHyqoFhQ36zCBhjnhAlAM4TpE4Pm6OkLisoPR-dLGh4_JEMELFxwWN_s3bGEzZSZPx2ew?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EQDYU6B9RohdPbp5Vc4I2iyec80LOm6FSaq2XnSbUQ3wLpf5QF55v6cfZEHZpGBoGyuocQph3E5vE44OK1bX8EviEtqb6LHHNfGIgmEZb_MIDRtP79EKHYMXv0z8iQLjllwDtivhLZjH_UGYBJa6yx6jmeSjEcyMabGlBJQBKvHfdCdhvaKRUK5oOWpClHjF?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YbYwBAcX6M57Em8PiZDbkTknmRKMYXBEZcjHSCQq_N8VqamG6ucbmGkgzeegWnfBuG1yvkcPDLCWoy1HpM-_WgqQTNiJcj6uLtI5-Kl4kaSKrm0cI1dmdxDsZ9PI9Mxu15kGkQ2tyovkZBN0s4zGdjgjcrHSP-vmJf241MPCftlZY_j0HRoSkUyx5LssEobi?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YCGlTLceXBXBVyuA8ps77gWb4S22KhIHcxEKtid8EF3H7V7UXoIisuaqRKfS-lxBVgpEiJvJH9fEwfrTDlcdE1l5GqmqyWwSbR7LlDJ6SZR7y8iGVQDzY6Du0djFfk2L4dVy0TrY3kyhkJkQ6_1cSukVU6QeBo-89DXr1g8DP0YYqfecRCtaZi5zfdFMXsp0?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/SLD8F8U8NBPt7cyCE-LYh7cgxqebbPCFj2eeKvrPMf8pbA6DEJu7ANe5xtLikMIcBou7pVnBKaKfeH9mdZP4m_E9uMfjaPFdcvJ_ZY4-0VFlnLNFI2w1ZGdA_NierIAq81RDkyxOOL3m0xABjtPAYpjg6m54umLw3kIkYhWYLT42Ntr_MZFPocmkT-Wx9zqh?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Q_-ZDed3TAdb0-MKxGRM0KZYgkHxguhPG8QKIxWN_XiGN6AZYMS-Ey_xAmik_otvANoPdwrNbhYc5HueeQXsQl1f5v5Mx97-Ap7uIHYRlr6F_FjTLtB-peqwDiygQ-R8CwwDcIxKQKWGwxhj8EkRDRbYYZ9YfuxqgXrzZpWQ3cqmZPCVdmVQitjPTzNsfPn_?purpose=fullsize)
 
 ## 1. Definition
 

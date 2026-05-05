@@ -1,5 +1,23 @@
 # Net Profit
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2q3K5xX0WmE](https://www.youtube.com/watch?v=2q3K5xX0WmE)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/tSn0oP6n24A8VusSx703ZsuqaHWEk37JxmH-uAhlYGqMjgPYYuMoqd-82vfVUCwEtbRjxyR7YSNGe071EOJ45kHuo6JoLooWFVj1BNEbe7ytcNKXefPbqcEtchkIxPhqhm-EMMfVlIl4hXdbqVAL85xdMYVdYoAFHPWTpGZ3Y909ANzH_Ss8C1Y8dZJQ2M5s?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/O8Viob-zIUTsRVP7rRFXrXBpcZPRNmO4djXsVA9x4gK2NOXkrUauY-Wzc6WVwQSy_IN-QzckyB0ccbsEvmW3xopAyXryZTMX05QcHZSTyPaGh5w2wEJp2AAi0oZ4P_05v44higTNDR6sJ1qpBk8SQnG-nhCcbBVHrSgduNNXUfmpLEdEfTb2k1q6vFhBTNLT?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/TG3mLof3Oyye66w89KdsPiDQDvVINNSjyhrNNvFDcTSOR-fl868RTTGXZRkDXUeDPUrBDBEI5DvdApUXLycC7i6bFyBFlULFSRYrhvYSruyjQ5O6Rb0F103WupBR0C2g-9kVPdr-xvhMxEaFlmdxAxX9DJS-CaMQkOxVIvdq3LYlGTLZ5R9hWLmUigwUJdqs?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/rIXvwS5yewLa3b0NzgfiDM2d7yTVelsRF5kYmKTtU9ig0fxmRaJBSi4-I_xfmuxzaOcwWaYrLZinsYW9gz9a58YrmCmfkVuyzcqmaKi7pkKo-JnguxWVowIYVQyUp7vTxqs3rw__P9HNvj-hLs6DPuJEiPHFoiaCa9JxDUx4iqUZTDwfZZ1KHwZC01-NGyZF?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/OkUgEuznAxcm5kd3GLNQYoF7ZIGM3yD6YFM_WrIZPKd_8NqSgHTcp56QHxAmz95Buf2Szs69BI4yBDAhn0PJUXCSKEntlYdbZBckLXPF-akO0LZcBMoFhEHkxt-uVzjBUw5FCMoZ5rJyI5BY_BwB3fYuCm2ci_WCLHvRyorGw-bCmCpI154H2kxl8xrBipYN?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_dFY2lq_oyz1FOxlOEPgQKOkCqAgeTFj64nRj1Dl-jkplm_sGx8etNZUqFLSWsNG_GR46VBQwXss_7bIvVOGt4iUeAgVNc2BiQMXOh2ywalM13ITDQVcn4Gs5uQaoPIB6_a9zCYfY6S1KneA0WPpPE0q0FKvMR3uBccCHbpntfZQCAxv7ht91YFHTpuW4x3O?purpose=fullsize)
+
 ## 1. Definition
 
 Net profit is the final profit earned by a business after all operating costs, interest, taxes, and other expenses have been deducted from total revenue. It is the amount that truly belongs to the owners and is often called the bottom line.

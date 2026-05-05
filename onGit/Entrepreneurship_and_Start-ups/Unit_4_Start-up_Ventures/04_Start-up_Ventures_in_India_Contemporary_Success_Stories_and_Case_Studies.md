@@ -1,4 +1,24 @@
-# Start-up Ventures in India Contemporary Success Stories and Case Studies
+# Start up Ventures in India Contemporary Success Stories and Case Studies
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A](https://www.youtube.com/watch?v=HfZy6sUeP6A)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/cI3WrMPDfGCXI8tdgjHDT9v52dGz2O2xbx4GXwNntl3-ZNmbaSz-8lB4prKyk4g7-HMsf9i6yrDgh5_psaFdaLtFzRTenlOROmvs-GFdpeiP_GH5OhiB5I2l1JVDzaJmvW7CY4nJ57u9WaS35L1UHXddXmb_VFKg-kVQHItwbTfdES5TtQy48IPeF9ACBbxn?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LcOB02WRDo8mTOtlLVthPIwitz-p3epaW0TRiXXeJZAueu5_ESQuV4vv6ZIe-rpvJXuoyIwuir8zyZNuUd_PRBKauInHJMt5kY9P5HNq86XKO5UBHP1llNDsgw8-wKernWzvjEVVUJrOGW47H-NqMauPgaT_mktoB9CaquTzNHxpFuXFtDdfSMISgdEsHhA3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/p5u5_TRbnihv2hrwKH7GZaq6B0S2U1dB3eg1HTYuoA9cUkCX-gQD8qy2i3Gwc4-hMFjf72VTRZEOqpX_tMOr88dSctajcDgGTF0RLq-ZY7tJtMNGyrNuvVpC2rZF38aCOfn7K_7xDiqbpsrGVfGA_Azc_LVbKYHRmEiYNG3um5jetvaWarREtyfcVSXBhHGo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/MuW_G1Ns_2BQu6wLw1VTYtFl2cwYz46xOYiqh74XyJxHvkUSZ7_zrtH_sm9gP66GfbEGpoFYMoudXunOz4RXqNqSwWOVTkEZ7bCHuRzXTGh7WCDuapIROnOQKkDmmkPUc3t4WUmpRNxXJLz6OhZPvQdHpQ-WMOCLQOd2dJYnhiiXMzAnMIwwd64FvS1Qn1rn?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jXAk2flNvcXyJRLuydL9x1Sf5bqVgTHChAskoXRoKp1J0s7qBvuk1k3ZYk-YUtrOB1KuTx2BTwbobJUcnuRjZYL0v38DDH1hy9G7jJB0enSlTpTsd1YALeBBpbsokzLlGCWweyv9gd6QVuW_0Oh2IawmyBm8i4dgnwcXYp5QyX_6RHsNgRj-E7TeECVqFQO4?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/enFqGeasEampYIIdBvGU0XCW5yWyhVxnetCqiJlT_l6wGjNF-MVFJy37P-9xk2PrDKs2ueLyOdKrmvbhUVVrGjh91Enm05KkD_Om_eJH-rumQRCA1x0Om620fX6sMXVq8rHhL4H3AVFVZ1hcNaV7NumyKVECzgDNGMl3fIUoMXQrP5CRuage_9pAmZCUYVSY?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/CR-qX3bOaR2uEsds6IRXxrsXr4JkjiHFQgwixvwUIILHTlC8tj6wZhpuQpsWQcPXe2A8DqQn1dCeN2Kpv3ri1RQxSnQEHAKWnlI8WhmwNcKeV4uJevNUHyr3aArmXaNQjmLb9mHrwkriHZa5H-8RYMO_b2jx1w3MuCOuy1DCRxdIoCJB7EF5qg4W6SKUiLxr?purpose=fullsize)
 
 ## 1. Definition
 

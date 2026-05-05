@@ -1,4 +1,26 @@
-# 01 Concept
+# Feasibility Study Concept
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2q3K5xX0WmE](https://www.youtube.com/watch?v=2q3K5xX0WmE)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/WEh8fcZ1NJYW4wCph1h1wsR_60EMCi9fhfX3vu-KCDBLlLtieMiBnEat5jqKO3rZ1pW6TtT9v0JSN4l15NhrvgOp_x-GV9WqFj6_exvyu45gmpoBaAa3pH4AdNE9gqanjPM8XyYjF-ElXPCnzls3CpBV2fPYj4JSYAMjuWWcFnX5tUezwtllTkuLpyMCongL?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Sraz_N5kosaAEkKyVSndnzhW9ZPcd9aTmzNvX6FAxhbOY2ZSqao2-llMHQ4tLScwtETvy7_90Sd7xoRvaalB9iPrWVmZVjyO9a1x9WIufaFj4uvrAq3aopR3Yrtn_7WEi75G6VcwxR4KCmncIHbgBExcHBkm-q2W-jpH5W7_d-Utm7FjEVrktTT196HNVZJK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/yMWerx5aiL4drSiRsyT8GMiD9y-VnszWCh4VH-x8iuAcZ2xTvTKTRI2PC9wNeru3Pkau-2sPt2L7fFDZ88vvqcX0Cshtan8cL737UmbnPfVM5X1T_sfLorR0Xw6pOfdECZbXoTh81hg_BwJP6c-x3O26WC76dZUWqwRSbDtQE9BubKYdvmScz1nkalwjGcD-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/lwA8VHomIU0u4VpA6kyEK_jx323iqK6Gb6-jqLQ0t25OC8MmLk34iIM4xP00J0XQaHb9cF-MPALnldl_qM89jaCELs4XfHDrqEIGIPAlQnkgK5ulALit7QzN4GdFtCRpe_cmsuoSkMNUnacthRtrxEVSBpaExRCHwMBqvOV9qDbAFErMUUO21ZeavGz3eDBj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_sDaXdpofnX6hpjpBKNCFmg7bYJqumvGZ30hnKc_4gDbgetcbJv1AcDr6QF0GNf9Psd6-PuPwzP4COFZMetbear78yr-4hGTt8tjsY2O74ScE5qsm20AYZEL045tJMVNkXbYdrR-CyFRrPXpC_Nuxv7qUVOOVc7jLLISE7RXeOcT7T0ZemHDm5YoreU_222n?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/fkDrkuzX5c-F8KBvAg7VSA7VXh7nxnzj2dEM9wx3tKTTfpyU9ZXfyrvrQQGhx2jbyFnnFaQitkhheBcwyI4nJQaX9btgQTr9Y-a7ulQaaAAt8AE5-nEHBtYD9f5yKzahanaRVbgUfDSyaD0POU5XMqNIK9H-SlgzU6tEHTTXJ1h59Q-6DKD5d2ZhNVTVROSL?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/tWc1UYljE30IYxtNZFXGR6cjSaDZWiyCHCg91H3JPVJUfaacxq0ZDveSXn5lXJVT3lafWRL_BimnumU0Q4CsOWsNctBA_Efoe3yXMjaLLMqrAFMSIw2Sm0XvY1qmy4kCdqG1arnrqLJEgKApAz1Y833bb_3sdAS06EXr9SZAMHqFF0MV2N_XWstXKfADxKIE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/sHT56ch0APxECygCWlMOXZ_YcoVS4J8h3vU0YDM7aBmiY90E8vrYIwnoAUibtHwoSZMwqSNNxHKAHGPe9ZjN4A8BmTFI41KHGMoQO69M8UuByZObtGYeOaxyTzGoxJD-TinfnX-Ahujfl-OApfEpGslMEouerynOkMnoQ1mbHlEhxomptkRcCfEkiR5gLfeU?purpose=fullsize)
 
 ## 1. Definition
 

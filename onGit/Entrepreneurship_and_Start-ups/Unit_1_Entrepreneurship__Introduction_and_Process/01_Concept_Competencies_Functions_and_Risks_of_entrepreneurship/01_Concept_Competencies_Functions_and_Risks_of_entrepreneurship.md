@@ -1,4 +1,22 @@
-# 01 Concept Competencies Functions and Risks of entrepreneurship
+# Concept Competencies Functions and Risks of entrepreneurship
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=ZKOL-rZ79gs](https://www.youtube.com/watch?v=ZKOL-rZ79gs)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/1t9oa-2CD0lrrdoQJxFQOl_6fp0GX8CMAiYMBKcstVgj6DeIEwGibj6gk6csW1xeN4D52-C3LN30v0kZpOypU95Kuje56JSZGyviB2hp_GBDXzE_WwjTeTb-NNv1xnBWxW9Ep15I_-3rWfvKvbqKesQva89lPN7MVbgFeH0hN-Czd3Gwtjc61KJ0RmDGMNlv?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PbPKwNm7XxZDo9gVHwGYLjDjIAaCtIstXmQ8qWFsxchDrpXvA3_shoqxdbZYR_JAYUy3AL8QaPyP4iupRZbzQoIBE3Cypw2Dc9YswmFHUNS4vdURcbwgPl3PgXcqiPzMmSzzG7t70SkJ4OMy3PFXa_OBbp0oq--Px1PxwVe-JKxruPpT69lmLAlSgMJ4hCLC?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zZo91li9IK1HNSVdZaABkjS3z8aQgy1MIewE0mC0EiOfTxqN5ll7VMsRB-dF8MNZPl9PE0tEhh6SXXgRlh-ReJ8xOhoQFFEcTOCOae72k8vlzj6HZZscf9efhQ1RU19sfzGsFfU9XmK6Wf1qzh4usVoOEZ6JlbdcCN6l2H-dDyXYjzrrz4Ti6n17TkWNgnXE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/rnijf8Mx7Hx3w6urYTYlyml9tAQ3Tun52V2Yf7F4Svllc4aWqtYH0Utjn6Fd_S486mfshWanlwoxuDHwGILb2DPJbRS8SNhzoWvZjcjBQsyIVAP_GWhu-jg29svsiywVhtSOLodgb6jWUPWyeuucq9u6WFghRjaNuXBfzD0mu7AiSG0Y7ChBCVVqFP5oPU95?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jOmy6iO5bN3mXzgI16pbrV7enEInzyDnkejmHjM2JDIBx8Yr0rPVpHsA9gtiKlmHS1OOoM8Vwxunscz7YfywE0KitDdldJUcCVFv-UJy9AKcFowx-qzYSRcXkf1rVdC1B9CnpJ_Us55ljvqhrbrlEcRA5chVd32eP3IONhfnCGSNRD57Hqn167p7gGLAd9KU?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/4VEQDj-kGuAqdhPMNcdMZACUvMXdIYxmTfg_-hwFV8yNShnH7FToEpmFQGWB8oyu5UQamzkkXT1ddbxbLgPpvbVb0cC5tCH6p17LINCNwkf0Wg5zA8o4AcZFms56l6m9-bfW8miNX4XdwTBxGkZkSsDAwESEaGpEkKLkC9fCREp9QG_zr7sxY6FJK7gOfNdb?purpose=fullsize)
 
 ## 1. Definition
 

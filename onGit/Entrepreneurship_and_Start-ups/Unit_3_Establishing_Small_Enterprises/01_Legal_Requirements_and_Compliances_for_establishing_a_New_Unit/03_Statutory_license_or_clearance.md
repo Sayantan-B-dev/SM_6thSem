@@ -1,4 +1,26 @@
-# Statutory License or Clearance
+# Statutory license or clearance
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=GC7pN8Mjot8](https://www.youtube.com/watch?v=GC7pN8Mjot8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/M1kXENKM4ojlPYKGu2OgPJ6oK8tI1gwNn9WKqPLR38vH4B-c6jRzBMxKMWgO24YEuxGbHHLGN0nTg3m_yP_pPvO4rjNfOptYvEbOcZbY_34uSg0u_Q9Ls9Z6rl-gv1YjYI4-CFCXTuaSvy8U6TVif6weYAPiXcAEjRa7rdk_zDnrZa5vE8jIFI9Q8T6-qGrK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xqpccokpWa8vwdkED3Usm6kTKAUwcWqSkozPBS4MdtUwx3hgB-Cz2r71nYCgU19l3bXdMjCESc2IeNg-Rmt-jvIxrwyKI3LqFHy-6e4Dar_AJdNzTT059uXSG95zmvb_D-xt-NmhytJYIkuB8gROdjYEbn0ejTlGOOdYBtMcuDqalcrv5Nj26CjCxpku7evm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/GgPeqY5eXQszTZfyC751Ji7ckcjnBJdGWd1w60A3LXG3H_UNAnTONZ0xj0Q1FCySjbQqNnM8KwzULbOWDcJ23eESQTsqO-SZR9N1z7BuxbHwdSf1Lou8nu3h1SD5DQLyY24tmBbE5plLQpmdN-oeZDPieSZ5jl7Lgkxz-UcmOyHPEmvc2_Y86XVj6-yT5pQG?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/AKKlKjaTScCw9Y8AfbaQuAcvRfyDVu_1fYs1tskacAfDBnKMhWEr1axRJLhpjpUoszglcCrGxLIWGSqzme3Km23y1JBProbvGMmk--qT8v3A5_Jr6oEJvokviTjpshlf1vRlnt5wkNF5EKHNWuondJ8I4p8s-w7v3h4uzK36f_3KsjEQ39obXviD5m2BgEw5?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/fr1mJxB7XuU5Fuwlp_Z7_EWDp_X2Qa_h2gbg61kPLakFjIaLQfPbGbQSYtD0qRNhstetqbD_E7HOMFx8oc6yuA-zd318mlTebGNYerXeysulYBvCazlsrQhK8UGUcOVpOKwqSg55D2zhokahSI5BjCne2GHOUimNmWwyHkeqhzi-ykma1P_aN0KR6de84XbS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/oX70Enm-E5zML2hKydxT9npRm2OV6mzv4Uc0qff8qlX4qtTEVwmbpti_KNl8hKVVyogupvnY5qE_Tp0eHKrdLp6Y67FgObF-vpPe8xhMCBQYfnhnINsqHQ5V2DzVTeTYkmHAExwIyhFhAOLuZe13IeKQ9Lt0UkIRcI9t7BaJo6j90yikvHi_HshYD0bq_A6_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9-0olPPxiLU_Lvbh_ggcyPfSkmbh0g9pLaKy87l-GBCVBt-Pmb0dRYNijg2dAUXgbbICIEGrblICiSN-RgpH0e_zu0rCyRYXOCrPDaFwi6zbU67Fg6fvNKbwcKW-zcTUx54ZHKlXkH4v4xgyl94adBmEXkzJGfMjqiXjWIootk7Xo_2pp79U7u7Q3DcEZsWY?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/wc4MFr9pmso4sdH8k01f07vD0aqMncBbfwJGm8FNXHnw7v1OkHjmHZurMiMOVIbxaKptlFoFtf2twdz-BIpPjdso-slO-w182kMse2l2zIIdY7lIeCcokWyNY96Kn89CMzbVIjDo5wa7w-bMWhSkMcyOvaWNTWi8U1cEjom8--JQJxBT7Pv-XRGDXjoTMat4?purpose=fullsize)
 
 ## 1. Definition
 

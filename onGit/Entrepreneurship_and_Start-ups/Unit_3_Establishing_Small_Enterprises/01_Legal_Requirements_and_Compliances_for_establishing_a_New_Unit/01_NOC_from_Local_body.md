@@ -1,4 +1,20 @@
-# 01 NOC from Local Body
+# NOC from Local body
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=ZKOL-rZ79gs](https://www.youtube.com/watch?v=ZKOL-rZ79gs)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/j2tRkY2YuGRXOqgQk11s7NjlvqWrbtQFdMIFJuDvDzNjC5O7yRE4GlVjNBCVDhpYUGv2knC0Ewt2w3WF1icC1xYbzghtn5MSMCm5Hs4LatWwFVusdTvYjViTFlfU5oob8dXyHZQTT7KElfMeHae_0SX0TdIMr4F0Lokt-OVuzTPm1nNSXL59JXY1kcWKFBKt?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/M2MAlmuxglCqthPsZC4U2kzd1Rf1feYzCNlzkPWVVQDZoFz3IAflK9KybI_lFbguXDAT28UkzqDU6rlrACh3SRIH8qm7QTO9Q1MFodNkyWb-Jm3Uo1clPk5qITD9S4QUzhmhlIU7Ti1m1k6G9ROGlto_rsVchn5_rTWR5S_6xRsCHZn1r3rM-cTU-ToPXQGA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/c4UlI0qfwQSTzq1vWteiTEML5lP2Er7KNICAOj7-9boS9mJ2hWXfRnUOggGbzmA_X_uUzCN9At5qIC8auXAra7YNQGhSe9WX7t5Cc81Rv4NeRZWgGDpUnokqNZqC_w3dKI9j4ZIDYK8Tbx_c4YoEAIjavrHG5jHrht11KGfHZ1mvuGFYqGHMjaEBCLOtApDL?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/1_qhxKhZjlKboS5GeFBqMMAlp-hxIEbFNOERkA5czT-6vQqCgCdlMLxAvLxLFs2fNxQuWxJqjissXf03ItctWycX0Du8qiKkbqU3ew0Jb19Qwi3_nZwFUF75Tv1zOEaqS3EAg98msao_9I5iEYS_YK7e2lVQK_T6I2BiRwuhDyjs1_5b4x1-L369RkaZIos-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/GXg_JmijK-9qu0EHOJ5JgXdp2i1tuMZms1M1d4WKzLT30eE9VHs9CLpLffGE5uELG0ZgrIIdQdmP9V2WJns3J6BTj6zgb1v7NbSRRuLZemOVqylXWG2niA8mpJpClTouJ5L1hOeGXFc60-IcWJ44jhh2lfsPhtxZKF5aXPCCyImmoPbgnxeVDG-Hu4y8JCv7?purpose=fullsize)
 
 ## 1. Definition
 

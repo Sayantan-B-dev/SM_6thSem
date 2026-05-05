@@ -1,4 +1,22 @@
-# 01 Merger and Acquisition Exit
+# Merger and acquisition exit
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3gZz5c7X8l8](https://www.youtube.com/watch?v=3gZz5c7X8l8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/_TcTOB98Y5LLQdUtk4jjVmTs4UyUjmSdYZ1XXWUO9JAlGnxdyIwsxeKZJELbGpAfFgVXR75_PyKLp74SQ6l2X2ULtvn2KPGvDUIitHL1hAxsEJjWjd67w2if0Jm9HNi6Cy2VkF6UyxI-XMgWImSSZMPyRVpuwNc7ZbCfTSB48kLqK1xakxrJBzK6E1d9pYtg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/TyGqCLpX3xyUmfac-KRZxuKlVD4hUspCsDclqZiJ1vXbpPG8TXajE5Yamr0dwjSyy5zrw28zo2wf1kBdxUU6TMgQN8ETDtFP0Nh3nW75H4GFlh-oqVxsXwxm4SHP75C992geW5XqS4KZ8vaG1kCq1UsheT6Nj_Rr5SOVnMkzxKFXj7uvISm4-S3MFtwyDpjV?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/SxgU4JuyTGA5Qw8XiLqsdk1Nq3YwJzTBJEtJ-9qyyK2vJoxOsDb8-DMsE9uf2zds5uPVGj0z4dI6_HpQ_wKpGwp0af2LRt59NgnNeh2bklzsMfvny8M3z8BCxjnt1poUcHeqUGoxUmCX7jpPQtMoz21O9pH8rpWK_AETqPajKQEq7KTUIDC0qx6ugQY60_ZF?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_EpROgj2e0chU6eeX9vYxlmMtwF1OtqnKLofgNfhLGvrIgr1ceh2cgnbHzI09Rlw9W97f-PlmAUT6uFCaw0gdyKQG7411clBOgb_Ruz62Ml8sY2PQmpvy7JS21g1xhGaWgovJ6IxoMJ5uM2xU71E0q3wGaztnpQGYFnOPyY7z_IpO6Pkqbw1ILi78idxLOWL?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EQA3b0MvV41JrAHOnSkW3HKxI7prrzXIClXRWQqnfUguzv5T3XfCGh6f2WVwcAfZMQId1vIaszvrp3lbutaECJv_OmXBlDx17vdkh-2-MM8oyWk9kMG_wO6wnnIX2zcA_4AcnmZGsuCK0k-U_pszktiu1o7VhToCGDuLqL9rp8ziltcuGPLT27INdlrZ2kQ6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/GPtHb_h3g2tP5mvloKaQiS1kA9JvRCPijLPlx4uVON81CqJE6WOgq55xtqCfUJJ0nIVqNos28HIqt9WN05mPA_vmgAlR8u4fYoMQfYqcijA7t0LrIS2AFxvrvgT4GIGSvrKrkxQlLCGjK8o1IxBraBm0mp_yo5f2faefibaDNsHLPV3n2mc390WvnKQ3P3WH?purpose=fullsize)
 
 ## 1. Definition
 

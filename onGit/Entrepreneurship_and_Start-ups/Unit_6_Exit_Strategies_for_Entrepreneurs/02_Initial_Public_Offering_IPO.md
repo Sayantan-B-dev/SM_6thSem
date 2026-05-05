@@ -1,4 +1,22 @@
-# Initial Public Offering (IPO)
+# Initial Public Offering IPO
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1e9aM4Kz1bQ](https://www.youtube.com/watch?v=1e9aM4Kz1bQ)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/7sHzlHMVZzDMNUrACRVSbe0BmFaeg83O7EaT6gAe_zMD4DPaweUx0vfFCv5EuYJKb8Ys8evraC071U4Oa0RQszkWgiS5Ika34eWrtRQsI4qRghe0zwJh2J2pJXngKpmJ1EyEgWJIADsOQgCYnmqXlewrWqBhKdPhP0xqDDb4U3YxLxjexQVmTaGZyGVMs2mw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/MZ7qKvnbBNukAKxlNMByZIJPg549ChxBwDVXywFQaDEwSeneZiLJeUk1IgeaablZ9aIEBvSxMa6M_uVQ9Bn2KdsozyclHzkMRChBIiATcYLa1xtDVmE3Z-5dGNva6703wQ2PFr9cRcwlAYkYH9AwPVCgkJzy6dk9raxTMn_u0ZyGp72_XQ3lw7EPBsxlyxJD?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Jz88DZhL0e5teNOtBRZmy0ryqaRSdFDd5E_RmelmNVp_aMJlcmGhsIWmavFBIUHtTH7vbOWHcRpdYooCM88UoXtC2a61AwxZYgGD9R2fXvHbUkGJtUE-1s4uZfvDhGAgFTJiQ0-kSD5e0C0wmXv9hW8Fdiza7jSNDlCsE_KM4DfTMW41brZMrw8q4YrAy6jO?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/w8pU5Cfiawb3zftr6CSa8J_zOLbp4D2hYNXjEiyFy3XQCD-qi1PGl95-LI0QcUpcXdvq8wQFTTDkP-KefMv6QEZPhmUXVEW_2FFifCJH1xDufQvUoRpGlMYm4ELkQwrxVGkM8Ioje6kQg-DtQlHbmvmR2EFpmXHmVzkPPaAPPKPCsuG4ndG9dJVITv4KvNgM?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/3t-68q-lLmEtevwhoJNJFdUGP1oGK8IR1iBw9ruiu1hRXZed62IRUtnQGrNXc9Cn37ZiuSYRJkd3HZt-ChB8EweqBHO8uhJNt9OyyrmIJjGF7GBpsK0XNumNfscGJJTuP7zb_9Svl0TXzoSmCKezPfLIrMjZxDP38WXAkCsiV7qZ6SwRC_Mhh3fx8cSC9Un6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/BXm3dsLr4nly5fzdg4uxtkM_XTVxq6P7yve3bdWmTC8PK9rq_mHofCq_dVSeJ8QftvSGWByJcGpeKCYzOPYScwcfTb1STacl5r-SYE6NLE0xY_sdiTbu5VEkIWy0Rxq7OnsZ0ZO1dO6gvF2vqIWE-y7lpRy1AfcMMMbptUEa7mO1DU5lKoR3AwRMOmnwJaRc?purpose=fullsize)
 
 ## 1. Definition
 

@@ -1,4 +1,22 @@
-# 08 Working capital
+# Working capital
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A](https://www.youtube.com/watch?v=HfZy6sUeP6A)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/By139RaKe-97T-zvV23yT0gNVoq-yYv1q_08fGriofcebOO4GxIZhR9Ow0Zs0sFHpoQRZGUjsMSzRG7hTwXVVevAH6Ai5AI0935DrfrNtYnGAm2B6y5qP_3scVF9xPOkiPvRrMgMlJt_X3uvyx3LOKtw_RwF-y0vAnC6YybeqAl4ONnXxYSzei8OqVsfI_Vy?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LL6oytvfzBy6aIckXEHOWBrbkENjK7krxzZVEaDCg8ynhk3FfUmPIn-fwNwjmBKYsy9GqOV7MdQgaVidy_q5HdnpLYPzXjCyZeDzU5jn8NMdcUUfsI_TRhVpLoA7hQMQOBupz3S-wFGOqI-CM5BirxbD64DCT25Cwpxovguu41L7bxqbLc74d31Xe6YwpITw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/MRqHDuUOPGwBO21JHt3VmZ6gVwhsOMS50zj2jWsbEEySJFs-89mzHhfs7Qw316rjafPocn4ewZevVnBHf4cWQVFUlNAzpgpbPyDX9yDt0pFTFNc8fL9EwpYn_Y6VgD_K-E-PZY6Bp5nwiJ3i4_Kreb_70BPaFsHKjVulP6HuuBOTgBqtdpY4LJXKir6fW-nj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LfsRv68sR_LDFCsrKQ39Fd3j-ppGox7yk-OYojO1SKIPLfuxHyHHPWsh2k7BtTaHjMILjlxVvr2GZWeOtTtOpxsa4tPRl1nAAenIWmOZ0TUwaPfjIZN8D2ZOauMQmECWfPLkOZHAH-w2BsPy-2WS32pwYnFC2B_WG9bzbo8LdOhUsjv019aSs4v15WELAmBm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PMjCBhFHfpaMIFH6ivLV-l5FXbJKQBYhBHNzkkC28dzeXmuggjoQ-tc0KYmTsRF7PFL9V5Y9vI1iSLQ79XFS_NnIjVn-BUA4bBMh5KcmeA5Vcqz351tsCMJHjvn_Jjr5CWWjlZ6EEKHrJlIUAbwCEgWh0DkvU0SXdI646Isx-fUXSfi-gKQOe37jFDdZJhau?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/VbBiXA__C42pssEeal8R0Hf_mxKfwQ_HfKg054QKW-Bh0EUcNK9Sub75355ichZEFIE0IiPUoiJATyBOBtQweTWS4qVw-hYrmCEgnFXVv8OTa9_ZnB_-NQ3EpNninQZTH09_KPk9EgL_nF-9O0VPEnmv-HUwM9gUWmu77hUwSxOAQDUGSWfuThDiEp0G7KDR?purpose=fullsize)
 
 ## 1. Definition
 

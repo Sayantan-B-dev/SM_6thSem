@@ -1,4 +1,22 @@
-# Funding Methods: Equity or Debt
+# Funding Methods Equity or Debt
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1s8p0cQ6f9k](https://www.youtube.com/watch?v=1s8p0cQ6f9k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/J_15L-e2tCXvg9JLlmVZw9agWc1EvfNSWlM04GyFZ9vHnGSzAlAXCYD8VX5V7YnE24FrCpTEEoV6aWTpMIvyD1GfpCSlA3Nm3P1f0RCn2uOwfRlrkhiFQf_-SYERHYcblPnvpXHHAG_36DgXCs1YeMZgZOo0tGLx5KvFj6p-0Ghe7YJ0cSB8BW3nH560tIoO?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zeJeInwEevck7e8mVysnPXbLZGKBbW3T1_0xNplRyHRjHQ8nGylO1t0cmm_NmcitxrNDLbvFOr2pW2mcsfKMpbCANQBfwp6B7IKl7N_D7uzdYLE-r0qNodvkHllPHVoB2ZxNbY9uWApqBmT5BYAAP8ja7wgoVFNON8WavDOp4el5ZSOV-c7thblc2kSXgkE4?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ppM3VZOi_m4FZbz0SBwi1f119x_GB6ekTZjldpUNPoO72RK3sMuM1-B7JT3m1vXa98ye9of21tyJvarD78TVMqPIyCVm4WG9aXbUUE8ROhkUuS6y1ZpwzT2H0psp5Se1y4LsBTJUlD0aYxuTicmnrnULnE-v-n_mOPqClxCoM9vrarsJ_Q0TydIAo7aLdiiV?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/HNiNozPewK5H-inWWOBMl_-UsAUwiY3iV4tlYJknirsA5gnm_nqYMTPeqStVGd_jCMiFb_Evha_lgeeg5WJP1MpRtQ6_2MuUqg-8MGzJb2ieo5w-wBeUPymU_YY6-AMK65USUVuMOyZvkfOVIbxS0hLYr76sVMCysI0g5yhFOS8Po-mYoCHXMu03iaOO9Np6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Gprgi7gNE4x-TB9tO9ErKLIbVnleWY3TuLYQeazdHExFINzEBaLKDQPM6SjoKr0mAhWB18x0OTppwvW3X1EdgFYraL_2vm2LlcLwR0v4iwG_cECR2nEJKiTq0OOw6DRgTc2Blo3R69Yfy8fEuT_Lz2-SJOXW-XJgkLnIauc4RippEMeU6463eQ3lQcgACxz3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Ji3B8zOO62GRM1d6z9CyxyBSrxEbvc1UdaFx8FUC1IzMrpnCuwmVr1KMYFHowBOsXPNzwVtEYPicZYEOPxbSTXkN91JPDLXWiKX5taM8yM-gwLasuemhHr7m65YCQrm5VJljZfJkqwqDctyo0FVe1wpj0baYgoVuYM6_v3TOT1f3kPAtllCuEaJUT-7Bo971?purpose=fullsize)
 
 ## 1. Definition
 

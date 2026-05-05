@@ -1,5 +1,23 @@
 # Cash Flow
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=9dZp1kz0L3E](https://www.youtube.com/watch?v=9dZp1kz0L3E)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/8Bh92bMtuetcpJmGooqEewNmMvm8qfVVkPPv-GqfaXtyyPD-fnE70vkv0hjeFhj848hqK3Bh_-LXcaZq4zuQKJ4PNRxQwghT3WVkSHpevcuF_oFuH7NqPq_i7Y45VxuWALfzwK-vqva1y3Yog2mvvcQflUqFjlvkgI6bLks_Knd2OLZ0txi2y4odqOTt8sYP?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/6M63hN_AXPkHnQocQUx_AhDBsVnDRNcsobb6uIBWJ4A0AtivUbqCSzgD-RRLbpFMkLHdT2UmLyV_-vy4q9VT4-w_EGR1vlzTYDwi-QeMsKs3u4x659ZsnfcnslnJn_GoZfio2naUGY89VCjopC4N9jEjpv5WnMuZ8GTF_QpxTJOpHlTPJXTYWPthIoIkRJNw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/O_j-Er-38SoZkdMUQd466ohttCaTw7LXic6lLP1s7AIDw3MRl_CwvmjdphUT_p5EXucMwSy-rsYA8DrQokGOQYNTKOFpJoiD4EPohd43dm2ZTY-0GnqrX5_Au_vnjtU4psm5HnC6jefClikVX3T8-S2sh7Ao0Z5ygCFGcDRFj0oBd0mXiuRLZVnowp5--BG8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/RlZdaV8VPG_cx8UA5yA8g48WgNLMXBXFHiHn3P2a0WRNO0JFzHGVzCK6maxnWRVGeq-b_BZIRVngqRqtfOC9YmzeSx5RkircuWxHfiGEzJVKsB9_9Tw5P0tk6iy22t1IvvqhNG1bxDn3lBBV9OdOkKrMjAtnTJQw3czAXFtqM1Dvl23K8rrH9aQEKdKRc7eb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/2-tmlrRmeTPL1nW1ncOhzBCBnhBMObJ6-rQMXRdFXIJiMB_LKJy1-gUhKV5xXZWdYnz_K9wFIMB1NwSRHtxMc9x3P1puThUr3fZa3_SmUnvKxurhJkvJvgJCVeEbijbsuGFsRKnUFypGGXF-RMIBN7gGqeuThMxqH2fgX72BQwY5NAwdjZ-QV-2plCOyNZIy?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/UEk5hLVABQyulDDtKQv6nEKmf45G_-e1muzL0ijl5X-M0hXXCWBHliwnJeMuzVhYujUgcFkorc1FL3O0xnd13REJpuCkrB2Zn-xGfJnyH23lcL_wV-8tuH8CKRXzzLcN5e5HD5xCUQfPIPwBX41CNRx8BCdsuCKrL9InY5OZE9DThPI8gpKyE2CXs938Dr1D?purpose=fullsize)
+
 ## 1. Definition
 
 Cash flow refers to the movement of actual cash into and out of a business during a specific period. It reflects the money received (inflows) and the money spent (outflows), showing the net increase or decrease in the company’s cash balance.

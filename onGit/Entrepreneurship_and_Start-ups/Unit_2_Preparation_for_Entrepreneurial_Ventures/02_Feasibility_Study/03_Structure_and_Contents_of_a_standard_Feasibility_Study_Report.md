@@ -1,4 +1,20 @@
-# Structure and Contents of a Standard Feasibility Study Report
+# Structure and Contents of a standard Feasibility Study Report
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1e9aM4Kz1bQ](https://www.youtube.com/watch?v=1e9aM4Kz1bQ)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/prWg5PzMk1enI2ZvTplEUvPYPAHhKnP-w5V2jl03c__BeLPjRIJZIyPw8sX-Z7ekDHh6OHrflQktvBALhQ1wAMWh-OFK-eN7NHgjTMBqabUAP6i6T8kgvDWtlMVLNhxnEp6_suapSM_8NYqsMQJoRlQ8aXHwCroCLPYe_k1DvyIcZ8sqZxLtmBqWoIX2twqh?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/B7Ym2sYYxhNeG-upfWv0aIc43qefsgsHaDHI9YhRYwaBs09A2q_yAkmdL4MmUpw4ilOQuRaVhR21yIndfJTrA4-KLzEacMpUp1xTVREIWmldj0ydr3V4hxg_X4gsy0KKLyp12E91EX_EVWKOFSaUEtPwPAVG4D4SVWPiwCJDOBiQJ3cqVDrL9EHJXnXKeBW5?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/iTM5Kcr0CgaddUS76GO549nYmTFNnw8tQYfVlKx4uUD4tYUDNJTl2Tei8TOm8vdjA--C5AbKYHLthBVXJ61vdhPM9pdIUD2tmp2JMkBQgPVGibDTwNJd8upEZDf-5IomWVLJKVadsYqUV4LbPmmsgWsC0wRjmrdnP5lDrUiQSfqk9zEvm12NIevrlRHkiZ8P?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YtpYgc2EWAjpkncTsgEoT_LIidQX6XNmkUAd0jIfzxZI7WsHjl87WlZC4AXOi_C-SsW7zacR2YlaOonWLiugyMYUZtjHMLws-o5GqBUWWSWxXYD2a7XT_UdtUpm8QOIGRMoQ19FkQlcvGA-qeBfSFcRcUXYOVohNzMBRxjJDUSa3uIUjbXPx64buJ2vMMszA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/n7APOHqF9mzKuj56bUfBWH9JNMmDOPYRkQzciKdxeN9rKqDmw3tmjPQrDB1j4RyBuLCfct76zQMhUVw3mkCLkU18piAE21G-Q0eci_h720UxwvgLR4mJlRZuosK_X-nFazREeBORtw0EQxlEpBRtW9VHX6n8mpBiAQXh4yGsGmwPCyh_FjG_BD3YcxakZug2?purpose=fullsize)
 
 ## 1. Definition
 

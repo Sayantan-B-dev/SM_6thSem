@@ -1,4 +1,22 @@
-# 02 Expenses Revenue capital Exp
+# Expenses Revenue capital Exp
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Hf6Q1uY6h8k](https://www.youtube.com/watch?v=Hf6Q1uY6h8k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/rJEIsPoRJc2gwp2YSfE0CN7qkDsG6pto3vkhk3LDU0ppaFL_L_CtFsbrP37s8rAeLYIGnHLo5uf776eNeGifRrBIqtYQsTtLdkk9xsEEC_viYvloZVxTOrAW0zh0iNC9EAnhRzJHNj47y8s6wRa7BVvXvEslZ-EG569jV6oF0Iw0y-buJxmyfZs_vkvDTUfb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/MDo47E6RGV6EVNKmXzpf9lU0nrdTT7AWGN4d5fZdYL_E6wd0vhQJXT3Cx8Lg_WmEpcnZ2OdJM_bE4AMSgKdd-se4emvnM1V10twTEpMKqcKd4imx2pWXEhqC3rNnrnAJfZ9Z_jkjdtpVClkM6RmoTKeHd2xrBYRRBCeV89e_JUGMy0bnDFQPR7mT21GbVsyg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ahBAo3KUNnX029zjR1bZFQg9AaDhC6bSV9kN9kFIqK44sH4_QazFQxpsqi0hjylRohqvrRI_VJM1rTVjgTmMYIvX_Vd2VLnkbmyIsJrJYgjZGpBZdzGY7XOMApHuyu09PQ4tUYWsqHO7gY9cukJQydUyyElpaF82hFmn33GAf9vvAl2NDCbqrFfWCU5M9b_m?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/nhNo8Ak6SEHQ7NZx5qMPijt3PNMXcE0DEkpnuV5oEBF17mhMYsGVS6n6iBr8lLHX9zNkkWnJMGNDOCzJ0O5bA0fmK9nWFz5N1juPkXbdrcn1myMKgzskYVIiM7tj-dJ2MzoMfDqGOP4ReB-sGBSnrBJZy0PTC8O8mj-6aqyfpyyVQj5iNThKMnRSNIfHChuM?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/m5uE13kZ-OE5VmVl0PBXDvAcpYzqmDfYBxr62uD8iERLmQqxtWPsHU6NwCxEWZVSyW3Ok_1ZZKFslPjvrK7FIb653y07S1bUszB58F8asA10tITtSOeDgd7gXCm0DhvpSPgdEJdWRrCd7lYZqABgH3GuzpXIEDQYfdf5u-pnvbbVa8auZQI0TXYiEkX-b75k?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/RfOxfg3L1JmGs36YUwC3OSO707PKy3LTt4TPxDCpWPM_JqVTUufytN2Xf92yl76wkkg-cbtvI9jolG_-zhT64urimqh_2Lomk6IX5ohjEqbym7IrStESObOg_AXGf5fQC3KC0tYYeDQrRJV92H29kxpYgfZYE6lZVazpsxXC46qSm2xvhCDtiYqN0UBcI0dX?purpose=fullsize)
 
 ## 1. Definition
 

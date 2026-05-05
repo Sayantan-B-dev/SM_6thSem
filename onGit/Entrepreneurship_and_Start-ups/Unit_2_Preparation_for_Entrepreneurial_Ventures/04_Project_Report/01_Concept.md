@@ -1,4 +1,20 @@
-# 04 Project Report: 01 Concept
+# Project Report Concept
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1s8p0cQ6f9k](https://www.youtube.com/watch?v=1s8p0cQ6f9k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/2s8hD-Ls4SKo5C7a2zy99kSGzXiqUCY3-Mlus7zjFr35iy_zjTz6pQySGbEt-24wyzQgwmwzRfgi0cUfXpAYtoRU5FzmTMxUcF9V0bX3X1tN5sxkmHAr8pldF6dvMxu7YYWJESB6WawJXK5FQK8SxUHtASSxbfdQag7BIzVVOQ5Ln9f3IZcQPD43EP_7zNvq?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/XNNkPxalMO2Vdyec628lCG-9JvB4TZC2b-WPV8pYPb4DEkQ7TRHzGfI9Ah_M-7UyGRXWn1r5fspnhwh1PvQ3EAvr2sFjxOSl57vQs4JWGcbeBS7w5Iq83TGAXM9ksgh_I9RAK7vGKc5886liEAeJabJtUeMtlQY8Iy-oDxgLm7QR9kghhJJ2BiS5G6S-MaG7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/hAvURi8lsOsSca9cWlRFWRYMNAxubLIPSFHl0RxQN9MtYbFNtDZw6hStOolb2CRvBUDAtzNdMR7918oTE6x4Q91VGrAZPiZ3IQlBwW7EWI2VTt5ARd6yGYPkJoT-44-RPt-FyPfw8UnjBGXFhpOfrsjV_u9iuUw8-T5n10pRIcwBSq448N5EjOWeU5fJZmsJ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/THmb9_JRU20MhGGKhu-tZUZcE7_-H9D3_dmdcsKs485UFKWnY50B4RaROtUBIRT4v07rus5FspaAT7fPoZg6zyRkjRyK4FC8Ut9Vcxx6iFbCXIVLgRAP1ZKicwJJknsaLaMyc4Bql55MVgbszhYHLlakvn6iuLlxr9nZiFvqtg9s12zx_k7NQGbn47_SZzq8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/CTVBjtejqTRSvW6HGYj93lVC7QWvreu0hwsomGVWkjE3kUuigg7n19XOXGxXe9zT2_-PkiYH6lvCUTHSJqmM2pJHJoq_Zd6Jn2QJSeGt7ULByZEY6JxG2sD49hqaJW7NZdleWiKw6AZkfFyn_e2H1Vq9b-1o4NKJxE3vcBX0UYoWRdppiCAYGxYgXEuAjDhU?purpose=fullsize)
 
 ## 1. Definition
 

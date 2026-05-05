@@ -1,4 +1,22 @@
-# Mobilisation of Resources by Start-ups: Financial, Human, Intellectual and Physical
+# Mobilisation of resources by start ups Financial Human Intellectual and Physical
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1e9aM4Kz1bQ](https://www.youtube.com/watch?v=1e9aM4Kz1bQ)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/TG9U4N7iqBY0tVoAtji8opiPZMTtDGXo551eBKJzGx7u46217wTkOxw9H-Rs4W-Y2hNT2YSCCoS_fRXLzXOb09FTUCCXIrGyHe_TWMuBWpEbpfyiqFCyX49S7RTnHPdUets703z50aJuumUkD3oMMWetQNn5VAW8EG3qbojTms1j45oO9neLMl99xKh62kZ6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/7BQL6IP6js53K-bHe3sAhd5Lmthoaz9n_SyFzk98ZSljM-izzwKuD5-JYFxx01mMrARnZpdeyxWc1qzVqRDX-ydOi-lNBcTGHD0USv5OOscvnyASoC-RGGwS228bUPvGHK2WHJwZqaBbTkVeYmt00oP1kAINSdhDYdgRFgBjUo14W1I53L4uT_fYsLAHOtAA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/F7l3EpmKbbI3XJfiFUtdIzu3jHNL9wSy3nqvqqmYD3eylX3mNQKY2MDMpahfl2ZlLOa_caUkJKkYim1y8CvCBLdkQgn2cS52pmpJaVse0Li6FXrbudXJr4myutLs7o9iy2sAd_w8Bh6fOOYs9yob8lnGFkCuAYP80bpl3LfsrvJvlQQJrouycmHw1LbLiU8O?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/nOYr_4dngNd2sHsYXxenMYo3yCl16CWHqSA3yICSqiXKf-A4cbq3mADcDsBwwU2CNYK2iNh4gFIl2_kfAc7dtg6vHYhBkBsn6_1VeZw1I6sZa5uvmBcl7aYfV5gQw-NTZ7R4yQFIpPH2pXT0UxC4lC4uUcWGpWGG5As9YNp8EqKtR2RhyqICAZLSV5H5E8aj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jJ0ZluLChkPjujjHcBa65Zqx2dW2OUekH7szmU_XKjyG5aGGvIBbrFmk6P8J4sXJHWWXqA5-kpvk2px6qXoR71ucVmxGDammRfdZHb1SCVYzyACaMoMeOlsyrV3jIU3qkX_Z3dHPyqFiyKOedj7FaMKi2cb1WE0vg1-_FSXWEAoxmZRfGBXkZGBnIobKibdB?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/iNHWsBirNG_BVnPthPXEaZfZHHtjiUqJ66Lg2s4miDUuu5QNPMfMztMYI7fEkGR1j2aBBlJvyHjgVr2gmmHNLP6dR9HV0APLMD-oj46EK2I-1POMiYYnvk1KLz_8D6B34NhSweuPGuiEwid1DLmbzVgdlU2gdqmoQ65ZTy5s8KM3lOW5UjFM1y3n7bx4dGT_?purpose=fullsize)
 
 ## 1. Definition
 

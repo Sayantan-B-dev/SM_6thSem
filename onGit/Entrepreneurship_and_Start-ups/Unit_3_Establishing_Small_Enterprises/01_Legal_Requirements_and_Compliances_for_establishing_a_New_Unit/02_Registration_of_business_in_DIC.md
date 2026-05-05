@@ -1,4 +1,22 @@
-# Registration of Business in DIC
+# Registration of business in DIC
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Hf6Q1uY6h8k](https://www.youtube.com/watch?v=Hf6Q1uY6h8k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/zqAoUjwkqXm4JARebYIJdXeqtHnIEPvtDtfSA4APCxLDy_mQJEMGW1jQ3s6Grhl7JP_kYo1v-CZJ7k6IaS0BvrVElLbJ9sOyiJiO3-Jd4_avt2mXN6IgFhROZia0xBzbaXsPvmCYEf0tNX2hFgeaovefbUllOVglrAGXuRcWm_uqMeTkpsMPgHgdzOtd4P7D?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/sdgNbxOd4o96QLfEqQKxbBm9kNRZLVZtOjy1FFvevbr3SO25p4UHmnvIgH5KWKd8cGD4TBzkWogZLCM3zwtfNVZSrp69h3930xqWW_htYzEXIvUKzY9GmzM0bRbejbSSI0Ewped6G5gRYAh-epirW4JeGhoVHn_uW-ZMx-1H0a9llZpwNzSNmbzXLsRhCYXg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9-XZmplDzm1zigXwAx7Bo03-ow-nslb9fqGUMCn9QjiqtewdWMPF_Kz9QXbe_zGCjW4GcYICADDsC5gbZwCs6ZtsoP8NZ_O4r0l_IJRbKoDrgON3FS5doAW8N9lKqraQp5H4mTboDl7MmVJAMnsoYHHxMN5mow3wba_HsllAL8owr3BSs0a_FaAUJG5O2F_F?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xbGXSeBi1KUytp4Hb5tY0io9-uWkOz8RrTJzqwOEc29R3qEexBfX6O2uhAf3zb2t7seXD1619Y5HCjef9Qxommke80AFQF6ez66XiKWMMjBjxtyqgPaRI77DVFgbsHjN287cSMPbPm9I6SfWu5xDuYBmfAoZPseTkDxvNcUgZO4nJEQ-ArmOWulOXgt3a--L?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/sKRngh0NfXfD0iXNyF1J-B8FfEUzWbiqD7ckouMLQsJyVP8rQa8VuwfF08QxcVnT1lmwdAo4LoICKAfX9wetKMKb_uUmx5GSK9YnJiaLf5O9dRX1_lX0H27xvYoIrUDaxsqj4qciQrRliYEdgfWfO1mnx7ZW8j73UapQta3tnPNnGIpdvtmQcDzjkV9UuqBQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/kOULyi9NtcnEeBddpaZqCSbYWqbC5IxnTAXlvvGzo9NCGAZh-YvfwY39pHCePlQduRFc-i3YKzWeUbBNSr9Nsf2XJT8-AE_inMIDwTKmaUpKeo-wUwGZN7pwf5_RrrjqvwPtJs3wjnZJ8IQwvDAHu1jU_DOHfWRcELB2JiJZXsgwCxA0XlMAEqIblo1uzUY0?purpose=fullsize)
 
 ## 1. Definition
 

@@ -1,4 +1,26 @@
-# 04 Tax Compliances
+# Tax compliances
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2q3K5xX0WmE](https://www.youtube.com/watch?v=2q3K5xX0WmE)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/7D4FZ7-uHG5X3db990jmDuepS6YuHGLn6E3InDYKTFnTwffkVseha3sF1CMtdf96OYMO5S2zwtG1gbc-CQ78EYUDOPMZ6IzoVzXdG17CJNUIu6Yk5JxLOgeCBqs6VSL1ZBvIgCE710wUAV6oavr2S5MmnbWNKKFydiqKEYhZQwL6ymRsgTiy7iugjCN2D93l?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Y_5AFDjMClwCtreniNnF2tTiNM3lzFXMipPPowzsmipqmoG-Gz1n2sb7H5gXpdWvkAExECOeEWPL42F5lPjt9S79C6N5KWZrI9ZlKGPxdo9jeGs9Eu9Yh1UnK4xY5zXLkzbfczYIrX0zL_wjOj7Opfe0XC51CkP2OAIagty4QKXzw9SUK-oIlGaoxjyChMGB?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Wvej4Tr5tSVmYILAPomlCok4iWJUDi2aGv7OdhZVPWwT14kXY94YXQq_CXRvytmzOZ6cKP-XtL3fSmBCilLONCCAMyqZPib9e2ue5j5Vvvc5F1n9DXTFbO_pHjoGOoi11DFBq9aXrxfQC8xhfPdto3m0CxecqH37g7O61c9BWnmvfC9kM8NPKwhPRtLEmuHf?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/O5ENd9EML84ufSue9qQWjSE5B8bn2ySiPTZXQSEyjpkN3cse4RMKt3RAqOtBda6ogmUZJxlA3iWDjGk-HHMEqeA5xzVLgM2zeJk1fq5q6n9aXVZ2I7UNXRN2yfTdnJY2SdltpQWO3-L3ve8_BAdFwvPOVlT_T2v6hUVWrsWrhE95tFbDrOmjvPll4m_uw5PX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/4PTp1CoS1w_BEjysImw5yU3-pYYxpcDWAjpmBVlSsn3cUVdI3knd4buWFs6Qh7TUIVb2y1OK2gUcoF4EtW-TkKGYfLsYSgwTlKYjrfxp_2cGyPw0sMODaNNVCcHOfHqehPn0Fop1SxKwedzwiI6--dGZYBtCS6WeUk0NTsg4Cx3T8SOupvx3hb7ChpiKJems?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/j7syzS2Rgq3gnexQaztYhqUDZhVCGB-_vCPJ2SqPSd2nbcCzwl5P2GXoHBuwbIpVEI9up5paOdIUdjBbP6ft3eSqJyqTxgHCn34DWMXfHD-dWLZQ5YMe7UYnymT3L18MVF0RIrZWlIrZaomxy_7cvfUGH9wtLoTFkbiVOWlX424s88_eN9m74kewXubXXpMb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/f9C-MMmqdR_AnIphIWtEkEB4xazCjP725GfJVe8xXcTINJQPyDtzhIOT1joDxx_RHOR7f1jIc_Qj13K0mzkZnYnp5vOcy-BbMBO-EHOp8k5uMO6UPEAaofS2Dc3szcxqV4XE7T9ubCpqBlZZBM3l_iDD87pgeDWF6rljGrY2nZn4YXFnq2OqTLYFjp3o06DD?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/e0xqpDuLDvRDTlNqqgfBmUNcwAavsXZvhK8KMOXJoQSAdzbVNggPa51FqKRYUJwGQhDuY8uwESb_rMoMSedv0JU1EGgaEUcxAiJwuPdof1xSGU6uwnnwt_Z11qAR7_5O3MJpYj1m--IMEfTg0AIBgRIcJwBgX7xaqMG6bJKdScr1pQgtUrh1Jdk_ufCOoEep?purpose=fullsize)
 
 ## 1. Definition
 

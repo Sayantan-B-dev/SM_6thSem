@@ -1,5 +1,21 @@
 # Characteristics of a Promising Business Idea
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Hf6Q1uY6h8k](https://www.youtube.com/watch?v=Hf6Q1uY6h8k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/oLPxMqdmvJPA4R-TaCG_MaVPgTORe9RuFWu5F7zowwe34RTG7EAku7qI-peToqTlgI17ECR4cgQcoxDOdm4NzP_qk1AWw7ZPZDijziScMb901KTfRx1P825ihrHxa-WdZGo073U4ONV5rts0C1Ko2WOFfe6sbg05VOQARO_KXE_1-uvBVsqZo0xptWxDz2EI?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Oou6_ur2uWbCZDLHE0hBZ0UJipURibEDpKYH29BvJ5G2wvDi0EIYmGWcJ0KsewBuvDe7Y9kg1AJb_VMIU3uV6gIfbxRokteglz_34kg6xdBtJoSz2eYJMC3JW83jFbo6aMZtKItcd36z1qVnIxxOGAU6SQZyAYICyk1avDJ9WOxRVPmYpb2k6cG5SiD-2qcl?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/tbVSFMGaWqBf37ZF805tdWH3NnUkECX610BReGVwo0phMOMHo0An-VuqxSOQDzlEbvuSeFEkVQZ6o_j4T-3m7u24a2WlO9DKQhOQHQWFbhvTHzZ6UXb-1WhDpA5eQpmP-qllyHfE7UlHYC7iD5fr7ZT2A-ndjxhCF2FuQfG_TyL0l71KWY3JjBCHis4KPF_G?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jzlDCPLii73bONwFA8pQ6es5_wK0nY-mnclnYPl21wI0F9g_kVXZ1piD26MjYleOZ1aSAQvFYJMuMhI804QpjZts-lYEqq6A0MAzvkSYOGXfiolYQu7cj-ZJ8NQZ0njjzFKn2a2SOcRq2-kk38I_FD6LA2CDtVRUhyf1yLWi8TgmynfU5sQf31h-_RAbmfvN?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/L2Gsu4EBrFhKQK1jUti9zWcQ2g0l1LhiP9rSqTOAeHz3vqDmJ-fH4vMyzFQREutYFadSPhs0g4zHaFsWmQ1WO_cgWu_oU7WugiRjk9WB7FIQBY8l5sl39CL1rOjujsQO7XsVMYrldGHtIcBZQGX5TGvOJLuSnDF7Nn6q0V_rqs1pNFGqaFXTl9J1ej5BKeRt?purpose=fullsize)
+
 ## 1. Definition
 
 A promising business idea is a concept for a product, service, or process that has the potential to be profitable, sustainable, and scalable. It solves a genuine problem or fulfills a strong need in the market, and possesses certain identifiable qualities that make it likely to succeed.

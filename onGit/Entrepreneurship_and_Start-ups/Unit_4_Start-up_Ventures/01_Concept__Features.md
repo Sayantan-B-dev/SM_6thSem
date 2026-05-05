@@ -1,4 +1,24 @@
-# 01 Concept Features
+# Concept Features
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3gZz5c7X8l8](https://www.youtube.com/watch?v=3gZz5c7X8l8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/StRsi_zqUXCd6HNNANIpCYBn_JTyKDnYvlZPHa2JcBj_oVk9PVWCH9kwqMebLtvX-36_3THwejRjI8t1na8MVR870ON_p2sOflAL7DSL4CAEG4gPLNVYqtHcoaxxlmYDaptmben68ZRsnZAeeF8ydKzJW_Jpo-8BpWh5XsX16hbB3sxW7QREFc-ac5FhQ0ob?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/A6wVCXQWljV5chGSj6e9kiZz0nXZxn3C3gujwC5veMlV1TYdvMSJa_HzjpkCWGa4C8BlzYL5LPUHgc8PjOACO_idMfamuVf_aJze8s1kZK4xFiNwx9zMrf9voraz55wYwiwwGcFBmAZl0ceeZOlnNuoBI2Lqwom-_V196GEamWKloJa7cAJw2HvAFYwUJGkh?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/3EzGJX5uSnZ4sX9EOhD8VWXvcH8VYkx0t90gjVavXGLuDDcE42aKCZNm7uIpD0c-p6dMggBYzkQkQCG8I1iTs_N7VEkeag2pG6Qko1S2U7sxZ4vr1zJ0E-F1gTFknKjx1-qnVsPulvqaB9tehywfJzf0P6iNV9WA87G9zJg_afsA1yUwWgstvIqcvqZvgPkP?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/kaJVQ4f1vweYs_MMnJNCaUHq-T6e-xJqrgKxrg82b5a4F9_93rgvojLXm_vJr2tXM4EaRvt8yH6wxyHHgoQtpm_lyq1FdmejpEzE-63qC_iPhz4s7y0OeBzebP05EbiQdLopgSEKhD_es4Bqvk4pMNCO6_J58vr-WnVOOWHYrQaL3IxE3Oh8MZTiiB67Admq?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/FPmxwQV2ta0-ojNxXWeaAfkC63BFS6jVmNbH38V9Xc6Of1dS6jJy17dZ4FsgVP90-W3WX4gTq7jGKnu_L5sbBrAEFJ_tKkB7SiIzduUihOGzDcQyARXSw9wOAt6ybRYNiV6TTy389QAaRHZYvAgpdG8ts8_w9rXa7rPIfPz7ue-vPautFASIB3T1MdTm7hl6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zrM-cMwu4S9mzywcVZqsqpUs6NQpVdMbCIHPNyvNA3pdUpjZTDnIdiqmgLWMLDrBNjoltoYu0_Qq8YA0aTzO2VvLnJmHF52n6a0RFpO-WgEwxKmdxiOeo9J3Jw4FjqQmT6lZNngYoA1s52S-gSEj_xH0lHH_7N5TMrb0vLVPqnQ4ZWW0uejCZOECkyKWuYL7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/OIenlW8PP3NOGqXLpYsrcWuVnQk2Y2lACOBNr-qVp7X-WBuHxNyM-DH5S-RQHIxRPtIA7DE04YVqJ3fRgBB-Ts7A-v1Z-2cT1bH2B2vP4HwYuG4WIHPY-4S42HxlsrQq4Zmd2iJZeb_JxhUotd6o5-4gBVc2Q-mmJijGpR4Z0tRAkqDKfCqt_SL2NI4lsa2_?purpose=fullsize)
 
 ## 1. Definition
 

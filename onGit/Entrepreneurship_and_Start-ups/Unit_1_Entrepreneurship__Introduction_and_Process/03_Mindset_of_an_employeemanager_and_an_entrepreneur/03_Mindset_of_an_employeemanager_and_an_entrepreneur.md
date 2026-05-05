@@ -1,4 +1,22 @@
-# Mindset of an Employee, Manager, and an Entrepreneur
+# Mindset of an employee manager and an entrepreneur
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=GC7pN8Mjot8](https://www.youtube.com/watch?v=GC7pN8Mjot8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/bd1dQtcSK9Lewf7XfGB26wpcMI9MzQnLm5XD0Pa7wAyGq6Ue8WghytqGGqpU8iKYrKqj1VsutTCITr2lyrZUOtl7Rh5CYzC2O4dZG4_bt9Y5Z_QxZtOGvqmFsYLkuCRJ8z4YVp74twkfURY_hggj1F3nHV4gFoJQSGDjMHAwr_DaWL8fGpIWQwo5GNr1cyVp?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/8pehIKA-tWOrwhDoTqiymbmhpRerNNSB_5JYeGEtiKHXc_f85G4ASgWb0VJI4wZtg-sjQvlksV1AttmGlvqrQMEG3MV2Cj4aG5Jasa6jCiS8Vnp9W_ruQbpcf4EFzz31SNzFGAdXE4jNShlbC3YOgqUQ_mgA9q1a4WoQg0u5EzYHzgQeJ7RmkR5o-hDUFYzf?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/uUECe-d6FrY_b_DDvA-EfsaJ3BLqN7GB_KAWueX5L7c4zBaS2kywxHsEKrKGhn7wYnSMF_AkRkHhcru_jel0g6Fcv56t8SsfqKjGRrxG3TRL_vI_AfuvFAq-5Ys5EGU0Z_RPb1KK4ISx4_BF-6E5uv6YoVY4bCcGi-n38C9f3mlCkwhUfqQ8lqEGBvzUHVTX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/I1UAMHKXWpiz-LkRwDb_YO55fHMkn2ue5EIGzaO9c4ZojzggEV8MkADynRGKROsNvQHcVs3Rwtcfbla6v40MZex5gayYq56rhvHPzQz7A5QZ6ajqLx3thXBssjHeD_cHscGEDCGoPIEf6Vgm3VhowYxRvrvsN6NgsHbodj7QfN0esOPovtUs2ymHkWQbdm9u?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/e8xecsoBmgEBqeR3uhJtlVVTK7lKvvllVZU5bBKV5VCfvE1f4_f8MF5pL0QSTKEozfyLt5kuvaIvcjmPRfbEfz6W7eT_wscyBwDWRfJSEK6Mi-CGoeki5hfXavc11tMyzSDnW9WMCc_Zlg18F976b4JzlPh4rgcb6dHsCcshbSe8TM8OdKRN_RmH__6ke2h5?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/e2rvGgYXaWio3Ui-__6Usb6xYjas5G4vxtAtP1OCUpWvmVnZikeZbP3I926vl90nkwtmZ-qLOgmSJ3yA3idWv_pQNTy-j1kck5xvxx7pqb8fdIPQ7J7A1RSfGEoua1s_l5MGPZ8NgGmRpuIf0teo5JnOaGpWBAv2Jhr63XVQaQC0bWB998jDIh-Ctco84cu_?purpose=fullsize)
 
 ## 1. Definition
 

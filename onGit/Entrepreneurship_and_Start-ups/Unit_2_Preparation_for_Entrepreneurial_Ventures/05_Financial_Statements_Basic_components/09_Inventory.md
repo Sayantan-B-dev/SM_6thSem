@@ -1,5 +1,23 @@
 # Inventory
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3ez10ADR_gM](https://www.youtube.com/watch?v=3ez10ADR_gM)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/GGKHUxO2FgPfi0cm7kx0EWLBWp_P5zkeHJ1uO69cFTQuRGDHtMRlUE2JPvETYdX0n5CHdJerRx-u4i6x_lL725og5iUCetlGYZLFLOoE3jvebVNtq9xduCQ7p_bq4A5RJFoSHSquMnpopPuv2hJbgpdNXDymM-uiUEJkidRP8HUOB35RxJtCojshBlFf_45f?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/z31YfFX4HzWhvBNrsfkduyYTUv4vaHT80UEMjPAdin9FT6inUjw8RKvl3kNojyp9dkYnJqmOQ2cCCj4MZvio2rDAsRlwLNNz6LZQE8aZVSmG7Q7vZf76BdPNhbG3DcllT9GXBQL87sHY4iNmNACq-Oo7C2J_iSLU9v-SHTl25PBu871j-V1woOaKNudBj3Vi?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xLmznN3kTFe9oME4Q4eCLg5m-VcmXVCGLmiLMKxL0BeVBdOZGLO2R00R5z9DmePTYzbF0qAHK3rnwYbgP_wTrufokSClT3_EtNHaTeCMCtfFlSNnlbOkdXp9ddYgjbP1DEQSezaCh2iVDnpZQtE6RTiYXGL9bmAqOB2yBxyLgy0YdyCAEnAJefqN_B99pIfy?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/b53ZjsngDOcqJCGKXyUktckZFmGFWO2-CjdhvJ6UBuDY7U8El8Ww1kdk2zAFhX7HZttAM3KaKHJvu8qfB-5EUfZvb4rMBvvox9dZrtvtaIQ0LQAPh2E-Cvi24mIMUfe6Raqiltw3wb3GGPyjv8CrSH3w0YPQFJNfDMtXKKc7Z4oHoHMksuyIVia-bEQR_GQU?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/XcB5Xk_rcO1CAjxlmDrRyZbXttcCIVURrWlea_94s2K2e86Dscpg2Ea_2-IYeN-6HlDbDiJD0VanGAqAykTW7CjbgXk9G6yiI8po2-eLnc0Xjon_vA-ggxbsWxyNaFw6zIh7gUrXYn2gTsD7j44dql8icqDWbQATQT_5M6WHTsPzeFLFnOgFwJTTrQLrz23Q?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/TxuXpUfaHnJfESazWGBviEk8dFoPhMTLE1dv3psSqDPK83ULPl5lmcAmdD5V12oxfJg54paGuvN8Fnf8sSI-WFOtsY1qj4hd_7sOeXKpZXyBkDG98_QgjDpafS8Rz497hopobW0l6TrWMH3pLqIESsLU0C7rapJQdmG0oIoXW3abOh5u9pFkQkiA0w21iIRP?purpose=fullsize)
+
 ## 1. Definition
 
 Inventory refers to the goods and materials that a business holds for the ultimate purpose of resale, production, or consumption. In financial statements, inventory is a current asset that includes raw materials, work-in-progress, and finished goods ready for sale.

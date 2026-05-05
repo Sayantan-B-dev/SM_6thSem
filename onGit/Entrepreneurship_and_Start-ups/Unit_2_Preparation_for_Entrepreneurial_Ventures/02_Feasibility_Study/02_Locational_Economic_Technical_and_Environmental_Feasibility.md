@@ -1,4 +1,20 @@
-# Locational, Economic, Technical and Environmental Feasibility
+# Locational Economic Technical and Environmental Feasibility
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3gZz5c7X8l8](https://www.youtube.com/watch?v=3gZz5c7X8l8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/-iH3t7o5UNa4yeEcOKkAPnl5fNvBKDXaQjZvcYSFU-oQ7e63DmXcQaKn2dlERPqmOh-ZnWcLUBy9EE_CqggvkqfVlll-Fp7A1v0dIdwwUmWtAhlh7GHsdo6QuqjFt0vu9DrD77PbYNoqyOpEjFH9OgUxCLI1p50bLOhuHv9siOe2a42l3Y3MrEZPjLEG-sBo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/2OKyFHMnANifqRD7tqzg8IXvM5lswKM0hqZndzwb_O-AUtpVdoTye-1ZmWnCr5sZX1CJR7ejeQ61OpSlRW7TOmLzRH1iG4eERVDBbobQ3e7Rw6gFpGAz0_ZpZNLcGb-PYnq86N4pnENozuXKMLVFBOC4eLCxjF9Hv-EM2Ix8VrjekfjfHG8nVgBiqQdpHYJC?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/fMOUfIjYqTQwviQAYUFmM4Dd2UseYO9OzeG25q2PWJpbFk0bp4WO2bGiigTDTsM2OcMw2Jgquparz_wCmsNOSIzd3HBhIN42lf51g9kKMMHupg3aKyiEXuAAgIoCmEuSJ86zOOPqD9Y9Tdy9VgVSPMXOh4SOUEgDn20KVMkdq0MvzPA-BYNimuN6E9tVwZuu?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ssAxTE42nKJzS029K7meih9XIZcAGYuVYKHU3k95rg0Ch6l_Oh6OOCt7fU8GIAdv6UL9NRkYOdccBofBTK7326frZ9QJR5-HvrMx9hkPJVpX3g1X73WPlQkQtasCISaU_d7eXKiVyQMqNbHNiyQ1UR8_f3DXuqPdENX-O1gq5mgtT16IQa67s_RTq4_crXqF?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/htzNZVmzX6hwP26OT_qZ1w53KbY3V14q8Vo-7AmKhMhcOVEX3xRtpji_sPBRqXymSLKR146Du7BLJaVczJ2XTK93Q9_YQc61ChJQlkL2PU4OEi4FDP3JB2bSM_9gVHB4s7Wd_QsEDgysLp6Vi_tDdxGsUyt78wk8rsCcrMtoNs6yTlkLpkXkBztfMSBYSfJO?purpose=fullsize)
 
 ## 1. Definition
 

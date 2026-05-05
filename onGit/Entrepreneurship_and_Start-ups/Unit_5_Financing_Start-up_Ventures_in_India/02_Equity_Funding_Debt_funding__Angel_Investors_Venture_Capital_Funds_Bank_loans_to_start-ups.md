@@ -1,4 +1,22 @@
-# Equity Funding, Debt Funding, Angel Investors, Venture Capital Funds, Bank Loans to Start-ups
+# Equity Funding Debt funding Angel Investors Venture Capital Funds Bank loans to start ups
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=ZKOL-rZ79gs](https://www.youtube.com/watch?v=ZKOL-rZ79gs)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/7aQdb4EWRDYcafXfS0S6iT45YzmdhGpOHxsI986Viy4sMwKQiT5Szf9FDyo4VRc5Ga8yswDrcUQu1gcG6VScuJ2GimbVVAeKJD04xPl3_knsFl_c1RrgH6EtR3-Sj2fFBgnjvjYGjOlM0IRFdy3UfUD6Lfiv4jzDwXbrae-dC3kqRaIhACs20ZCR7SG34ZhY?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/3lvtbSpDL8GwL-EAqWAD7nXR7uROOFjasmroockrlW8uEtLmSgvxQ-SXZUS66j-JD1gPYFvaLa62ClFSfavEVko-k6A00CVjyY-0wgD9Zxh8fbsPUo0jaEHbA3cDOxj1I-9bgOUEhivfzBdq8i4TJB55pGBxE3Jn9OhiKrwSbo0L8RlUXoQV8RHr261KYQQY?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/5E6-KIgb7V1MRK5pJIrZxRYwfWSkyI5Uhn6_8Axr_NmTpELx9RB1qgjR6ipWeeXj4sPfj-db0AkLJnNepd3eYnftgR_7Z3KS3gAetihmkl8PNXvBpxnxb0PHjXqDTjYlMotE3OPL14QH9dyEhLdAkhwLhfDh5Kyb4s4mRdL_XCIsNggib8nPzNC1hBQ_GH1W?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/8tPLGu7AYlAFpy3koQdV5-Cp0K9C8QzUPsBlrV5iQCWI80XILlTG49QSoO3NtyFbo4dizJ_cLwCLMgHF0TlvI3AYFnxaRyVMzD91VFuaNYHTPm7sjsHELqK1DGFc6eFsLgmCrGA-fX7SiZdDtM4hnIY5BlaEg_4ZygftLPDOwf8TJY93_j2NudayZGdZByl_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/04I5h-VL3bKBtzvMxCyDFVxDGNa5umBbj1jgroOzlnsSkZSMz4qfHp5JtNCSTzZu5nSVqsi6JM1w1kxbv12k5TMt6ElMSplpVgbNAahjQpcB4VgbTXpOVqU8uGw5F2NJUZxHmprS_c9IcftfrnCqge13tYRirBIlj2xOSY6kx7Poxd3br2lx-jtx7KIr_DIk?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/M03REhS3pThgfsh7DDSo1THc7x6Pw77VIC6zH4i_J_RSuIcBkEG1SuCNcEihaDJi2GuhVFFzOHGJand_uETVnN7gf1ydJypfRBZvvmtG-PpPdsf-VN0pO6rq2htrnNxRsal2Wciovzv2KkxSVzjUrVdSbuA4z0RXfgFbBZSvwHte-t-MZHo-5q_2m9PJcn2a?purpose=fullsize)
 
 ## 1. Definition
 

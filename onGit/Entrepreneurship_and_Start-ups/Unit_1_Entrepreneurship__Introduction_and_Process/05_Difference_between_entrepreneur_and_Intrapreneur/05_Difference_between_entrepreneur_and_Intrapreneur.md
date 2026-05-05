@@ -1,4 +1,26 @@
-# 05 Difference between Entrepreneur and Intrapreneur
+# Difference between entrepreneur and Intrapreneur
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=9dZp1kz0L3E](https://www.youtube.com/watch?v=9dZp1kz0L3E)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/t-YloJeQJcUt8RIfPBCbQhXcHWPmzpeN_uDrZTIlA_ZjjmZ4cIINooxl2IT1Xqi-iFIWPnGBNTp31SYT3Ya63wrZvV7azrNKgIl02IRXSFGDd7pbBNyjYlP-qDbsiI43ScWKfnZ99vuGX0qTDfxpiSNw5OfMWxOGZeTJfWv5LxBoiIjUyYasN4UF5_kbc_JM?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/buDLx5k49ai5died37aYcbhVLMem9VHwtJ1_iw6FhhkNq0Ow2UfMRgLOsqu9hNql0fT66ynEGTKmhe8BKg4lasPRbyz2S00FmlOaikfWFJubLENiLVYPCiqlc9Kw7Yrm7HY_7LrTJMBkdsMxCB0Xrzh9Q068JzN3DZYj29OO7PFnTofczMLVE0kHPC1L7A14?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/T59B8sZuCUGuZp5bEnysICj6ocoNSek-Di4Xu77z_8qG7jDcScGEst1BhCx2ALFbRZIn9ZKxZTVBHHz2zNe4fW1zg-tSTdwHDLRp0uMbHM_Yy8YYgMAhjdc6WvLCP2fcwWqcpEo2pWNpeaA9Q4pQzcTxihGW6QM__vljwBVANC6sqkevwhHLSw8dQ23o5dPS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/NHNIaz0wJl-5WTWYVVY5HnXpDqZifn3xXIppH1p373mblgjj4XLy9MyljKkHqsGK7dmZ_HVvbSW_ur9Jvn22Hdi3V-t411GYOlaLLWHBcmgvRvCS2ABR5XillMXe8ka4f1_6QCvzqEb2CaDqMa96e-TFVfRdt8cpRMgp9dn2X2KwFbV3fx0vWy4a7aVGANdS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/iy6ln5Pd-l-yI75CjEGtJ2Chp5eDC0ZTG5PWPc9PpKfj2rTsouFt85DrpB51VSDn-4Ea4LMME12iToYS2WGb1TGWTjF4kFiUnN9TKD3tyxVBvV2cZ-EreDOoJjUZDduEmdAtv17oLw-UQ2R32Z3CW5fWfhheP-8NbWmzWVzYZClKhRU2ud66Vz9brsi-EsWO?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/5Qrw-WPjpVqrnGmqc_vpCBVt8rWwFU0B5PTLH0CueqgBLSlsx571B-jGRnW9gtJY9wLlX2495liRZkenK2pJ6OBoMwxSVlUbFijAjLgMVISm7Wjg8QXajzxeL37gf0O8Xfw8SDlfHrTNP7XVAtjQcNJSYI40wznhVMoTmnV5wPc-sazFq-tGYmwuCrt2FwQ3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/RaWJ2CejIlfJVvgJ9Jol6V1pNwsUL1-l1qX4QMQuL54AwXx3JQxZGf8hQ4FcfFVZu92VasicTJYCysPwZ551acRuuIrkwEsLbxNRxWGhCzImX5EhXHqn-Bu4Vlv0Kak-Ug5wMZtS8DWYtzk2sVdN7eTOGzHBWAPIEbH3J3NcI2Fgab0uAaS5k8FYqTu39NMS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/izyH2xmtqpZ5pvEC7G90bkH4cV69LXWTsDIU3wvpDsjKegd69S2m9FdffFjf_bY8KEucm6YadfYlNn-glla6gFF91aXlWIQJbSDBk-vyWG127FyRYXj-_cpjb60h05saTd3dse9f4N1CLSfpGcNShM6Qn2hCSmrznI45okaiKIqOm261pKG1FpHiKPbquVD-?purpose=fullsize)
 
 ## 1. Definition
 

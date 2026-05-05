@@ -1,4 +1,22 @@
-# Joint Stock Company: Public Limited and Private Limited
+# Joint Stock company public limited and private limited
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1e9aM4Kz1bQ](https://www.youtube.com/watch?v=1e9aM4Kz1bQ)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/5fj6k4aMX8Vs-y0xGlWRw1g_EyZZDQbgch-CgQA0w9hqfuckFI-vFJRaoo97tGUEDqy2_R0gKttiktwmht5LP1MfK_enOpXex6atgWwzhq55y74j6d46H-PEEQNCMc_oMIfMFVUSxIvnHVToBjN2tg6IeXIelU_ZyzimQpDkDr_ZSdu6X7nCmxgoVG9V7Lsk?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/d_I4Z4QyThO_Rj_I9kUViiX_nHi21yPhr6i7QP65NUhCf-Ce6IfMVfQ7LAsUIFAS5E0u8lr2S0mRT2zbET65f3L5XNqoeTDLaU_jHQBVn-anQEToBXO_AZFY_JYT_nYThgqI0XhhNeKLy7Sbfhx9qdStUbugoA2sYCMZtkni1AHIv0jmzpHK2SEQvAWS-Vz2?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/wpauOlNGRMhi1AczIAGl2C_dmb-bXaz3pSZ_ecSBGhz5fwp62UAzg12vCaMKhWY6A2lx7dUW1KOqXiZ14NY1DtHmnbo9PuUuNpLz9I7neHg4E4GHJSBLwYEknNAp-gIF8KAb2kZOwcQp90oVr_zJuhyrNnOInSkiFOr46Ff4PkDM0-s8uMJFvYH0C5wcB35e?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Dj2PW8wyB25-q61-K6tiLL1spR6PdSwhhAgjYVGV5HoFiBwnVZhRbX_LqS8BuWDao7l4ez8shAfPiyv8pD85aMywK_VssEqS6ErvAUjGL8dmVyHy_dn4NWUk56hlh1E_TXv4GnFEhtNX5LLGjR-2gzWuH2vXnIQvJTQtVkP_QzgL_vwiDFPk2-mBhisurHSl?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/OG_4Ka-X4zPrBYwo9rm9W_OMcDOL61H9F51GZkfGGSbAgqD50iSW7VF6Ilj15iYpqJoyGkCDtrOMed1VpyueQp-urx4a1dP6NbQi_iU_AXkyDOVuRyPS80_HzefuIycMVeOqNC-eXku4dJOBa-MnXZJodjL8LTrSuNiAsEwxreJIWKnYBPS2OXTeJ8cI3aNk?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/wUYSZ2XpHoZBJ4RZxhTPIsJb1ZEld_VCifpgiFGNzW0vt_sWsK56Y3tTDBtQt9DaiRQZb0aFGD7y_mL3zoNB36-Mab5W85juUPYw-0NLlIMTWmILr96Xk5unr73B8wAMSzJ-FhI2vAUQWBRLvlqJO6zvxJ_3mCOfDcWZRV4av9NLaPjDakA65aRdeCyR3w2e?purpose=fullsize)
 
 ## 1. Definition
 

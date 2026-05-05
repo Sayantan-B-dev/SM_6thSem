@@ -1,4 +1,22 @@
-# 05 Asset
+# Asset
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3gZz5c7X8l8](https://www.youtube.com/watch?v=3gZz5c7X8l8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/UjMFBy_X1MoMa8dg5s5pDStJs0gt_XOpbuEHMrSCJbdsoaU1huaSiBsZnj00pUFqiUjBPGZoH33fXGsgFiJen4y-99jYbAeb2CV74OigBECUdTEeCyzbO9MD52A1dzz5E_RevFVDWkTdCAYbHNGltso7Lm5nHlRllC3KD0jqbbHDFW5GuiOW5vXSMxQKmo17?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/knRBo8dU0QBX4hh21_bOOVHedyCAWNPdSy4UuCiEW4HS5xM4MTGPozAcr8_yV9zN4tPmu94Zq4D_soBDnKCYmO9T1dkwk7hLyVvkUqmkqFbKvWye3JnuWvzd_PE9ufdkzpAKKuUw3C_0H7T8Qde7mMAm8v-2a5Fw00Dj_MEu2OBLMloaAWnqet7MNT1yQ4Uu?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ybKlXcnMggaPrNwmRUT1UIlV6AgPJwA4C7fU0Hzs9y4vWtOdfad4ijJ2DhWzxXNX9jCKZXyOlSkWwRqcuiTyA9v880qzXBNhL07PzRbVv5eXfHIUlziwNTSg0w08xEI55T8LasUWk5Rgq3FcxBgOYAiV2RlhY0k1-SlDqJgD0NrERucdndkeJdhne86zkNFZ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/M6egW96hrC6CPv7G_2T9lKLxCf3Dn6WuxqyGdZ45WI_AWN32Nm66ngbtZqBiSdhyiR3Cf4D-8uABeahlYVlbFzatGYGrFLASu5sUoZZdSrGPasUX8o8Z_c0zVZ2bOSQIxVPwKafBPIw-DEwKkSpLiUpUphXY5a-VilHYfPXR6F5YER_b-5Z9xOGk_lIlffaA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/BaXWvUcjZo5HA7bXb0-NYI5kZ_5HhTNsQig4ne6pLPhqetN_3PTOiWLmQUL4qo_x6rGos9lxAoH84bqulthCVSIroeydMtKKXy0xb8AckX7jE7ZAY6GjdsIzvtPVIkekDYfP83Oy_1rmlIMpdqajPlHX9YqoRsdKlXUqnJgjAFkQ7945Eeb5nap2FZ1jWB2x?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/SwAJbtKei0kNIsO3Pnz60f9SojlxfRyVkU8XfImbdXsn2iy0GJSqt3C_edYQzW8wTsKz4t4ly1dqQoDEwS5O0PqL-f-qelB-hUianPPT-6rEJOqZuiIetKCn0Oc09jznILu7slhIrsq_1MgUBsiB_-aM4UM76hfBCByrHknt4O1qSa5zKSXpguDrwXmlHF-I?purpose=fullsize)
 
 ## 1. Definition
 

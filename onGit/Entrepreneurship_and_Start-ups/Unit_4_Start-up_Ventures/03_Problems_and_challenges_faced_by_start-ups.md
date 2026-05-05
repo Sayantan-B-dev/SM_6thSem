@@ -1,4 +1,22 @@
-# Problems and Challenges Faced by Start-ups
+# Problems and challenges faced by start ups
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=9dZp1kz0L3E](https://www.youtube.com/watch?v=9dZp1kz0L3E)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/ofk6LajItjlDMw8vRKnXrNJHYmXi-u7bwtWX2gfiyhTJ80VadKW6BfzGT-BqhPyRzEZ8djag-HtSUOC2L3Wh63Gz4M06YWlHI7ilAGO_K9K-KYJcy8pf-Qi4PlipGVslne0C--ZFX4WqtCb7Rw8SifRNPcbMESrRkF8qcmrkU0ourpuhe3P_ifabmX2N_Eel?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jdjdofQdLdN-YtXSHiQ8qhM9fw8-D-IrIOKDWQyC0JWLJ8T3AUSNH5iDFSAkwd9MKXzkACSqCmstfD9uKT2AussKD2dYn8FF9dsZ3Y8T-QmccHUyN2awvQCePmObHbQy-SyUfxyoCYPX2OHZ0ImXtY9x9U5_LdCDIZSizdIVv7xI4E7ctP6UFV_Y4eOnKxHg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/yM9FPghElSd2wIw7h3LYgPKCe_lOUCY8LBTloc6NaJJ3H2BQ8PtkCuROtTVxFpOne8SB88iqXOCZ9LZ87oQs1LqfTXqw0pcKSEj3cUXK1NdCQpp8ij9SMrXUSZH5zya4ry2fvvFCGfjlldnYfEdMSemX7jdjq-bBH5YIpb_DDKw4WHmutPv0zWZikhHcK_Dw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/7o4Kl9cSm7vGt4Cuo8xfrvD7_Y4Nb_Mj5PThzNszS3xZ1RneJSAnHr7BS7wli4loX0kAoj_1oQrU7_R65cPuivTsN_fG8tgG0M7zlCV0dXxp7MjHBPp7bUhcKMEp_yeF426sQBEXcMPqRiDGUdLKl5dQ3_JEgsowdY8QGw48jvA08e6o5LuBaSDt3iIg4QQ9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/iN4_-yVVSKHAw42nXO91k3MvljXKc7o7NUV5Ot5B02EU5O6WJPIWxFalDpoDmWvO80TlyH8FNht64iFdL-vSsqIqqZ7DEwzuuVNdUY0Mfsts-RotlUyR7H3zoTCaBxmt3WZO-inX8_e2vgWxlXFuWdkUD9ZGFag7kH-sWbN5m5uNe2SH4qmMBGW306LpvuhE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PU3XKCF7CDeiDoPcnQC9Owp77IvtNN3FUeSFKKWpUitgqMrph-pXuPp0hrbxU_MrUORJNGPQwtHpo_Ng3IvynNxwMCPYlWCDjm9lggVc_ZEgRAjO7-AhFlgiU4hH5wXG1pxZVFIKhY7PcdZKyb-YxDG_l3ck_yE5V6V9w5lFavmvGqmFu0rt-X6D0l_VxN6a?purpose=fullsize)
 
 ## 1. Definition
 

@@ -1,5 +1,23 @@
 # Liquidation
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=9dZp1kz0L3E](https://www.youtube.com/watch?v=9dZp1kz0L3E)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/-4Par5_VdH3_pbl-J-qCEXuQLNL3fz2rJ_D5Xya9AopEITLeN96ErE34TT4YFcpFK4zAhN3WAbaVa9SVVu5H_rsMBfqsYSJM2WCuZm_dzAp91b7ZxSD7_5-dkNH1HpTH4HSVoeayeKii62m04M_WeF6b8NhbCZMl7f-eiR_fN4cNL9uTVLEKNxnhWVRaFsKp?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zDiAe3y7g7_V9dEauux45NIMgfOxUib0zUXuPebvxKf_oJ3vsivgccwFbJ_x0GMrj4QeuDwNkIc17Ut3Dhrw34mYlbMW8AMg0cbdkSP3xtuzdIMpOFOIdJaavrtB3b5mWx38zx1FJ7DQkw9zjUK7RD_0jGbhIGUcwAfdIdPzafvEnfTkyZo7N3FkRGans7AV?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ixk8-o9s7qu8HJekvuzy7EqideDESzPMUgUKN5sIuPEb6oG-PTi8FAomBIol-GF-KpwjvyJP3hO5BWUR4ltRaCQ-PcZSdI5-WW49qF3NtBNlnfAZWkqLjkEQJBQqXRQQveWOJ25pqMc1kGPWwOkxxMAtrYcmq5DM0TosF-3QPZTUYx1ee_OO_vheeW1cNapI?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/wLIQ0AZpnwk9RbGfdboG7Wlpj2F4sC0qkDng2Pll2Vv2r9MS-XvseFD8awDz50YX6qw-TkeEYMzPPMilTE8ywNCjpyCj2ceAWkfYvmOgNBWV-_5qG-V2cIuMWKnvVeX-YKooqg57n2E-fhSu7VjdgZq0y9PFpUaR9H7AubesiZlVxcq3Y9S4n36xJ-J7v37u?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/nrBRiFJNBj7NkQzGrJNbM41ryQtvVHJ8QHdV7ma4P6sZHD-2DaOrVrQI_u4KkOH7ny-uyc7zGYmGuOMdwlNLesy_pqo6MODF3DTLxm3J-0RMR-1aXlvaYIKTtumZm-Lqp9Jb7yy-b2bf20ACEszxW_Vgjq1u3VRFFfAksMwjZpzNLT7zRFlrB_y7I1SQ5x9y?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/W6eHWEAMaQBJ6TSvFxds0yYcyIOXihbTbRIv1x4pk4TWxL6OfcWpedGLTB1H4j43FYNh0IT6xQLHz_M5xx0bra14uVDq6VeBzayOu5aNxcFgdjKnz6fwIhTx3bMZnGlCT1bFIcORtgC0wOw7rUieO7l3Quhrw8rCKekSEKHSuU86i6A984AzkGrB5dTnbPo5?purpose=fullsize)
+
 ## 1. Definition
 
 Liquidation is the process of closing down a business and distributing its assets to claimants. It involves selling off all company assets, using the proceeds to pay creditors, and distributing any remaining money to owners or shareholders. Liquidation is often the final exit strategy when a business is not successful or the entrepreneur decides to end the venture.

@@ -1,4 +1,24 @@
-# Govt Initiatives Including Incubation Centre to Boost Start-up Ventures
+# Govt Initiatives including incubation centre to boost start up ventures
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=GC7pN8Mjot8](https://www.youtube.com/watch?v=GC7pN8Mjot8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/B0VBV_ULz_7_kRbNMJBe87SIi5QyNDZGoUDm_WlXbH2u7JypIDUGZ2YFWIqS8vIoFpmRl0JAdqhv15Gpqg68FM6q1HeE6Gj-weFWh0O15m3UI2lv74Kdoh8aK4SqUYnpJjVL3X9LSZgkKKtdHCSbNv44vxY7JFYJTzDCKsEAwQFZgZaf-_OeV1p11JvCsh1A?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Qqaj4XRHXHQiIROomMxLUat71xmtu02z74IEi94uC8-Piq2D-yG2E50Gj2xMnxJ2LL5SgopObgud7GDnR2BXsJ24eyORt5cHB5BGUZ2fK_Yco6b6JFqmiLR9c02utZ4mReIPcfqG9niES87AZTspNNiivyfqHPotm853hRhE2wwOlQDKzTEHfTZ1QDCDMUJ6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0T11q1493IZVRYm2XOvbxm6SCwAF_Qx10XMPgWLJZf6-c_KPE0Swrxqdc4fNul9xr31W8JMTpb-HNWWDcwfPNM2KaoYPCIzCg_Wct-Ci2khFHB35ZdnSslpbBqU0a9GtEuYGTLhEoHPLm28NAHu_ik-GwUO4ixt3Bum_hQaVQdOj_qbV7gROYP2KPpwamUVw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LcOB02WRDo8mTOtlLVthPIwitz-p3epaW0TRiXXeJZAueu5_ESQuV4vv6ZIe-rpvJXuoyIwuir8zyZNuUd_PRBKauInHJMt5kY9P5HNq86XKO5UBHP1llNDsgw8-wKernWzvjEVVUJrOGW47H-NqMauPgaT_mktoB9CaquTzNHxpFuXFtDdfSMISgdEsHhA3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/RqsdGvMcJmpsJlPXYNepSgD2QYX5VwIHlTggC88iE8BFs7emnEy4ySKYHc9TfsOL3yooJJ0SINvdsHnbuAbYJWHOewRQxS648nYctL0sGLlMBwBUnFFr0IP8qg1AAUl-X9NpkLpgSS0NwWigkd6QXp6PAFWA54MQ8uOthMPW5lyHCY0JXz23t-fm5KEKEn13?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/fVrVCZuoggJ66WKLBlTT1rjseJrVnUVCKjAPDT3LSeVrw1T_Cq3tCo7emkA41mFOp0MT1MszsyB9AzkzkULpt3QQvkZ-7TClYvlhiEHvrcS6L4KY3d_NATH2XXvPPQY82aqKzvSQY73pjXs-s0TFSfeQ_Tr1FxWSJYrML0An05n2-0bM8eB-RXzW-4syXw8I?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/AvEs5qRPkxtTOkLol0V2bxIR-OvM-wrAxcVzRtsA6d6kmeLiI2K7u5suqULyxJ5L1TQDkDlJ52_aw0KKVFydf_A1pC2jcozQpW9j8JlFpNp9kdj1Id1FOLbbLIE7YRcVAPSUXNcLodx_xvzB2x9c6qy_aZ9kSVUoOHKpDJO8ql2U84lcdp5x_gOBoF5IcpzP?purpose=fullsize)
 
 ## 1. Definition
 

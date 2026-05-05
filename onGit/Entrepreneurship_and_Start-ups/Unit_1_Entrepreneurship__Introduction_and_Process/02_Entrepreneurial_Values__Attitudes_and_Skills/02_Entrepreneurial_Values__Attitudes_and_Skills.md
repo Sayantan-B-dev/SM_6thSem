@@ -1,4 +1,28 @@
-# Entrepreneurial Values, Attitudes and Skills
+# Entrepreneurial Values Attitudes and Skills
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Hf6Q1uY6h8k](https://www.youtube.com/watch?v=Hf6Q1uY6h8k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/RD478LFX-bvq43WUMCUDgLONDlllyUDc4iRnj7kHyb8ZG1lOpj9-qfdG7Dx-oP3duMqifEXwx4dE7gtJRUefwagp2CeVD6ESIoFLn4DDoZ_UjjnUR5Eyu-GhrPdDzucFFP3FIkcbv1yXnYuz0CaOpiOFgwVXIC-CZ2qmeWSQKJrtgy66kKtocHL6eOdHMhqJ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/qgm2_t3uwiUG3kmzrJ3xSH4qopiJ2sBdPfyuUDflxo-LRW-lnaLz3-otsqtL0Q27-NUheXt5hV1-roFiLpLrrFiDjIidZrsiqI9lcu7Ma7SxMctOnTZSIjSuMVU5cEwQRA0qKsL3_UsQBcWXkLk7kkLN3tEO0gVp8SyU7iZ3Nc2xm1i6u07Smpb4cX1_U5N_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/rqbThOjL2RxEUcYTO6W-xY3hRX7et4nIDh3C-EBkmSUiUkGhVlbdWbSH3opBO1cN2zTN8nyCFUd40H_1cR8AMYFBFp4G-HtYJIRxOSsUJsTCdAhCPzoLdmDAz6kTQ5vKqPS6RzyNQfmiQS3l_TQNzql0yUZ9PH-_xfw35qCv1zy2NzcVTb6qSmu-AbAS64RL?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/F4d40fVtXgYxEFX3XU5dN4SQopMza7ZQK2vl25p5-hrz_IMDCVO_4tKx6mK7ZkoFHo78ixan5NV9gEDUHdk6mrrxTleSY-hhhvO8BpSPPm6BjS7uG7fFGpX8AhglwjmNMANdxmMkqonHswY-9I2PRUygTToINSz3tJ-UHGFM25foN-R8HRqNtQTf0078FRcW?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/W82E3OSLh_vLBMRVrWhD6dZH5sz_LAgBFqXr5SAL3k5nijPcmm8X3IAtEpoBs4ZxHokbPB6kQwYgqKYU3ew6HMKP_MfFwsQtyapt1hHc1UEaoRRbDXnJRqI-Q2PHoLvYMfYubQD54PTrfceIVZWpDEZPZeKaxWIqR7O5qRWHu8feZ5vPSPp-Ms91ouSLlmGa?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/gEzui5DEU-L0Py4WkJ_058kpmeb5NDU5i3tRqQ0b7RQPH5W0zzbatGHsEEJYbNs0qbBpPZIWXKaSu7yuZYafB-d7tWapLP2HV7OMIUs0Yv9ZSVpBu0ki99Ia47SaEQTwfg6n1wy_hkeUGev7WPeMFH1WZRCbQzgchwvQagDHtCmQDNKDZwcsRxMeQ85tBq4X?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/iwMgiFvo8lO3MSOS230hC_c2-a4DI8IoJrItC8qB1EHBZXJuQN7iGnyZmRYD8aN8Lj4hHl9AsBR989SihvfB8P4NozxAPaU6lI1Ynfv8LTLqp0up9-lwtmrOcRmatyC1qL_jarew8_AmvgKkJzEC2j09BpD14tAM3Th9bBXTdjZpw_mIgDkoBn6HyCyd7D38?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/aiEV_a30eeOl4FZqidmlzpf8gc7SeKbkc2TlBg5MRtGNyZ5AQumR9a7kMkYMJH4K4_eyavq594bSkjx8rKLUmDWp_M00UJOVOplhHCHFU086jyuDbr_G_XMFR3V5Bsn8UoVftxm-k3_Z13y37ZXi9dI5lqCj9ouM03i4fPp7mJSmcZH3Z_njkJ1SXyiyDGZZ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/VbeWR2iIywfTMPfo0nBPDj_vC-yFhfe5E5wtix7m1FSQRYXCplG9YfYnqafri-k3Xf-4MTxj-byIww67BP6vlz-bf85TFZrR1pufzxkP6azvR4iZoqnLdUFQYnm-frZBIdWBBRZma7kAWcqq_GfAltAmdYGmZJVhWRfoDMRQb2sYYDkyerv8bhAtiiy_CSLZ?purpose=fullsize)
 
 ## 1. Definition
 

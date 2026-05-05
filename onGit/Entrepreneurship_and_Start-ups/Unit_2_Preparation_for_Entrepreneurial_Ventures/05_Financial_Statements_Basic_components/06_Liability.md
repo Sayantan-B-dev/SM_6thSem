@@ -1,5 +1,25 @@
 # Liability
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1e9aM4Kz1bQ](https://www.youtube.com/watch?v=1e9aM4Kz1bQ)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/2zkJTnRJiaHa1rYcHarxLEBxtXmwBKnaaOL60JbFa4o4kMMnevapOMPek-LhOUEL3s74suQvZYgU1ipT2kqc7A57-wCYI9RZc-QGWyuvP65pryNjg4ZVjeCqOhyhheHxqkbT_lGw7fLC75lXbcZFZ47Zp6-IpqUpEVd0e-fkyf_sx8FnVHVARTaQtD5VIeMv?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ZVKBGamEatldBDbQLzRKFTTuKlU6dU5SoxbLgOjaDrgonToDiKecvHxmaiZ_o6RVbTUipG1PYRIoRlB-S3ZIEBM_TRwspnc-yNZRcPy2fGgHojRT7bScGywmy5uhZ2dahlx-uibS9-ruUYlHZtX__Qwv45sV0QeNqBDERsQBXCVPwc4KHYYcZ721hVuI7rGU?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PwdLicAxf95guSeOH8txkrF5nIL7Pn4DqqI35hgESAmzg3hJV5sI29oGwzqJ8oKGlKFU3xnKGVBfivOo6pf30CoR53DS_SwdSJop-4FiDabpJf83Srw06yBw_6cYTfBuN5td3t3j5g8iDiUxehajz0bds4n42tur5JAKq-BHrZ5g9byStUpCQzl_0mRGOF_H?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/SPfp9WbdyBSGkQQqt_uACr19I8ALVXzmh_hewO0q1s50dXOKFs9VQfBI4EaYmJYW6UGmRd7MaBJHWyFJYuCLVcA_vcfN251pyg8RNhMzO2CUAEbPg-Z4V3tfBHbo5YNfyVUPQ2rCMXVyBTpZr4XI_p35t6WsFmzc1PXf1WSdUjHgB0m660STpN5lNoTjTaQB?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/UoZOXOOPVNMyTWdXSGGggg2qiF9mJMTVM_jHZCHkpnvzekJkak6TITxnPqVV1iKAMY2D49dIJzRZnOvojL2wjZowpyBWSVCWtOTQlntL43tCQdxPSJVRGGBNwRa0l6mr257roAwdoMh0a2-nEdJH7v8viK2Udy1Wdwi0RyRSO36uTSIx8H0znKErmkBhh3oP?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/SwAJbtKei0kNIsO3Pnz60f9SojlxfRyVkU8XfImbdXsn2iy0GJSqt3C_edYQzW8wTsKz4t4ly1dqQoDEwS5O0PqL-f-qelB-hUianPPT-6rEJOqZuiIetKCn0Oc09jznILu7slhIrsq_1MgUBsiB_-aM4UM76hfBCByrHknt4O1qSa5zKSXpguDrwXmlHF-I?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ee9yLGefV7tShg3uYqDNPPHINT2aHaT53NdVr0CUVHJj3NLdqMilmTgMo6Q7XClS0Sf8Ug9Tc8rp_ZHFt_qMQ6aQcIY2MyJy4sT3keDczE1r0yceagiIeCd95VLtcHH1GLvA9q1t_pnD5oaHhHshxcnSXo9eIZMJ2M3GYv1G8TQCoSqbjlN1o0pOG09vai_Y?purpose=fullsize)
+
 ## 1. Definition
 
 A liability is a present obligation of a business arising from past events, the settlement of which is expected to result in an outflow of resources embodying economic benefits. In simple terms, it is what the business owes to outsiders, such as loans, bills to be paid, and amounts due to suppliers.

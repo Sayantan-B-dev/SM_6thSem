@@ -1,4 +1,20 @@
-# Features and Components of a Project Report
+# Features and components
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A&t=200s](https://www.youtube.com/watch?v=HfZy6sUeP6A&t=200s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/AQrvouHySczYAxEux17rnxDQnFX9RwB9CBs6DglX_qwPWAEtM48J9ksZIrkXgULSrE7osqbqLFIVZCVVJNIqB2Xkb8st01j3Hui2k1eOE3UKFugawxuRjAixvVtQar4jMGF37GbEIz9qDOeztGadJEwASqTTPOYjLzK8ecGeuJe4VBWLcyWa5HzxhNdsY8to?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/2s8hD-Ls4SKo5C7a2zy99kSGzXiqUCY3-Mlus7zjFr35iy_zjTz6pQySGbEt-24wyzQgwmwzRfgi0cUfXpAYtoRU5FzmTMxUcF9V0bX3X1tN5sxkmHAr8pldF6dvMxu7YYWJESB6WawJXK5FQK8SxUHtASSxbfdQag7BIzVVOQ5Ln9f3IZcQPD43EP_7zNvq?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/XNNkPxalMO2Vdyec628lCG-9JvB4TZC2b-WPV8pYPb4DEkQ7TRHzGfI9Ah_M-7UyGRXWn1r5fspnhwh1PvQ3EAvr2sFjxOSl57vQs4JWGcbeBS7w5Iq83TGAXM9ksgh_I9RAK7vGKc5886liEAeJabJtUeMtlQY8Iy-oDxgLm7QR9kghhJJ2BiS5G6S-MaG7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ClikUHyy8pDobTf3cPgbp9wJSdIMQpf-QLIk7-kKbQxxn2jQypjY_NORBb2OBiBVQsvmnEXJZ3BLDeg7Cjk0yM2NmSgs9niboQS3ILbReus1w2TvBd6xQFHGDJ5lDEbuuDFSuRs-y8gL33ewmZafYSDmwupjzo2BZk3DPE4JLQBX3nM8T-VhAYhVAXtjU0N8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PI03qJVmtkcmsjh36ex4a4VC_sQKJ4O79eP9wIesDQGTXyQDBDf-VyZrLkUTo8hj3asT4Dhsb8aCSHrdtUWTC6s2XFThIycHR89m72Jx1bmLujT7Bb4YK2cX43wnqYO3VN_GHQH1ELvYW7yuuQcMH5BdByQNJpsfBFx9szodwQeti6TwtL_np_JcTddvYrkd?purpose=fullsize)
 
 ## 1. Definition
 

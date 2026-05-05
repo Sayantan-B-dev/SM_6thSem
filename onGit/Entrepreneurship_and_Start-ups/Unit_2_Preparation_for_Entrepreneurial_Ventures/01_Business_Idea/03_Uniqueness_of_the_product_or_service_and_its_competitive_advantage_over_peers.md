@@ -1,4 +1,22 @@
-# Uniqueness of the Product or Service and its Competitive Advantage over Peers
+# Uniqueness of the product or service and its competitive advantage over peers
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=GC7pN8Mjot8](https://www.youtube.com/watch?v=GC7pN8Mjot8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/-d0uR7wWQTPq1OTibSEGiInZza6Zd0IiCk4xxgTuENpVvKWhGDJoQD0EH9mj3ddZEpH8XjOLmSAqCCaFVtcR3O0LESAX8T1OmgUNGVY1QM_tgeoVYUD3RQXLLpV_vgXoR1mWaoTVr1L9F9u2ZlaGKXo2Kxax4eji5yqeAl7IBWswXEWM_Eer_wCY2kV2N5B5?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EJII-zEkp-2I3dP2QRYu3khDrk7T7sMhVJleNr0wQL-2JMC74vXH652tvafzNvGoJ9IxVe4GmQqPSd5ZqsP3gDjYAtDqjqcN_yrnuGAVq4Qe24-_WH3uPjsloXielRZEJ1QuEJjUmMxCXK68e2FjvLnnHWSS_4X0Yiahttl2vFxdL2vZ5Q1WzZixz85Qk2pm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/SEYbs9QpEzihUqOgHfYU7_8Th0gohSgMtZVp3xGjkgD_AkMnu3gjSTD-2JRaqb3Emf6dyEZnr6k-1-jMqz4mC9VQ5OARtuTY1tA7uCcm3ZpKZtorUuf2iiVCi7pz76GAOW_sZ2yCm166_MySwJTXiUazpsLuyvg57-Rt3aKDd4c2cf5_lBk_Na8Y7lz2zLWw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/qelrgo8YOFlvyoUNUPLVb92ml7CrEF5WYGgSIVzqh0SPEPfOD1YtE3gxWFxqn9lsWmSHjMxZOYmiojherJ7GrHbSLUk_NvNqs44QFDFrur6Y44TaEW-j6LQDdAKwzj5r2ugnmKiETz-l_RTZVCdRsd-FKiqFiiaeceCLgtSZbQ5qxKFulU9gv8FDbBEuKOe_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Ds0uwkkGCuksBS9m9_CxEnqOkdq0IDvvGkaHO39NYp5Fn3QMW7_WBg4QtV-_1DF7JmtDhfmuFpO2tJQQsU7IrstGyI3a88nhv5p4OVvgfIl6xaijon8dkAv5fR9WNggzrbAjcZEGns5DXjP7Vt5Xm-hQe9CFYPCqs2PlVPwh7t2ts_IZ3kgOhv4sUdcSH_8D?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xJ95C40-wKOnDpP2-7MvCrq5H8XUYatf_bRkIOjDRuj-Vxc0Vy7vVVLrLZzS44DO4eWUH8JP_xWVXzIUG1OpF59LgnxFOfZVI4SrwZNrD2jH3NJ5Ngg6bgWcRsgUSgFq_eL2K97JfhLfs9zRQpVf3cRhR4MKPsnDts-7RrFbhEfCeZO-tROj-8mVaY8pfV16?purpose=fullsize)
 
 ## 1. Definition
 

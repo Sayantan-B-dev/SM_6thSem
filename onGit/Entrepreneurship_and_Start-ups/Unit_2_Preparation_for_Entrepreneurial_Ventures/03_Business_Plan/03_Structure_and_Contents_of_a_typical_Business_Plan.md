@@ -1,4 +1,22 @@
-# Structure and Contents of a Typical Business Plan
+# Structure and Contents of a typical Business Plan
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3ez10ADR_gM](https://www.youtube.com/watch?v=3ez10ADR_gM)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/BzdnxSX00ZCl2P9StgU-ldjRJBQ3I_hfYpGK_Q6yQC88NLfcNdOkJ1t5mY8FEEcWeDbYSMdwO9ZjGQAenh5J9Iz-HcpNQiMIE6R3JTOsucZ9DOe9ZUQ-jAPdU5OpBzGhVSMVJgFcYFxJSqFUTUJC23QhfRpDJfc1aZasAr9KOZhnkyEWnZS_Fyj2phEC0kLG?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/IkJmBQqgEP5b-tc-QEGOPhT4VPURm52NAiLhu1PmpXfyyV6TMElfGu_3fRWfkitZ1yGqsdW1Yy67TXAB4HhfYF3N_ReAlD_MN0emhBWwp6f9JBDil03woloTkv0Hmimgs4GGQLMah6THf0CIL2WEDGJkRq2NQhw3iOs_uwOvU38K8VqToC5ipSmHgO0GWJtG?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/QjuECg3zJq73Et4TrH8RVHZ9BW6BidrGrHRgudcjo8nrVMXA3LJKx5brAj-tOmK-kKXgw66xwCLUgwCbeoK1UPipaeSZPjP903A69PU1KyVZcDOprmqIGyqj54ZrtArETIlz0sMwUTZlY6Pw3BW-1S98kcYwvpGbSrZ0YiTiFbMx3Pj4pKEtzPu6XX8idEgC?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/lc5AQZ3iflmZG_1Rq6vj8aCGT0K7ssr7_EgdLje56c4b_Y3YdYkjaIRiAmh5pPuiu-pHqZOcAX1rh3LXIefLy2gxp07hG9uwrqiq6RL8lUl67QSpwpCBh5cyWu42C2BfWvlkskfclLWyIkl6GIIvs8AgfrSN1tOUloEpoG3V5bS40bHKfWQ6aXN_bGngaTow?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/mEfuM-vVyCPd4I91__M5UNsojHc3d9UnSIDeKAbfGXz1g5k9PH0eynCZ568JoZOLMVvwsTEXaEWHfwa3NfgPE99ljbl6HFu0tnkaQWj9BrzGwSHkQ44jKykYhGKnsnUdNmJXkcKejLKE2DRqNQMhe7YA5SvyPLmpPIh2gdMPIY0pYDDWbOCOYBENe1zRIrPE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ZgjYBLXd5lkUAXq-IhJOdL79hN-Q5EHHUjPD5V8prSz2hUnU-N0dVofvWqZw4epq0_NOxThHlGK9XyZMJT3x9XBYZjKZzWJK5nLu8Q38tVyaeb0HjLPfkoYiZ5dCuaCYK__fw48Aq1KxWUsdKvmw5PuA1kn3cotgoJ-5KWFOFfZYTavo-rlYAxXGDscWaa-Y?purpose=fullsize)
 
 ## 1. Definition
 

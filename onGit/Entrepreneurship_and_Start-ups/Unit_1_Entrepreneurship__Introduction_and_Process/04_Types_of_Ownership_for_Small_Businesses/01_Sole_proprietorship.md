@@ -1,4 +1,24 @@
-# 01 Sole proprietorship
+# Sole proprietorship
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2q3K5xX0WmE](https://www.youtube.com/watch?v=2q3K5xX0WmE)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/kAZBGEQWN4BtQJ-XH9l04_tiTY0GrqsUO5DQn1EJ6ddA-AlgEjlQvPamJP7dHxLbZwSZvV-bHpdQaqdB7ZPl3Gkm2HKRJOLWduQFdLV3Cl6AEaMbQVhkbdZp5y2c1euNq225OABtAIe-PEH2PnIMLKsRq_bAH2N52riq4sU5UlDRKf1C6CziCZefP_N8pKlE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/J4aRidNDQcNo9OR0oIj_4jxfqgEbgiI7LTvRHfyO4mkDBR_0rnVISDJcP1zMlDDZVzRV1rqVLMhP0_qn8Ib9-lYTOWWPzXDUflpDiR2AJsAst0HYconBV0fsGonuwE9xKMcq9jBs528kNKnT_b6w21pOSSIBNs9ymKF7w0XXYt0Y_wW-YQ2SahNFkR7QEB5Z?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/CZgIybJVVDZ-QsahO-rGqrtGqpiZxWX2dbyLmC6PQrv4RCAoVK-Og1N1WgSxEeU9j-G2oWnCQIC3mnD4x4Sx6gsrCVEffCsKfq1FhyPyvO3o_X7ezMb_w56o9ssRO0Rqs2raCclndyzgkGvXWKhYud2fO6ZAwGAOADfuTsrLO7HZGdRArYsbr5R26-AM6jCN?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EWAmsiWNYQ2wTo-Mp3XzJYPV1y14el_QZBz1Zs231u1rhxmVqh1kEPJR1pDh0A4d4rSWLGGiTBYmW0QSXSolccnfXuYKxu5qdLpkjkfFcMtYd2q3RBu4ZrsY4_rON3y8Lodh1p-lztAU8hXJs0Nju7uQ21icU39T-krpLJdaKB1pirvUGYvQyc86MRSjOU56?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PHpexy62GR4-0O63A0hibX4vcWzVJA919cC_Ok8ATJf-rZNGhNL5kDkR5CkaAzpbELDennMwWMM9dZMjquKaO1pA5qnsKeb-arB6NAbdZC11TV6TSGM-EVPW8HeWMjn-aZRE8TpYsmrl4Vx6-DmQpWIwjfLz7jxa5pctO332HyGzZgHxlTrRA4xQuFr9Fytl?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PHsfnrEJpk72z16QxrbUs9P7orjFwWvaIIMa137AlwbSfTL7NCFsSQKtrZWE2Nj_O-LEp3Utjb3b7lmzKXERWYgLCCJRKjDTthwPkXxHYeg4cqqCYzf_nlqVB3wfimGRvMvmELgwY1aXRBC0dt9Q7vecUQM_9lmkHXuLDSQMxb06B7VcmuwK5c_o-ttcLKPG?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9DycTR-VdPvT1i9-F4eiRfjYp_XDLmgQMQ9fszxHJLrLQBysz7yq8yTNt-d1PFGafyclUKs6plw6j7UALCFH3wSem8rVlzM0bIv3hmgYt0jibbwOkV5OxCkcfAvm_ybLzQVOMJo6BpqKHf0km4MZRwlEMmUcnEDy-EjKr5ZefMqnk8zzJlFzBz9e4Ek1oh3g?purpose=fullsize)
 
 ## 1. Definition
 

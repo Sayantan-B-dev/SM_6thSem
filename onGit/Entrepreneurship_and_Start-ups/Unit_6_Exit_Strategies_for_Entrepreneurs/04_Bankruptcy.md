@@ -1,5 +1,23 @@
 # Bankruptcy
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A](https://www.youtube.com/watch?v=HfZy6sUeP6A)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/uR5dyJsoOlDgn3AzGy068lRtDMtNfml6T2O0q51rnTYNrCjScxNsFEokStAOsGtatrULiNG-HEyPZ--3KjyQ7FhwPAG74ozBkWp-Ya6-k4f6lOoiaRaxrbfAS-Atz8p438DLvXOdKSe2Wwdq6mgswCpbXxbvhit7pmbbK4QRUYbJI5doMobkBWL5cZ5AIAVh?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/OyaPN-__Bcd1asf-dOVceCR_6qAZdA3dbZJfsUn0Kv01NdUD-h4apsEgVgVN60GmK8DIr6j6mnbfv6SoaZR5B1hXwzezjQpEFS6oyx4eetaxxkD5De5ItuSdUnay5A-1-M9_FbRz7uAG23Nbobob37JW-43kzQvjM56OAI0GzUyQCbaHGOGkWeD-O15NLPcl?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/1m-PBNLoFi1CaGyaJyCd5ZVXl_dn7B_Vy06n_3rbwAAQp-SgMGX5DmsnL1je2cpVnc9O3kIF3jG81IG_9NLdX1G9uamCKnSrl5mcbrQKwqjBjcMjJ4RTCMm0gUGuQP257FMDRxQFyBg92lbLgQiyzvfnxyd0javMV1tRH2Q1LeV71dtwhHNw6SNqMdZc6N7C?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/hFkftb-EohlVnSlx8WgpPsSWM2VKBB2-IQmv-zSnvRyxm04jKPs5xovJW5pFg56ggds6ZZQKZeRAd6_9ktag3_5kgSTC3k1G5oLxPKA8U_9GXqrSirmUimgH6h0yvpV7j5TPLu-FRKsd8Qqm-q-fYCmaBPUjhDZA45DbbaNzJ-lO5ICPXrgkqauY4j5a4dJE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/T2sMfqqQ2na1PoIm2-dzQWXWkcq7JGVYwn17OhoquLVCGYMUfFypi5OSlcBzT1fsgF9vuRiyoLqnbHGkU0xTP3-oM6kcOaICVO3-m550ofecYb3lzC3gT4yBI8dS0A9bx-q0MAp-nC3eHvHBEtjL7YDbiCxuE2vxXB9gVPbvgVYS_X7U5-Bu9--7G2kbMJhb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/t7mpvheOIBKDxWlMpiXm4452ju40W3wApWy0Ve9ba7xh-rjxIn2CWfIFrHeU1-KrqS2dtl8G_2gLkO-CvAIVEAPVsz64Ul6l7l4YT5uHQ6sKKp5WNMMSonwUHUXQO8Lw3qYT7I2dNEmeuMoaN9OlJzVOH0cbJ4kmzRhao73UoR431FbRMjjWXXbHTs5dZBW7?purpose=fullsize)
+
 ## 1. Definition
 
 Bankruptcy is a legal process in which a person or a business that cannot repay its outstanding debts seeks relief from some or all of the liabilities. Under Indian law, bankruptcy allows an entrepreneur to either restructure debts or liquidate assets to pay creditors.

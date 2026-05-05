@@ -1,4 +1,24 @@
-# Rationale for Developing a Business Plan
+# Rationale for developing a Business Plan
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A](https://www.youtube.com/watch?v=HfZy6sUeP6A)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/mEfuM-vVyCPd4I91__M5UNsojHc3d9UnSIDeKAbfGXz1g5k9PH0eynCZ568JoZOLMVvwsTEXaEWHfwa3NfgPE99ljbl6HFu0tnkaQWj9BrzGwSHkQ44jKykYhGKnsnUdNmJXkcKejLKE2DRqNQMhe7YA5SvyPLmpPIh2gdMPIY0pYDDWbOCOYBENe1zRIrPE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/KkDcegj5LUfeo4lnUvudgRbFgm3wwC4MWK7va1QOH3uvVkuaIvJ_IKMiPJtFRNDWp8g_EEnwDhHF24zI-9pXIoXgy3zg-2bA1X7BBKSXSo5CkxhpJoN814jSShsw8tVJwiVogQNt3j7RwctQEYwwLBTGfeK56T28y90kUTdt6dW4yaxH93pNg_4g_aru9GnW?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PQhSghoFoPxq7gCwVrhrdICQ5VQ2BR2FjBh1CBA8-z5KCuRBBFguk79aV4gYUm1DN0ImFi1E-DCdHkScAFvIVM1EF8SiDsXXjfmMFsFTVyw2zGvHuOSn5KZd2SmgQYIH-TgSFwpAhDBkPwDc6fmoYONv2CtgqnxHjS2KbmPZuLVxhczhdIQU8hHDQUTFoaYV?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LE-HBOnPjoyGgIahbD77_z7_QPXO_CbHG-2RGF4xG3wGiytrPS5AtOoLgEfimTDFywCoyV9pYEHd6BBFx8e3KL_-CVxa1zCJipmwlmGjc0bYVpSU2BOwyEyscqfzT4wfBlNKBvIUhfPyJlY_HAkV0ePwyQaCXUefLQCOkUKuscS3G7PG1OySFC6K8fBJwrYm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ncN8s9RR4n2VQMzsCOt6wtdvG7Ycd_uv4BFbmPqgFWZPS1mtVxaaXpvt5zh-SFNJrnOqfOBybobT4NfCA5qXzIShevPS8ROjVFMh2N4EC7iOB2E_GEu9DZLan1iH8tpzNHOZUjSX-n1ykp8VS-AnR21pEEFEwi5vDP8o1tXAPe_8IC2ukWr1eEOF2K7TLxmS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/buR19920sSxU99vD9HbrtNIgPcCci9dqvzyiXsLgGq-bL0xrPpBM9cxVNeIt00W9fnTGtkb3T_Eusv7sPtseEpRLvolpq5sKKEDmM_WZZbQ_Yhl0t19tdbqz2BcdNas_g0EEPIRS3nvmpTSGrlBmVlyxmUHXO4jtIur-_-quNgWoLvP3Zlxc5HvE-1xpITQp?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/GTPBz5R6JqDNUFvicNv7zemAQ5-DYicMWDqk4UvXd3P5zVaQe0f6NwNZya3dz9tAecnplrSvO9RVPPHpeNnpHNMeZf-FXOJuH4fwtRcelM1w_0p232BpvJHFg1MvbKACsF8B5Dzwq5vgbMXk08eOz2JtJC7ZjN0vld9_DI0CV-v7GRJzbDTK3fxi9M-_JKae?purpose=fullsize)
 
 ## 1. Definition
 

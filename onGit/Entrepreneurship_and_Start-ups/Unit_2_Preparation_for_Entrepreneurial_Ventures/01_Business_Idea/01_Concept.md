@@ -1,4 +1,22 @@
-# 01 Concept
+# Business Idea Concept
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=ZKOL-rZ79gs](https://www.youtube.com/watch?v=ZKOL-rZ79gs)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/VJ98dpFAIh7tt_WNCst1eWUZttGmq-VEKLdHkx__3IaRc_jRK6sEeidiSEg3XV1Ler4UPj1NY1VP153g43Svsdfzd1osKZrQK0bghg1LmWfIZYxtiJgwWnHVxQlS2CPtG9K0Kxu25x_Onsb1Bac7p0NraeviXuTEISILMjT4jruICT1guGQTi81jQpyupE5w?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/1ETy1V-p0tcNBNRtVymGQpd4KB7BVAqYNG0Dw3kvnby9ZkV7zUWCSTbvXAXr3MQufdJeqY2vaYCLFW26GKiaE0JjdvxylROEIeUvB_DWpwetI1Rm8iHbJy4w9mJqooi1Gf2VCNVwaD8QzjoKdfHabDuGdeK9gxqJjShM9LrtF6kGuor_TrXibgqOm5iDEd86?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/n3cbVfdGIUnmqsqUPZFiG1nujxwO_4TYlmk19gRX3DAzpwTWfZYDLaPu2bEXPX7OccJIL5i6fPxPR8LifEVWMNdKR2zv3N0mlkD_kN7B7v3bCzwmLg2AGWo4E6RC0FEf_OE3_SEMbKpXVl-93BrIdSQa5GUbSvql3as-FrC652vcXgNovS1VlwIL7Y9bI-46?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/CQKtuZfiaVD4Kyt77fDm1R3ZrB_mCAlJJJCpk8e4cckU99VkLynUkRq_JNBJJgIu9D8y9TooQtGRW7j7O9vYnsiVke1YILu2Mnog1JdRTLjQMlM68n2Gh8jW6Oiwv-zviLJvVv1PwpmLb9py_wP4ojWmhBlV5eRGUmCsqkJOoydr6G0ENvYdgBkMADkeNjfp?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Lluek1q8sFLe1gRzyiirWSiKQAMh444Nuckz1gMA_z93QFL-9GqqttHw_jT_kSIWoO0iutEFyEsQc113J3M_MV1SvoBbUItP__igOts_0nSJZ1o3AO9lRd6kgraSqM2jsMloDZNTyBbHsafoS-Nxuvzx1BeBqH721vuZxhsJk0XTM9P3JYSRwEVL5HitQE_S?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/wg7vZ4jLzH0CGShFNTLt5YAYVZW6TTDgkb1O2SRbm2zlOBqMsBhaLXCcTMDq9IpSTUzfHs7TLfUs89ac4FtWRx9EjkfaJQczVnaRZSCV2iT54T3AwI6vbtFb8kqsiSCLyTvHmLSUwrHjQVqmW8tuaaaScWY4FxH6xZDo-ES3SzCOjsSKFpmr-TRvO8-SO3Yu?purpose=fullsize)
 
 ## 1. Definition
 

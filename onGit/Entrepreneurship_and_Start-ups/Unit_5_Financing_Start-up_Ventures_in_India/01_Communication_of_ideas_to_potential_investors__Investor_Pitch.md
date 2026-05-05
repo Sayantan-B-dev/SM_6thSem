@@ -1,4 +1,20 @@
-# 01 Communication of ideas to potential investors  Investor Pitch
+# Communication of ideas to potential investors Investor Pitch
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Hf6Q1uY6h8k](https://www.youtube.com/watch?v=Hf6Q1uY6h8k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/elLRBz5YIbSquXff6Yy2pbq7sZwrKrTdYiz7wXh7OpK_xo-eebHEh2oAXqrzk87aqB-rxbKmdiwQgqcbYOSe_6mpcLuiL-fAGC8h4IS71W6Wk8bKFDvmd12esIgDlk6PD-E9nHH6ZbBZ74J4ZJPjAP1XifAqJZmzJDMwLllMu62d61MrRS9gxnImZdHvvb0R?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/DvGvLqjFSsownYfogOmI8oAgYAIEnPemnrt8PHyfxeBZAvWd0MEhqh_aPtUUapmEQGQ2IyuYd39-xyjh8alYa58lRzM_zNRafEBbhMRmLUjRNcVWa-tvzDCWOz80w73YKAMreY9r6RsjIXHWTZIneYh2ziR-Nr06o1DXcxdNkDytvhkQPACj3wHiX9jwapz0?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/1eBG4kvBlN5144lQ4hp79H5ipzeT21fzKfL6iChUWMyJV2Jcxw4IE005jN52_xqFSN31KVuVSbxCLVzfNIJm5aQtO_wwCOtBQy5DkE6qogT5zCPO6yF651_dCHHwvTCOVh7MY82Yg8GHK7DBcX-VA7D3drp7bnCFatYFCUkKj_5wbw_Cl6O8f8_tU3ElLs7R?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/lxIzJ1jnLvm3uwHbhCr67ZyWUCa-STaHUW87Ye6MTo2L4o-i8SgJx2m8HzlGy7plpLPnADjTZXbgBbqWZhuJFO98LF_ngjHWmNWB5PFjWDkAu_xdXayRpfkejzVBmzFO6CCjP3M2HRbreW-lzQMhrEHvZna8QfPjLo8wSaesvLEo6S6VFkJbz-X6k-0DRRpY?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/W-Pc3JjtwkMfonF8LfZwsDD_kP68F0QM5twu68Y7sbCXvKggX9abB-fnp-Cx66TJ0QLdQwdSPX0_HbkGgbJxlvCd3k-Rh-xhdS8phDHY8kGBopikfF8m7xwOnNUP50KnG9hTXi3GH72fRchxCIXKH7KqmNzE0Gyrn3BNpJ4DRFEl1ZZyf7S-8fH2fqUUL5OA?purpose=fullsize)
 
 ## 1. Definition
 

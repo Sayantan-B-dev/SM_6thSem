@@ -1,5 +1,25 @@
 # Partnerships
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3gZz5c7X8l8](https://www.youtube.com/watch?v=3gZz5c7X8l8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/_EFaQDVeb3M9Vv0XPKpnr3lBLPFL5zybE_NLK4sNKHlNuH1fouedvvlWCwEGtXGD92j8-G7R45MrjX-mNKEc-hPXpg8ZirDOPDvax0Y2EMvG4z7TEvQOJoBLeDatA6kDijn_IJZ8J0pRCwQqvR9DKabUcLZF-EbSiQ9KkC-HLvphg4pcDdM66OegrGVQOyNF?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Er3oyR0I3i56Wg-AA4bVuaehvI-ykMC5kYQjv5Lbic5Ncy3ibGQGOoWzH0wG-N-JnOnarM6l3tcFzdX7D3F3yW4ZtAtCq5YBO9PAGGC0BMx-HMxmgtdHbPysvdTpF3_KzX6QI7rQlUcbjvjcXyoEJ3tJzmV_Y-lf2r3QCC9u2VHNbmlEQpkNs0t0V5k5JMeY?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/fuptzQrf73tjTVhCBUNETtB9tUjlGtIKXdfKmjCZ5KcEGfI9Whin3oITAR03Kq6deZfD38H9ZbT-Gl4fRwnZYAay0daWhFm-yWYmw8s3TKFFa7I2L-swSqTZv6azivtbhusFqcs3kgVtjQQF-f2sg7cbASoW9-ROty1f7QdxZnMsGyh0sXgvu8IuRY4TZnWK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/7eUDBIKHkZ_9Kpeyoe1cOiHnAF0KUcti2SstUDGQN4yVH09kZAnGOpdX6RHkan0CtpeCSAYPorje1DM56pDUduCORRf0d0H1eKXowyBlu0_pxixfJjhsdPdVunjpHithfy5LF-FJg48o67YPu18dSs63qokAoWOoGbILZCx21OKQjOnxTLukdqCm_mqWJtpE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/bjOzhu8B2qKZLz3qIrvlcMLchZD9v1_Sz-pJKm5Lhn9rM_gm_xZD94vKOMQvB9dhpROMiGatmp3yNBf34HsqMti0tEmjeeKwWRQf0XbIa295glVDLNs_RFWr_rDkWP6BP-Uf8gpXCu-GCvGLFGAqlLnr3VzUtjUwfCCj_GiOmWiDKCURlxJNSSZwM3hnQL3F?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jAV1U8G3WqTDYv4oYK0wkx59sHpZm3-8dUy5b_ejLxvgQ3rUw-IfvqbnfqPplU38n2FYC070QD0gfPjAOXWweEXa87X3_jq49j-08D-I-l3v6m_qDfuqpDiyugleI_WQGpECCAMg_3I8HB4xenBk3u4-buFn6lU-7Gmlp7jmkKCMkHxnOW_OfBeR-gyPcSxP?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/CZgIybJVVDZ-QsahO-rGqrtGqpiZxWX2dbyLmC6PQrv4RCAoVK-Og1N1WgSxEeU9j-G2oWnCQIC3mnD4x4Sx6gsrCVEffCsKfq1FhyPyvO3o_X7ezMb_w56o9ssRO0Rqs2raCclndyzgkGvXWKhYud2fO6ZAwGAOADfuTsrLO7HZGdRArYsbr5R26-AM6jCN?purpose=fullsize)
+
 ## 1. Definition
 
 A partnership is a business structure in which two or more individuals agree to share the ownership, profits, and responsibilities of running a business. It is governed by a partnership deed and, in many countries, by a specific partnership act. The partners pool their resources, skills, and capital to operate a common enterprise with a view to earning profit.

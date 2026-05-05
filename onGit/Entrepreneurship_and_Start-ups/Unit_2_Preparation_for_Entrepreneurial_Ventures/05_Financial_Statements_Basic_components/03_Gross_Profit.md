@@ -1,5 +1,23 @@
 # Gross Profit
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=GC7pN8Mjot8](https://www.youtube.com/watch?v=GC7pN8Mjot8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/O8Viob-zIUTsRVP7rRFXrXBpcZPRNmO4djXsVA9x4gK2NOXkrUauY-Wzc6WVwQSy_IN-QzckyB0ccbsEvmW3xopAyXryZTMX05QcHZSTyPaGh5w2wEJp2AAi0oZ4P_05v44higTNDR6sJ1qpBk8SQnG-nhCcbBVHrSgduNNXUfmpLEdEfTb2k1q6vFhBTNLT?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/7ARSZpwQtYeAWybVEyagPmas6Ifz_U-LVytAi4gkHQKYth9cX47BPQ8aNJ3GEDSBF5Tbb4icuaznOafPHXr0rCyY9zcduVB14QCSgk3PeW1_t8hOISKNG-4iwcrSJIPPYKuwfNwCc1UMCDS_Vp-s3N_22Yrj_yRxjtB-Dz4GRUK1Jz2uSxm8_a6rxw7tKYnS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xci7bUgJN88r0d62n4TpzGof92OJIU5T2u9zp_EEph0a2ifW8DXGZoqARu7kMJCgbensVYog1kFGiRpxxMTS0UC9QSjiDE24TorufZpLGpVqcwkMMOtFAuBsMlx1Gb4EKpYsFyjqqCMuImMgADD37onrJUziwUMGVTT9kX0bRV2lW-rU59u_m3k6mrg1Gno9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/WDgFSM92rO3ecDA5kLC7no-5AERkC9t2zsDRtbE7lF2n489vT_Q9tuD_RJ4kOAlJ4TLdzTZ6-wBWPAyrohtSN_YnhGbvvl1sYRyWzZWZalxLR6nQh_JZ86CAqG5kSjVomfBJTEjJV-71sLoar5I5rOPJW1HUNFyYVTW672a9Od0w-Zz7XRJX_j7EY2NeQkpD?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_utbGKyiIDQk2CusnAr3LyZLiXcOD1E3RKAf-kdeckWSMpqA8MKe-YjnsOeRoEGlKb6SUme9aYBoANLTWDsO3TSByv9dwlf7MTl1bOHBj65L2A86F8t22LKLZ6bW3g-Sr6f04m-9T_LXzNO0GacTu_T2TApS3Odn6a3RleQmEZp4C6ZM3eEdjSynuekq8Sbc?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/rIXvwS5yewLa3b0NzgfiDM2d7yTVelsRF5kYmKTtU9ig0fxmRaJBSi4-I_xfmuxzaOcwWaYrLZinsYW9gz9a58YrmCmfkVuyzcqmaKi7pkKo-JnguxWVowIYVQyUp7vTxqs3rw__P9HNvj-hLs6DPuJEiPHFoiaCa9JxDUx4iqUZTDwfZZ1KHwZC01-NGyZF?purpose=fullsize)
+
 ## 1. Definition
 
 Gross profit is the residual income a business earns after deducting the direct costs of producing or purchasing the goods it sells. It is calculated as total revenue from sales minus the cost of goods sold (COGS). It shows how efficiently a business produces and prices its core products before considering indirect expenses.
