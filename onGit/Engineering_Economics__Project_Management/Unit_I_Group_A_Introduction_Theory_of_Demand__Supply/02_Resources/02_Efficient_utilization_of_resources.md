@@ -1,5 +1,23 @@
 # Efficient Utilization of Resources
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=8hKqvTz0Q1M](https://www.youtube.com/watch?v=8hKqvTz0Q1M)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/X38344rj9Szi6saU9zM7Cn4dwkNHX2us4uLi5LUx7r6930nxJNv3NDwRYZQm6TFdV0esvifY7ZcF4ObovxQooysyesjZB7N4j25tCTXx4EsOH1ZqowgovfEsREluroWBBuFvefuKzaNspWr4nPWOfP8Bo2eIPcZU_OSk4SI5eyYxx8S3l9SUY_tScQq7FVR6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/RRDkgZWyDN0pkEnA2qvysSP5-FmCV_trPqG35ltLlgcYZDc1DIWvvfhnvSafmH7aOG7R-77G4h6lMNf1hzX27RzQrXegfsDzQdAGD9mgneMhnbg6jBjlsPMsJ3KsN7lbmu0J57OjvCWLX_6UW64cuj1d3OHNf_LEfFK3T8fbicwAte4u8ehjTT-fy4oB0mZQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/361I8KfCQDJNz0uNtO1GeeUsam1zk9uYSm5uYJjPe4dkNHV1-BJ_jG2dCIfPD2CfbQpPlhypRPmuSbhXJyFi6dDGjbDqGKaOoE-2kdoYXbU_5LrMmYgW2LxWPwbQcOw0eRBpHdJkV6GV6gjeXAF1CESOoivtqrunm0ZvzJ7vXrKw9IPVKmfR67_jGN8MHCXo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Xm6Nd_i_9QCTwc-xmmjwS8Zr64KrgS_K7r1W0vNt1LoQnAdQZKCmywucnQXSUtXuh2MvQ42w2YIydJ800JdnNK_65uxAfqFuyf3XdS8l2t6WxyFx_Km3iDyfFXeAXQb9pz_ranrmDup0JZKCD0ZEtStAH80CgjZXiqIu8_fs1uDb4TDtSkH4ZUmRU5onGIo3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jHf4-2Jj-fmtoNAb6WI-XsQqWovJLNFKR55LFtbe5HdT8BLr3N5MkoUTH73VP5omNgx12gdKeh6HlY06-Uq4NlsWQ6EuS2ZqJlbjqNNNNvJ0TooRfaHcbl5SqtXNYUGFHtvZKe_ZxjQZAF5KBAS1VIxXLkElX24H6fHiU3aQmNhTQu1G2-nbF47LLvLtDN6m?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0IjuJC1uxMZpHMSdOCN3FiD8fNPdj9wz-j8Zwaybz15vQSlZbKort8KClY8bGhKIP28NCv66X28Ee2fddpe2OpFtLc5b6ZGaRkS7JLXlP2GQJ4KRQ6pCx9Tuf0mIqQ5UARN817ZAYPSSBaOk_g25bNGgHZ0sBjsHHfv0DufmwiYJsEsDIDEELk5gQ2Ot5U0d?purpose=fullsize)
+
 ## 1. Definition
 
 Efficient utilization of resources means using available inputs like land, labour, capital, and materials in such a way that maximum possible output is achieved with minimum waste and cost.

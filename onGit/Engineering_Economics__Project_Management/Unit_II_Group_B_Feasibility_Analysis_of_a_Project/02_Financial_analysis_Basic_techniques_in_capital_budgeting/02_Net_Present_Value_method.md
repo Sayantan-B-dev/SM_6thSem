@@ -1,4 +1,22 @@
-# Net Present Value Method
+# Net Present Value method
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3gZz5c7X8l8](https://www.youtube.com/watch?v=3gZz5c7X8l8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/J6xcUDCqlNuSV0YLjB8I8S4Mze_dM0TT15go7ZZX4FIshVT7t6Rgl3aoMr-s7YvFdTOYXkXUNuJH2jisaWExk0NpLtai8smiKeCXTnB68UmTz8atATNSdeCOxE3MGkDos2gjwrOM88SUldn6fiBMbm8wjXUD-r9GLZNzwWlhDDkEw1bphyOpf4ZSrHPRTPz1?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/FS5mF-W9HlCCN-uLXftcCdjuI2gustavpnu_oSnGbZIJiXq6zF0Q9AHhf1LVMsTnOzx4N3t27GDnXQf11O4HcA3OGDiPB_7-W4swg7CZma5ZSINrSOJC-qOi4eK78GQ6r9JfgbUj8F62D1lW7gAm8pVwqCjGwIte2NiQymu9j2j7BIYTpm_M-gh6WDH3n7u_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_1PBVBNU0l8U63flljWysVYl_H-5fuQxMnSzZNouHkVJYvQmsUm7TNSPff9KO4wLPgdy7-eVmCoHUjhHjRozN8gv9-qdpHb8vPkqYp60nIY4pOdEZkIMBSamfB27Sm2myhMkCEsTtzBgm9O0zSYOsHzBrG2N8Ycqqr6-UASGLny5kzfGmeVnOwuJpyU9CLHZ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/XCM_MVSfRNmSU-r6W85ahGOYvA82lsvX36XoT2H5rdyOifuR8wgh1N-sWvSnzu70GsmaXN1-LzzUlRlHUUy_dn-Kge49PCobvxRRA2aurkdgfUZbIPbwOi_1ohaqpY0MpS9QgSnjXUtX2-ZtSJx7FN7bmSGU0k8n8U6AFS_cOh7E-mFDvUNK3QEl9dQlQDyA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/t_mO88ZS2a5nSa4zLqXFQI27bOdq_EtA0wnyYD77QHu-HpaULN-OiDIC_x3JL8SNjF4e-OPEX_4YkldxU7B6vI4xzZQ82SVqfG76sO1SPvZPrgPXyvQc-jlfhSLJoZ6t59bkgeId9phaPfCv9xlMXhPGHqtdQGOr1x4FA2qHPmpBDOkWDd0UXip9D7yo4Nua?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/-N_8_OiceHtuhcXoZtaPD1Hdgtj-GVqaxWY63makHZt6q8CBhjL8LUct9e90Y7xveSK9XSihYZE3Ro5uowEMpOTTrGB1bvtMUo6DOCJ5rvRG2NVw8TXJIeOIYuwLW8zYz5enQs7NSIOXJOrYyyytOpdz_exVa82R_orZhRnLkTqBsDJao3FBJz7p9ANDRuWN?purpose=fullsize)
 
 ## 1. Definition
 

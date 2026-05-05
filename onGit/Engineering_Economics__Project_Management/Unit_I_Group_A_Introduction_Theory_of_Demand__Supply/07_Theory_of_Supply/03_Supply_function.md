@@ -1,5 +1,23 @@
 # Supply Function
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A](https://www.youtube.com/watch?v=HfZy6sUeP6A)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/Tshql155d1yIPXb-QNiGGyiYmDl7WUGu2ie7PgkzzWoS6PuB7-3oQ2HEEz_1ADYsv2IxaLCvkB8V_4bB2uhESDmLCXU9YfcpU_5Reg1xF7YlC9ck_Bso6VChB23KrdYb8cbhTPeFswcZDJlmNGk85nK9mfhTvCjwcGUrxDzAu4O8GQda9EtdDFUYtlRmoVo3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ky1p1IKJzES45NHVxt7NfOoiscCZ9Bc0o3S52RzmgFWFsj79um4YzLNmTz3MAgj-oDYg7ugUa1idmBqCA6fw5uFNjCV4tTG3IANvh3z9mgNRAJX4fNFAAD63GR6_9IQlVtrDXLLlYMSk2NJWrAtIVkRXtFI-pZVL18UABMN9Bb6YPX9DZKoWu99zzD7_Q336?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zi5VYcJ7PM913ZynQ5H6JJMu2lGMcFA673xn1fN3VvvRYnjT-vKj1g3vZuxNTV3YFaTmNkkGGdOBEkLJX4FpKybNN-dtgPttvPmK4q9bKf_nFytuiWp3cQ1Y0H_DGCIZdwZMLVZvYf4pkpYzeC2KQ6cOD3f-UJD4xSP6XcfmCgG2rzb7CHt4o4bUYIpnM7Pi?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xp15yDobN1F9cRuZlD6g0-JbeUasiHtNUEyo4scwu3n6OPypnt_jl14npCRGsaWqb-W05krMI4D5qDH5g6q4V2q8oiDYXMi-trhB4qmXL7Pf-R8qG1GGSQP5G9aCZoxehsPLaGHB9NfaCYDVUKk0PDMbh-fv1c1_eP_rTfh1ZbBdVxDV8tzZdfVrlQUinmVv?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_2leOLnmRUJpmOSZPv4dqdcBdTsxBMiL1URF4dDagvpVKoqyiQnoK2HY7rR-yTlybTUvT_SiZJKeOpXjHv2JMKl1szvceSc-I_cWoTVq6_l4NcTFqML9Zpdsyj-0RPH94b1ASZQG910A0bBeSPMEmaY0u2PO97ZtvlpzH4h7-lqrVaptpBXEz5pRUp0m1b5O?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ObNAk8NLnDfl9XyGQjXkU-SkmUO72vOUpOdjVseAYVV8rcerVmQE5lUvwNFAtsagJJ0FaSeCx2ttmf6TgXWRn4UwKZpb2SR4GsvdB21Ng9ex5M2K70RcqAPuTYmPc5JejT8q3jKOxWX_V8jfcWrVDgdswLAJPP73fKrDPYZbvHzTfsacMdfkGko_LWgk-_lB?purpose=fullsize)
+
 ## 1. Definition
 
 A supply function is a mathematical equation that expresses the quantity of a good that producers are willing and able to sell as a function of its own price and all other factors affecting supply. It shows the full relationship between quantity supplied and its determinants.

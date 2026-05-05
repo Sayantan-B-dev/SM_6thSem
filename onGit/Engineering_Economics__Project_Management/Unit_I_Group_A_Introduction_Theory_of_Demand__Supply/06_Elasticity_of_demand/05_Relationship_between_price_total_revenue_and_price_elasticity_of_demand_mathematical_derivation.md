@@ -1,4 +1,22 @@
-# Relationship Between Price, Total Revenue, and Price Elasticity of Demand: Mathematical Derivation
+# Relationship between price total revenue and price elasticity of demand mathematical derivation
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A&t=400s](https://www.youtube.com/watch?v=HfZy6sUeP6A&t=400s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/AbWBj14lfTiMPHAQ288pF6RSr5ksNcrtRPeDchf1hhb8VjiLZLsPNLmipL9qxUtZxrJWnRwPKCj4f6-7edq5LItDG-lJ7CXSp8sKIvtCsLMzEKRDxaqH2rrmXOHj3LXJLLbBAL--1A817W6o4vej2pEvUnap2i3oxWTAGOMW4asPTbsEBH5Nk8WD2W6J7i4T?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/DIooJIiKK8oSGBGG26O1cfHzR9tiyQ2M1fMEvpfPAoVQWNg7UFIVBjssyWMUT2IwS28Tmb1xdIK65sYYheNAy7YvflRrcJSN8t6snlvomz9QEVBx9yTbfIWVS3rDGQRhsHAKpK9m4zM4PIN4coKvxQ1kiXzQux3D0yfelTii_PxGDButBK0SiEfrECcwsPG5?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/tWm5M6QpMkaAPQdVMY-fKHRApFuI7RMpry_dUP68vsIN8arjfggiaeoZrkgNcIER3Wk4x7o278qZlTdzWvN0wwaMzE3yVq7u03IZy7OHuwnMaQlF_WrxfYdSbOZwm3mRfTkUzON56sIUtTrNgAhudPuJretVx30Tw_VizCIbDXhQvW84OFz99nurHRcTv1nu?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jLPFrIStVq01fXPAjHtQY6pq6raTGPZjNx8g397dPVXzLebRRSBGX2tRFEZV3JzETp0yISBTdeMCKLNG47e1L6Fq1UpqRgKE9TlWfPe9Tj_6lqiFTSjmPQwmErl_uDJjxG7xmyoOLnhSOzaIBlxGqgrWm5AovTMyoUWBbl3DpxyLvwQYF3AobC149wRHKFDB?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_JMEUUvEa_BsOskeWI-vxDihLcg6GJmMOI8e0i7A1KGShSG0llgXStdJbkmDlXoPpw1j7HLH9WvwkmefPBREN6y8_XV97NXWn_ikHBzJ6K4k_0ilK7E3T2R1ra1NPhGzHCOyiGg9APpxiaJOs1V5aGvxI2old-CqYuEAUF_oloyrZZfS_2Mk_r66u3NtgSQ3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/QMWtXwgatJacipaDv-s-HSZCpbOySR1j2MKLTqgWn9l6SfWqdK3uJPZsd7c1cPmLexaNPLE2OSJi9byEIxoDbYKxHuhmkJmqfZPOVOMxqRZYLA5Cyu44_4dfQo8HIHDj1M7aVVi-XkHrN_D-xsxC4pHHbBDQVdUGIBsX0iniymYDC03nYSpTsdEWx7elmLfA?purpose=fullsize)
 
 ## 1. Definition
 

@@ -1,4 +1,20 @@
-# Stability of Equilibrium
+# Stability of equilibrium
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=9dZp1kz0L3E](https://www.youtube.com/watch?v=9dZp1kz0L3E)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/Ps8lFMDhky9zwVnPexz6nPk2jzE4z9tkjFi0b2-hIiIaClXQwVQQOr18j50WH1fxfb2q6vbAt3BST3SoXtJcDcZrMOqJlSlJpev132sL_gE3Fh4bx3LvcG0vYT4oKi4MfdbD5suZ5brR3C5tEs_73OuRwxy94kUMHTIgPg4dtNyBq5fcqySQliyg-AnvRKHn?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/tVj-D1BXLonc5ux9e8LMrCtrwViqiwv8iXGgH7uFUsxHNbZhNd4rhTHw_jni8Y3-jcfi3T4JgoGhYqkCBubosqbYP-Wav1O9Y6Bjc_inYYhEIe4KMxPrZLD5Zh2lXGVH4cVss2urSHBVN-pKdN--V5p1i00iV-NbGtQb3H-SBMXFHajSmPPdIFpzXYp0DToY?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/gGMtkq3wV7Uckiij1_sPnDFOpt7TfMbt8hFMf-Z4ogDTR2ebsBYmE7II6902co5Pbn3I3uR2wi-pLLP9GprpFBSmuQS1c_WTnonFCMsbSOLD7ryKkJ-kCGjR9g9jDKTRg53BxnPKMvAVxIclC2br2NcImyBSlUJ5xdrT0GT3pnTWikYbnZ9ixJy8aI3ijJHv?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/HCuRVMNv2heOfQzvVVR4Am9OpX-TLllBj5KPuS8eTji5caLUCqguc184OgwIGA-OwjqGIC3qirdgSqlO_Jx25Hqc6YjXU4Tx0TChKii4VVuCqIMREze3I2OkiIzudqmzCWofa3-MbRNgqcqQjs2vpTg9vem3qZCs34s8U1vhTVBiFpK3DosTP_UJt_qddzTD?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/UooU_DgUYqNLfuIHvWGCUBv_DKFUXpHoi0Kng0NtgBUW6onO3HmbMShCm1KusjyThVs8e-Z0DfkiLiDnELqx9lzvZUACStE5G6nyGoiGOo5nbmFPnsM8NGlpf4qU7ZnEJ3Qj1sJkj0fDplv3o2qKGKfcszF3JkmNY-pRA7TamZsvIMQCXpbk9jLH72QP5QRI?purpose=fullsize)
 
 ## 1. Definition
 

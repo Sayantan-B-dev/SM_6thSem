@@ -1,4 +1,23 @@
-# Long-run Production Function: Returns to Scale
+
+# Long run production function returns to scale
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=9dZp1kz0L3E](https://www.youtube.com/watch?v=9dZp1kz0L3E)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/owwnC6DFG_Tb_cocje9UfrBgvVSv4D1LgijMqFt5vX2z_Db3yXe7dOUuCYwRiEjaTnk92a2X30rQAg65JwMKTcfYdF3NV_9eJxyqa-ybgUAEZAzna1h1JpT0WaaBdR0uUOnIH4TItZxzZlggRuKver09Hp3f6qu5ht0CGX67eF1W3ez3UAJHvIfHLxpHAfR2?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/K4N4nlo7ud5O3wq1rI4GQUNdmP50gcihSnjp9KvV-wnF2DrLimn2pKbw6wYcSHB4OWda5KMvs0qDiA3J7k_hgKBmPmHTcO_TpAikuZCIgTDy9Zq34QKUkdLUnhH-_J482cI59OpnnnORkUCf-fd1W3zw2uwS-iAxViZrKeDMDF1WLmMNP642OvtppVjfKGCW?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0MFPQUhK4RNh6xVHZdt53onreEL3kE11RoIJZtQgLktsvungyWAbgNG95OhSasMYG52RXpLEWjQsY0UfmP-6yM7639D9jQc7GZx7e6g5zMrzrhaeivJcTdtSU6WcTQE2hBsyaMG3xdnHopvhjqWcmKdieknepfZ0k7Xu5D605nClY7sKdfCQU99Pfz6Vkv4P?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Cwfi26oF1U3TUTyZc1I3A4n0hsqtEKm4KZJdVJzWlAHuz7idg9TsizVHOYgLzVvm00Hx2Jj10CTgkliVAliB35ty1TtJHkE9TZ5emw484iJXcDQhYAhxhSBagjwQ4wBJVPTWqBvTe1cTE6C6w21Wj5QbUEP62AovNLWLv2ucEFTP9GpekXQ6PmYw3BJiySL0?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/H2TX7zz6YEk2_zeiW6MmC6NIm6Zz8pqF7poBkhjjBDtOxwRtt39L_RfSUa7zLLEqe72KQS9iHS1gJ7A66ZYAJBCLL99koYPdsB70qhXPUDsiVAy1FOE1f2H4ajQfWNtuM6GNy40c-Tm0sVAdM4QP-cX9yE1cz8VXG6AWHNRI74kqvqc6R2bxSYJZ0q2NLc4t?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xZeLmQGA4W0ziZ7q31W8KHHc2V1qtEOoeRqnCyTC-vGcMnM1XBgKDeBjqALigH1PPY6aEZI-iggNppO-o985NnFWQLDOBp5cKulQPsraoDEjS2dkn6DziVCmfc_XufDvf-GJhPWBs_BV1najlTtJS6WvQbOSZJg-bl0h8zbqc_k67l6F0vVzv9y-lWqsKa4B?purpose=fullsize)
 
 ## 1. Definition
 

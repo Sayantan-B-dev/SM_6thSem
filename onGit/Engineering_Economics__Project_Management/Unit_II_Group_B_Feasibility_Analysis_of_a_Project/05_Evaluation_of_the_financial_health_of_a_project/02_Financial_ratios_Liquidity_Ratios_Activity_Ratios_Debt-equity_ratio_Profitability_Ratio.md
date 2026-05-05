@@ -1,4 +1,22 @@
-# Financial Ratios: Liquidity Ratios, Activity Ratios, Debt-Equity Ratio, Profitability Ratio
+# Financial ratios Liquidity Ratios Activity Ratios Debt equity ratio Profitability Ratio
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=9dZp1kz0L3E](https://www.youtube.com/watch?v=9dZp1kz0L3E)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/q8uCoyeoZ-KO_QYx4izthC5t3lUkt_8c6UItXymDSlnTgZnllKhrlzq3eKv3CnuOtjDWJ6esByEQFgL9Ton4U1UJdEPTkFhgH0YSo4DjuqKxCYTEM1qv2RG79odsYUvHFtGMcYX4YFGteAY1n30OR0OhtUz92mXVJdrT76kzfLZEdoiHfz3y5sDGS1aw1zAV?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PITGlk9el0nkaLxlSZGD4ohs52OQRgIx3iu6sTqD4-Y8Umc9SPX1vIefRsR7E0ln6KaCm1FVkARluXQLd2HnkcpaibukpXjDBqL3IGSaiGDjPEoORWZrGZ496PBRPdXh4c9IzSh7g11eqQp63BAeq5EMLqlo1DFUwE7zpEqwSf_4YHE7ymmZ3dpgVF7aEQpH?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/sgPi--9IDBOPoxkKIiJEwXVYWRhpY2xABwgj3bcuW2yOvT5epFlIqcTcskgPspJG1ZemNJc6PFFI9CpiCbmn5cMrTo7k94gexhWdwjBudsz09HNsuS2t6WFqi1_TC0_vU8q3gnGc5FLQvIizX3jFYIetyUAjaYOe9khiwP2BiZ9Us2D0Qx2fV8LR5BiMBjUb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/RWFXFtwTWBhcg8wNe66Khb-il7Ap5Eb67yzo_6wi-w9uhFicamhNHUYPR5TWzp0E7Acuzy0MLJuT6P8_pqtOV2TcHedRTSxI7kZEImadA1wajt2y1CmO2cxUs-0v-QCRIctr0Fg9lpZ6FIZASHgzdynARvs6wpNKXzsMW_hzmxVqtQEmG0QgspU2YECuiI9S?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/gpD6ZT9SuA6Hpxgd1QHCmzWu3CZdEEWjgTwCx1RAmhUSMpE7u1KYlM6Smax7P_l2nWSpOSulWJ7JcW6dQmOBYfQyff-4HV_sgSsGBJ-rRA_R4GmAaUjRcyPjuJudptzcXx122ScfyTzwA4WdjuA-cJIjJ2d4mAEg7bW0uBp1QQXIJpD_g-dStAJLWWqW1Ccm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/DcDbOOkAcjk1mR4Kifie7fF4XZQMrwO41nlXrl9QEBYOWpFyitW7Ez4KiU-1Em1Zhb1-tTUhaGF7DUGH80HGrIxpiin12UmSxLYE-2pBSLH2S0esKrdErLOjeIEBmFJbfE0hqs-le-xQRI4H8QXaSUrHwxk1RYcTP2F1EKatay8xlO-vt-D94vRGIOmQhliK?purpose=fullsize)
 
 ## 1. Definition
 

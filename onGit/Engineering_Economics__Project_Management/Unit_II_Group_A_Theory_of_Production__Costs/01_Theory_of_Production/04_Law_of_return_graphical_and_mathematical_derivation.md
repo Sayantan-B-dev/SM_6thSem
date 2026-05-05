@@ -1,4 +1,24 @@
-# 04 Law of return graphical and mathematical derivation
+# Law of return graphical and mathematical derivation
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A](https://www.youtube.com/watch?v=HfZy6sUeP6A)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/IyfWoAxWP-S_zAU8y-tzmIWhEDdvtLiDX0Z1UBk3MT3Sx1Y7a6uHbSk54vntTgUWE0lFtRSgSP3oHAIk7ww4kPkk0nYdvK3y6U6xeEDco3iYBdLme_FC2ufP4FB-nxk21LtZ7SUzAiSn0SajU9lX8ziQliRFzXfxQI4BarjE_-JelyhkWe3GoF3MwjsFwgvS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zEybg9nwxhcAuBCBRCiPtjXb2HBXrRtDjfphe6hEhSLICwEg3qh2iFsIxiTNSYUsXEwX6KMv5gq5gkx5bmfyzqsPJUwaJ0VbsCHNSqssChZaZ1s-moGmgFyZGHOsb-hjZti0Vz5PrJL_CTYprF2MrDJOQEb-yCJUbrnh7fnJp-rbvDXbw6Y5DJZSMjZxCtKX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Kltu2hre_xhGFWw-xvcQcyak3PRRNUgH9tguiEkPC31SGl3n1yooQHl3sVTjtmIRbN-7GlbjX4yTu7NuJNDazBytmyJLt_4s7OwwcT9tGmETIqHTLtApZsS8g0yc0-c6IXjlaqoRvi1GpvEW96fIGLx8TAn6lpOttKdqSRFdJq3jEaq4mRE3rJRhiZ9eTIWx?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/R81959dN4Ta6iERefFHR9BkKhflEGOnSa5BJ1eVCxLsTJCOD6-rz9-56khMY_2TT8DIYSYx2aGlkO-cRfDNmiyMu2WIsdyjilr4n_CIqMtfnBN-EpMlGbunSqXI724aubxYL56ax0oyIWTHbGZsLDCubrIqKNeKuIBEibGhtom5JC8u4Cv7adfcbN4vIPOZ8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/NAjQZ3ALRR36UVCs0mkzI8rhcDB-_CrITtvDxjwzIcZM1RvqHriM4C-MCAG0dDmPBuZEOKWJGvizjPKsipe8VvtC0d60dFoR896eAkrCJ_T4kqmnk-nKASi3CIv9gK5qWNbkFi_wSyXuoP_J65k40qodxqyqOfw3eTZtocCiP7DhvhlMJMAqSoFz-5xwkZoq?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/X8udyTbVdkfkvD_BN3UyF6wVi6tFXgB9qOGcANF7zPCL24gq2zeKuL2_uSIafvb7Ki_rhidhXt0iBCECwBswITYcE_6n5ew8lj3SQEysC_UxeoSOQX7vB0Z7-i0Jc8DInIjbxZ1bQHTLKwQ6PGT_HF_mKN0ievQ45OTlmYUOwA263dIHWoIm2raVb2U__ctO?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/AwaE0QcK8YKzzOK_c_O_5tej05nfDZ_siOCC6tkJRBDCJ6Bvgk-DGvAxSD8y4Wif4yksk2ec6wXZzWXLmjWYYPRbpc8J0JjpUq6TVplkpUT-GHuUAA-a6JyHkRm02tAULAxpOgL_1gTL4BYqVe0rS9OyoXHbdBpAg8ImReHpDJ4vVkHJmC7BF7HTCtcPqo6x?purpose=fullsize)
 
 ## 1. Definition
 

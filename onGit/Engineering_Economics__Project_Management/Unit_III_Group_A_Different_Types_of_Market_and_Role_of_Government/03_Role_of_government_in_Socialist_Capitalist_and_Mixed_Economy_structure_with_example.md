@@ -1,4 +1,22 @@
-# Role of Government in Socialist, Capitalist and Mixed Economy Structure with Example
+# Role of government in Socialist Capitalist and Mixed Economy structure with example
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A](https://www.youtube.com/watch?v=HfZy6sUeP6A)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/wYWi47W6hNL4qvZbDoUHAlMDZYqRMIP7PenUkUjlYW_gz_usBduX4d8mHYOPk_Fn8cgnewti9FpBdsv-EvcMy2MMA57MKTam9Czx7jTp4oGOEWAL-SMrTQJsR8km4LemNpORubf2yZ9V_KxClBzi9U0LuxMKNKtWwjJN6YunjYCNrVvCwDTqqw4FuQFxQmZS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/M9tpCdbNP-DM72sl5fp8NPMXb0RrK5z_8LRztjTy84uWPWzXez5C4XlFSNx9rZCy2vrPevKZzduzoq6w12q9bdGwTJmBTdXJMWJ4gi7MqYkK698L_hgCVaVlIG7bMR6uvM9RRb05b6fj2enNW0h22If6UYksITzJ88vyU-823bNIfnvUJ38gOBs71cBrs2ED?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/6uq-eCo3DfZcOswgUGq0fl4Ddc5wB7e23r67bJESSinDg6KY32rpkRpKe5IRn8OKagwl47yXeby35JCTg7H2HfCsGtZ-tHsxWjmchnMi8R8LfH8NTKelmPQZSz00QEw0kq04jmvBrHD50KohcuW1G-pf5Qt_XsUO_bvtdZYGv23_WDz51Z41mWDUt7THkaAa?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ckr8z468AIcLsY8ywOhXjE3wHcZwUaKaPdlfzOT2igOLBbemMd1Jp52aVt26tg3r2dcHVBcJzfdX95CKXrYcXVQtSWja4HxmgUtQSd5yi-ckEErmsWrHj2NsH3ubW_-zK9LG1DoF6aitATrazodKBz0Gdh1BuPIx1RNzMvCPdddluH0tEQRO9gfxEO9k3KOp?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jSUHsfDCAMK58KSiBjq2iqw7Pl_6j1e0qBDe4yaZRXbGP2vBCbO6V4vmE7B02k7nUkddC3zxZibWpZlpJvDBtKgjHwezTW7SSFjelOPJ8NsFnFxTEY4oLGuIHH35qpSdy0meG5hIRDvEMEzMB2iGfOTTbbEiA3_l7LjmI9ISCIhEs8QZGGgTo00jUOe8ogCm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xW3GDp3Dh9miDR7F0oL7V7sZiRfBbnZuCcJLe4KagScCoUU48b5c0HEWOLtSOrMdllW4tSpWu3OAiR0xnzdnmHARU1KVBRVuwhKC4OZ4eG_ALaidGJfPn6bfzm7ogJtB4tOISNjLLLMdF0dDNYU_isz4o6PQWBEy-t2-fCPN01h6Qk5UsevI3d-UQsFd-1dZ?purpose=fullsize)
 
 ## 1. Definition
 

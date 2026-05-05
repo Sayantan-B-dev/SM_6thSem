@@ -1,4 +1,22 @@
-# Payback Period Method
+# Payback period method
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2q3K5xX0WmE](https://www.youtube.com/watch?v=2q3K5xX0WmE)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/NVofS-Wa7TWcH06yCPVExH0-d34yZPXJ5ctTSh2uoQlofkTHyYDiRUqLh89VmSGIq9H_BeOFB2jqc0efVl9AF43qMjE0e8AZPNRIvHO3_78C1A9hD1-6GRehA7DTB_fsC_R4gaLhj1j_MSHKWgvKEQBjN5Ukn5NPlmiMzct_4A4KPP4ApiXJWk_E95jK6gK7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/8ZopgfmGe1SD7bivmjOchtRtLOzzjGQPHjAw9Jo2IuHEOD-BgSYxGvEyue3ZgcAIdJNeU48GCu-S2kuL6nYejVrbH9UU7o5KmP8a3ynmrfMExq5tNM8CLHai8tSAsAjk9eVOK_Zcjs3BFfOIJ1cJXa-RdzTM_YdmSXC6hBm1nKg_O0Hr9R8ijXhLImF013r_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/S7ltzW-RoXCIAfC0gdNWWW09bYvLQ1xFibfgwAT5v_SStxZWykOO8yySfHTkMYoFBsyBP_DcxGInKmfqggyLCS2jVetL-efUkWqQ1H4dU8NiWpjUkDaYAHsr1sxCGc2eSV1VF0pyaOzG2GOI3y0gpF2Aue2ckBtDUYUwDC5iIO9-364--fFAIOb_YgQfKu-v?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/lUGBc2Q2r7yPv-1JCxERE1f9RnE1C-lmOd7AIVkCwabUCKmsOz66oEaEPNIEFl6S8moxbqN7zWfIVR1o3knHr0NGN-SJqYKUnRddeAr7yjxtfahSaQmj6u8_WaIdw-aH5B_aBUgrT7hbm9TDHdGex3LC_HZrNT2f9FsNCDa_86-b6NLOnyE3MYFJ8Nyzs7aU?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jfZf9it0FwHc4r3ki03iknGoS8mD3-HqbEBrGIb_E1f_otxT70HI-lG8ox0m9EvK46pxVmXAkBMFHbI8bOArAd82BPirzxGIVtg6L02RQBItEFCLZQfDd5OU0wibnIng7s6ZPPXNm9nbIIg8ZAAjiEZ1S2pQPeibep07W1SmMyU9WU-mBUnP47RVJlpOVNlO?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/kgkvOCMZfZQhlZbNib4VwS7Nt_tEYCAMmGJof9xTRl4f0ogMTo2I8K72LZk62yqQHHfd-H63-TqDy_UGVJmTkIu_bFOoyh5o8cC3NkeS6704aRoj3xclIl4fWBvOEgpOj-K4hwNm_qN4rXFAhEFA63ispz0kpzi2Trz-DHp8D7D1dt59h7lo-RXzEIB5foi1?purpose=fullsize)
 
 ## 1. Definition
 

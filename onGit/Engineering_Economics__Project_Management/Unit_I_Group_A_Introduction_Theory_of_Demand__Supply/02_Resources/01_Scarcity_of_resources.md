@@ -1,5 +1,23 @@
 # Scarcity of Resources
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3ez10ADR_gM](https://www.youtube.com/watch?v=3ez10ADR_gM)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/K0COhAQsI_gUQmLl_Zulh_einmYsEoDmB_pm0Yv-4-pj2h2g4d77rkJ1UQlWMQDIAvajGqSojiJYT_m5a8Ce1m2sqM8EJAAKl7RKiiGuKIJwACH7wm7YuVVW0nK6F_yoRue3ESvgz1lRFgYjWWUiWyLdkfkFUgzLoovFU_qUZz89BKd2IOzcO0Z3resdTRP6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/oOuCR15tx0rBnP-pwUzbBOCORKS5YnZLtYKJBGQ77qErHLcOwwmTzCdNwse8LdWlicD7MX--zX5RvxRXMwm6fnURGctNZrLPNVOEbs-t__Q4G9-BnniMGySqCxNRbEOGcoefhIEQhFmTGqNXEv_wqsEM8D_vKBL995xstxRbeWl-oRwlpZsaD_SckJxn8wAb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Db8ftpcU2tI3BLCTZrb8K5oH_7o6qn7Bkj3MFcvng9dnciY8BDWCL1eOdBok-KGq_b_VxNnH91vxknkDDQZqssdIQfWNQGh-7pRdKX5tuIy52imPUSPMuRiYC8xIdLNMxcUi_VFoRSXWTPjDlyOoqo6-jrNvmpa4DErIvUNNwR-YNjvwmRskGpKb-cCIMO6j?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/lG8mIlFJjk5saUrI2tHi-r7NxkuT28s__wnQsbFMWEYAu5owrGf876AG9Cb1H-z-DhISth-ul6vg1gSdlHDG_NKU3oX3_fE0oyaIuwHc71kQkqzqbcuUZWrOZwbFVfv9elHdxjThReDLOMJYMH9CUMQIdJ0jwdv6omzLY0RgGBisdzG0N7u2HgwVycYH63_e?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Xv0zEA-QmAz1TXRkmVUR82kylnc8pmUYF-EO2FUuACl39_TWyu6aQYP0DBD2tuhKpALQq6vbg0kkP_hVxyo1qQOPYjepRlSDfj6RILJ9BiLFc9x5aRbscQmF7xqGT0Oa41vhheWAl-Gkl4VEuzHTra8XXYkTEa47FaQEskYo0bOLDlFdWKA5FYalgIEoHn_l?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/lTRbXXgxUw9sJcirwvjKgyqq14559UtPR5USZLXUKuiLKmFZiuoCbOVjTWTwYeou43CPss12E2hq_SIh60vRcGtA_RLSs4SQkbpychhS1OACcf23ZdKvKDjZjf0_FOIjRklD04QqOk-G_4SQ-Mx6TUk92gNTCP7dROqQDWqTOSquc3aevLUVdEVE0cOvG972?purpose=fullsize)
+
 ## 1. Definition
 
 Scarcity of resources means that the available resources are limited, while human wants are unlimited. This forces individuals, businesses, and governments to make choices about how to use resources efficiently.

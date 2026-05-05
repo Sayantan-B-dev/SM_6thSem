@@ -1,5 +1,21 @@
 # Relationship between AC and MC
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3ez10ADR_gM&t=1200s](https://www.youtube.com/watch?v=3ez10ADR_gM&t=1200s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/SlCl3KnIMBTQIBqXNwMpmb1tftfIEEMfSOxq5gZptpNj5ZcKXph-_x3IwJbMx5ztRJbJhKukppKdSY7UWyvXkdo8V_PMyaDszSku1DRdL8qL7Ccp27oWgb1t5aVtrmIooFr-Cdbz1g_T3jmQwekiHawWY8kzue2HCbQhuNi-k_-jFGo7A86lhPhjrvhfYQlV?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EipsXGj8LMxUDQb9MK70mK06UlY015OonNUjzuRqGtUAMzJofFbjgg28zeUNNhsO2MJQSKRXhiVq3govLl1PGlCc0LgCv5A3l9P2-lbKOWfxT6IzuM_s-Nwn3SpqWa-If364I9GteVKuyn_9OxQfHkk2MKJ88iImj2LmRuTzTBGjSbypoDlD-lnCQiX4W8At?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0CAZ22BE2DIRNTdqY8-WLdTfz2ymUTC2JzLrbB1I_NTtK_FVlWFu7-rYDZeHBskWr-_NOmUCo_BRoYQLg7AYMVo5vYWguBCaqTr3Qa4D1Vxjup3FOrU8gtDpjaZPXtaKYZhDezRNGaqVlsvL0IK8Hq1ti6F8nAHoCkY1VcThCeDXmYB8-maPdcjskd7VNe3F?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/tAPgcZNcQG4peYa3JX80GsF4poZTYGQrVjaolxHzawrQ8vzAWnJEiNooS5Csd_XV9hSwv8MBeLb3G5pkdHgz5S8iSrE-bnZkNO5FBr7c_qDIGSz-5qe-w4X3O7GQHYu1pwTN3U4WhKxYScv8msI8dl9TgQmDxZFJGdS_1JJDvzSe4Dcnh49Z5MXNo48RFRpp?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/GqvJ1EZn2sA9dShW3O4Ztf2BAk8G5DPCo--4XTMxjJOWt2HQGph4k9xUdYyFkaaxsGwOVA4dvJo4gf8js0L4I4brvo1D66_WZVNaUP6L4NuO1n9sv5iQMQd0cOKwpJQ8TI73AFOWGRwKn-DIsWvy-nD7Y1LNKZpOqAfWgFKUf_NUUIKzEjHdp1fj5SWBbut9?purpose=fullsize)
+
 ## 1. Definition
 
 The relationship between Average Cost (AC) and Marginal Cost (MC) is a fundamental rule of cost analysis. It states that when MC is less than AC, AC falls. When MC is greater than AC, AC rises. MC intersects AC at the minimum point of the AC curve. This arithmetic link determines the U-shape of average cost.

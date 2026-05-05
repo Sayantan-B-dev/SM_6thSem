@@ -1,4 +1,22 @@
-# Short-run Production Function: Graphical Illustration
+# Short run production function Graphical illustration
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1s8p0cQ6f9k](https://www.youtube.com/watch?v=1s8p0cQ6f9k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/u_EkNWAfcLD0yoA1CaSD74Y376H_ArVM27U_NEt7j1YnRbhyeE5dNfDPQqOMCu1UwwLV1R2pxCTujAVX24YqIu7KP0Pc9LNuWspRlRje2UZg2JCTC_ynzp4dW6De9qqXVaO96uXL3CprPLfe4pl1thNS-cXCinwHTvreVI2_7GVKXzmOiV0hEkQH1LPMB_po?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/IyfWoAxWP-S_zAU8y-tzmIWhEDdvtLiDX0Z1UBk3MT3Sx1Y7a6uHbSk54vntTgUWE0lFtRSgSP3oHAIk7ww4kPkk0nYdvK3y6U6xeEDco3iYBdLme_FC2ufP4FB-nxk21LtZ7SUzAiSn0SajU9lX8ziQliRFzXfxQI4BarjE_-JelyhkWe3GoF3MwjsFwgvS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/84jD722-DPzzdpIsEytv_hxVIXxW1wc11Ogr-jx2FyO2ygPZI9ewmCmWmmLlSnXW18f9Tj5-iET-wsk7InFOLHCuwPs_qXXzEXFO_JBaie4e4ITM1KH28UCq5ZUKAwMlccTsYSZf0YYBSeO2BmTuWrWjDwrDYbnpeh6Lp4P6Zw9QQFkalkwkTE05HwAelZv7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/G-C0ftBcnfnAwb_4CU5DxktFOfmWlBxkXuhb7Tok-_tZPayhC8pC7RcGcbrpNRIRVq7iTy2ZFA03jkTSokon9_eKexbTTH06ensAKq8yOddM2OQl116321lwV9ldhOej7BMvR7BlJ2RW5TzQWMiF9MZYvpuJXj5pSqnK-W0m9d62Vc8DW9qWyPE_4kOGpQd1?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/h_FljkBW7Aij3etdBWrbMVUnwhM2lcugQQhjoQ1AqGw5hVrTOfqyG7UP3wGftDmNOrHdRaMuhiW96FOtnQYtEcJEijPMh-7m3sdyeZzWV5Me-ojS-9NdqVidcLf_jAA4OX5xcOy-U81_uRz9fWLILmGA2mneadINI_Xd4Sr-f56To7fYF_zSL0EIbJPpqYn8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EuSjSOArFJezY347tRUTqB-QlYRfkKyodPMHrGHjhklZXEKbt9b3_LtFlZxRSfS6y0cGUzTD9Ugx19xP6bkgHzPNHB7ykUEwzIz3fCm5Q__Qh9tszBAwoZvxr9tvhZVkgiosaPYiz2fW6IoXD7eTsXprJjPogyaM8-XDhwsAvC76Jr240joeYQLj7iuoTIf8?purpose=fullsize)
 
 ## 1. Definition
 

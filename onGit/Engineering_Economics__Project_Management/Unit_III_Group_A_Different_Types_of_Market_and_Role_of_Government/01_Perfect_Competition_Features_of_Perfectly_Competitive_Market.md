@@ -1,4 +1,22 @@
-# Perfect Competition: Features of Perfectly Competitive Market
+# Perfect Competition Features of Perfectly Competitive Market
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3ez10ADR_gM](https://www.youtube.com/watch?v=3ez10ADR_gM)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/9fkfbyvx7f8o25x2HtEKQBz0sD6AiiiEEkIp_srOAGBuqgv_r4fhSO0gDlw0dZJzAVnOXlY5w2UEDtxdSyV-RTNUyx6TRy3oCcDu3Pum1vEN-akHmOSMvdMPVUV9ojl61rMtPlu0L4y0fpeiDP2Uet0VEj3gH0fRljnUzi5xnLKuT5t2Q8xPPAZf7LFxeBn-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/WYlts1dw8hdtA_2LOfl8Emep_U6kvVglXjc2qpUinGy5LEhf9E9DF6fJSN1DcBwz9qxW-Q8vYvwwJp-eoNn1rXXvYrmXQy30QbWPyw45O7m1fc9IOGP8tr-EuTPc6XZJR-iw_n9JmO-GnO_47pZobk-PzQvzL9onkcLpjZi4VLVwdd0xBLwUF6pEQfvkpDYQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/2b21_2TzOIbca98foqtlpdxFFVNo_11mlLuJPdSNFxl5biDyzr7ljcKHFUKHZQ8b_ijlpkRJWU4_0v2Y3RoNJwva4RAVkKNUAknTxI7iTkdWP3dI98qSsKcYXAAq6NKQVOUAM0HHG5OGrpyjMvin4TNVqEKninZoFYfAc2HVGQqVcyRl7e2Rd9rsFAnqhKKV?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/avL-HflQInxk61WglgCoiOhUZA6SrreXKIqHOJKGHXOa-w1thHthnTn3bLbgttJ2JTE1gcxv-UM9MDNjtQzF5juAl7um2jug0mtY3woxtL4G0pt1FielpveEmdSf4g_wMzqawaz6C2w1-z3IovzE__Mi38-MzouDMwEH7VDHHqjNDT318wGald8TlSw6pIzv?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/CYASeEjbLOOxoleLpeuUZ9hPxXE8Tjzu0wwcUVkmwVlLU5NTgAjy_i5RCkVpS-T7lMHJVzuJLxYy4prz-j1YE2HZQ1eFoCoJrA2WzW_CyPbyvOgObnU4o3rfzyh25_mBG8jqgav3Vh3AEb4-fWjmiioKxnaVrB-FVX5vb3IB7EnH3DfNcAiXgMcdQwPwPOjP?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/1TzOv5jkkqmqYmOvBDP0Nx77IpW8rj22wcRiCxzXIafjxr_Vi4k4FoTR8nCWFQJ5FZJTlM1g8t--z7mZLjFGUd2R-N-M3hBxAd2sYmDbcvwzc-H6Xo7oHd0Rzh3NTN0GB93KerLxZ-ONDRjYfUpImnMG4zhjsgWpAdsmz65BnwEWn1kbqWbcKQ18X13XAMsQ?purpose=fullsize)
 
 ## 1. Definition
 

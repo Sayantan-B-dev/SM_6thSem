@@ -1,4 +1,24 @@
-# PERT and CPM: Basic Concept and Application with Real-Life Examples
+# PERT and CPM basic concept and application with real life examples
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=ZKOL-rZ79gs](https://www.youtube.com/watch?v=ZKOL-rZ79gs)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/GecCvTElZ6uSTAApPhleyVgAMKzYBDJyfhOQkQv4T2rl_GWnJ0iHuL4HwlJKkbC0kr4DZqKEFpN2i_-WZCbKx1dCJADX2-nS8bedKQB6dI95_CIQmhhAqVAFC4Q_T0N1cIy35ZxXU25Cs7s_J9i7nOiaOX61Ond3Iv6sxreHw9jEKR5sdzRBgg2RCNsE9Hw7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ZcItWagXpFjMNLkdCYZby8jhkXg555Vhf1_S-4QejM7_GVObPYtHhee1lAExGBkcFV5HUZdRami2kfj0dlGjGk5bC8MyJ_uzOTyYqRyv-IfMR2dLfjQoedD0lvk9RrjQFjCVE-h8yBajuVAr5wBtvKJg20s8ppKUUJ26C1lyOeDUrJmM2AekVwOZA9rdy_Dj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Sgtbg1JdosbylBhnbn5N0j0CRq2CE5GtntPysl2Pv7T4pFECDi9IP_CQPB7-EunKKjtnhWhXyJ9n4yhrg__SCnCWsdKv875N-RCZXBIXQbA3LsbRCpUyPIptl8TPpmsYSnyQquqeo4womPJVcx7sea1PhvngTGGbszkN-efvgpbtiuhTX2y3o6yeZGMSbGY2?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/5x4EeS6oWWQFc13IWoMgMWGvNyARiWI_btlqHOK5iVD97YpzHZ7X_LXVbbKVuTC-DCh_3RppwMFdqSzFtTwVI8gBSxJHH__5rNLe32n3ejlQ7QowYfkl4RCxPMe5U_iVkXmBrXCGu8k9hxob-TGWCzM4wk-CHeWUn7oGruSGi2CA50WuqLvFhUbu5BP6AX7I?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/gzXr6YoCFkMoKZY4Nu9H7e2OSWcVeQILIdhQxvz5hXkVI6g350QOIV8xxJm-IhtwqWpkPJDz0T_McLmgdlfXcu1mPhSCj_RZSflJww9i7kSk9iC1GwAxU4FNI0XErbgYTvr29MUtL8lOu2Wx85ZaZPToG05DM66EnrX5o8UoFKcXFrhfOEwzK5mEegP0F0Rm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/QM7lda9gtC5WwcyqDq_NYJ2VevruYuD_nAuVAP1kOYCYvU0hp5piO0aljwDkFjV-n-Vx7eXOhPRVeYdU2JGbaDtrJkHtZnaXrm5PFn8VyLbg_la2JtjmFQ4w9s6EiVT6TPteKb-q9HRmZ2Ol645h6B3KC8ymMJZVjOajzs8RB1I2NAyL1oakfY8JEr_GQ06V?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/DPOmOO6DCNbJ3KczmOU336rH9N9gjdR8Ki6m5OBBDjGSnyxAjOyoSxjNoIetGRY4iBGR443YVYdkqKMse8Rrn3msH991qqCOtxZq3uxPiIr0YEMD-TbaWpL65Vvl3OsXal9QpJML4XbCZk3CuA_OtzmaixDNjYbRtPsx4LMvZBiPIerJj4a6IymFB9fQI78a?purpose=fullsize)
 
 ## 1. Definition
 

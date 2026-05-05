@@ -1,4 +1,24 @@
-# Basic Comparative Static Analysis: Change in Equilibrium Due to Shift of Demand & Supply Curve (Numerical Problems with Graphical Illustration)
+# Basic comparative static analysis Change in equilibrium due to shift of demand supply curve Numerical problems with graphical illustration
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A](https://www.youtube.com/watch?v=HfZy6sUeP6A)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/dCBRLAMNJgY8wxK42ZgSUNItrLM5Apyrd0nQd1tWE4DVn43G0Idl9WWnh62wo4exIMOUITY7Z6lqC4l0a2yxbygi4c0QV2Tj3GK-ADBSTkCzr6vwBePLXChkTQH3AZ1-4VV3Xp7pGEp8uHXnbq2wWjro194yMmhDDciJJSfiHz3Zm1LeoCs1RAagfDTsmsvb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/otCkkviGFcI4RUlalrRAsHPBhx6tCHGMpav0AB9S_3et7fgiqWHJNpUEFjkVevM60Iv3Fa5Bs5wjFz0_XkYXLUdMoLq2IhcXJzRy_zrUEaKI4QxIYdTdBMblOJWYmhDxnXr_oBuxKE1Q9CEHzhWIbJmOWOg_CJN6YgkI9ggHQBuGqGZXiHtM1pTPz25eoRZJ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jYau4uuqY1cTVPxNH66rp4JMlAVyfNrhuzh9QaWwcu66zag84qTW2JOCznK8jDak6tGxh-CIF9Ysw6yFEcGg6rC5YcQK60vUHck5_sEWoLtDeOsbGGFnp-6N-HG0K0ArNsZIpQHs5eFa7DJyRtYbxXV_HTJyoU4HzFoM6kNWPKxszT13AYnc7ctPMD85y7BE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/s3_2SqObgbXewxkCgthK5H-cvZX5bCue7QcxJYGDt2WpbR7Ig-IkfY104KAWtt2MrwIi821fEyZccJSMfltCTmtxKn_8BHICCUXc5yeuVa4c2l1BkOXpqIiwlet1-LmvIPyUUtLW-qB-EeHOI2Hv0cz2iT5eO1jNuJ6vOo4YcEx0kRgIhuV8S3BqUylOiXQC?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/gl0W17rUtQJ-Y9_PWkEeWkhFPDR9aupGRiIUEogPT1uCH4Qu96whNkSg_YXFK2dKA3syd9Spb18qWFkjhcjfVUP-RmSUR6GBbwgwHmfmf0dw7rzKgjANc4ZB992-d3eIJE4y_zXiMJE0Wwsz7RvHCIYV-jHZfHH9syNBXmBUS_XvmWiHBZfE0KWv87FcHfs9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0j2tP-uiNJsbqVSmPX23EH6tk86HwPAB7xVnGMayz6c08Oad2u20L5EEjksWV88fG8SSOtwxPi8kXotoFyjPQS_11nyK5dFuEa_IudQm7c33xv-p7p59FrHzw1AnqGvbStpYDQDjuLMuI4XMdRzjhnF8JRSwHK6PiF5VMtg9sj7_POC-MekNdiGfhrhiJxZX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/eGZmfXMnIM3V0kkRI8brqZdjNVbb2IBaj-w8_qc3PsRQ1ixi4CzKhXfZjaHvQsUl1fT4c2OIpOWTcDgyym2RPbbSCoP4dlsPj1Sc0DEXUyLHHq0RTMMYBTx0XuEni22OJ8sjluegpH5OWHtDfYo8TYtIJprnuWP05uIu9dFpYyBCVxXaCM-6dQ037Q7k9TpF?purpose=fullsize)
 
 ## 1. Definition
 

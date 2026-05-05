@@ -1,4 +1,26 @@
-# Environmental Impact Study: Adverse Impact of the Project on the Environment
+# Environmental impact study adverse impact of the project on the environment
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Q9bY7g7Qx7M](https://www.youtube.com/watch?v=Q9bY7g7Qx7M)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/oL_c3Rk-bXExgnxlLYXK-_hvjDBOQuKKXtaEM_cxv_OXqAxoDpDa7OeZtCj06IgzUjQpsDBRwNVVGQbX1I75KxP-TBoOs0_NCTrhGSTM6lL5Wf_rH5jEY38lPYgE7C9bTWccl-yd6ngSmuXcl7Icy7puLFFi24HeDcy3uHCuF2fQaQxR1GsePSL9Dc3AMCmn?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/FobXFxnh72zDA6xxB3u0tmyPADI-ZMEJvfgRkYyakntNhQqy1vRgXFSxn4HMVqM5wbROa1f6ztFibQ8CAQoEcQB5g2xHMJdWbMt3SowaKWuirKwHf7BYtWZ_T3LQFl4QjFht79mn5g4XTitlq9mkEUEMKuL_2jE3Zku_c2Ow7i3iWPA0ZZcD1FdTwV188F-a?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/F39gAfaHJMoblo3fT1RCxS6mHfKiwnrVAY76ol9OgNux7bqo3M_yQGtU3J1VgyzvspGOfveYTNOgXj0eFn4FOu1yAN4q-k3PPLixgfC5IdOEmsCnb_8M-Prdvbbd_SYiQAXJ7kOHvPlI4X26082DWvcEoUS51scDdwS_S6w_5iGem1MeJQbFzgI5IguOCLUk?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/asaoayY2LMlKLY-kyPRqTK3rzKuIQ4NMmoOkGpDJJZKQyGfOyrta-bko4rqnVyMxZyU-nPl73-w51WGoieq-mLEct8CgQo0o7k5O17OjreXUaLSgYFKvvcr9tJN-UIPEdl8rK54xojpF9XPTq1CiS_dlZaeCYnv2qWtWNRQD8ZAFuGDRbjDksZ1uvTcenMYO?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YMwMn7KuCW5HFy5OzxfqZD4x3ky7KLQO9SS7Y6PHKgA-4LE_36iNfo_IfzuzfK4bvr8EGcNh7WHjusefd6hYkD8VksmBTmDLxq6qJF74JRG8-442uRHTYazlMmBWR4x8LjrNJMsoKMcla88nOX_YGvVnYdpxOyrhopbamS312AEnxz1HZcx6OEgfHLamZAz-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/m9WJtFsdBNEK87URdXH8EmwIygDv81BdOqLL45dkMLfIU5sRrN88Jij3RCIonZAa_hr3cAIHp_zSmuRCGFuxnw_CZP9i9WBUj2zEuLSVnw5CTpUjesGHNWORn_uJa6lPXax1cTtlbyAbigqW6pfi4ohYpoC66rbNWqA8Jy6-d2V_5U4dpcm_9j2rgWjzbPaw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/7qCwBWAA77i-iimqtNUZMVufS-9epKzGxIfHTZes2gt70hqlz1QVQsTDFbLQ_QQ3RXoqghkeO0mzZx8K2wi_8gwHN5uhskFDI1VD_4wZUmOHK6AMbFLuzofamriQPTg5Wz-kDjeZ-NnUtkGSCsBKxXz6I4n4d--7tOrALg4WQY5JRwYOHkMYyOUi1Wd0e-vK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/B-fnJcqTv9dojUo4v7c120QxOgXQ5RvtVhE7bNqYDY8OO0erw7rDQicaIIWQf6_bR0EyO4hobXGcuDlrAhyHqq2Jtsdp5QoEUkpeAHF2ie7lwqLzyc9qO3F_o_9MW4wCAUVYpVyfxRe6OeH1bLbqO5XnLj_AeUQhvUu7wiuM1Nq_jufdawLO2l1Y4bV8u3cz?purpose=fullsize)
 
 ## 1. Definition
 

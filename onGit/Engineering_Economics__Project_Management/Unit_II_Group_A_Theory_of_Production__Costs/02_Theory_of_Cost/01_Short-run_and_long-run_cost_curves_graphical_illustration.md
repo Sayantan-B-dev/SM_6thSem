@@ -1,4 +1,22 @@
-# Short-run and Long-run Cost Curves: Graphical Illustration
+# Short run and long run cost curves graphical illustration
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1e9aM4Kz1bQ](https://www.youtube.com/watch?v=1e9aM4Kz1bQ)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/ntTkQ4btOSD0FZV-X582JA-5SsJq7uISgmrN2uB5WGltlCsLeKPIrN7gghrKfCF_wbNyk9BRGAQLjlidteHTReGuwrAKveRWWVS1F7_Eh0EKda_YAIsk4mzRhk0AGFgkWDcOfa3tXBTrTdz8nVgARGNoy972N5SaAMgRLhK7-NaFyNb4s7hrL_bl3dYr9e7z?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/po3k6-iMN3mUXNBlruXbM_rnn3_7E0p_bg2DU6iYPCEw1Gwnz9FB7CHx0vuMSRvJTAZNVfuYjL94iyxg8e1CRPgrRXPkHozsE-dpwY0SbRLcvdocqj1Ma1L4C8m3kyDTPRaxsT5y7-3hJHysvFWmrlFP71mcnlu9pKXwHZu20kQvqPI-0tbSMIm4z3T_-dDa?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_FPXf5u5Un62yBBY7AQnaqkenGpwZnOdlivevlDNABK2kGqXDZq0nAjCkXPKt2I50lkSkd1prkBVdBHNz3iNmMzZ4o4r_kO1svw5w5DUiSX0o1Pm9UG7E6yIlj7cpAwfBk9pIS1uXPXjjJcPbiJaDwY5dEPb9cE_Hh9RZeICap3RMx0pbYp7c2DqRw6T9DZL?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Qk5VpS5xAQcv4mAgt2sngXo8sQBAXEIvizS18Jh1sj-35ndX3G7Nv2KOB_AfMgIKfXFK6ZAjqycMtAydO0q3PuzzG1kReDLsMwgyXmA-RjM_o0G4C3sBNUCsYFWPhfbXfdyIHC-u-i_kkSL0HyrSTuOZs6UB9-OwSfzhx1G62qVberMdusuxO8tvFowFM-Rj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/yzd4_OlcLRqdZjb_AV9qqFhsbhdn6yVrSmGTrwssbBZh7hrl-WWY99ox5C0kRsJMYebbKtjmHfmRlJUQcCeXGzWmyDjIEANJk8c5nvU46RGujjDH7Ay0ru0MVRVXEDY8U9AnImxCkXhiPT8XFUnUJ03ddJls9as_3ntmfBWaH9qg0KbdZgXanPOy83HGnvyD?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/e1K5nTLEVkQW_h1AHpClKBUMDSWijdb7glZ9ida-OT61yQ_eIlVP61C8J_19_jOCy-9I56ZSP7tGAkILmnWU_-aQ52pL955vv3RPsRZEumgHFUxmsJehLQ-jz46l6ZZI_TMe1TFAMRm_fWwZtNsNdWIM2NHx4H5Jm6VvxLHZWDAMFmysfcVjdZDo9d290lYu?purpose=fullsize)
 
 ## 1. Definition
 

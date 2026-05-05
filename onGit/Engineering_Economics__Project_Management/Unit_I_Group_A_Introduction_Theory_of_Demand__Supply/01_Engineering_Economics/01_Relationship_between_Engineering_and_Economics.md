@@ -1,5 +1,22 @@
+# Relationship between Engineering and Economics
 
-# 01_Relationship_between_Engineering_and_Economics
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=JZ3X7z9z3Zk](https://www.youtube.com/watch?v=JZ3X7z9z3Zk)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/AHSk0Qk-v-NCFJuxAcw5uCLl1sq97EcswB2G3EsFGOjkOCeOXFTNu422hNZFUPoXnAyNRtPBs7UbgRiclYrdYflQkvgW5xlyuZmIrzPFOoXuE-ykBBPVjhdsKU_Db52BkDGzq755E6BG8izHs9ZJxg5bxAeKIJe2j8kMIgvnjMjcwtDq2USVJNPITTMukx4G?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ccc2fyyOui6EBquaI_a3L7WfOOjOygP3ZDUJ_eeTnFQ17AiLMEj6GUET_J1PjKGQ8Qhs7v6nLD_wEY1JErIwldpzX1toRkvVBbfsn29tVDRsqoFpUVEcYi6PQrjguLDSK-6YE7Q-uHa7Ew7vC-sm1fhKePN8sUY1i0qOQc_9gTurq73_9WcYN1fOyGP1kVN1?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/85wPy6DamrAFtgENU2cGdxsc8CLhksNTfxIRfuZIHKIQm1AfKpesKoevYA30yNJhNLY0k29e9falpyqcZcX22qTEAXidOgXOE_lwkLCznz89aiECHHGOK_XiDIt8L8zuoVgXNMOSAapkptTpkatXPB8IMHpVACjYPY_82bAStQwLzew245iad-sxpeQMUq5O?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zepwcDCE722_1WXjLHdiH7HWzvdjKes6sbyPq7cPd5Euv7LroRlo7jdnZhSaNrVEeiElgS0srzvmx_ZQz3EUT5VezzJjLbiRMJY2W9VtIkfaR2BxySrA5j9CNqArJmK9hRLjL-BdgkMdUNuiQ5I3sTlKg5XMYU9mwSYEnwrvgIZ4TDuXMB8TYJKWfqyko-EV?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LjclxxwJ-jX9UeSDvK3kJMCWOXzfrrRDxkAcT9D700zRwYtygaqq7usccLWdBTxtglLUb2qqd7hR5KR5qVU4qITrAJtJ_x2JXtcI-YQ_bkXt9QwMPnbvKkek6wsFMnvKQiRDZhFEDj7A_OWXi8xtBX89tP0W_JI9v1QMHaMQfwAaO8h4v-1vwvyORhA6cAuy?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Opu7_lpPue5tE8oBw41NfF3_wz_U-hATzQteBIIUOH4ffMPjR0xwlGFh9888pCkiZlevhe6A4muoSaicz5vMYoOMQK75JeJlB-N85HS6fn--SDv3Enq_m0fTlOe9N3omBBVJ1sYHlFjeVBcHUgPdVDLY3OionM6hqh-EsUMRWwCEVAruRGH-c7-VP_Rfsv1i?purpose=fullsize)
 
 ## 1. Definition
 

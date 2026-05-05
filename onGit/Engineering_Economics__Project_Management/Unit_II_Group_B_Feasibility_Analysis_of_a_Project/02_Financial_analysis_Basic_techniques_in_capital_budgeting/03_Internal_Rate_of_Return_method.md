@@ -1,4 +1,22 @@
-# 03 Internal Rate of Return method
+# Internal Rate of Return method
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Hf6Q1uY6h8k](https://www.youtube.com/watch?v=Hf6Q1uY6h8k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/6jKB4YXugq2XqPbKm90WFh1nxNCijUY7kqwjeqSWMzYxgvpb5FGm0aheTK5Qhg7M7G5egXmf0rH0S5_wuiP79jew21rgrVJMnFmwFDFqijNirSdPBgjOSpaTNJ2CFgP2TiK5ZjEc9bKbhoSuPHxKXDYhKHnwXHbwuiIqnnmXlhpZnZ1kIr1zZSJUUtawfY0T?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EP4oOvmMAB929dDZDIUQZwfeceA1yAO94beVjFFk5ZXTtBLwmWAddh8fglNAb7swl2LdR_M_49T5hDnTjaUvge5KIjVV5IkJ5z6gGWBvbM3qWzJYI-Qk9B7570rlVhZ_zwMdUC56hFsFuuOnL0hgW6c1tngMs0y5k8SCnrS9JHceO_NlYk5-7oT8JXZRAkdr?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/roe-kHkDAbPeHHf-zf4YUlph-tXEap2KMi5VtrbOQ28euWe7gT3sM_H8BTuVPKDv5sWil38s-FyvlEJJTFjpySiN36Lc6yxazOzOjqHuboqCPwyRXfr9JcfD1246OMp9Pr1_YZXoR5ie_pkmRQkD49b4GjVN3yT1I-AHa8C1lj39lYZlFOg2V490Ctlxne1s?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YszH6eS0SxZ34Yvf53Y9z5ZZ9jKB6sQDV5eSNlMloPLmRIO8UUaOlpiTta7VtdmwChvho-2qfxo9hdgPua2j_E8BwOlAxeg1A-NhEJsxHEhlwFyZ7dfMZZmwwIFH9A9a_JGr05OnUq9LltbLaj3iVY5EajNwfZcapdEksLkKcNFTLq-y7DJo6RB6YgM2sn-P?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9ykhwjdJ6ldBLSVLKvY82Q35Q8M3lpDmA-9nHltKW1Ex70gQTaKNG4EyTdh7vaZiz7WWWjP_GFsuJLh6vp58880qhLbnTLHAJj3Qn64ZsSFnsKeFxGU0U5mBoxq9cRTQDTclBaCwtslei2PuDSFgVFvBwiNSChdvC0hzRCSD_8DekdNET_7T1rLYQky8R4d-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xZ1KR2tYl63r-c9H6ic-Hc0TC2XTPzNVYMj1l3Z9shqcOLX9GWsNyMzDQdUKsNN8G9ltTVbjpKxffOjVFqsDG6j3wbFgJG8XUVHeL-msSeb-rH7veYVxFQuIWi9nGAqyfrCKSA6MCpCHKsXIq9t0HbMuCxon5TB2XJeaM_Ruw2Ak6FVq517d4mcL1DmZk8xD?purpose=fullsize)
 
 ## 1. Definition
 

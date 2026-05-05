@@ -1,4 +1,22 @@
-# 02 Imperfect Competition: Monopoly, Monopolistic Competition, Oligopoly
+# Imperfect Competition Monopoly Monopolistic Competition Oligopoly
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1s8p0cQ6f9k](https://www.youtube.com/watch?v=1s8p0cQ6f9k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/mhsusqRUOsNDsUYMXS_47uDmIDy7M_AsuIb7uR5zXcTAQJwvLxklFe_HUC1lQH7_RrlgBsCMggeSvB_P3sBwjZkAIOb0SqPTFU8HoY88ykVBG4HDwgnW5YGW4VdTUNBSyiDC5NvxCOcti5HnZG7VxCz878Y62qAINvnYV7pXeJey7-er02IHM1q9fsRMgo0E?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/132kSKB4O9DBO0E_zqrZ3J8DgXVq-XgMobvNlqZEsJCIk8a0wslw_5yJfl01iTG-DZZR8eBqm2G71V5dp_iAiIZmArMDZaDI26ckkm2Xbi4fv1_0nmhGajYUZVo77HD8Z23ubrVuogXnRTlzUg0Ey6Tl6X6UZveWM_ECsrNrzN1GNlPfnEnor4-qj6Sip2g6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LuIyAI42igT0lYYhCyULQLTxQojpb5pjrjl40_7jp-ISl8iP5p8ljV80c7c9cgJju45OXjB6yydGq4NpHV6yoGqAyKXkOp0dNO3VQiOoJYWeI_QpJq21cbwdPmqoHoqzVstDjdnGUoqbPToXbXXFkQcFOLJA3QHfPFggtFgVzhUlQNT6sz5e1DmTjrxI2WqP?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YSDR6yKgH2V4ORibI_ajMW29kkgYtAfrD-UVIryhatI5MP9iLB1z5Hi-bwNV2wIjbuUrcuoXTMonQPJ3i8dSSeq7pjJdYoUov5QyJ-Gcd0eMjB2uiqim2ySvSSjpzEuFWmQpyG3T11jaADoeBn0plaIDuzXc0ZGOYtWqegr96gncuTNxM6Dw41XK4wYHHkCh?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/BW5nwTi2pbvEpTBziVkZpAg_o_ewtQexpEhVjNIoMEi7iSxejGkCkGlhs_YMBXJSJimHWtUavUICYlH0gYkr_IwfiqFkC9TpchnnDAsHBEJUREfXq0AGYaiLP0Oafsl2241XzhQuPz4H6AcE_H7zIrQlCIA7JqpRhL6BqIqKPPt931KMAfF-jaiDhQi48hS6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/INq53yObVy0w5gfbukrZjPcaBGW9Yr4HhFtAh0XUDYUa7nHzcxWfcqcpbJY_fzdSyP6p3pnwmLAcKbKQATr32Ve5zlb3snHms6nQbJckg_m1lKUq1dAgv5uW8T6Fy5OukxK15UE75O83j3x0JZurAX8MX--5b56rCC-vxUm-ZSCC-XrGEps397oaT3YOT4mJ?purpose=fullsize)
 
 ## 1. Definition
 

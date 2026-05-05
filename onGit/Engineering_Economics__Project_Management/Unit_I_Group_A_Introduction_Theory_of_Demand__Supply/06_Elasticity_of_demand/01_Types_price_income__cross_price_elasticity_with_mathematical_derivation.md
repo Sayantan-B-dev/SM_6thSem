@@ -1,5 +1,25 @@
 # Types price income cross price elasticity with mathematical derivation
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A](https://www.youtube.com/watch?v=HfZy6sUeP6A)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/00-Hu8njxOH-vrXAuoSpqcmRqDBKLFl-cMJsQJwNrQJuKnJeF663mgeZQXwht0qnnInm5mejiZPHFJSGp_mGdEmguv8-VA0qaCDLkYvP04_UdKC-fT-ggCd5G0Ln5wtXpRA0V-5XdF2DJV5StXfSmSdqTJmf0Xxfs_ZvmyAlh2aipmirGTVcwThHv--8xrLQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/au4QttKi5_30jx5-AhV7ToxbdxmTXn2ZtSzh5-R3afUGtaVqyTTBf-0wZCwIqndT2CS975C9RA1kWy5qmQeJiAW4Fa7SpUbBSYulhgxr-bwHT_p4sR9YfzBTvwBcjtyMRxQ1oKF7URbA2rZXPys-m4ks7mLXngQI-46MhWEGOp7JiSJyy0hiclEdy693XSIV?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ukxNc-IfYCTmbB9fUOaiUxI7ZfkzyuiYXdiz7IDyDjwcZIHtT1EL3n6tsUZzAW07yuIu_jVatSz3KWqiibgA99NQWFBiSwADWsuuMJPp2j0A2oo_JuBOXPkWpbsl9gr3itTlq1ohlWiZt9BzX72tsq_z3xTc9SKw-LTYM7cssi70146EflCYQPpqvcOQRmDr?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/NQ8VmtULHdV8fGoNb5glOctCc2hC48jHa3cCHqM0IIuGtL8mHUHA24-cDgLF6upyUsQ7ikeGVXnw7OT4QPB_wquGLqhjsHRVSuLc5zbbx64qkxpHf5F2aLbjtUTVTk4YlZNFWYUPJlmi3IxHyh2yhs2ZjyZYqP3ryJVy6qVQUTp2Q5Yae_hUQiyKQ7NY9Gl3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/A8L9UdRFo872qjYbZ5AF0gZ8LRdKL3KpJRdj2ovcPkOcUnxApq4i-JSFHHwg4nUTDgRiKGVNkZGIkf-_KFc_wXP5DROwXdnTl68Lxn6CS2wSI3xolalBH7x92NHtCaI8C2xMxYq94lFFBiOaBB_UrSxFPVv2Eo-bu-W7ShtQ3vVFWClgAW5sVTd6F9SNJy3K?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/k3s8eQFwOPjYvyN7AS5ahHxgrBQIgt4rQtDLejigw5oTN3Kz1Id3ztiscP4VWSkKe7qZQFEe2eajZyBaYnBIcO_Lo05zjrAf8-pxHzfuqH0luBQJ8uKkkgPoultWE6pT56QLSj9gh8oR6BHYJQlImsckJYKp6itFKNaZYCS3xPharcsJGbkwnHnyf1FdwiLw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/iZOHyESKDjYBoVII44cawsydVcKzzBf7O9HsDO-2ZXDhjddDtBABzTk0NoayaNufeGPLWFee4cBDyMbqIUdXMzIfYFBv6YamOA9WFlODk_pHgVIXmOqVG4snFyLJrWbSAr6nnX1HsYORuM7JahLcnNReCh5vKjNfSuu1_88dGgdMQbrfFwr4uSrhQ47ovMbx?purpose=fullsize)
+
 ## 1. Definition
 
 Elasticity of demand measures how responsive the quantity demanded of a good is to changes in factors like its own price, consumer income, or the price of another good. The three main types are price elasticity of demand, income elasticity of demand, and cross-price elasticity of demand. Each type quantifies sensitivity using a numerical coefficient.

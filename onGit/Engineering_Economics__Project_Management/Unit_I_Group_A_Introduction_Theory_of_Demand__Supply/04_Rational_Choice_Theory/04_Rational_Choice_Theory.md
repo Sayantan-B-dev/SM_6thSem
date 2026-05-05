@@ -1,5 +1,23 @@
 # Rational Choice Theory
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=9dZp1kz0L3E](https://www.youtube.com/watch?v=9dZp1kz0L3E)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/twKKRZM9Ni9VwqDwaF2blKFBvv4aaTjELJ-Xt4FkNspSAa9WY_I-WLHGLxvRc3RfUg-CbgYnVZWOCVyi6295i3aFVtmnG1cm4_nh09EQ4djSmXJxHNMpOhUBAMuKTWc_9nUDbI9ARl_u5ercBfb8NDvuyPN5B9YcJhJSUYikFnxrXS_Z-DkLwMWrMAaZF3t6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/a2kfOnt7kqIMQ6adkegjpv-XrngWcLZwTG466mi56ks-PHGw8KW59-F0yf254DS6t5KvWxfZeDKz5iBM35SA4VryevuL1Ib573JHUEFzpXoWIK9b6UdmB1lAox6k0ivsT_3d6oIMna6wi6yqItkjwbvwys8g9AtVpeopBdC0x84qx0zEvn9_7HJEGaaOtTk_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/tuzgBgM6s-54LrMspN3PDDxr9y5BKRStiuvY0PY4ePQ03mNX2l6UezwX0yW09TpQCTpqN79Tb0y_Sda-uxSqAEmL3A31R01FnzZP3i5moOFR0CjlyLIyyrNAwNDb0R8x0-2UpJMvDK4WleBl-pkkPusRwwlUID4pcz5HQ8ijJA-BeeUjfd1lUfHnE1M7Xwuw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/pWbr0LT4k7JqO0IjYhyAh_k1ik_9GJ83DltzXzGRvoyiUiX0ZCt8mY40x9TwcB4KncTanS8XjxLg7CZueX-DvOjbEZkm1VREyWUoVrUToUJdveOKgOCDxJME7dGfrMgZ7ASXCMLmRMFkljEhc_Wb1pCQkiZRENz4ooYAxBJnE5L5_RHhJ4eZ79hs5SLv_D5q?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/sa1uOm8I24eXyxsF-aozC-rEg_EDQ8DZgjx939ns4Gge05F17eTIqDYUbG4HpxaC1c-0sqLLwNWU-LffjxVAjA6p6_DizE_DO_7sawHZT_Dst8-aZE8L9F2jfvO3J2kXTlIlEMhrTvjDFhD767dUcz0WTqutUvVJk6KpW9CQVh6F9mYEdpGD80DzZofZ5Bc_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ag-4q7aCD9tJWrvcgR23loj3XoawTe7mU6BeuK41tv5WWZsyat8iXVEQKC6cSk26vp3hFninC366G-DJpq__1adQHQts1HXqRZKQRNAHAzTCFnavwUXPDWzNuvhLn4NljhpKaw_na_Y7mxlMnaIAMjbCRPguPoUPDv041QXuRtKvHRiXTtJ70hyrtDMTWk5z?purpose=fullsize)
+
 ## 1. Definition
 
 Rational choice theory states that individuals always make decisions that provide them with the greatest benefit or satisfaction, given the available information and constraints. They logically weigh the costs and benefits of each option before choosing the one that maximises their personal advantage.

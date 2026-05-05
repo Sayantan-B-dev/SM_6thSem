@@ -1,5 +1,23 @@
 # Importance of Project Management
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Hf6Q1uY6h8k](https://www.youtube.com/watch?v=Hf6Q1uY6h8k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/G2vrW6bil4Srv2DMy02eE67NcVp207S9vnonX5lfXTeASyobn-5l-cDKm1hBbSD9cfeg544-xfQRhKgqtA7tX9BE5SEvtNqTvseIQURfiOeLOeJma_QrDC1XZSeihlC78Qq6wNrVq3Xe84G0FM7t7i6INkuYX0n-rab4DucVmKaknVUKwTyq6u_rOklXOt3n?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/y7eQm9dAH1muE7LAWMZcE9ync4K1pK8KlXd4V9tu4i0u8Lcx6qSSIqekOmLh0zSJYL8ZCHJiTIt_JaAOHTh3txiLc4AneABJ-cqQKf1-iMeiHajIPY4rpQw_n5uBq2jn19D0kAwRPbSNxGA4F8MMlA6Nsuco80qYFfYZTbfZIUThWd3TB_5LeYdnCZa04yLA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/3D6K1vMdKrb6UK_qZe8oDLWOOEGtJfi89KOFQubnMO3XG_qh_CXrYl4ov4ARiMvBET3nle2pcRg-sZQ8PFH4Pd3mi2KivYbRjr1T0_ylrdfNDInetgMaTQXSMDdzuPkrdN5Cn4LZFY_BOCxiWP_HkKdF8OebclLPZ_3XnJouJh2HXXaPYmlUkVLuMLUiO2z7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Q2jS8d6z6pp3rfr-QVqbuy_QhNPelNrnzt7VNogkteAiskz190luZJuRZlFgJ7FfDr9Qz_-gvzkrX31Sg-JomG0mpv4XkgxzRUx_Rlcxx19ah1zJbrpu1PkgKfY0XQS-7pUYMEDs1vO9YFWUWxEhfRM3IyLzkAwKUI_z6pASGfJ92HS7IVNFSpWmqrAXlCXI?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/4uvayKJEa-3jR_wQqSqkVuX9YWODyjbeuthUJ7s2gyTsJ80hiunxfXob4aBwLA3Ub64a361up-QE1v1CddDkBbiQWz5jFlCXOvm4qtjJbYLoClrvFJkYYFj9Lm4wySUMXyW1c9j-ygnAa6m1RINKnc-L1flCg99o3wHVlsUvEfNcq8uXOCQ4DZC8qo4ZMRX9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/vYjT_cbJ8mydJlw9JhM3ia5Xhy5SxngctFDWuc8yRy9LdD3PzlHoRh17ACEvd-EaM1Rsz4V2GGJzMjc50M6uOyNFCrDaHnyfuBCFNZZVUettEOTVm0Bhjc3mdSe6C-iSg3veCoba9_aoZK1RYgdvyOJRdvU28UVj2SXQGYhpuqxw1t7ZPb4PVRNxZ0EIDqCg?purpose=fullsize)
+
 ## 1. Definition
 
 The importance of project management refers to the critical role that organized planning, execution, and control play in achieving specific project goals on time, within budget, and to the required quality standards. It highlights why applying structured methods is essential for turning ideas into successful outcomes.

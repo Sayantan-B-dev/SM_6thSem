@@ -1,4 +1,20 @@
-# Profit Maximization Numerical Problems
+# Profit maximization numerical problems
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=9dZp1kz0L3E&t=400s](https://www.youtube.com/watch?v=9dZp1kz0L3E&t=400s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/lmTxVnEnElUdP0UAIg5rlyfQS17fokFKW_ck4tFLJc1QRyBkVhVG_kf_JtS_tRl_qAKkIjj4LaA6TAUwGcUdAs7vDMWRx3WMgcEjgZDGzOWVhA3PmS3sCFpUOHzT80vQ-6uikoXYLNqQCcQ2L22G5HLpy3eOXATv5LAZSa-S78xts8n308jXtBzydGi9W7Tz?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/RXPoC7_XQ2214-_paOu6ggZdxRgSzxw_7jy4SOMKkcWbKBx7aNFDQjLViNH7CunUY8qAXjgvojwvc8pnsihn_EgKzAQEnMjeoL14jBu66SVE7n7Q-anfxomRPFHT23VTioP5HLNoYbfBWYBHov7aAdeiC___m6ovuEZoqETzFMHxLRCDDAKMqNIwmpOc8xAS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/pUEZvp6n5ceh03xlzU9Dw6gUZ0m1z1CM_dS0Z6LySfhDnlVlw3M0dV3dUv6L-BCzzFLuAKJmtSu4rlfybvpo_y4N8ZGn65MIgn_wFvR8TGrFyP4LCcBqSk-nCB5CyrlJlEoBDrfFSDhBuK97em4xOFuARbRngres0xS2jsL40TSVxekjIaUs33HfYEPZ6hUi?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/laPnPMf8vI27KGcQTGkaPHOdYOEMKZ7l5m2Fr9uuvuc8p_rNNmAMAKt9gmvkZDleHiHKHdrM-XwetRWdSuvYeQMDV2W4y0ZbLfzxx1Qa7W_-mOcJnErqzTFNEQ5FJVq_-f5G5vufos-FpwPN9k8OfUpQFnM7aol0LT8ylz3euB1KV4deE4DRPwp8JxjEIVhx?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ZCA9ybSZSqrghGwmguiV9-i9FEf-s8BLGEu_zGeeJ1UaCrZiJwrydTEK22fElBgUPbRe2VWlmx_VWi2yxHcorP1chxHN6ZTCcfCNTWiYzUiCK3nvjW8cPg9FhJbOPkKezqonrpJfQfq4WVGMKk9HhRIRBaGyGTJsZSSCsrnugB5V7tpjnDI3mkJnOGTUcQJe?purpose=fullsize)
 
 ## 1. Definition
 

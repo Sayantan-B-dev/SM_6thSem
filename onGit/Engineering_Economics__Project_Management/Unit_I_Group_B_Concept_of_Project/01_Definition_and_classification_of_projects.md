@@ -1,4 +1,24 @@
-# 01 Definition and classification of projects
+# Definition and classification of projects
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=ZKOL-rZ79gs](https://www.youtube.com/watch?v=ZKOL-rZ79gs)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/98889kopeGKrKT-WjBT7odhlFkh-dFzJ0hrx6VPEgp58BwvEaRxUMjrpIWbU0ExVxBMu-mm3coG3Jgjcf2A-hNbZDiskuBz5AfbObF7ClTbvGBzwlfbDCCY4Xmp8QaZy5k3lIc1W6H7s3ce66srnSOlffNnIZIris-VPJ7OU6yW7r9_wG4EneZDZ5LImHzeM?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/2kLXB5MFHmwTFkjrFOS-5RCpB-12iC1yliCtMlnNd_vLdaQzFYCO_5FU5pm0VYockjIIcZuO9glwWuAT7x_kVqw8TEYgMMUJVh3701P99KHcozNAnAvxhWvr5mM4WLabSH7nivAv-lhKN5pTMzLzyD98oXDJNqNVXte275YT4Eqv0vTVVcOFi3MXthVH12X6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EWk34HriKigOO3UNZLwAUI7IxxbMo17KLeWLti8Z6_gfAdUxWAiSwa0QRMiXlQZtoCGP6ETxaqJSE1CnhXaaheLFomZg2wuHQMZZ3Icr4rrO1tv_Oxo-BRIHlcgW0Odt8CyrU2n4TIZ0SU8QXLrjJmLd05SuhcFAhOnHDJTRF48i-XeO9ac_m1Hh_u2-gPe8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0YSnRvMHvGdTPphxVYLF5N0wq2Di8XhqTxSt1g-MD1AvkkFpHGIm6pw9Bcr9Ofln75mVUEdFIR95LXtykxKMzQpfsYA9X8nYPbzvd5v1OQwAI7so6uo2iRslSrvAP6aDDBhQzMmJBn2zbf5MPI8Il_G-xzy39lE5_boVBmALhZh89B1ENcJJBSHw0_ynDeWo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/MLBDbUztjJp5chX6WatszAg6rhNAxhvmW3HgbQ4gmx8rphseM8O_c84s0PWA1efXlBo0t0YSOQMHPKWSCBc4z3AewrEdBdz8Vqd8xdeagi5MyIMl6y-3uiZ9rgoJjYuovlSk8FiBlvfuKYyQmC0fAQstfcz3j5-BenqvmFe-3xo1GtBSoE2Gmeaou4fhMZHe?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/wUM-OjQRvDXVjFdiUlYbRxaIELKsjlGCqgIOGhBD4T3_xCPDU4WlgPfQNSmSZnIhAajTG2ftNvTIk65elHN9g9Vkt5RUhR3EO9EAWfK5c3ITRY4sEMv4xhcaBI_gGvv6Npa9cZM1zSDTLM6RsIdH3AhvG6syYdyu5QzrEeoscw4ij-djQgUS-IrTwJMXwOad?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/HhQbCyRiZgxVDcHcOkfBHFf_ANg_PNYSAyhVtulD2yQyfNTONbx32uv-q3yVCYA1_mncou3pl67OiRywLeStU6fIz2pexz72ZAU9m3tx4HeTnGkaxjRDUS4wfsAmM4hYV83A5wWvFi5TnFL9DU2vA3OnrilIHenPAIJ_tkALOSZZPBb95VQ_nBtbRHvetDil?purpose=fullsize)
 
 ## 1. Definition
 

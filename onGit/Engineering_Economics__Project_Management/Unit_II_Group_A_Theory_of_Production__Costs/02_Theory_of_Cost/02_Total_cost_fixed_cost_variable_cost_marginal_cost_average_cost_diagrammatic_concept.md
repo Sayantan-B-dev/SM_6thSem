@@ -1,4 +1,20 @@
-# 02 Total cost fixed cost variable cost marginal cost average cost diagrammatic concept
+# Total cost fixed cost variable cost marginal cost average cost diagrammatic concept
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A&t=600s](https://www.youtube.com/watch?v=HfZy6sUeP6A&t=600s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/o9w2WMcmfRHqmk5ePRq-kwiMvRn10RjkKVoviUTtwayx_0-jRRBKNybL-QiBjHAceZTuxqHidDrLmEwrI0CnpUBycpCDEmmSuDF_ihe8Ahb9Ubm1SeVFrypo7yjV141ggdVK-906s4z-gM1Eq_la4iL_W82U2y3ZsGhYAK_TUVMZm7xQi_whhK1v1x-O4grv?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ewfBlrA5dRUesyWW67qGAfQtULJuAo5i0LDt6vjMiZNrlPAzMjA0SviEN4itFszsz-U_4fOsbAvIDuAXm5RdDagk8R5AN7SXmt7sTxp5tpZhW_CNEhpIZPP8JV1LojHUaKR46J_6ICgLLlrvjzqTdU8yDWCq4LLjtAzAZkYEoNk4Fgk3ee-EjBLwhgQgv_Il?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/OB_pT3DcgOWsiyaTKyATlAiY7gR4Xg64qDGb1_tWZ82cXKBja0KA3uTdq_SOtvdldIjKLjyBs05FymTuf8C5Rairt_ZckZw3HfO9Bb4ETNzmiAzPwxzNjbbvIHBWrLwAl38nbaNJ8_-AXUaDvRM_pWHRG1Nv2PrWdU6449gfmIgTg-eXovZBfd336LpI6ZnN?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ZwDs3M2bgy127gvL0txNR5EP1DF7WRdzw6fnUOMgUY24CvMPG2q-dMlWkLVtTaWRw0llzZVbm-5SN0dT2o4ypztj-8NWe_UyRiAaaQTFc7BbTvaNExmALhIxNrUmIJEA-eIzkYh3yaorNK8osvZj6IgfzndAxPgryjqyDadfeI6_i1folkHNJadKd36WD_t8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/acEG2iTpvPXDJOKT0qO6pEyUmXgByv_ox1dEpaAM2oHV4Zps6SrYSNvRpR9saCptrS8UnyxleuYZyyZKZY8K7iWINn0SDmgLLrnyLhNfAi60W2gNeI-49LI8hmBBMNUEZbNL160ln6J4qMzsYiytgb5QUbeCYqYW9jIsXZke_cPAxrmi6_yeXudEB42nJU_h?purpose=fullsize)
 
 ## 1. Definition
 

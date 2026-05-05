@@ -1,4 +1,22 @@
-# 04 Supply curve and shift of supply curve
+# Supply Curve and Shift of Supply Curve
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=9dZp1kz0L3E](https://www.youtube.com/watch?v=9dZp1kz0L3E)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/OoWvTlclQ1RkvNlGmPK0fzyIB9P-nofzLDB2nKkgRum4-85kTreYnH-0DWu-E996dJ_IBJliBGe_063MUrVhcJzLJqkZpHzbheEpbjqv_ebpiJz0Y_n9ze5lXPNcvQVi7oTc24EzvCw5TctPrnzec_IItpCD5fhZI06SA9U6VEIrJ8DURS5Sop2H6qxj0Bvq?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/3zurCgxXVKy8QuHsMw2U2qgzCHWuZSJNZXjPZi44WL1Go9Yn8KDAMXBf-FrmMPl_Oa6yic2mkEc9IPOo179gzup84j6dtodPz3lNnDa_GtiWqFw7OUoWGNewLbE7awJfOGTr0fR_5iX_4Vynp4kl-LV3J2FKLMDb6_eYNNZo1YwL6t_VTZJ1lO4NKDQrlmuc?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0CqhlhSAGxUEZph3AleboaRqz5VulAWLTnrFHPSItwrBlKI2NfEknKaLRAGXch9k5Wn1LCN4XOwDtKQmlpEo6C7KocEsvEIq5isX2EoYBAnns44j0g-xYyr9Z8AUotarEYbWec0GY6g0nB_bsWy9YQaizwSChs6r_BzcDz5K495bnuPj9d8HiO5xcY4Fl7Fr?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/b6F7fGBsSpKoDLocCO3O9IuKK2_crtIUOLUfOhMQCe8Pe2Z4-AAGrZCnyMLNAYRFNd1Rt6Ay-RDi6ayBTcJllvFEweUnChEiu1dgcbQ5lZ1Yl6j3k28SyRJLzeXBmmZCAJRm6PuY--fZa30egw0QVsrsKJ0sf4TUOvs1s0us2KMZ3oRTSFqKFfEUnicYm7v9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/HqvtT1WGnbcX6n2UCOzO2fpSxB3GScy-cJ3ZkSb1q_x00w6vXD_fw2zFWqN9D_znrVz-ivG2kBlJIi7P7tN1WUwr2BjCLbM7f_cGZD3ffBxTk0uloxp8pcc5vvaT74wwHNlxia6kHiunOw2zNON_kOOnVZL0-Qr69LbGr0o0kBhYMAQ2qEfMdrRmV80XFSk6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/dXSEtSz5LXbD3uPMPemBxNMIZikO079pUdmhfNCDFlYiXmn-irP6rqbK98TCW6NdAQX53qDlgs5ucF0-fvorbGjtClNE1P7tDEz1J1f-0ho1sIkVVgx5kIBy55tiYRUZL1a1gfVw5WrrU6XvGX1N6C5HcTwM9SGZDXX72VYKKluMePd7Wny4fbD44p3mhgus?purpose=fullsize)
 
 ## 1. Definition
 

@@ -1,4 +1,20 @@
-# Price Mechanism: Determination of Equilibrium Price and Quantity (Numerical Examples with Graphical Illustration)
+# Price mechanism determination of equilibrium price and quantity Numerical examples with graphical illustration
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1s8p0cQ6f9k](https://www.youtube.com/watch?v=1s8p0cQ6f9k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/zc9O3VvdU8l_AlAh9yoAmRChQikClETHAYEDMH_djXva5hOgsvJ3uJgrXoE-n4h3RD_w9nIb6agfqXaVKT2LJ9oJxU-q_IgViulSsuNPbDI4dGqjiJkD5W-c88YZ8iB7ez_JMY7RdDBlwAlWogGXHelggcenkWlLIA7w161t5qk7MsVA9v884VANymWxI8-U?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/szUW3LOEvIIpn3odIuXi3XAtGTIDzbo217wqkRpzopT3teAQWs8GjYzdVhnQbKV8xty0VUtmOb8DFwFXu2GKgrGuUxk3bjIucwuBaBS5bx_RQRwliOpSZvvJcwNZG2YcHh-syK3UjTq-E3AQK6aJRYqiV5Z9WW6Q2Z1XPDgpkiBbi6GnypL2p87diPZfySKS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_RAv_NCLzObHJd3VF2vQbHNuJXkpxAtyuo5yP_JBP4Q7wRvA2dqXIxaPTWVjBNcU_Fs68NBKz_YYV-Yu3X2Kib3vM4Mr5hnzUgU6xZQz85YgB10-ieTPrnH4WWsoRakG3qNXfZj4M5N-e3Hro6LlNaxWvuzAnqdYGWab03GQ15E25M3UWCTCKeNqaRwuTBva?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/id0UmjzEe-KoW_9sLiILVzkQoP2g8lhZyAgmM6JI0-5lTwPIaW_V-sIO2gi0nu6DIbuZfAcX22GcqxGKMZXPlPfi2KGZLLJwkYGHBsRND-SBWBmmT9Qt8b9O6UeH8D4vRYXmyzdAfs1EPfvmns5otu2IXLWMgyKT0Vy7Aa10hMB1bNC6sx6AkVBqeToeGYsf?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/FHALQ_dIsSB3VJUGDNzSXxz16OjsI_p5523i2aGcepyLxtR_9T7TPXwPfs8hfRljbfAgx4ulwaN_rJAykOyG3CqIfRNm2fUay0EYHQRcb9PZLX0qClVfB6jppdjlVgr8GQzRdB0EYeLO1RS0-jkCSKACq1_DRlajWJC4a3hW5Ipdg2GOYK6zdn9GzMBjkcpl?purpose=fullsize)
 
 ## 1. Definition
 

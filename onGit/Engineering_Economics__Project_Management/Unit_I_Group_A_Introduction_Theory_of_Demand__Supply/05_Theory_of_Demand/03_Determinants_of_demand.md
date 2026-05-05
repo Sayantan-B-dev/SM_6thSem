@@ -1,5 +1,25 @@
 # Determinants of Demand
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3ez10ADR_gM&t=600s](https://www.youtube.com/watch?v=3ez10ADR_gM&t=600s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/DAG5nMZ7--NDj5YljBR7-CWwF-56RJoQY8Q_AZO4ITzhot3xSHRcFE-AX-60IW4XkFYp4PlwV7aLtm-kPlcizHZ1yNSeM8LzxnOFnlvajQeHM-RhAPGPNmMkBng2ycuzBTMG2fUf_RD5FJONlxbqzMwcNEnAha9cULaCHmm3ZpND1tHl76oFdDOHknsHGmrH?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Aps18d0U5sO6foHe0zKlvjbYy2DJ8sja0U9qUtWGc5zrGplJdkZQw-DVLlkGuMnCl3BxbDh_WF1m21JL3T5NG2NrhgsET_-ErXgsK5FjiMV5KEMTuwQZXCI5OOOVaxw7utLl-sk5fqxjn8sGHASleU5e7o4BYj9usWPu439HRQxCIstQUHKsgpcmrq2tdp_-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EeEvvruZj76Kk0BdS_ANpuPTkBcuiA-qVJuU0y2I5jn3CMQwdg9Ah5k5iUQxkrykCLf0W_eE_ihEvY5gSK2nxMn3tbKwM3ddAfpN9hB6Q1Iv9MV66v7vZ2INgj9dn8pBhsU3hm4iPOCqlOKcCPjhZi45KcmAfUT3W2SfaYA4DeK-nz_HjC1PJIwHYUjCN-GO?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/qpq0B8fZNxf1BZzwySpsBTUw70tMCDeMEoWan6czhpM3gtK6JotalaV361WbCII3cq2qIWlT6oK10yhc1MSJsZd8iEF_Tv0NYucqqmJ92MeQAgIyld1PpEQStDJH8IGk-_PGtTcB9TNcit4vBip_2-TF-tG3JijuPkZcQIWcLLgo7cqUfGxu3WTp0LTa6_2o?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/HHxwOmonluJWFS5kmNgy6-aqiq4Jvy2LOcWo-_fnm8Z7hvCwmrX4F6gyj94gxeWwxvE32lAGIFVxVz58yJYLXO8zx_xVOTex281ScPY_aRJJGjJr2A-hF6ZDg-zynukALT_oPRD4UBDu8dMU0u7qIEWn9s8Yg5f-vPHQOJ48Eil7KoSntez0j4EYHfoJOVy9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/pNJigNOYg0bCKTN-PlTlMPGzov7HHFktaHta1wERjqvG57xRiYvv3j6a8tlXRhR7X7hJ5sdju8g12knSGtlTVNRogX6GPP7S6-86qBEEk0ziztbjcnXtvpBCH_aN2MtEq1ACsFh_IitgAo5nLe2bEe1d5OXWQSsMn_4VjPv8jci3G3LUdwKOXV_XbLBMb5bw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/KTHCO0d0cnWITZB7Z1TsH6k34zEOU9PunEn94oFAu1U3ib2laAPrJn1ZUHi03HwlKDudY4TFkZ7kMZNyfT8mLGp2yB8a3aO_d4G_o-geMBi6X0kCBSh6ZLY9u7wLhsUpzpgKk2I2SLcYb4Emimt8SnllcCPLtrCRJ2QBOQ-IrrkSUxHJ3XbaAZYWHZC71Y8E?purpose=fullsize)
+
 ## 1. Definition
 
 Determinants of demand are the various factors, other than the good's own price, that influence the quantity of a product that consumers are willing and able to buy. A change in any of these factors causes the entire demand curve to shift.

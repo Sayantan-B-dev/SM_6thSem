@@ -1,4 +1,24 @@
-# 02 Types of demand Individual demand Market demand
+# Types of Demand Individual Demand Market Demand
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1s8p0cQ6f9k](https://www.youtube.com/watch?v=1s8p0cQ6f9k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/T3eaHTY3kthsuCcWbFG4sdyGrzs6NP3yomNzg0gVdb7K-_-q1eCOaRMpXaMvI92BAPDJaq5qHqB4BUMNPVseHcLYXJ7Ma7x6UPFISisLGyQMuEMrjmalFGoMN0H-3vRh6-d3lNm2iBTvLjOUIGio9Rr0MFxQo8lee62dbqaEnBUMZEq-cmAuIq9frxMr8zIg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/a0-KbTA0Wk6cYKzTS3xsAMdm-KoemOESIWWZOumy6Ncvr4-R5aL53L_lenhStaxOYzj1-Vpur51d4bMOmS2oLDNegLQUnkdc9nsSjzglL7MdKV7oJW8WTNxgLSuFKU22KAEnZAO_3KrmwEcGJCztYwPQZ_RoyTaToLG8n678IpXe8zgvSmSa_a7N4Ns2ruvF?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Pwvn_lT6841FSR1oQ9fBj1Lg9o9XkNeV1eJG7zfseYaiXvcj0hMxUMaIXyyX0yf_ewziUi8anFRZ0y-h_VXcVeJrqs2bfoxIv2dDfAVvjfVxUadIughLXvY-EHc3p91WvQVOWPjKGOqR9Ap3yqF6l9mc0_sfoYznCgXriW3nr5qoDQMTGNb_-1NrHG-JSaDq?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/rxbsPa-MLqptc6pxf4ZnP1iQIZN0WgE6L9ejP3s_ETdCQ-9ypWP9BCc0OCVhf8-GO1y-z_6cqTTIYu0-maptWALPWI8fQFgeRjKDXJSOdPjCTQwQ0V4Oj4Hh281xIhhYMkIqERY75wPhdVA_hS30VsT1GiPMudeByGY-uo_ir-mJPZv7djNQPGQ8KfyV4GlE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/5fvEHGHpH74rlR_GMt6W5W5ZwLcsDccgqfraaA6h6F-ERt_pq9rmxnHt5U7WTO_bEjUKGIn8FXGAnX6xkKtwbLESQDJ1aaotyjU1WlCmyvaauc25vKaOOYRulnzCGxNhdpOuVmObQP78qhdAAeIYgtZXKMthB30CmGMBzV0Seg5VstAPOmpecZmXw108xB0e?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/kwmGSf91gBRbR8sQqjVKb4hhrAXjwpjd0AMypNlqT2kWMx-qv5Lnk9wEUYadgqC2cF91HLQ6Wz7RG6nDgMBN_8JGtf12gPnbv0Tr408poGjtQ38oMfpnYTRNI1AE14sroP1iEWVpS9Z3NRDPMehx303jP3c0tEkKS3UoAmV7YYvlgiVxXZDjaf8W2XzCr6B7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/E6BI_hm2sUE3w-Aq1ufy2M9-2nNUzsyNk2Rt8hLqXYCmJbAQNc09dVMNbkEjbki1gzjIGP6ttQ-XwleZIesJvixEcSu2Nb2M3c2HlmP4bDj13Vh-ibsTiCFZYDFrYupygQbivjhm2Az9_UiPxgN5CrJy4tRXMQ27SPAoKnchJCQsBrHeo8Mrpwe6RIIi4CVt?purpose=fullsize)
 
 ## 1. Definition
 

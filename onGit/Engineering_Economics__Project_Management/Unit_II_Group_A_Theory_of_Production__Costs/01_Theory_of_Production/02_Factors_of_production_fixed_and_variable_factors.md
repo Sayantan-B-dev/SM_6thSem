@@ -1,4 +1,22 @@
-# Factors of Production: Fixed and Variable Factors
+# Factors of production fixed and variable factors
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3ez10ADR_gM](https://www.youtube.com/watch?v=3ez10ADR_gM)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/dcBT8sFhtKH3nu3gqnvex8XGQUQCz_U5PYZVrxyMeAs67NlL5_gxyoxZXkq9W9lHdjxGih-2zPHpXo7F8SIlgr1j2Z0LQcVtgXSwz4UldL_-xQlbX2BN7Qs5YjkAX9Y7QIWIlQ3RjjJYqgv4xC3Ga5inMD4cez4NjNoGQFXBEBPc_SaJxW8KkrtKHlnofxNQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/kPwJnD8rM0-And8zurhfcPtXjO9LLt_iO5TwTvWuO8bbW8NPbySfPVPtnriZF1NyBkXVwZTp5CB47adca4IaSOlE3aA0xneVwIxSuYa6EBOlvNPKBhTY60dn89qvYM8i9u-V41EhcnOv5ETKGDB5TV20HwgWDsbenpXH_3ZLDqaubP-fEgxev8fxNxOcHoSX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/h4nUgX1WvvaKm6CQudSyqhxOHxvQLzQl62F6-0sbGz5j53bST8OCOY_7FfxeqzcTm67UcVcYgD5OpzWsFzcvR2n7XCRMFvKeVQYMcSmli_jutC5qct59wir6n_CccYyW-sTfxyUzindKUyF1ZWgsZNulRwpEMAPLLlj6tlkI4fJuD1_iCHjVBJzBQ-Tu0BTk?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/JwQexyKm4mISeMtq1aDxwKRoc7zpAhP4Sn_-apB-68ocxCOjzD4ZRIjkaBf64ILH4IxuaF4BQkUjrNioaJfsBIRp0yDZlClHarfkY68fC9kEM0YuQ0vTkslhb-Xgl8EOt7N5r_jb6NHXJRNJuYLXO0SBNqyIWUfQIjxpp51P1tDWdJ8cB2QuaOpNXHWZkZ8k?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/almSvVu08nw6gJn7GN-5C2tKP1yLS-IwnduGh0Q90IA_drVj-0EW943v94yflXLp9fsd16Q65klMSOsCfna9zQVwMaNdGTqGAK_N1oTRkjSNNbYsvAvw6h0Ou7L_JD4V4nStDkAcLIyrzvmxoAtySQ3ctLhwW84I7KjR9Dztud0Q0UZ6L3_T1xwIL3mC2O_S?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/L-VDXejt0pLchYRc3112byDMTWf5ir6HKDh-SMBjLN46WV_NTxuqEFgbc-su2IssxDZjP9G34os2HuUNX1SscN8LzdxyZVHLLMCJHGIgTEcHRwWKLRnN3tHS5crbXD90KfzUE_TWedHtLYWgtev_xdK8eHfeYABhj6h1R6tfWskbH3mB-f0IiiJUXrwYmR0p?purpose=fullsize)
 
 ## 1. Definition
 

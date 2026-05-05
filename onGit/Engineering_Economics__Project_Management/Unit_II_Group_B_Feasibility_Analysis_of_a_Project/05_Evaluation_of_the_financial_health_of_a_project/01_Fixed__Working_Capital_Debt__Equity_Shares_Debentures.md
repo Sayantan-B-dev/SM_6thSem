@@ -1,4 +1,26 @@
-# 01 Fixed  Working Capital  Debt  Equity Shares Debentures
+# Fixed Working Capital Debt Equity Shares Debentures
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A](https://www.youtube.com/watch?v=HfZy6sUeP6A)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/rEW41VR6qZt6e5xtr75vM2O35qejQKPC3GelxmOP9df-xab9p6zdLsNCbTkbV3D6Ud5HGn6jfwHsSBY6EuvdDr0kG-Fa6xcHbCiKEUz6NS1KkSAGbiN3p5iHIpw7Ho2j3legUO6FTamc0jM3W2GU9eVbjavWtJt8WXKYGui_yfVrLumOJZ3ujQ_nIf1PyWSs?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zeJeInwEevck7e8mVysnPXbLZGKBbW3T1_0xNplRyHRjHQ8nGylO1t0cmm_NmcitxrNDLbvFOr2pW2mcsfKMpbCANQBfwp6B7IKl7N_D7uzdYLE-r0qNodvkHllPHVoB2ZxNbY9uWApqBmT5BYAAP8ja7wgoVFNON8WavDOp4el5ZSOV-c7thblc2kSXgkE4?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/38vczYoGEITLolZoNv8a5Yzp11QqVqx_5LfAjm0gEq4yDSpLl9q8QTALzW10OSdauut25S2GcfAB69qgho_YCHbJZ7bLYGtHRMSYxaMY9pA8rgGbC_XMePoRitesWCxHRYiUdHwywD_0KcUcgS-pUFql587aJujgiZTQouwqCgYvLOXVu-bAsTSKMKqeff8F?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/HO20RKtpnW4qpDTx5P1labYYT3zCtiR60rJRTgtXJIW-TAO6nPSYF-ud4-SZ_HJ81GvWLfHUYsjnjB7w9TwcxFOOzK6GkfnWN7FUFsDBbo072UPfWtF36A8xJSvxZxtCaXS-t70FORySufF3UZxNskSsjZRNPhsP7Nlxw9fCQGnjONdDhMm9cbMILBSEjTVB?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/KRaDac-0Zs9gIyAEjsdjAzmiS-33LtVbeShOLTB9exzDO747iiZvKYH7_BPyRK4yUsq6aDcqDZc9dPxjKMvyxiGq-tUwp_PeOAOkGrdp7gDdaVmn7QvZhv7PdLE0-44XgHqBcHDGwm0AfomqOwOiVKVv7TVQX4ecMB8vlFMPrb7Z0pNNXKDHTKpqKMwfZmBT?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LL6oytvfzBy6aIckXEHOWBrbkENjK7krxzZVEaDCg8ynhk3FfUmPIn-fwNwjmBKYsy9GqOV7MdQgaVidy_q5HdnpLYPzXjCyZeDzU5jn8NMdcUUfsI_TRhVpLoA7hQMQOBupz3S-wFGOqI-CM5BirxbD64DCT25Cwpxovguu41L7bxqbLc74d31Xe6YwpITw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Wx_U0Nq7wyvb1EfRVVqquOAUKZ_0bqE0AWyWbSwYjF4btYKyi8sILYfi77j-DbR8DbEbSLmEXE9GY7d6nzXNBclEAf_qIdlUy7krO5KsLinyJlOQK9cYga9LU7tCAD6UvP1JZzNDXw4JEVc8uD4vj_rQBOf7qWLcDHG1XppCArJNj2N21FVNzh1e8X31G92c?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/3v9DLvPDBllXVID_czUGY7z2ZdqADfs5TiXfSE6jfR543hlyAO9XCZqFM0ewnfrPLDS-fVgVbfthr05YVD3FqBWSxFuf3QOI6gRpOTekTVNJK7bJhz-NFd0b1ZE5q4Bg-8_4u07fc8s3eKJ_o1hHqMU782blhv6bEmpBk77WuBiD1BA4CA3jMUAIxINkDurP?purpose=fullsize)
 
 ## 1. Definition
 

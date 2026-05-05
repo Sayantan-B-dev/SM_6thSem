@@ -1,5 +1,25 @@
 # Determinants of Supply
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1s8p0cQ6f9k](https://www.youtube.com/watch?v=1s8p0cQ6f9k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/X3Re5-pftNy_kIPW8-AJ4w1uyrW_4TrDB416LS-FwB2Naheuj-RlKf6JAbmgxY6CvjfUX2Mdd-E2Kl0TwoBD020ydfF2cMzWeh9_0QABp3A1GL4kifxBFJ62aDQv4Xo_Rd3WZuO-JQ9vjo-MzVWYtrwkpLPoa-97oO4tYziK4BjTyT4mXjB0xGUer4hwYhtA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/di4Eie6Pu6BsZOQqZWy9-PbrbnIZb-f0fXrUPyQWDdJ9VA1cNWLRuqYx1Tf1ft_Gprsw1y4INTFC-Jo-IuDs7ye-Y9mioO7ZDm1hSIEk-3h0grbfUq4BcPrDG8s3i0xoBjlYtAFRAJn8npqU5E0QVZ8XUAILQ3_JwS73z9g6Fv8VJ4rYrys6IeAYeHva_Njd?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/N3TB2RiUTyAhx2_ti5dSPf2do1W8yfgg5UdgpKLB28E5s0vLWwJBRJTDxX4fndct3bFdrbstqkcFYce0IFJpHGjNonYGoj2SGDBNkIRqaO64nEYvMCX4PzRKmJct0edeqAEUmUDZ0ONC2PGc0wD8QAkR7L_RL85KmDIjiwgMV7b2ygarV3S4iVbAWyUAQalj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/yV3yfk7CuwDG5VWDIT7f5pJxVQ5CFbbAgsO_Hlb04SW9wgHeirPyKiz79N7447eqEQIHmvL2XoViDAf-__OpouAKNO67Er_p9HcmrpcDp0UvFziEn9BmKyFd5bAPLzwgJcfzgROpBpC8Bs1BQl-tn0aYJIjPIarr6tmerP0GPR-KnCZN9ZoXTJQOMdcYCvzX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/TW5-mj4Pcv0JZFJwsXiqdr8eKOyUehtv0jluFXmdnUkEIoB5Cb44aeC2KutIWnvS1mW_GM6W_fgOFeooOvbXq9zuByAN6dl-lVxdKm0oxtZKW0BnEiWtHORQrqlZrsxr6euZhzwL7qjc7WfNLYa5d7PeCiX0ms_d5mEZr7XqEtvo3WHEAIWnYLtrur_kr8-u?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/X4E0sAv7sj-45S4wMcWxCLKmz020gxLPn58l09Co4sewbPzoRTxZrwr4cyzP2J0iB3fJZMHQ_DcR5T292okDgGYKfCjVruWwULW4u4oKjQPSRblfHTSBR6v-CiOJU0JQz_ZIf9Xm1r3OWbr5fX1lX4k2T-veoM_YYt5WW3jX-fY3EODUfL8m8Oqwpg9N7vcc?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/21Jp-nhoQKwsAB6bvrQm6LKyrEO9UZ23vQ7VxcFbIhKa86IFUm64wqmhHtC7E3MA9UFGySeDe8oMeefB9BzJsxsm63TOy2kQbe6FFv2HF-Hrs1ZvO5twNz2CODqUitH_bEqohsb3qdvX-q5lDtJamEmYofKXCRM9Aec4fMo7VwHrZV7J-7F-e6mtt23qGMgp?purpose=fullsize)
+
 ## 1. Definition
 
 Determinants of supply are the various factors, other than the good's own price, that affect the quantity of a product that producers are willing and able to offer for sale. A change in any of these factors causes the entire supply curve to shift left or right.

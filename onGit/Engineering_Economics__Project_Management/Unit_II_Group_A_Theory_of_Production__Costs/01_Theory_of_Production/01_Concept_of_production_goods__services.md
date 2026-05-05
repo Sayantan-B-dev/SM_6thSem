@@ -1,4 +1,22 @@
-# 01 Concept of production goods  services
+# Concept of production goods and services
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=8hKqvTz0Q1M](https://www.youtube.com/watch?v=8hKqvTz0Q1M)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/57cvjk9L1B1P8LtPm6DFFsEGyMYeEUtQn4WhgFkFv3Zu6pL5HrltRrK7GeX1pMyDkuph23PhW6W9zTslhElQvxfE4dcZlPFcsQmykLa2vJ__sRCUovFsdy7U35k44Dzu_qoz7ZaTKhBk9zf_SwfUw-nlQmh6sOPdrw-Wmnmo52R426SMj0qwbyZ2e37Cl0rj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/fFM8hPudHhGOKYAlyQmnYcySY6_v7f7noOkxRH6tvEYSPieoLR011kL-n0R8c1qj4Tgf9_i5CEe-HHY-Jj3AhdxgiTG6rAucPtvCEN1lduxdLhCJWSn52hz1rXC3NU6v8VY2qb6UE3LfEFKgwGa1fXHkzoQWXsS5lzDqm6UDTFyt4zBhpkyycEBcLAZBtSfg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/OcBf823DWhPwW2CFp--0meT0uSCBkzbvNwAJtgsbUSZLqBjXWxHgrrRXvR-AuagF4xZdMQ8u8Q9bVpZ203biCYwYVm38itOyAEgn14bJgA15UC4thCWXDn7mc5rHq4ZuPmYCE9CZw2gNUMpOuqqJl_kl_m-X7oaMM01cfP6DaxQV6nwSxxC9U9-jsGS-m2QK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/WYjqQur8EFSfgKZFnhqSay4ghNgSCX6dZbLZh-7Pii73e-n3IkIeYAfODT-ACDMMy5qasF-bl6qA4WTAuQcq_HAJJtEC9MIrSSdZOjpWPDM_g5onb_o_wJwv7S6Ge0KKdFRyoj0dmUnBJqzXZv2G0TCTyFaRBUwYKjEzX7u3rXBUPAgqE7PxQhC8Oxt9BQM_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/gwMllboQ7oan5gvh0F-W5G-8ckDRci6ClTX31qflh_45cYJBHLF9lfaQvsQptcTleTTztkU9QeAag_-SUSWJ_gX9Y7_VKiL4R9EoeWEebdsW2spTXFAwWSWMWO2K4jwi4D_v4UV3AF4puLj3mqRG_nfjDCEeWpRHgpJEcwOgZPn4gg4hFF2lqHxRzLujWELC?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/I5gom7-93Ee4c-GoI6v_FZgnq5SE5aSujoUsJ0IXAy02bm2VB39le8nJDH95EOt75l5kz_qOu5lDuc3rReJ-cHV7Ml48RczxClSxk0QaQHjuQlVBZTKboR_MU01Z1J7gY3O6SnnE2l-Pc0e08_uJKqBbLAfSzCoGZjOlAJdVyT4d8FJhUYmXTF5iIbduxL2N?purpose=fullsize)
 
 ## 1. Definition
 

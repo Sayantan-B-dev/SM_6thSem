@@ -1,4 +1,22 @@
-# 01 Economic and Market analysis
+# Economic and Market analysis
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=ZKOL-rZ79gs](https://www.youtube.com/watch?v=ZKOL-rZ79gs)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/pBU2HBCjhZAQsPGarH4Z9qYEGLpsDIYU5-_C8ABPwefwZ8tnaA6hkELfKUZzgfbds21gpXbAkASVbOWz9qprLTr1l0HTtim2l-kAyThxhx1IYOM0YSqOop8YiiuEMMS7i-tsUQnrJ4GPa-gC0v2hwjGQRR95oVWasKNjktzEDmQbZTTupuUslD8Cm5ErVW6J?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/H9Ae9mAktxYiuy0B5eH94PYjrYyXGRB1dIpC1cHIrNV2-zdyiLhKt65Qjhg8HUuQ2-7bXmXO9ILaPR4baHPw7PLe_MysZTE8GBMXS2DHzC_cuVO6PZEhIFaaO4XVh262nYtASX7HjrJvjClFsJA8u1MRDnOsZwcetwsGi-cv1ALyjuNpLSCILmYW0BOECnWk?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LH6kmpRmwJG4cOHFBdYBIRNAFdg9kHp8QpA_nwpJ3SLDUlhkHd-RYlydC0z2F12EPWaXEIPgrc-st6gj8M59nKceKS9zXQvbKlsCjQKzGQq0x1WgZU3mRM15M5P4olQfXDHDrngjYZ4k7EZ5leMDiRaSJqe8K77_HNoGn0qMWrsW-JF-D142_AKUSdxpCguk?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/8FRDzojMdSuKy0zoRkMuJK5t1t6QKggqg2_xHgGp34LsvWEymJMzyeoS1KgyoWxyVoGX7MEGRC5A6zdpxTX8HOQcuqEtoqiP4Mf-piE5OKVYSdjq7HoYUpwrMZEFE9qG0-bRAUTO3ODoOOKvRQ2TGjaWSJci3nYl2ShIPbo42bi7NVmLAtlwHpNZTAre4lPB?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ZyhBS1MFRudrRr6hVKS8ve8CcTsxENzJmk4UTb8XCdc94Iu7Wl1DGUg7NDfzEs2fXs4CI6odd6TOVEKcSxNMy5CqTiUv5f-hwXll1TTG1NBnRGdNV35do5aaeQQz4nA8WMxM6gIBqKke_Nt5qQP8M1JZNa1TpYOg3OCG0VbTAugm-HSLvZq_-Ylc5o7ozion?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/dHSu6NGP17CI9IxGOyoNvE3IbzpSbLE4dsL-jKJYSiLzjTmbyTa7IbDSGWpllZWH6rihoQvYpciy79RXpEU4c_oMtMINpVFyP-mSKCNtt5irx5uPaPr9phDoW-88IqcXOZmN-gMQwlI9XR0-4PUd80cGPXsp70dmlSm5bKdPVvmJynOgqfSpZVXQ0QvPnE0Z?purpose=fullsize)
 
 ## 1. Definition
 

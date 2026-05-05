@@ -1,4 +1,22 @@
-# Project Risk and Uncertainty: Technical, Economic, Socio-Political, Environmental Risks
+# Project risk and uncertainty Technical economical socio political environmental risks
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=GC7pN8Mjot8](https://www.youtube.com/watch?v=GC7pN8Mjot8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/X-_RhVCoYgM21LlNXkHdmDTTair73EnBAWCRwneBAifqgX_FqXcyqT0F3YG0XbeJf0-j4tsglQXhDo52VSTiCR_ZC7lKEg9C6wbKI-pit42XtesVG874Op4VYIJuOHfjQpqKMKfXBNKk8jqJz8Cga1XDv8SBbHWGq9-oaZd_-GrYjeum1O5-ZxQhPijqhUKA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/wnIoNuc5VLp-XVSpQl_rQQmS2tXAjL-BEWcIpRGXp2cjBnXUaOOJNdPhfRj5q1IJn-h14Gq61aVUEXnNe-6vaEvY8rUB8du9BSX8Ijq8HROrOj9mr3D3nqd7REm-6iFRqbtI_8Cz7c01yDyGk7JfhYexwYRn4k4sRDLVVh2GvW93JOSH2zcYO4Qu_WeRUeAH?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/vuSpRdbTufefyQr65OAEFkwC9awdqNAWutI2w0jLQDM-TRbMPjmCPoJkiQ3auUz35isNuW3w6WnEtsc1XFrPh8ADkzcGrJJcwA4fe08u3aLwgXp4eLJhoNa2mwI4BIcKRRN8RG5EnnqSFdkvWN_jxWuXmNPfKu37QDOCwkBjVW_OYnT3Cq2gSFAiXjZqSxbY?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/G3kh3r1BY6h4YxX4sAVPvv17Eu_PV0UTrvuGjso_iYxN7vvXCZz33vwkO5Y_id-FYKrgmigljWu1TRvQCUq6eRrry_EOtoY9VKvmZQGZyjo1LIeI2pypny8YWov0XC5uxOwWV1ID1-zBvs-4GlIK_bMvu45S3sdJA4hG0gdezTYm8bJGQLbPBZsJPyi3pjZp?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/oBw--KpNxT7Jr_BIdRlZn7Od9Nh5B4w5o2rejalSp9yc5_AB3vKO8OjCRs_q9YpBp14wsf0njUQO1AAaKPcvwFbhp880kDeYpZAyYKKB9jwr9HNA6Doq3rZ9-6bAVfwcJJo0Z-ovxoTjRpqD2S0vM4V9VlF8-vZOGUvv1OoKr12jP_LKPIL75XGZIYPlGhNw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/x_z9z9yAtH9LUjzwKg3l5w5C5dju_P7Si5iUQweyKpB4ZfwZ6thn_BGq_rb2jW4SQjrAzDAMdgY1PIKjQeuElnV3LxJXqIynV8D2kiBE3p_YGFBy9Kfv2vt_-vhFxrB-X3m516gU0Bt_QHbmvlrmSQCYRuqbr10Cwq9aRaDm9VMXRdGho1KLNyM71T_Jx2RC?purpose=fullsize)
 
 ## 1. Definition
 

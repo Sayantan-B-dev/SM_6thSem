@@ -1,4 +1,22 @@
-# Change in Demand: Shift of Demand Curve vs Change in Quantity Demanded
+# Change in Demand Shift of Demand Curve vs Change in Quantity Demanded
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3ez10ADR_gM&t=900s](https://www.youtube.com/watch?v=3ez10ADR_gM&t=900s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/-mAEsh5ORVCkNknSWGPzJNVHZR66xC6LHLsBO6yV73vmTgvPzZ8600OlC72k1UH72TKE3w5YzOR1HRmb5YAt5S8rU6Ngnwy2MKc0gjsZJthITgjeutEZDcMjMnBNgcdFMZzsdFhGqWot-j_ao0tz5Inzemsncj3rctYZ5UVs-T1qW-2eL7usYHZ2ZX8bHF04?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xSaG4utU7EnqtETjcYWoM3Bz8bjEXUYibCKNEx_izH7p7crzk57ujcudcvrvlMyOiaVmwEHcR20ddnMBz4mOI4LGCAVDa_W98hSeOvMS6sd_7r3ePdXRQm0xUjQEKOUsau1Z48r6lfdPs3DxhK6AAGOsiP6mCTZsz4qmz_tqBUoETYpvjkry0IkF8eS1JWT0?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/1CBxCe51UNudPaeOhBAJY2gvVGOl6lvarFIqm2JYhUtpzevb20l5-MZHLGRvGrWLLx0XA3QrsXoQrppCbBvf9UexkA7J_-ihhaiVFjmCDwPd9y39E6a6Zug0ES7NnBk9SdOQZ3_CZZ8mLxWi4UVEaECdxr4gwQpRz_BbxsBEpgIsUrleFzKkUdml4-HmoEHH?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/8LamGAwccFJz3YO4WasOVG0vgjPBUjby83sOcHI0-1rofsWhbZbgm0Ze4riMpKEs2BLd6NW38ZxAzt9BynYPOScZCHrBm6s_tktrTSlaNUKbnYOceXVaTHgGVcnYdAftWL9PNK7a6qDZSGnr4se843IPpkG3aBhounvFluIK1pCbJOZNQFyWqswNb2ur9M59?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/RzDG3vW8UkanK3hgAztHUcnPSceYKigx8dL76iaxvoPAYsHvq6nILlbGT_Jy7e9DilcNVrGq2UaCRy-7ZRzoycsYEtbzRQSNrQ6jQ4y6U8POWHkaWLU6QOBHBwNTxQ9-Ssb51T4GxDFT9lzSa22wGaxJS5CEEDfUkUo5Bb2E3ITPp25RHynO6aE_xkgwJhz2?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/sS0CGAdpnE_Gx1D4pmWUkJeS58kymgaD1_9_UwTzfp7vj9wo04GdB92cM9RERy6-HbrkuUTKto_fSocdHWPCLxc4pf8r2YIkBvsxKAm5Y-1ygG-4Ac1JAeADVAF2rchhI4rFiYwKqWRdOu-hgaJTyM_F7lOjE9uOt3TvuffVmgyILq-vjX_XG8hhScBDlPTp?purpose=fullsize)
 
 ## 1. Definition
 

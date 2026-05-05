@@ -1,5 +1,22 @@
-# 01 Gantt Chart system of bar charts for scheduling and reporting project progress
-# Gantt Chart System of Bar Charts for Scheduling and Reporting Project Progress
+# Gantt Chart system of bar charts for scheduling and reporting project progress
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=GC7pN8Mjot8](https://www.youtube.com/watch?v=GC7pN8Mjot8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/8MPc_5pfi9jxfO2DRc-va0GzdzvM27-H8rht8LCStmT7mCHeEy9yZra2n6YxyZFwJQb18iIjZ-DaiqXaiIe6M7adfoNYW2kwrjjalgXbxfGCONeFWoDoHymeePPq_XsaQElGNoJJy3Wj8ZmTaHvOMf2J4GZuSiegF_VH8IHNuWq1SPzO4T4nwW5501XSCLG4?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Hc-bUyFdexBbJ3B-EjhwEBWLXptNPHsmhdwDCTFLN5YRYpnvouGyaMKia-Cm7WvV2_RCumnLbdUQ-z6x8PrSWcj4OOy9qFMlrDYiKxFZhnM_L1DUxoDi9OdEH24VX6O_tEH0DOmZM6vL-hfsSF6yCuKTIJxuyFrGq_EtRgSu75QvoM-GB76nMAF4VjF5gSc1?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ztBGAFBJ_Guxa37vkcUWsIZ_1Q1XBpcubAbK9Dt_I_BRWFNDK6CnFZGgcNW7NS2X9xiu1JpRATm9O0YF8i6G4S2VdZvMelLvkobOOCrJp0UqzjHF5q9EmMfzlxyr2uayC319lsw5VDrD3WUXRRQiGqn12P_gdxlwT7YnfjZ5HBi-pAfLUnT13fS2WazMCocy?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/DrI7hbHJSobDY9b83TKlkq3C0hTvgMsv2txZjFUfRcqt1vp3EaeGHNy3UktKMlTHnBeYmCryeMcxUrZQoYDIiXuT67umf-_YhZtmA7Fna6rPSclbRET_ie2pwWsjhKYCL_nNXc1Fy4v257B82oWcuWdR2HjK4MuB0bvanIGea2U-eITYPUfWZR1vMblIBGY5?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/VnNSSaKYE9YLIhnWj0Y67FGpbRW2dlMd3rzDjohVocw2etQ05mbgaJpHxFUOG5cYclki_iCnXMhZ0YsGlxRFQ45YT9FpvGbr1zUt0NS3dijSe3Z6GBf8dH3P_IF1SJIc0G5hl8M9x9DGwxwZsmUwY_HEMgie2oJVipWU8eEIkWku06Nia4nV7HkdrYrD90m6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/VHS89DfBC5ZJAhIqB79xMFPGfAuoVm6PuaGgiPtYbbFE1uWDByr9JZBhpHLI2GAYj2cMqYiLV0qYvg_5BSUWTYvhcgg-FSX43sqAZH0wkDo5wg3WnUuY60qFa5IPGHxiN4o2zvLTrYDZXD0X_pkitzoWyhy_L2XM-Nkq-bFXNah_7p28I8Da1b7CmD5K9Uyj?purpose=fullsize)
 
 ## 1. Definition
 

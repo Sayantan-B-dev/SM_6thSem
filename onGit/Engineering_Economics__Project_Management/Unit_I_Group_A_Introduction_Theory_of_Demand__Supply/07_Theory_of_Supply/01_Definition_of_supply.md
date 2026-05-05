@@ -1,4 +1,20 @@
-# 01 Definition of supply
+# Definition of Supply
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3ez10ADR_gM](https://www.youtube.com/watch?v=3ez10ADR_gM)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/z1ujcyKD1PAI5glGeUNaCdcWtgXdizkoB85yzJj2wk2lB4nfb93ha62pX4W7WmSUzFHELxDdG-CjG6MlqqsOMA3iWz-hL3n2e1IvXwzWGwdD_ScuHLz9Cw0LC42MgBYxo3Jo4UDG50CwzGaES_kRsYHXZnLwnlsJU-3RbyCLQGBjdH2az6OU62Y2ndpWztCd?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xp15yDobN1F9cRuZlD6g0-JbeUasiHtNUEyo4scwu3n6OPypnt_jl14npCRGsaWqb-W05krMI4D5qDH5g6q4V2q8oiDYXMi-trhB4qmXL7Pf-R8qG1GGSQP5G9aCZoxehsPLaGHB9NfaCYDVUKk0PDMbh-fv1c1_eP_rTfh1ZbBdVxDV8tzZdfVrlQUinmVv?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/DblX-QMF_JZflhWPFPmC4DxGcH-deyHq_4PLtjAqKKd299dRErlb32czphBAtMEsjmJj03SBkouBf7xQzfxdvdKRyLIyeFqiDvXGDl5cx_bkWjvMICngiswJvCfR0KVo-hC2C40NPHZXCjbvZskmMdePQKLduy1KD6cjVieTB82i3B9bgciFss_9o3jyNQsE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/HV53cs_QVlBeESpPrwuj9ZEUUjzQ8dYKukQuW7GrVNAXXASZ8JiMIFg5yoUWhZYwAlW66Vg_mckN4oWSFu02-icg_DibFu09A9KUpXBLSdk_pLOHzr-4c_j-MmAhqNNpDeEBDh7VkcnxaHUy9PgjLEVY51JPj2HFLxMfZ4mb29yIwwV7tWDq9MWovpD6ACM-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/nRQFhDCi-7Dkb8BBDOWsxCImqQI0I65vnkv1SC1xbFBgdFXa2sBzhdDEUzT01WKikzS-uLtpFwJO_adk_8WCoXqKJT-31Y8-7C38nPJYhMI-G_SRZMeN7e3ilAB4aH8pUzLFT_rMZMXOg-EEeLIjLsu1NEuITz8swQI4Gx9HYC0YtxlRk62PGxwozm7zjcHU?purpose=fullsize)
 
 ## 1. Definition
 

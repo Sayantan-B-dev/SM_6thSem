@@ -1,4 +1,22 @@
-# Elastic and Inelastic Goods
+# Elastic and inelastic goods
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3ez10ADR_gM](https://www.youtube.com/watch?v=3ez10ADR_gM)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/00-Hu8njxOH-vrXAuoSpqcmRqDBKLFl-cMJsQJwNrQJuKnJeF663mgeZQXwht0qnnInm5mejiZPHFJSGp_mGdEmguv8-VA0qaCDLkYvP04_UdKC-fT-ggCd5G0Ln5wtXpRA0V-5XdF2DJV5StXfSmSdqTJmf0Xxfs_ZvmyAlh2aipmirGTVcwThHv--8xrLQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jMFWwD8i0wjbNInjI_ko0CD5BCFGzUiBY7CBnktX3ha6ZnW67LG2dUc_xhlprNw_tMAa5dWrIsZRyq2QhGNCh_UX39YMlH6RTJ5y3yDQY1h56E9h8fxB_2okNLRVqaaT4-6B3F-PJPD8JqmVnfu0q0D-XehFZLcrAcXXqPiIVB84DPM07CMAz07t-oZHNcTI?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/7Wld54oIjxKP2UG5S0qfXlmhmC4wUkzdsnDH3tyJo2aHFKcD6JEikFny9uxoVpL72eVuuPdnzLYOzEcaHiG__BSkd3KHvEusfCP8CUO8XeHGGCpz4ux7usMpz67dMeJaPHSErDK7MPUyGWCWU2mUr0WwGgv_h6JEghEzsm9lA1remCtXVXncWUTB5R4Ly_OQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/k3s8eQFwOPjYvyN7AS5ahHxgrBQIgt4rQtDLejigw5oTN3Kz1Id3ztiscP4VWSkKe7qZQFEe2eajZyBaYnBIcO_Lo05zjrAf8-pxHzfuqH0luBQJ8uKkkgPoultWE6pT56QLSj9gh8oR6BHYJQlImsckJYKp6itFKNaZYCS3xPharcsJGbkwnHnyf1FdwiLw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/skhVeenuBLfSeA5MprG3FbZg_JUP0Ja0YTLMzpLQmWx6DnczxpNRR6ea1OeyTr_CHXYaMY6oVDO4J1jl6OQMS9QkLIUxFuLJ_LncPMC4oW__PVasczfI90yJO1C5P_lNIu_ViQINvBzvqBaXuRrbgJOE9JtYtipA8K1LOHubqq46zfRfRgFWSvzAKj_sjs1f?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/q0yH3sa-AEZfPRBBz396jhHncEWCV6zNmpDCK5MBRNMKogBsXhRP_yd0YaN57xRL1HN8VRKGIpZDXw_zFsSCMws4GAdAvg3vszh9dyQtA4_cJhZm9UPjwB1Gm1HKs4fpSyJHDXGoKvEU73Fb8Cu22AQLmxwjPJtdQ5quVbWP_Kw0Z-eid6rno6S5vPlr83bu?purpose=fullsize)
 
 ## 1. Definition
 

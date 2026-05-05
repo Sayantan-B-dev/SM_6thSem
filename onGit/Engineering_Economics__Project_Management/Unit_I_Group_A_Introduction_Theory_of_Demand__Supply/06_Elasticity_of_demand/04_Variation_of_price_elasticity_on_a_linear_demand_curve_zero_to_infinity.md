@@ -1,5 +1,23 @@
 # Variation of price elasticity on a linear demand curve zero to infinity
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1s8p0cQ6f9k](https://www.youtube.com/watch?v=1s8p0cQ6f9k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/YkOnPLqBMjMyQYCEkoDNS7I9AwUyqNWa5-NAJP_xEX5Sa_rjiZnrOEvtzu57sXmbUfNwz_rplKPtogywgTx3WCCPZPvlkXppX1RXQeEU62Q6p6__MoHoIU-JlmqZCgfAhd7PIELs_PnWMeLygW1mYx_FVfFhVaQUoXTvN_JMglQ0RRuosrhw6Gz0AvX2LgBs?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/iz38O8TF9xteUSss19ktxtvp8J8ZfR68Xt9cr5dpR-P_V6_ZsupBQgje5O1vCtBMGVX5dPa_Ab_RAVxORe6VHEclGK2_8mCUoVSBeijnhxv2NKLwLdTiTE6-xwhXis-EkS3m9LVAVGNtt99bVuN0TWTHToRh4lzAlq00393hhgIyxp9eChQbPYOhwpdqpHmf?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/m4o4y3T5oIgygMba_ap9IBj0UIcuN4tMEmF105lvH9eZyL5MQz4mcEpSDXYX2ttraZjjOJBRPkI1SYK3JVo_po7fVCQUgu8aGuEQ2diPT-TuWcMAnBbzGG1-Ut8hlVKt8oO9wiiEIbuU7tUn-OIgem5MNLqHy9VkpN6PcLY3KPbNWinuHP-NcrDRSIkR5_ae?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/yluTeawgBJ24ssv-QGbKmCAuX2pdpYF3eG65nod7c_g8Og_Um5Qu6wjqlKotRZ_gj7SyzCpPfn1JRnTA8Q22gHT6mStTRhjxaX9x3cNvxsqSQrXXXFCT_mSpblqhWEU2_9_JUkosXwlUUKnr0W_6JcSrc5Z3VzLJZ2jn_jsjXVO8atRrvVye6MCgh85fCyEs?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/i_uo53dJOM3nGY4pQUzLTJBYKYmlXNLdvhtP_t6DAy2QQ1farlRvVCOrnUXlv69NbCCeV3FI0w-m8hj-tYOc7-94gU_iEkjElMQhdHU4lZtp9szMf0qSZ4bSXtCwY1WQCsMm-jKoHMBFeITtbZ0T2ITEFCvUPgBkku9rjtzXvh8w63Z72Jzmf6UYGsYnSlqB?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/sRkPW9E316SsGFwo3Z9QL5Tjijg-eaUEGDTwBxasm4aHQ0mQpawX_wPKfwg2x-cb-lT8vC9fB06N9VsipTMHWlUTmNiNbMVSoIHr5y9_an8rLbic4Od1y8LGViY1MlN82T12KnZ1JbKeBWARp_f5oU4m6RdSDWEUIZYTicUMy_Qk0aIK7YD1CX_XgGnhmCye?purpose=fullsize)
+
 ## 1. Definition
 
 On a straight-line, downward-sloping demand curve, the price elasticity of demand changes at every point. It ranges from infinity at the price-axis intercept to zero at the quantity-axis intercept, passing through unit elasticity exactly at the midpoint of the curve. This continuous variation is a fundamental property of a linear demand function.

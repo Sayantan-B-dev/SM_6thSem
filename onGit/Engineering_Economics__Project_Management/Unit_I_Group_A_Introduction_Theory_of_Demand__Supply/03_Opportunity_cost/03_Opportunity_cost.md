@@ -1,4 +1,24 @@
-# 03 Opportunity cost
+# Opportunity Cost
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A](https://www.youtube.com/watch?v=HfZy6sUeP6A)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/Pdxj1MuSgBBmbfeM6HLW96ke6N7_foxeBPSR9tQsqubf2tN-AXJYx1r5LIDhfosxUAAKVU5dGZUOVJtEk6Yp9yG1_WBnUoLOATsUeG-SBQte60ohUtTX4K3ONyrQCJQLG7AHyNg75SWoJYz57kuiFE8khfQQhFgeuDVF-WKrlLA7f_9ghH8u7ff4twoht0Le?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/QRDkJah55CBMrBiL4jmIQ0tmzGwS2giWUtro68_WLX0CSs70AraoBrPko-MnnBhIzPV9HzoR0sRU75Y-UiN4wSWxolYHFMpL2NXJsad1snWkJFKcCjbI1BIgPWtilIxFJJ2TSlRSu8UIX4U2-xac6tGvck1Y-WyqnUllxNq7vBDYSp9x-c4-BSkNVytiQeij?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9hfV7V4kCn3veekmNRHyBYtNS6F8O1DYUMDJTdIUsw_1dasaKZ6GSfuKNOKR5wFKBdbEXpsb9A8Ee_t3n3qXsmCp-WwxrwD4Ux7pIXVOwGXYCsoLysjAHia447rRk03CDE4aWVs_oUlj0gv_N2WWedUiwFb79zCnQbgU07Tny3faHCiW125PbOocFJFRnhic?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9PU47_5rJPzjp9pjW-C3cmCzZnis4OcfKbNE4sYWtsRyGFXEZp_4911tY5jmBforCaWVS1hvPVKhpKo5iRoJuwYZQpYtNAaqxGEHPnYRlY-cKjd_ZX83qb72LuGVPOqntjB6Vjr4dtLfW5TAzDZYWMQ14pz3Tj74DbV_jimY9ycpalbbWtqVMTQVwEDF0sOp?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ZbKdYRkqyxf_il65S3AAQJVOI4LCMUe_4mOZOev9gOfRwrSrc9p-I6rwGawK2NPBGk_w-HSqgH0GjtsFO_FB7YEFL_gkNnK3qXHdqbl3VLafCB0l9wMv9ZtxZ-3Rbw9-Nu4OGKjwqpPM9R7CIgXo7NSskd4d-wZnExj_ITk-tuhte6dyUOgkZ7BqXL9wawAq?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ct8cwnfXBdoNSvNyz_3ErZDAJ5CVdzeUMJPgXc4-7TxM-Jkf--XdIPpHrPsZptvyX_NvxMhdJn3g1f1DhbiLLmSEtQ85UYsIW5OIwEJVfr-JLUJ8sMRj83MpdrldSykKodT2CQ5QxRLhdtqcs1uwGwIxMf20S2gh80cNbo6M22H30fbzmUi_oyK1SFR5idqn?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/E7vCdCUZ4XQHJJ5SL-b9ZcpaN-hCMPYrhEe681S_x3Gkr7biLXdcSEuZ0ErGb_3MnsH1TKqWMO13tOpCvcTydOMMxPbtOyD5zV8gchsjYOfF5knnRpLX-reAnwe8gVC0F38ez3vZqSXHYi2BTuZCFcEpdagelkfh7WVYZW1s9aSqkZZ3Q4htI0nesUFIGmQz?purpose=fullsize)
 
 ## 1. Definition
 

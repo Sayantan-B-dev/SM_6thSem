@@ -1,5 +1,25 @@
 # Demand Function
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HfZy6sUeP6A&t=200s](https://www.youtube.com/watch?v=HfZy6sUeP6A&t=200s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/PkSieZuaJRwYWK7avGx7cKFOfKHwEVxhMaAOBQPxjEA7q8OeSbJziACJJzcS1FAq2CNAeHnbWykYXrhGcAITseLNpUqT_KHmrinZXlOmvszDfJJmtqHl3zhoxVhhK7yNe8Ub-RWD7hVqqgZqMKaf18l8exiKgR2xEZV3F8tQX51Pka3rzlZhmZ_r8Jwt1sW1?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YA9rWvtugxbL5XGTkkRPHUtOXrh9CdBh4_WJ06m69xa3qbTesAQdyl6WOKrdzybjvjyAu3rJvX4ZiYXZHcm-JQn_6l1Xr1ypxe_IUmkc4hDKB5plahLlNFgOLjuniNvg6Ah7S596Hi-A7UpkzmQSoVCxCBLUGiYbxQEtLp3YqZZUOs4gaSewUTe39HvUabmO?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/byek5b3mE9_6NCgRbNegm5uiRTiOzwqY_xGUoD9MPnE7XrTjY9JXT4Fld-2xpg9aWltU7EYAIPMRP9GoQkiRJQ-vsIWO7TmbodvSs5z3zweBsDAJszBXvCTatxjpvrERt9Um_XmnrtDXRo-KKRZoUmxCbnoTlOAT3EY1ooM7e9r563XAQJDTdbBS5nzVlKg_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/wPMYjMLJ5rVQXQtmdoswcGh7ZU4eJjclW6IE5I9FlOtjMnJHDvpUBQY11D8U4srTfDlbw4r34RelOgE2N4bdwm3hjrEHoKy13zT5axiZHXXUuaNErxlkYHYqVb3TPX9zrpD1zEuymJ5JTbeWyxnmOD9m096GseFjpg-7GRE6qtdF_WWckrQG7OR3vAP6QbJW?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ncZZcKwhe5nbO0nSjGEMt0bCs4LEFw7utwLqQcFYLaxDGfsiTZvsdWtu_DsmaKPxM1-xOxQNjHiBkud0vtiYV3ns3qU4Y0g5FXPb5sUF_XVfnsWsFgWtCtgZ79xlNynUJIMMnvvDU4_FOhfkkaARrYRlWUEBCd8J_yqMfWBwrSlyOW_Vhdk8jZQhG5tQrywi?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LB_QqIxW3R6-XAk8PT6RBZK61Q0eEudL7zC-KTjdxekyM0LbP-i2w1axj8U38-a5LT9dMo2eLahqllb7Crwa5j1RdVhKIA6SndQwna48-Qp-AFe0OYqXP55JL4A1kYb0w2Nzmyl2JPolWQmpguu-ZrZwv1IVoGuStPBr5rluiZz1Uthpw8vIrJ8RNna8_431?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/RkoSN0iX4ecMb7ipL8ZUXg6ti2KXHP4Lq8nhAUR-zLNBsActclaIvv3t5brcnfp9eFU24X_C_AZTlwsUg-xKq9WACHgij5NYrUHHNn-ZqPuHbaCTGgq_wglyldRfv2uDSFB9ohfr3M6O4ZA5pRUKmJuA0uHWpAI4V_AGnPJ77maXu0IbkLcpRU-5-2q--Nhu?purpose=fullsize)
+
 ## 1. Definition
 
 A demand function is a mathematical equation that shows the relationship between the quantity demanded of a good and all the factors that influence that demand. It tells us how quantity demanded changes when any determining factor changes.

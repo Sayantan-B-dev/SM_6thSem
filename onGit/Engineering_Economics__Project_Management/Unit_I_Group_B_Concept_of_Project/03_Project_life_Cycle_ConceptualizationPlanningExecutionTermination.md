@@ -1,4 +1,22 @@
-# Project Life Cycle: Conceptualization, Planning, Execution, Termination
+# Project life Cycle Conceptualization Planning Execution Termination
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=GC7pN8Mjot8](https://www.youtube.com/watch?v=GC7pN8Mjot8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/RXigI_Ji-7A9k6J9UDrkUn4VdIeZ2MWTnX2Sn_iGkPCmR6zR9c8mNb0c1YX5bJyE9QD9OS_zOh9KH86fBMj1n6Q73AXWi8jxpg_FjpTfQ7ZZy3QAX5tyCjkRv87P9ZvynhYGvK6Yrmw97vllmFlD-zZnCSu8HCwcVr-M-W-JfehGpXu5olBIxGFiEDa6oV8Q?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/eLkD03mnjZIfKpC0KUg4_p6vNMp3Umm9n8B9YorzDSMTy0CkzQa3NUVo0EW1fhcEY43hG5e4Afjjic3r2jDNiPmm6pRgCmKVjx6nzeOGm8pNOdByzbVpJgZIjREVIanY_gN56lKZ7gxD7IuB_DjO3yJca5qPwBYv3pLPLdXxMNYCBncfPcJZymKNzn9yUKGX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/OTq9-SihTUNVOPu5ZOiukZaQ7V97-GavrmXlwAXe9dgjrguu4fYGluwD2fC9TIZUmVY8kEfc_CuBUAsSBMSagGZkYeke-9Q_YIq4KY0CGWpu_x90G4Wzk86JEmSr8suwqO687ScXL9_h_6qiV2fO03aMnry0gQeyXEAGXM-hPYjPn9hKqK_vt6d5hD6QJquL?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EftVhqym7bggQpTKdTIRzYT7QFb_CvBkKD1w1NZ7Z5LAXZe2C1i76wtmz0poheYFIoX918vZ3koF1KNTq6d2AnWNm8jG3wGvSZxaAkhXhZEeP0BEtxZ-n-r4Pe8KZnVu9J71_4vxYJHSuij2xShPtN208fBVhYteFQm6fLEK3YmvdGi2LWUO4wL1TUd_YjQB?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Pg_-6TPHQKITeYDbn-m8mIw00QMcCF8w82STftdgAJBbbFEitK4S2FAk1pkPSoY3PJ4BkRORBGzDbw2o0IpLPQ9THlTkNy4Bg9B9ReN8h47eY3onG1TvHZEsyqhCCtcJALy2caA5zPb8pwweW8QCjBcqPZppq5cuhlxDlLAdbxvCH5z98X_lQQNNOoB0O4tt?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YqVxkqp8aYIHxUgW51M-kgik8b75L5HpmzcSLX-ZXVL-Bnj5M1O2xKAuuqMzohF7ICZPubLNFVB1Y22o_nc3g-_wKz72EUP_ZwNGbvstcqvErziDy4cCpoHz7TtPfYvr4WIZjOqOYVMRNNvi_oWD5ytQcdzQBGHyRdjUf8Sec6fb05TlyksbIbTgvaUtAO-Y?purpose=fullsize)
 
 ## 1. Definition
 

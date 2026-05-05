@@ -1,5 +1,23 @@
 # Law of Demand
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3ez10ADR_gM&t=300s](https://www.youtube.com/watch?v=3ez10ADR_gM&t=300s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/E40ki56qhah35E-xwY72hGsKVtcdYpuh6LmZ1YrHXdNJ1YOWfZC34N-lASvW1ws1JVbYmn9NRbnF59RY_-htkSHNHITXISIxdjqoa5pXBzXKIXd8jTCGGGs-7yjnskedoeP-Z5GalNXn-NpOv-6FT8IiCYlAwAqdl3JmD4plKN9-ogYh4wDtjQmRp1XxKkZo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/yJk0b9J6jd8eVmmF39R2XZpOreLnNKp3zHGQjmpRAm6rfaBP49B41erzH9ejJ97q4xca1I4QKk0nwX7DQvcXLTdiaaIzbAWyJr-ELSkcFrfndNo2y1eLC9jB0KSc6X0jcclaQDYbX0IdBKTHim5znlTdF3gaJwsAE9hWz36FHRsk4YMlZWGE2x-p2uu1nIVt?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/NWe6P7TbawnHC26zEJskg_IhE_swZrNHU8R7lAG0OtTlWFsd-MTPBsuIP8XyAF5L_JA6t98iPdvePHn80-k-VELy0TPgH8lswHM0vWLxnmPQq7e5sM695ulzHCnRznlVYX9UvKrgKem1pN0NZCq0vD_eqfszgafrxeYhFo1rNZz1LExfezFqiPJOvYQT54Pj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/3Uoowsh3ImzNQZWkbt21dAb0exSZ94jDrzuI--aHvcMh1PqNTRCI7Nt7uEz8YrAkYj4mvCjD-mVn7gf73FxhcGURE2Y8EOhRjuuXIo-KbzpeFQgfjB9Q5mt79VMYG5oXr9QuEHHRS0ZO4d7pSWmvBum7byligqB-evMu5y6RLZ6T4hKfl1Z9TXN_Sd3jf0n7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/HyT2EOEpQRbtqvfs3oeslePS-nBk3F0YMYBx3yHDx8u-cTLA-PZh51Ms8Rvvmd4ywC6YxGv9SdCHc2w7z9WS2FbyOilaeecz5WezMl594mL7BZwPHF0KcxvJoH84RgscoyjXsO6bOz8SXK4Zc5j5z7nrTwyuJlE_DZ2zzViS-3HXgPWwbCjcrsH-ah_SNJme?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/P1p72vt8JrAzebYtAik1EAhr71Oha2IhhdkF80O7lxqaEku2UyxJ7ZGszm7_ugpdAFPWiCO_qj8WjsymrfHy7V2_1Fk_TpjYK4zgsX_vT_K8SERUM9E09H4lb_OELdEoLWtbCH9M9LlXzwwDHV3NqAe3sPIubbfpKn43LOdvka7NxaWbHDU3GYpxgafMO_Ia?purpose=fullsize)
+
 ## 1. Definition
 
 The law of demand states that, other things remaining constant, there is an inverse relationship between the price of a good and the quantity demanded of that good. When the price rises, the quantity demanded falls; when the price falls, the quantity demanded rises.

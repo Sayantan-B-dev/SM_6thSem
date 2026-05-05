@@ -1,4 +1,22 @@
-# Measurement of Price Elasticity: Point Elasticity and Arc Elasticity
+# Measurement of price elasticity Point elasticity and Arc elasticity
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=9dZp1kz0L3E](https://www.youtube.com/watch?v=9dZp1kz0L3E)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/JmTSG3Ko2ogVVXSvZdWu7vLJhehNjKescAu2JUbXT8lo0slmoRV3s74Ga7DPXjbyOJfyC6B8pTEVQOONBfJwvOwWhm1jIENM6Cs3i2V1w2chVRIPPVYKTidsVEZBy6D37nfcxMnyYzMgyD2NlDu9BYDrkea17zkZKbOmsvly6f1yKRdDD-3dbAqUF9YZzRXo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/WRPs_DhDZUut1_M_U_dZ8MXSdKCtHCvkcQj8NyDTFPRqZs7b6jDVjCqpqSAid92FkOQFkuV1Zv6qu8uclIby9B7syQRj3wQsU_e94_pQ_pbZgo0rWKyGdMoMdGQ4utSERJFob-KTlDEbe_rjRdFNm3gftbd1EDSrQm0UmORnlnZKE5AYMM-pTl8Pzy0SQVer?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/TvzvkGVhJKwl1aDfEscFsg_-kP0AKPgvkX5a2iktUo2-M3ioB8iLVmPwb7Z91EeOJPACLUwVNmHBr1kSxJqjWQnWTupScmN7kQl9vYFKj3IhToR2UyJ9ShRIAoJMaUhIm3XZ6vd6DzRni_iF8CRsBJD4QCB785IG93vWRUjs1vnNJgVWNSxYDLof7fWCn5fR?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/W4QvZoKKxNL7ry3kX0dCSt3mEhd7FOs7kf2r5NTxd0LAVIVaguq8Gl9NtnNPr-PiRTz46muMyZUcYA6TeTa3RuPUXXD1nVSEtoGj_o-KfS-syH80MdnBXNjl_F-Vfmb9WdQ3OA3QH9lQcpoCB-AOrekbUeOay7pbxER_aOh8iOg29IaspzzMnqacqoXdr2HT?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/iz38O8TF9xteUSss19ktxtvp8J8ZfR68Xt9cr5dpR-P_V6_ZsupBQgje5O1vCtBMGVX5dPa_Ab_RAVxORe6VHEclGK2_8mCUoVSBeijnhxv2NKLwLdTiTE6-xwhXis-EkS3m9LVAVGNtt99bVuN0TWTHToRh4lzAlq00393hhgIyxp9eChQbPYOhwpdqpHmf?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/tcg-qFJBjyxkKHbuRwPky8yu-xLl9fhMrt2NFbk1HmQ9zGTYSmUwf9bJepTaYnO_qd3G3HS1CyLGg6vppALvlTSfcrl5oyl3zWg3CgGV5dVhMk9LhyHTUN85AhCk9X6gGKNtthv53o_hl7oepg0xOp8CMJ38FAXaFybIcucVnwBVOvHleQUFu9gwnX3ifM1I?purpose=fullsize)
 
 ## 1. Definition
 

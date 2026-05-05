@@ -17,12 +17,12 @@
 ![Image](https://images.openai.com/static-rsc-4/WNWSzMToiFw2X55HNzvJAKhBFbDXin3XWvUfGBJJuvHj_rp98g7FSu_6JPGqmqUl_Aw4k_0z1Y-7k7v1g87n7IXuA24haSl7QAH-LmRIY7d7MXCJe_60NBZeMDV5MzpuqbBxYgnpllVt6LRDrfZV_No38bnldqb6ax1NAzQgY8XFQKLIzzXbSmfZHIF3Y43y?purpose=fullsize)
 
 ## 1. Definition
-Cloud components are the fundamental hardware and software building blocks that collectively constitute a cloud computing environment. They include client-side front-end interfaces, back-end data centre resources (compute, storage, network), virtualisation layers, management platforms, and security frameworks, all integrated to deliver on-demand, scalable IT services over the internet.
+Cloud components are the fundamental hardware and software building blocks that collectively constitute a cloud computing environment. They include client-side front-end interfaces, back-end data center resources (compute, storage, network), virtualisation layers, management platforms, and security frameworks, all integrated to deliver on-demand, scalable IT services over the internet.
 
 ## 2. Concept Explanation
 Cloud components function as an orchestrated stack of resources that transform physical infrastructure into consumable services. At a basic level, a cloud system is divided into two ends: the **front end**, which the user interacts with, and the **back end**, which performs all processing and storage.
 
-- **Basic:** The front end comprises a user device (laptop, mobile) and a browser or application interface. The back end includes servers, storage arrays, and networking gear housed in data centres.
+- **Basic:** The front end comprises a user device (laptop, mobile) and a browser or application interface. The back end includes servers, storage arrays, and networking gear housed in data centers.
 - **Intermediate:** Between the front and back ends lies a software layer — the cloud middleware — that manages resource allocation, monitors usage, handles authentication, and orchestrates services. Virtualisation software abstracts physical servers into multiple virtual machines (VMs), enabling multi-tenancy and resource pooling.
 - **Advanced:** In modern cloud architectures, infrastructure is code-defined, containerised (e.g., Docker, Kubernetes), and automated through APIs. Components like load balancers, auto-scaling groups, CDN nodes, and serverless compute (functions-as-a-service) dynamically compose services. Security spans identity management, encryption, and compliance monitoring across all components. Management platforms provide metering, billing, and governance, closing the loop from resource consumption to service delivery.
 
@@ -43,7 +43,7 @@ Cloud components can be classified based on their location and functional role.
 
 ### A. Based on Deployment Location
 - **Front-end Components:** Client devices (desktop, smartphone, thin client), user interfaces (web browser, mobile app), and client-side software that connect to the cloud. They serve as the access layer.
-- **Back-end Components:** All data centre resources such as physical servers, storage systems (SAN, NAS, object storage), network devices (routers, switches, firewalls), hypervisors, containers, and cloud operating systems.
+- **Back-end Components:** All data center resources such as physical servers, storage systems (SAN, NAS, object storage), network devices (routers, switches, firewalls), hypervisors, containers, and cloud operating systems.
 - **Network Components:** Internet connectivity, private WAN links (MPLS, SD-WAN), direct connect services, and content delivery networks (CDNs) that bridge front and back ends.
 
 ### B. Based on Functional Service Layer
@@ -171,7 +171,7 @@ D. Load Balancer
 
 **Q2. What is the primary role of the orchestration component in a cloud environment?**
 A. Encrypting data at rest  
-B. Providing physical security to data centres  
+B. Providing physical security to data centers  
 C. Automating provisioning and coordinating resources  
 D. Serving static web content  
 **Answer:** C
@@ -228,6 +228,6 @@ D. CloudWatch
 **Q10. Which of the following accurately describes a managed back-end component?**
 A. A server where the user patches the OS  
 B. A database service where the provider handles backups and scaling  
-C. A physical switch in the data centre  
+C. A physical switch in the data center  
 D. The user’s laptop hard drive  
 **Answer:** B

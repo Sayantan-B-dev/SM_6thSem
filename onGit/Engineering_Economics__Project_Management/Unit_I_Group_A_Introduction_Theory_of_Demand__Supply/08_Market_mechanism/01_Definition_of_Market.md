@@ -1,5 +1,21 @@
 # Definition of Market
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3ez10ADR_gM](https://www.youtube.com/watch?v=3ez10ADR_gM)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/txSrlVaVVW-Mz3WM_u_U2-P3yvP5vHRCL31Pn7i0q7eUoGj4e_XVIRzeRb6HKRYuJo0bYuC0KqMtnCsvvGuLgmRA2yhy3ZrhgK93zfYKdDO5KI9-ckLFUvias1VMVkZgIaUul7m_0ZPy_xSzXFnfJEjIuWCRn-nrD5MXBZ0PhC7FotWY9hCa1Lq9RURf9yrr?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/htSiosoJUZPSru-Of-Rcs_KVHrRvR4ig2dqnIBhRVHvLyZ153hj4vwc6iBaIBApKytZSuHJY7Der2hKJv9HF0NrXkSSmCJIyPUZmTjK0CmrOKtEldTOEbqmQtmQrqycRwn2JkCIMmPbypZl5L3zaG4GWg79yazBRJsnwUfSBE8V8pdzfHLNqUeVO-RNeiHlS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xbkYFZ2MhIQ1p9x1-ymLxiluw72pzOfY7SKRDODCerEgG_LrW3Nc3NjSdBEoalAmYgnna68Fd32ZRcXL4TkPDIIVowyyOeOp1PY7Sop8Bxrgb7C6caVDjL5nr-frOtusqEr-iIi88REOhSurV5C-dxfE39deZANKYqcCFsTlIqKi4ibTjsMWQcNSdxE7J0xw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/UC-vNOpbaB9tbwR1gwreOak3liKnyJz-cLg1sIzbqYvJy4Q_1u-Bx-p3k5V9_6VYewSkbXULPl1yqRvGMZBMxjVKcSSpN1DRfIUA-dkzU-_h-qtGcwJhBQL3afK5sJI5xmk5QA6gFCc7xWuGhyilkRkPJEhqh6jSs4f8kqTlMtbeTOULJHszkUyI3jqXtJ2z?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Hw40O330XhSEbmE_xGyybi_ypoaWhPOm8fN07yFIiH9e3pHr63UVrO_DkSUgJMd0-9d99yH53KAg1kPIaBvOtgHYaCBA7kKQgCNzUSsb8bLXZo8AP5pJO1DhGwbDzLxgZV3l0P22zYiWEfbGINmU_Rc3fE2A7uRNlnbFrI1CSB5bkzo8hveGRtpZBrbQezju?purpose=fullsize)
+
 ## 1. Definition
 
 A market is any system or arrangement that brings buyers and sellers together to exchange goods, services, or resources. It does not require a physical place; a market exists wherever there is effective communication and the opportunity to trade.
