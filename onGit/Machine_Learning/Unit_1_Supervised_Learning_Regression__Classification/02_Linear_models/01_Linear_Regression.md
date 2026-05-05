@@ -1,5 +1,23 @@
 # Linear Regression
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3_3pP4sF8lY](https://www.youtube.com/watch?v=3_3pP4sF8lY)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/oNdBhM7hOH5YEb6zzSDq8COO0SvwJSRFiYfrDUg6pX3nLFSOwqLLX322RIIt-lKPJvUaDL56Vs-K_KmM1H3NYS1l9LJ4KwIpApmPijluh3Gw2cH8sOhHdnu4BwygaV8C4IFDy2BPo-xeMKOJv11aDpaQfa3kCoUXmoTqoBOaG5gOeiB4-pUyriSYEfDa9NGb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/TJ9glJmIuS1yzIvb5GHyJ-MSLOyv-i5MdovpxInc0doRSD5OucbPF_N7VipVsmIRnhDayU5hFC8aowHmQo951Q_zDKogczP00aXGCJ6DbrQnyrf170HEy2bNJ6wtgysFi8avALNuFEnRenkvt9N-mdhBoPNDv8AtB5HjVnfiXfat1k10I_qC2N510Y-iKIWD?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Zi1rb-FVPs1wZQu1nsyWhl325oQFEkxFbbLhyQsCcBDlM27xiA_QLXAt984GRiA17OFjJ_rMNhVWU55V8Rc09LMzUw-zQTC4oIqY-vCf4nV2HqCzgv8BBB31wlbmNJm6xLbccJzqh4siYIas0wiJhS2JFvsmacmJK9Cn0TBdM_CDx1ysvz30huxcdHwBAO12?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/mGUEpiJaHUJS9646R_cfnMEVNLD1yos1nKVguJDUmqK2a40oHpOnBnAxf686BriB7hKlWfs3Ab7xRq7EXx3HfwNm71o9QWOXl3cbBcvv2Z3mwurwASIgSseoQZDOOpPQ0toduZGMdCEwV3gwrbURS_IxESYLfGMYQb468M57TWIYzeK0kzWqbH_fIDntcjfw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/k5kODT91XP9Tp67EV_lKnx9-m3GskFlWGDtcn4H8l1PRmC8rduJE09LDS07z0ITeadBzC-Hau8Yw8IqyIdahZ1KRbI-thu99Ep9dO7dMuiE8N3xUc4Un8WvuUidv57WxvmZd_TLwHTADxVOKbc18p0hDcVvdY3kfa_HVoxUNtZDn1jQOQGf_-U3xiKf3iVk7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/J_bmNcR7H_lp5Ksf_jQZ6Q0XqPEovDZpq-GqZCsIegL9StyQo1Sj2em6zdr0cc8xCkpHb4orqof2CO9PhLSq3OhQgk6UNy9N6GXTMqeekdTCSemKdjGxmyHzVjwcurOxzRNKZ-BF_P1G0ei82Z4g0wY6tg5iYJaS3uoIjR66FoOqorNwsbhVv4G3F6yxSeyb?purpose=fullsize)
+
 ## 1. Definition
 
 Linear regression is a supervised machine learning algorithm used for predicting a continuous numeric output. It models the relationship between one or more input features (independent variables) and the target (dependent variable) by fitting a straight line – or a hyperplane in higher dimensions – to the training data. The objective is to find the line that minimises the sum of squared differences between the predicted and actual values.

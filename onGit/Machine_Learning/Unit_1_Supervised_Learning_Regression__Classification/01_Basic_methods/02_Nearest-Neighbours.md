@@ -1,4 +1,24 @@
-# Nearest-Neighbours
+# Nearest Neighbours
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=HVXime0nQeI](https://www.youtube.com/watch?v=HVXime0nQeI)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/NgHG9UARhXRzgCSTmvmoYFSl3d6auNNYKtebcYaXEOC9ABNaI5r_iFLfZa8c6j2s12BU2gnS6_bWRiDxxGvYIgBX6X63-0U18U4WFPtzAORjcCxyQeLUiDJrsx5w94e2ypARZ4fyereIR_ydHjAAWO5dFvTsyMoNzSZsbS44UmIazuLb8_CQvGw5diIRGv9g?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/nsZBq3iu6zlQZ1_A-sNXzIk9CMWGDKs4JZqMkcR6105LXzhaVQZBqcawNX_2BBkRgXbAwMSSSePd9Zj7FdBNRlC9Xt_dMpGHYliudz0_YGiVpvhvD0_bzV8QjuIqIckJVKyT2vbf1URxDemZArEAtyBZmmapRJcemHg21WL64RFSSPfLSXlTe_m7KVCdoe3n?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/XYCDbVdSAArJm5WsFchDrXm7IG9gcpDR_0zEFQ240abZRCO7P7jTecQwuvASHzzD8b44QePq1TqkNRolEtfvapirzfXYJ7kikISNmOXr-ronNyqAIEd4BAWC2Mb1hosqHS_DiM08Y4VVUVwa5_fD2SUKOFx10emp0fqPxDV9MdB4AUmyaOoi562nmDKj4O0g?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/P4hxgcBnaemifLQnZgpY_TAiUJdXcbFofwWLL4cHvje84wm-WFd41q7Ee1hgEvD9poEzyE3f-Mw98I968ULHJXwy7flQ2Jge3yqbmDIg6jQbv_jpIKIHJ82_BRKzj7lNKq-svVuwvH_YwPN0kJKz2-Npaoyc1vs9FDb_K2tCpw7vyi4PLW3MqGUVO4u5CIov?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/chhkUfSSe8dH368tYVvFXY-XW0q4q_p4qmr2GG-Y_e9TD9Ty8bLgfvq9yNcqiPKRmVOvGMvxDgfWZnL5BKx4fxVmlWUs9CGg9ei4X9wJQtBbdJdBfh8o8XaODnXkKvt3sZC5Ic8dIOLtHXVpo0mafnbC3FYhP5kmKhz5Rpm1GtInRQyApVn4p296Mdb7Sso5?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_-X3nkYnWy1MIBcjcWBqXqj9gP5jxoCvqbXaNMvOBqjILwOuMuC1ldVC-4eFBYmhkumEjFBEflLZq6OJQgV1_n7SZcwil4duaaPLROKSIxOm8emE-2fDz6AHXB01-jdv_HaT_V0l1dyDtuLRlRHAvH4MC0gNnjt19yFc0MLRIcPVmqo3OxlESmkoUYO620Zk?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0zes5N-2rFcPzVr2BLONH9NVQf8cNNvSL-MPhot9OPCpXFUzbXWYcpNzDvvsOurUxNlKn4Rc0a34whWLjmGp40H4-AseEs4VtwbL2J8n9SKhl0YkwhIjbXbb0bzcU7cRqg3S06q11K5W7ktyPd-SQ3qgMoy_Ts18NwS3lUo1LsKBQyv2L53_bW1a8HoSgno6?purpose=fullsize)
 
 ## 1. Definition
 

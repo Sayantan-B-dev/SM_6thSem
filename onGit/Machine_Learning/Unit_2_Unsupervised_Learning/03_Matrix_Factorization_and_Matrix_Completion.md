@@ -1,5 +1,25 @@
 # Matrix Factorization and Matrix Completion
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=ZspR5PZemcs](https://www.youtube.com/watch?v=ZspR5PZemcs)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/70hbkkbxFwFEtpOdWKD_KAlZYtBDiJbPcfl7Slddv5oB2NMcm9TxUmqVW3EDnLRwIawTZv5WXcOz-oN-LFzxO6QmK3GFXKumJB0KzZj2kDLTQyf5p2Uv0rOsZyiuZSBcq9E887T7pOZicZEY4YQew5YUf7UWGoH9ABhMkVAN6pLPdv8OR581vdEJjSASujBP?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/42a5Ch7ar7UdcHI9wTyS1okjZW4MmVRnsPOF-gy20uSjkvKz4PV-uKxKW2CdSfQooMqfoQlK-qnL1YgLjIwKylq4NvtaiKa2zz_HQ-qvKqh1-Z-WtYFGDNgKrKjPx4s5CudAHa3NVjbc6-b25dep1_pj6MtS9f72h_oRlFD6IOIDps0Ukil3tNg89LWkIz5Y?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/phGlIAk6VMwj8UZDVZBRUsEuwX5kSTqiN_nF7lXM40Onhg8tA7_z7N8bmIX3Krqw72qI3xLR48ZR6nyT-jfN732sqAhkh5vnwN6ZLBg7b4LgK7pqYnD8HQT5waCvTbFAuIjp1cp6hrZewxJwr6anNAjQcq7OOgOmJdIDQr156mXs9IMbxf4rhV0f0qQsNNG-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/TrwG2C2cwk_qgMtMCTf7EwVTywSvk-ekDP1aI9EE1j1Q_H0Q8CkFYJ6lbzDMmJuH7gYDLv1ltTIufHpT3QuqNYZ7abdikxBtBBE1uLnAKwWhpAaHPF8scZ04_5KGLr07AIP0-F4cCozsRjjssWdytODhXilgCH1nFsl3UdO6e03_xVUUdBNjCvquy91XEfgZ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/e-aQPjRM04ar4pXqXZXGEYdf4VlM3__5tJ7o4cKCcLRlpxL5_IK2t5Q6PiVD09s9Ie_cPIZKcaelBBcF1QO9D0QU8gnUElMP6mfAbPtV0F_YEL71NkMELrufg7z70cGNuqLbAvg14qxBwJMSdda6pH0FR0WE6XikGoDr0fnF_A0I9cUJE4fkAenmMGRwu7y5?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EYKVtkM6D8Spg-Q7RSP7zMdcyDLPGcF3dxRNyocqQNh4zsXDXMCd4iwr_sX8L_s_L_G8OT8lzd5-VPHP5O9vK0Je6exqyHh2t5jcO8i3mMC9bos2dne030mbToVmUM-yCQuLG65nPjrhl9nzsnRfLD7GXiYvZY51IGiLWxJTWz78PKdFnZH6o_Rz6W7SVmjC?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/8Iw43RoGJnu3UFKcXs3lHaExzk3Lfdg4ZSivJ-_rJVT8ozuHew0gaPJc5IDdfTNhinAJJNjoYDIEponazVk_PygEByFBIRAX8XtaHo-XnHqzavI8syp0hfClHuMKJiY_Y-T0Ys7NtLRi5ZQD2zXcClvkdae5iHRYh4ak4QsOgXxdF_gAlOAw-Ke6joa7mPa9?purpose=fullsize)
+
 ## 1. Definition
 
 Matrix factorization is an unsupervised learning technique that decomposes a large matrix into a product of two or more smaller, lower-dimensional matrices to reveal hidden structure or latent factors. Matrix completion is the closely related task of recovering missing entries in a partially observed matrix, typically by assuming that the complete matrix has low rank and can be accurately reconstructed through factorization.

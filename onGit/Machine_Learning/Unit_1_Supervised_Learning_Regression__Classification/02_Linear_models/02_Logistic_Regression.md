@@ -1,5 +1,21 @@
 # Logistic Regression
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=yIYKR4sgzI8](https://www.youtube.com/watch?v=yIYKR4sgzI8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/jQrwlIp2mSc7kiBTEM2eyp3fjQDhLPlfOEZZAr0RQMyKPgUGIzf9IA3klP4Aw1DYcNt87I3diizhbWnEuiWbbJ4HyP3Sbmq9Joy8lcC_EYuLInRL4vIgvUrRTGNKG0Z3UmL3Lt3adbSn-XaR1T7p4YPiG9mCKDMYmW6nmOVXZCmbEFiVSUU8S9KyBLVGOkVa?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/OJ_NvqcOxNocPWytVya9KRgi51cdKueubDz80o-_M7ETbJrlCOVttRUXerqjCdUrAz6s_Dai5AjUyDTKQ8S-6qhqypY6xWa7kKdWxn4wZPfxCSxkCNp6IyqjCuB01KvBxd-fBwJjAB3yOullGDSqBQmyGhwaSEHCXDYHPlG84AbdPBzOyadRdZ4S0KwYyQ5A?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/mlqN3ESr0ZDl1V721gSgqUylOxtgwzq6VqxR59g3Fr3GbAveRPM7fXBzjvDLqnH8yI_fDtNG5NxBSv_iQjfvJg0dLWKMfJiyct1PwS9vakJ_993OZW_LlFclZTJPqiWjkfmM-DgcXJhrlDtHSf2tvCiUatuT9E12aUMHZLZ6E_uzDXtaRJnE1Embim0DOygQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/KhgkeoI69mpGFj27DwMKNuvUCoLnY6-U4ve5kwHrr7-uuvapRB-jrHdLZ_JEKHRSLdNkhjo_jSXQArYhMTPr2nSfOuiyUV-J0DF1hwX8ctEm8ia7U_5jFCrmFCY8BTfygjUSN1COHQuyQNOIrVjHHd6RSwouDCh4FPLzrDerab5bjruBMF_qZm5dbwMMJvWS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/V2FppY7qYfjnv7pT-cHfoDCooTenBwj37i5WYqgP3umVj-Zct75NsgLRlLE9c9_wBo5TDSkSqC_otSlB5NsQ7DH18hDrTxeNa6wyd9C87Koso7EUEBhsxVJODomriaa2wLla-yvQUHWjbumONk2CHXm4v0h85OwrgLw4KAus-Sf3XcSRVQ4kLrN7_AHKz18h?purpose=fullsize)
+
 ## 1. Definition
 
 Logistic Regression is a supervised learning algorithm primarily used for **binary classification** problems. Despite its name, it is a classification algorithm, not a regression one. It models the probability that a given input belongs to a particular class using a logistic (sigmoid) function, and predicts the class by applying a threshold (commonly 0.5). Its core purpose is to estimate the relationship between features and a categorical target variable in a probabilistic framework.

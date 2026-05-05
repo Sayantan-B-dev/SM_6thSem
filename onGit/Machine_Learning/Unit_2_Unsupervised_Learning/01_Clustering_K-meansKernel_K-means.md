@@ -1,4 +1,26 @@
-# 01 Clustering: K‑means & Kernel K‑means
+# Clustering K means Kernel K means
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=4b5d3muPQmA](https://www.youtube.com/watch?v=4b5d3muPQmA)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/oJvlMWnlyzkJ3SiQOgNZnKKrkb623brlh4GH4z52anEhYqQ5gSfi9nxcWPGjZXaOQdbwR-3YZDRtSMjvYGBHVb-wArB-A_ywgDYijUEbumyldW7B6nMjpxhlDybzYkZOrHRtfDKis7PBru4I4wPB2TxWDmt-mtDPnWalJQGpTsc_FuJ6b1EKySeAq5n71mvy?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/q5vNDnqcCK13bTqpXsinB6yEhcXkJsSvKtcbCXy4Rv8Nlgp12uhCbtaMSbu5GeifMCyL9Ybxp4CW3n-VE8orQT61NKRPc36dkP6vSlKzHXz-8eradwxWvfCiKLLoEUI8FB6fjMpZjcsDYI-vhK-Q3s2BjZ4ihmKRTnrGbGPhztyrV8EaULESVHbLoINIYU03?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ytocx5UDBR23ePD4DFba3BTlPNnEPHfpS92wXKABGmoApmgj0f8sU7GZ-GOLQ42HnJLdAiJ-pxQEkSHRSb8dfSItu53sdR0XjKlcp9Y5iUYnS5nk-RnCohwkljIDi1mWNpuuSvl_2hCcBDCUGuPReiMEGxtM2mvFuvYJ3Lq44A-2kODp7NBqS1HzHX-x4FOq?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/iumTpGp0_XhExMI9KzAJ4VFIpEuStwTIDvBtoigM3Vb0AP4Hnq3ZKxJxRWIs8-pOgji9f29fi0OpnZoDrIwwEuy2XA1MWyPKk4yohoZy2QE42-GhZo47eOoRIYxvhZv-4QVMCNXGml0mCz38_5uuc_XsO8U6rMh-W_FJ03OiKkStQeOAwpQjiR_BxV8PlS4N?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/lNdvFyhXj4Wrg5d6OGJzDMSrSU2Yy8rr0QtIJX6adZZ8SDZ5O__dSGC-ooCYOI9nELMmzPPNbTFQzQuYQWXl7uBHuvODWA-xh42p71MN0txZwYdf7dZdzQ5RT3eTWBVXAnwUK27VJZUrjBkdaGTaZ3QA7RWD0scwx8kzejr39BHqz6f-V7o8pIZdwa0K3PnC?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/mvCqgwRUf_CIWzwOQnFunjcvJPEWNEO1KttTYNy6LX5dH_zUZ_1TJzOJVJeSzA8kextHIPrVqhrEUAT06i67UkoTG_gZujhkYtGkqo45YoxsjU_EsRyPNGiGG0ekYTM3J1GeSDc5KRd8nWZVm2AoNoOIOKSfVCFqBQ7Y026JTv-XXksk2hK-ZT_yhroan3Wu?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LoLg1F6bSeuSNcDWRUWJlcvTWkdrsA_vq23CJvDFFpf0Je9PQEdBMKUr_S6B6EGRJDUwGVAMcDYEEVOB7eilGqqZ5lOA9FvwvUzQdkvKhXeJYNIHOcM0SIT3PDXDEn-wK7EYR52iLfQVqu7yhC-dalQqFaEKktLzCk-bfvGQ7rNdrSRSOdejhW2EzXfRkZWG?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Yq70SnIzjDdPAZywe5YAAGSDyIVgTERztlTMcIRBrrwqt_dCAfU5a_G2I0CnieewbZ5T418-OeQuwxbNEDKQTxfazxYJ9nJ2hiK3TGDozO2sH0g6PQrIfvuE65x9h-cMST6hT5XTcW_cJD4WdsulH3AViF1zaoru5ra-58yWiAZQBbll_1_j8zZxoJdibV86?purpose=fullsize)
 
 ## 1. Definition
 

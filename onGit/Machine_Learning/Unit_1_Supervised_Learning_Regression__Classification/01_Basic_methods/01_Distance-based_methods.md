@@ -1,4 +1,22 @@
-# 01 Distance-based methods
+# Distance based methods
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=4HKqjENq9OU](https://www.youtube.com/watch?v=4HKqjENq9OU)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/mUDRglr_IQ08RkF-7jCVtim-yCZi2QpfwXdxwJr_SIL2HwR-maEGK5AejXg52WtFoXjoBTuBesaslOTpMugNDKL_KYoGmkwsJ3CVEcdk27XkNjdDrcAoKprkWmnqjgHfDrVuTH5ccLOWuPyUPHmXEmEuO8P5eIJ0rKLqYbmuB-cM_sUVJ-USZwHLzjK8zQ-P?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/NMR4LggxQs9Xdii6PpOXNQJlDGFHwmXUFDANSA8ZLw-8nI05iIftmJOfpdpsysjrqW30O6fQj8ff7qUdF46HSQL_HgB0wrSoKefBy1n33Dk_soVhFcVUuXCrYWyVcqMQHzAb65Q1l-96dFRIDC94NSq2fNOFDKiU3hMmhiX4OSqC-Ui28M1vR3xdLFyUlgMu?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/u92aWbBLRGyTYM4WNL4VSM342HMOJxeLZp6qPIUrH9hw67kXk7_CqoC3iZHR3cDMqKcDmHE5t8fDvG0Xnq8ZZIUlFdalIBSVo7kUSZHbZ4vWQZUYJrBSls-5--qSgVW7oHKhp_QDpue6aHNJu-5jRALb7pq8UlbloxonRp4YJ7h09gnDk-leDlqeTg4BaM6y?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zngJbzpQroxMqSscJ-m6kD31mWjW4XFBZpVMtLZhLkWvN15xF6Lnnp8u1CWLgWSvKydB7sMypogoBcGly0knkrw82ycK_aDiPFikJ-Oq6giMgzBCEsUsgmdLMlQZq65PU-jxm5MOeXw4sH76-G_dWDydT_HbkwvzbQ5Zb9J65GVMlUFMGAG03VdO9ng839zy?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9sy8xiLdfUuMvlRaRa_NA3Uu-FDI4rA90tKrGyytO6Y48p_nOuBgjasrdYcn-LQkQlqg5IgV7NAcNp9ddR64cNdAzgcHgpjtvbePpWY2hO0-Wq3Hx7zZmQHyj7rWJ29vtg50HmwYU0LAuVDo3VgXbvToHL7WqmmW7tOiEc1SRItGU2jJdRDRYtwyv97jUgCt?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Pi5q7FR2vcrp4iDVaJu4jxr-KU4vtq74YmKw-LonbYcAm4E6J4hkK2lvl9M1eltoc6AcvZQlMUz7nctRklfFL20jtZ0A8eD7pmtz9SDhrd8BvKNWbaB20eAdCEavh6NEWvqg-dfIcIjBOeugMQ51SHO1MST0hOEzCF3FAHxgfVC-SOxjSbw2VCFBWh4Z8aK1?purpose=fullsize)
 
 ## 1. Definition
 

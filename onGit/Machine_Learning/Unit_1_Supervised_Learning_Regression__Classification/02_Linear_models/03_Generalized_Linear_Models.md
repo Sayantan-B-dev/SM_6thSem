@@ -1,5 +1,23 @@
 # Generalized Linear Models
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=K0K2C9FvH7k](https://www.youtube.com/watch?v=K0K2C9FvH7k)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/UKxcIIZ12i6oPNsFfhLWv3_J8ZfN4eo7fJpnUQ5ZHKEGZ0qijUTbmNb_YA7x7c0UuED3oNCk6QkC8_0CIqsxqriSJL_iseWtyZrOgD2ZV0YPh9sMBXJOoHCiys9IX8wG4jjxoiogul05e9CKWD3drZyCqb_tBjrkIHos9xAAneepcMk4uwy3CsLuYxB5SBqp?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/5WMHpCz9n1SZUpD7D1gXxxcilH1SF0WE5mItarWCAguoS2sgK1Vys6Je7-HJIKwr1nV2W3_ukUBpJynoF-yGVGw6VCKvOGiTuiqmKPvutySI3W8zPvjvZ9uItmqUE3AwRFbdTh6E4fc5BsK9qqwPfGgUHMqGK26iHb5w8QbXnqivBa21NzvIURRjMR4Dj79a?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zLvIY2TmxYzwGLzVvSnqbaGacjvYcKGTAvyhaqZ5YVgkYvWG40yVPEYJoMLViUPRtj5xkfmpzKFvho0n1los12nB9FIRbS6AIlWbFpdoUie3c2_5hb_7Hp-7FAiaVyILNhDJkI8PnEOp7ulRJZuGIbXmvgypx_qE625QzgO5aqKiInDzWbcJoO1YbAgikOdp?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9K39xOjXSsrBSMHiMWsbYAEh2jcjU0n1kMculoO_S1GFoElcPBSUk3XtrdyYT6iheFFWz-XHc2Tr2ZoWTg_SzoO00LXhZVR3NoLTW7CvNGPryNXlZU6VYJM1kikWNLgebef8FZbftH-uR4DWMmhX_49nDmsQ19NKfGj0fpmHYXMQDVxMOdti2SFh9VR2Ifo8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ppRe5TX1JFOCIkG-phHYn5dwfGnSUnOs_JMFkuJL8eVz3hJkGv1ejrfQKQkvU2ZT1pCIsS_PesHmsu0lPW6w0yoM1iShkYgcsXmyK6rgk32zdvDLVA9_Fw_9728RFPqALbqjXcVBnnr4AFYJTe-l7gxTa2m2bm0uHdBtye50kNxpr1u3399HbC6w4IMe9d8h?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xXuqlK722Dl9jDZDKAPL3OtEgkVZD2ujsIXlaCbsPGHAzm_mMElPR29QaZJmzD06PE2b7oAiTYX7pdJb_LgvQtJb01WcrTz0txbnu9krtrhblYXOjaCyZELrcndN-u5fOSlU9qJmLhfObKhc4wFNZ8wlUFgSgx61SrtYWqv-BvEYWdxaSwdRXZadWLN__h_e?purpose=fullsize)
+
 ## 1. Definition
 
 A Generalized Linear Model (GLM) is a flexible generalization of ordinary linear regression that allows the target variable to have a non‑normal error distribution and relates the linear predictor to the mean of the response via a link function. In simple terms, GLMs extend linear regression so that we can predict counts, binary outcomes, or other non‑continuous quantities while keeping the model interpretation simple.

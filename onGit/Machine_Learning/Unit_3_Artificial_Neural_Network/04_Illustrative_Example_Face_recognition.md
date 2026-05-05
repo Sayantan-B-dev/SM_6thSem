@@ -1,4 +1,22 @@
-# 04 Illustrative Example: Face Recognition
+# Illustrative Example Face recognition
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1xtrIEwY_zY](https://www.youtube.com/watch?v=1xtrIEwY_zY)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/loHiS-td_egY6TzEvDx4mXDC-0vxFY_QBHtf41h2SNYf97KTPm_CTz-ffK8T3b2udAeY2HSIVkEkmY95sSgPKYX0ZqVR-hnPPF-D7vvvH8yRpYqDXIowT2dbNLcao51A2WRQwg5me6pbVtZpSsgVY3m6Ao_Xfx7VhgJB97OQPl4-hIKH22FL2jDKei0dudc_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/DFCe144tBwxLsmlpdCoz48ojM8JdftpK2cpQmmBRJ82zddNiKia-g6OYAZKydaaM4TCK-Gdpg1F-b7C1hhjh9cWFXAUO8VlBJiNGYTXwdxT_F5e0uY_vZdwKMOorm3QXc08ododMaKaNV_ACkpizOxxwmGx4wKbCBNKStU_5U_9OojwfVIvC_BuTk164aOyQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jqsJkqIyTObUE2yx33a9cDR0EVSv7H-2pGXOU69njooR0wtbKeygSlaeNFf28rf7XzGebuxXXtkwxAaoIZ6Un3U5nH-pOuA2Unt3pVPxoWUhnd2O0bpTHunq985lxOuCQ3XObI-Mbn_dmsw8wjuOdllGsTVpcnwrv3sCyk7KeiP7Gn6FxeNfC43dLfnTsKSt?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/qGPdjWqQFFVBGdJTAcGcuI4xImlD5QzX_DYqVC9trOyU0vO9HPaK9ykoVeG_FLjymrTjcTqU6RkpBgXAbY9a4u_DDZnAIXrPaZLmaYE2uLTpbP_92hn20eIb84guO-TFVJCK4IjRVnQVXrh-PnkbdW8xIpeMFFU_2ihpX6BH2sXnLYCOel-iad16SGS4VkxG?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/fA6XqKXwbE-R0uH5a8wLgXNvNCYyQodjlhL04VEowG6YkXA7YW2OQ7HgfcXxZbIukV6VrYM_vn-bNkiE1rNiTfxRZ2WH32MRqP2yZ_xYi0FUQbQBbd1CBEbM2v-ttbsyQoym1ZEFOw_32XjZK6MgOEyaHG0pQx8PA5EbLsoOIdEjGbaJR0sPCVq80q-FLZWt?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Ar2B0S4Rz5v_QN4rfVC5em1QUf8CjXr5dyakAIb_qCvtPIFxyLmPArOIHFC4WbY-_8sHL-Yjtmmhl9SGL4gn1A34evi36heAK-VCXNyyG6Wy_OP6NtzHMBB11OcJthnrqWT8vtynFuj29XLIDAhknQIUUKxag7gl63sFXWbvZO40eZ6_XeD-oa57D2-eQ7iR?purpose=fullsize)
 
 ---
 

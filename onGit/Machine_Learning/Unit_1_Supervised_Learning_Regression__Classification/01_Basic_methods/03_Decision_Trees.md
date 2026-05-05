@@ -1,5 +1,23 @@
 # Decision Trees
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=7VeUPuFGJHk](https://www.youtube.com/watch?v=7VeUPuFGJHk)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/1Lfjh3bP9D7SJJWo8GyWVVgNPepCD5uvMVoZkzDbvki-7toAMVKnZnvI6VNviw1cKKdzagcXpGQSFWH9zJ-P01xnHdYOhep6pF5Fpc7sPZY7Phlmm3qF2onUFl2ViQUSNQS-pwIYq9ElNC8ildzP2UkotpWdIQW4S47-FgE52VJHNKGTg7GzdbOngWhg4Qs1?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zgPQrrnDPpm-h7JwU0Yrl5khLwGSTgVn6CmYK4DujNWM_X3m997Wv3JKT_iXwzsDW21ZAJRetye7onVuxWDgzkfyjDz9ncUYNL1EYJRObZ0mO1vC8Mt-fKVHZkcz4JI1cMe-hR8YQmKe6JPhO6nyHbR4_NrlzyiP9W_Cf19mDD_suodLYF9xI1tudA8c-8h3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/l8IcM2IXdWWG8Kz5LnBssrVQ12Z79r4TDOiWCZbT6Yyvf_NZ9u4H106wtjFQBVYcvKHDuEVgCI9Qme7uqgSLVhnYVefBmaIxnZMaYD8tL_zWuHPYr3tqjhd_y_vOVx566V5lCYeGinYIKS-0XoGIiAts24yHo1VpcHDoTHYnwILrJFja_q2PNuWeHDuVGakU?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EYCWxbW2JW3PR6T2oceEc1sSS2opTILEG1ANZnzSawjPqt9au6sN13YW7mL2xtjAKclELXo9BkNzGQTwUi14TgaK6upatzt4BqEmSG0XtogLEN3yjV1qEFOhRZJIxPIbRJuris1VrtPHlYeUl7Goy66LCo7wwLrPBiIVWh8x7041hpYZWIAkd29C7xYL2A-m?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/78vHCSNBhR9ykFgp4V3zmkdlm-5BNWPL7CsY43LWaBZpTOkz7HmWgaO7DpNCHs1E2n6QVBLyZkhpXPT55KXJckilgf3ORh8vKTIapJqlo1AcpmMoo9eirGV98HIRJam35m2KW8U-Uhv2CyRcbyfMFL71myg52ULidGIcxceqerPhjX6gqzmpJCkQJLFUKIxv?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jXTSIPKwCJIjjy7tfgLT61ZcyuxCh31xcfVJY_hslcXVcnEBu6TGBbHC-4oVHdX-dPg_wi0uG1MyQm3zTirznC-kFMy1eEgLhtVY3_cXTOa_uw9ZJdpZUjsI4GETGTtOBQD3nhrLgSu-wIHUxNiN0A_ztVE1PTrMIjC61FKFJXrImrCRUSYOId1DuNboAilj?purpose=fullsize)
+
 ## 1. Definition
 
 A decision tree is a supervised machine learning algorithm used for both classification and regression tasks. It models decisions and their possible consequences as a tree structure, where internal nodes represent tests on features, branches represent the outcome of those tests, and leaf nodes represent the final predicted class label (for classification) or a continuous value (for regression). The algorithm learns simple decision rules inferred from the training data to make predictions on unseen data.

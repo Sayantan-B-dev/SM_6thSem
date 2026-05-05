@@ -1,4 +1,22 @@
-# 04 Naive Bayes
+# Naive Bayes
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=O2L2Uv9pdDA](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/spMZM_MonEVilnJHmNbHOUM2rEBhaoh5NlIgR9h4muzuwEH056Cod_fFYI_6hLcPjxowV0hI32-VriHji3iKSXpMW-2L8jd18M3oMusRR63aj4_ADfq-ucZFSJ_SV22vf1AZ1rv_1La-SCkILRusbvrJfQ5TKEe6YQNXC69buqxSdMxL9NTS1U5jkJxnbEYz?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ZAFkI-fBowze97Cd-sY7vSU3arYsmdT1Cn5Pgc7TOYDe39r3313tEtSI8GFwudzIHDCrucNgE2derXJjTxVo7oSkiQKquSK3MQlPfpiqzwH266SozR4aai6wZK8RJIJl4LTpkwgmQciKAWDYsXkrhQC5Q2Y9hrkFQobUmBZCX1oNMhJs-cfk4K9vir5RhMB2?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/sGr97Q4eF96s-EYKSg2wMVMZ14ssOi9tpMtFQFD18h0SLqYqt0ha1RDfKp0k6E-_5-H-maSKamBNQ-DTF6SWrDoovaMbUmZL6YihEvRoUT0zLWv9OxijxS7AUzWIn4GQE0IHm2FPVxXhfyMJkXVIcQMQos9OsdQ3R7APk5RZGKxe_TGPvw9CUWRU4xISvxg_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/s2Hz_IlZNSFzyeN1JfWudTGoi17ZRSAzqC3plXkAko9D9nu4c8MRuZh62_uW8XXaU79ltNkpUo_jay9KCzCpydlIEFWAgWPsOii2mqRfJ92A3YIQTJ0EiZa8J71qWtQFiOXNyVGrPZBXifUhv-YJxC2DwI9ZzC5oqFIDEmsXCZhT4rGRixXJ-aqErYeSGBfK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/bK_fxJENOtkeGC4oVaUj6hBNvgXPd-h7FZMj7nLlcdy-nDA17jAhBKbDgXtCB1c8ByMFD_GpV8Vyt31BGDKu7PZVWHuKDMoXP8hOO50-o1HMcXiWDzp-QF3MIahURfXn0YmwBkEXGanP01UbzEDqLtStWLncKOFN1SScDas6DjCdDHl5QFetdcd0Bm521REc?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/uJvj4k8glRbMbdPn8L6u_koDI1K56A188cS9YMfvd5rfyHWyDD_DKNjUjckq7_bmVl4KPey4Yv7nqaGOsSJf27uh8xUGPoTA_m16J_Cv4onpoZc-Vfn-Q6-3xMMbOBfQXl9hcWwtJD0T6TJBM50vzvPZfVuXLHSJzXZeT8C_C92fSKwY6e2sBMkvRrPLWWa_?purpose=fullsize)
 
 ## 1. Definition
 

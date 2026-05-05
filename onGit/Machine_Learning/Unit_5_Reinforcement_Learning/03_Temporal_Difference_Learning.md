@@ -1,5 +1,23 @@
 # Temporal Difference Learning
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=VnbkzsnLL8M&t=400s](https://www.youtube.com/watch?v=VnbkzsnLL8M&t=400s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/VfqIzyjb4poRnJJWyCmCYdGZDiSZEdYHmDkirvrTDEeqBXR_t-zzUft2Ant-hg7nMycd69tMS12mhgpGX4vgz74Ox7qvlCTe6HkyzsbY7Zhw4Nck8luz3RPN12BlKER3jG95pWE0uuOMO9oLnXhsybRslkiZ952-TLIA_uXjq5yF22BVTiCj0sNk0rehxgHs?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/drEpC7Jli6cwCWPt8dEiTKb2DL3n2bmX-uf9YdMjFGfZNIBwEQjJBuACciCdCZYvLFxb_1UaCnMvnhEUJYgrAqV4B8MDM-mH9z2MvSe3F1fY0oY8TXohOfsK27QBye4W9ptg1-b7N0L-FgnL_fOd-nejG7a7HkoXDSV4-RoqOc6m_wVcaN9L7NCEuhuwvF9Z?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/H6a8NnIDLuiowo4GOHAbZkMukBQsnFkVuIibrLBHl3yq6uTarEUciWLyt8Z8SCp51TmllobpKi6Z6pPthy52BialrMmfb8ZH5n_ArsDm7ug1BMJPvYGDtt0iy2II-MJLT983g2fkTdOLvZev0ha4UoAGVJN3_188v5K0r54YFh7DwcOmqm07hz5IhbYWkAS9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/h-0F3DE6L7ab-NQ3OpkzJAIGd9UgN8qUAUCyn5nMkte4PM0OAS57stUHuOck2696_Af4FjXYT40a5C0qcX7C2mhy-B9bMNAdY6kcroJ1UEbnZo4EYI01z72klPcmaHj0N69UNMqRUdbDlvY1nWV3ur8olI_-WTnwrI8bk67uFcK_47g2OANlBURdolqDXUXm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jyt_1sewZlKuNhLPqPShsLoYXAafUQ5Aq8RexEDqxHdYMAsfW6HL2fXJ_CCJXPBLeqmdHeWk4v7e7jnfKLc7yEAOJbds6pxet_iT0PMyvETVgWgVmLDMn6ThS01FFYSicLuHYK84pPngd5aNM_fFpjxYgv7Q21DD-FQ9JtmwVfj__poWWpez-dSbRy9z25ue?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/yA6XVaLT9KtiZEyVmnhk2mjHNjVOPqo-ul-2Yp7rgVSb4ENpX9ntDwnKCZmX--D0j-Nrk9Exhr-9Y319oRtd1nVzMCbVYQ-cZUlUgOh1gvwSOmRxwSr_JdCNNN6TdyrDdd1tsogNvrr37YZeQ3yU0VtLT1jQbEa002cZaErOxirHm0zWXsWiSOcMtnBgKUqD?purpose=fullsize)
+
 ## 1. Definition
 
 Temporal Difference (TD) learning is a central method in reinforcement learning that learns value estimates directly from raw experience without a model of the environment. It updates predictions by combining the ideas of Monte Carlo sampling (learning from actual returns) and dynamic programming (bootstrapping, i.e., using current estimates to update other estimates). The core of TD learning is the TD error—the difference between a new estimate of the value and the previous estimate—which drives all learning.

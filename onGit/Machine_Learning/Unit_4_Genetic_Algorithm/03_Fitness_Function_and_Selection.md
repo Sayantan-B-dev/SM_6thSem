@@ -1,5 +1,23 @@
 # Fitness Function and Selection
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=nhT56blfRpE&t=300s](https://www.youtube.com/watch?v=nhT56blfRpE&t=300s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/OUDHrNLkjTj7m2AlNcWscnLuwtXhDYXpdJFd9AI5OtiyJH8KCJRYIavjI-E1Bz0NFck7h0aLuL4aGDyqHMl_jMpAa7KBSK2sb0QOWtOHlLTd8DC7stgoFEVCpGlJ5zaCC6HI9e349HaDcPndZq-iBzuS6dh93gtHFmvF8cf5kYZNYjANqk3plzWguBWsHS7k?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ORQX5UarQCkCgU4Bn9VUO4O3-yAOvBJIqMXK4LG5SGW0mCZ2yxyZuVJoIa7f8OQTY2LNDrbORBuWN--yEqAc4YCAvryHxXr8G5y12rxawKXtziqpdpVApDAmHRj9iuZQPNu9-OZ-PxS4D1Xxykw--cx12Ns3tGWUsGQZuUSDboDLRKbXDibOtvECiRq68DCt?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/lVE3aWA2FCu0OkGx5FYAGFZMNXEkUw8Z6MmD_R_zFqBWN4BkA-8CDzYbOKPZbXaMyGPzqcRCKbB1iL9HR_s4omPaD1tk_jSC2QIA0R83czLIfCIXGCLVljR2cCYKMKffPzMHEjeBI6axsgDXPdR-gbnxNWfkTaVxgptZrnJWyrLZlyYiMEh6V3rq7QMdzDT0?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/aieKDNsR71Txz9h-uyc9q-Xhn-m7237QSGT109dwrq8cg8XAwYTF26P6q-1QZhxkul9od534hWuJXQ7vpuUxxbku9vfoGiY9ZSpL-6ovNd67NNzPxUuIGtju8qTqk3-WD-Q4nZz_v44gpvX-5Wwd2UzoIybZrR6JqwBJEFtroxnQfYNRLCp1Cz0CiEIib8xz?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_zbhYrrT3HDVHXuFBBN5m3txEz1F1YZpi9dl1ShdJF7VfIUDKip99ekMRhxdgq3PXUwKIxMbFFgTmt4PHMZslj5RdB7OdJMT3glnGkf881IN_QTsXHfMXH6ZCzr0P4t40DUz_fRfoyHo_5-m8cC61WMDQ0s8xvOHgcTqJ_35yUF7FveST3aB8D369j3N3VVU?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/MMh5vUr-mRBzrGjOGjzeF90ukR6IvCLMf8Zoo8-srDfiXlI2IjC-l0LUQW6dKZmWP-OWuI2D2_bwuE7v9usK81F3imfmzNKPJCMZ6uFaNVA-Qpae0KxrqRQxz-kzjkkrErtOGDdfA_UcU3niMcQ2JEcSKoXz8RQi775Rr_SdfPQ8zf0wtiJHa1pc3Svfd-zA?purpose=fullsize)
+
 ## 1. Definition
 
 A fitness function is a specific objective function used in genetic algorithms to evaluate and assign a scalar score (fitness value) to each candidate solution in the population, indicating how close that solution is to the desired optimal outcome. Selection is the process of choosing which individuals from the current population will be allowed to reproduce and pass their genetic material to the next generation, with fitter individuals receiving more opportunities to be selected.

@@ -1,4 +1,18 @@
-# 05 Genetic Programming
+# Genetic Programming
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=nhT56blfRpE&t=600s](https://www.youtube.com/watch?v=nhT56blfRpE&t=600s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/G1zqFbmfPUqaPTmnOsspAlHPnEeIEF8hyGMk_02xWwvPRbkeP3b3JA1B49rdG_DtYlZjg4DS52jl3l1Uj7Gj1JcuUD5SUQfJVBqJSFtPHriNCMJ3P5UHkzuWrcvG3K67yB01mifD2N0w907xeZFja_UM64k1YkMm2ODFJ-dI3LljUKoRjNsXuM-PorX5aqhy?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/dA84xB-xqm1G6SxaXqt_FuhEZlUEIRQoDuvZfUyA3SeHSRJfcWqFpe88Gxi5A9_IekycXlPMfo5Y3DlhcUGdVqmf5h7kjz5fzhjsG4xNjMxk5AWL_ArPlB9mGoO_Mr0ukNEAUF7erXOTj0B5p23PnK2tLf3ea1kOY7W7XgLkBJVNxPIPfudyw0gdeL5-5VH0?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xob5ej2uzXGiJEm0y2lF7vjpE24tRGYdhs61uCeQ1MpITlB22_sB9TThCd1vUE_7tQ1HCSc9LBZ0Ytqa7fer_A6AjuOb9d-3ocbrka09aIw0SIn-4vJbt-xnYFrbwM4BCSNbtETYydZk4EA_ZrimIW2s9ilyQbU_FmMt4x3m2OJXy4RSEyOg2sO_5Aya0--A?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/tWvIESgnQZ6M_smM_Bbv3K_PVJRmI9jLidd8DImQflAYJ72O2DY7N2Mk57OBIBFs8WKLY8E1EhWRmaiChyhT_kesJBQneJ5L55f9Sx7ZmZn5RqyH3bqQsFS12lBxtUY4XkyWKyLGkkAIE366-JOAXwWMnkGVQhiFgCLjUBqaEV_xijXaX2wAdTVTR36TwlrK?purpose=fullsize)
 
 ---
 

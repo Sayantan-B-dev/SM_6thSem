@@ -1,4 +1,24 @@
-# Dimensionality Reduction: PCA and Kernel PCA
+# Dimensionality Reduction PCA and kernel PCA
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=FgakZw6K1QQ](https://www.youtube.com/watch?v=FgakZw6K1QQ)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/lvJpxMuXANLhfRgSUlwcpgskyouitLJXPhqswnaH8QPWqC7osIF9sIMupyGQ_Fcuos-9sjoA_O2YcuQcUiej2Qrgcg9Ltt0HUxpNmXgKaIhSQAkZLn0rgPm-8E4JsRt69UkytilsRz5bWOZ-JScKowf0iJcQabVbsRBKDe-GUkKax8hy5H7SiY_whVnw8JYQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EKLEwRy0fi39dg2EhlwZ9kVCCmtLD2qLXVyFVDeXEZIN-wiFfOmuoPHhORi2vhBR4RbrUFseuZvGSWOcLrqU-iXX6ZpNmKR2XiLDdmLHUvqyhqTT48Eb0vnWY1HrZnC9gcmL3A0lvVXniyVDBaNUBSLThojFOAH7hPoACdQLARcqjs2AwUF_JoM7W88atD4B?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/oQtDbf4OVuEHN9zuMVOX-psIx6ng7rHqHhixGeYMIbAEdqbKL9wYwwNSBcnFv4f-z03HhaztdmdCo_GUX7YlBodIF-WVsQc2KwcsY-juPONx6fMxvttM_EiqfOA4ReTqAyZwEi3kmsUZsHTN2fFuAkrvp1xIHopfprvv02N7p8ohVq4fEQv73VUg2qbJo1mJ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9Kj241j7Bglf0DeSEnyFGYVdq6-N9mwF_k7Dj05VZzige5AbvYtY7VBfj9uDfsg2Wby7nM2HZk7IQyF8mazRJsvKnorKZWSikl9yTye9bn-AzkTuXnozNb1JKV-WQfNCMQnKcF4XYw9ST3diDO2-MQMKF-4LjE9ZQ4wPp5-95t5yHt4sdhyJgoy3f_I0x6P6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/aBCrwcvV5NXnapkpeG-n3rrJJ8hhCangxPb_sHb6-2hqIddUj-oLJcmQi-ZqrR97d-rSzCvRe2DjyOQMHQtJt3Pa7SY_ZHU8tkv3b6DFcofsDzpu7ei2OxI8J9_Lglk2SqVCT4Wn4aASNTNuD7ci936mhUmg9YZSA4S_Bu3IPnnbE3vUZH6Vqipc9BGfMI0u?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Zutw77IwKZebD1hSqylRg9N2xYT5-AMKKC8zxu8XiKWQ7oUqw1lEv1jYzbBlMIDPBO1ZpnYmi_Bc2UlMWuRh9_qkEC7rDY4BFoQPZQdUilpb0Dy5rO1QlC0u9CrKh7EpDa8E_GXVi6XBmpZI-Dlvx1BUfkQVQXatadKKRWMlRaB-xyM6Kh90JCHztuI9YfNm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9KJkJDH28qTpaeyQNfNPbcUTBfMYBeZak5X8Su49hXg1KJMqvopi8d-mnA_exdxPBr43AqCBK-TbtqMyNHV3uzsYZ4UzqVkXsY-bsnBm9KPZuZFyDdv9624BaOxViTIb1ksWt63LjdaYBewzcfppHFeyWaA8onINyxL5F-onUijTB6sxNJrsJhCzQrg_q8tq?purpose=fullsize)
 
 ## 1. Definition
 Dimensionality reduction is the process of transforming high-dimensional data into a lower-dimensional space while preserving as much meaningful information as possible. **Principal Component Analysis (PCA)** is a linear unsupervised technique that finds orthogonal directions (principal components) of maximum variance. **Kernel PCA** is its non-linear extension that uses the kernel trick to implicitly map data into a higher-dimensional feature space, enabling the capture of non-linear structure.

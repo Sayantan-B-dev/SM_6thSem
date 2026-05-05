@@ -1,5 +1,25 @@
 # Neural network representation
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=aircAruvnKk](https://www.youtube.com/watch?v=aircAruvnKk)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/jOZTm5c-gAKnpSshk2Lotez5E0K3XjEY42Yy8crzLPzQDQckM-e4A-xGy_z-49hVFhF5fZp8oCOhh2OEy1Iq94RrBzKYpIzpK8pwWinzRrqaqolTzNQ2yFT8KYc2dpf9Ay8zC_ZC0lS6znOYMOFIh6udz5KHQ7C9t-GggoEviHfV6mQ1vuVWlWod6KUZAFZx?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/aZSa3Zl3__hQ0pepEKHIp7k0WPHO6Y8Q8J7_mh7jXkfwIsSidK_ecqks22ddUJ4ZUcjzCmB9rMTYBUYl3zXO60YL4UvggYLlH54B0kWwgzkCUdCOU1gdsTE4HX8QXwMbjkPhUv6JviG3xmnE2vqCW_3kHFHvn77YCn4SffBE1jLC3KVdsBqBYHIFx82gMwpq?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/bpa3EuidkcJwEwD7MR2umOGNpAb9ttaHRpBeE0SoxsR-3TvfqGCHlc8R7wo6VM-fpwU4aXauL_N1fi08MROm91lWD5JKhbrc_btibHe3qFjAaDIXjtoomcDjBJjuuGRzV-2nsjaUdAXgBk-nPE97yOq8BxajJZ4DXU_MHsXDsEeHGiSqbcqvsLqEVagFlZd6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/k8435F9LSWd2i44XKEldZv0H0f-oys_DQTphj1NWFpCaL1v3uHqs_yrMQZUd0hoHtLIc8ziU_nm1l1SR4L4caw6Nfwluj-_ivjMN3aFJ82-ohLMUhxaxRIIfDvKv-AQoW01h4839J1eRaV5zvL7gmvzuKzcELnqyNVRxa2Y6LYTUNW9z2eU4Tf8K1ncbMTTt?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/UF6lwoJxwm5BuZ8Aekt7moVXU78_UpZnHyNHYZlBtTE1QYqJ0ZZBfsP9KhlVLaf62ca3is_8duLNqy5e5rR4Nx-0G1KSoaCIizzIRG46ZGNc9YxXuepytoGs6okAQqBe51ioD3acI2lpFUA7OyLMAwfWt-co5JoGIY0AlERFg29XJjXzk43sc9AsGiZ8wlIm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/7V8oKPIQ8pryLLRarQX144og6njklJuAWxkmieWAkthyU9crsQE2mdVFFnyXTQgPPX9br0CQmoXIvqThEDhcWUrCgolIRPm6CTt77T9W5_RHce7bE4HC9dEdK9f6iw4LARyKtZYgsYatgPcoNTVFl8U-fwSkXxc4z-txKJEXHOPA8SqSURF7FS6FQsKIbgOE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Oyv0c0i83WfXQr_GgCMX_m9SXVulH55UBOeDZURoAFC1jP-o9HH8PMYSWCXEMW5vT7d3BejthCtjUsQVa2ZKgjiQshkUiWI2pllkn-T0BygTuioJVFzbHLaXE3bo7dTKWD6q8tJpZdasebv9RimaYksoGVB9hLjiKS78IAakyyWWfZCGgIvVOjaCVugwhwTX?purpose=fullsize)
+
 ## 1. Definition
 
 A neural network representation is a structured way of describing an artificial neural network using interconnected computing units called neurons. In this representation the network is organised into layers (input, hidden, and output) with directed connections carrying weights, and each neuron applies a non‑linear activation function to the weighted sum of its inputs. It is the mathematical and graphical model that captures how raw data flows through the network to produce a prediction.

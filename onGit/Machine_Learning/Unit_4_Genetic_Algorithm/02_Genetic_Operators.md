@@ -1,5 +1,23 @@
 # Genetic Operators
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Y8Z0SgXl3oM](https://www.youtube.com/watch?v=Y8Z0SgXl3oM)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/BBHItnETGytXwZ9yJcNaR-do2n-6nYlMk-D9-w1aJol_9dYTElm3oqHZqVVhXUnCG_BnEMDE80ocORe_kfOXMK5PgHqaVAB3sKtkW1DRT7bl9xQ3YoACVUhrn2YZiUBgKHus9s--IwRGG5IECv6a8sleE1-UcycMeTSvomDvGO6boJykJCQ9L2TKW26e4f03?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9044UBcfeOt3xAcS-3cxAqIUDAL3_cg-cVqWIvvvg3fK_8BF33R1lloyUTPjvozOp6kJWDcM1TqUFuPziPsX5rw-l23XEyoCEuplos02xWVRENccvDZl2R5MZLjJQ8OdM-JuXv8fIDBu779sDuSnL-HHy6wsULfXY8aFDby07oHHQSHatcPt7oHGJ1QJd9oG?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/7i-wZo8owBf1ROhgYlbOw7-HVvb6PQbHwT-Vz3OGPKHzA4aZWuv4hP3YBOxU6uHYvAAe9YE_crxChqGVWXtSDI-G9G5wEjLsKdfoCc6Ym9Scxz3UUFWzSsOlmMqOP2gFHdOQCTvwW_nKhYupfJQ_rGDoOMxP9wFxM_Jwt4WwddEYE3JgdkcJoNFD3dVYOr9o?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/5rDeXb9GWwg-n1DkAQidLGUaDcZtXSjjD9QC1YPuJNlxWyXHLcoGIl6TEH1ppVI3HNvGARE-Fqav60uWvEsIzdLSGrwKJ2hHUyK0G9e8GN5VXs3LrPCPgZb7eX0jLo0i-VYUMmja7NUrkvswwjro1-xGKUTWCLBCsfcyCwNWLfDo75nBDcR25ih_0TCksBtd?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Rr0Tg1M90Pd_bWxmrdbe31x7n1TeEaBjdAjjCNF4iAJDwrefqYUPD5-TZh1QprgK2SU8cPUYCKdv4MGQvsZPRrTKy0TNNpaEjOiYX0K90JVsYuLJa4TqyBTw6tNUXVZ7NUI32bxB-hi59d3ifFx8vFU0bmwuZq_U3TBtRFVuLTrs6AIXlVUdJQyRtG3gToyX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/qyk3FRRHmKkvbwA1hIjpmVNQm5JhtyeP8p9gVOS9tNa3vd7U5CtgkpoCbcli-kaJ43UK01PE0QkE6tcpaB1f34KI2TrA1sXBaohiswOprwSxZq3VPY75AzfVk7_XBHs2Po_keUUsCcATgfQ48xsS6KCmloB7i_oXSUlK8od1GAjlf6Ebqbtfyh9zHRSRpodL?purpose=fullsize)
+
 ## 1. Definition
 Genetic operators are the biological-inspired operations in a Genetic Algorithm (GA) that generate new candidate solutions from the existing population. They simulate natural processes to drive the evolution towards better fitness. The three fundamental operators are **selection**, **crossover (recombination)**, and **mutation**. Together, they balance exploration of the search space and exploitation of promising areas.
 

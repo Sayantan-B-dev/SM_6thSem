@@ -1,5 +1,27 @@
 # Multilayer Network and Back Propagation Algorithm
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Ilg3gGewQ5U](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/v_iwvTaV6IJdYiB00HxQ-msh7QkbNgV895SYP70zLO_97doM_vb1joxHK2yldm-1n50XY1MY2-GPq_YF6AzfIYZLDZVnT0OZ4-ZV3aShtpsHvvIgeQWDJHiCok4w7d5UQPPfFtAuFycvYDGFUDZvq5chLI4mZbOY868evbc9IFIRfjziFUrQ3dWm5FoAH90-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/QdYHzm3tj9mvc88ZTO0XHPIZaOZmESdxs0wRf7oJr_BzgpZaC5WW132RgM1qbp0Wa5ex79DULZjSYnBXvX_gzXXG0npYmohFh0pdQxKYGx7UI3KgMsqi3hNpARnhW-9xXC5UAN-fDpJkbrUJ0VsU6rAr49GmtKIDpuShndIYjxhdKLctwzGjfFnhLn-udRxa?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9SyyX0gjnBMX51J7EZDftppIY71l-YX_ewUYli_BhjsEjFTZCMtIy3YfALDmQ9NKmKkTsS131HXXhgK0aJqUjbh1M1yI_DwTq7ws9sHjqW-fyAMWs07JPAQemFMCmOj4KtvXU5t1bssvHzDpRIRrkshelCcoI1Pfpvz2_5VoiNkIGjteYlmIAHe6reRgR4am?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/F46PAc4QPBFmAcOeEANHnYIcRyRZ6CWFfjNIyF6n4wDhowtnUD9JUlpqLTp4ePEH0r_hfGv-FZ3ADw2MjkVcRI47Zw9HV3LaXuvSK3OAQpVhmiF0xu8hi0XWzAk43w3D9q8U61Xu8kz7fOIFA3_1nk-bG0nPH_GX8zbuzaOk8TQw7VL0vd7HJgZVJK6Hm0lc?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/8OvQL4j7jM_zvrnCke79hR5aF_5GKYSiMXZsCjE4NACuyRqV58GdTN9aAdMjPmAXEkCaNvX_5ucGFKVHUhzgT3LQR7QKK2vOv_LAJZ1-Dez8xYJ-5G_-x88Rzy4_LQEqX9n2Jryts_hx26rCr5-7nIzza9JNqVBLbSbWA4nyISgGv-lB1XPw_Q9VvfYKW8Vd?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/QTTxN5G_AvmIx01J6Dzc0FJxTn4BexUGv7avCnIHP6dYCEnE_vTajkgiODIqa-YbbTSRCggIa6WjTAVWuj9ToHODffMmSlnWLSqLwg3kvSIz05TUcV5Q0kn2JySLYpLfk4twe08sCosUY_nvlRwPe3lInkCPE5E50NS7ryTKxi2LaUR_kSnhSAXlxMwF3b1X?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LTaFP2QpwfHKFrDShFlaxaGZpOK6UNy_ShL1edfWpqO0bEkqhlsj39RiudQI33AfPOr5n8YnZCbEFrOtRWucCXJlYx20tAw7UIVzy1blYaGgYxSBBVwNdRNgFiYb-IASdUk21D2ikUnq-7RS6znl38jhDfs6PH1WukPf12kw2ljpCIfzSehD-7O_qQObUPau?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YKwJ8wt2woUXFqPzIpblmaEarNV6G8BGIrTddW_5b6FVdiDB9eGQHmBYElUPch1Sq3BGax97CCtBV03NArCyNf_1AA3bPjf2lTkElNYdI6x10V-gSUa4DcuRwSYf-SkfNTi5ANg339-fluIZiJViMVKKF43CTaWkhQlvcrpMsAklRE7F9EoZqLU3tokTK9bw?purpose=fullsize)
+
 ## 1. Definition
 
 A multilayer network (often called a Multilayer Perceptron, MLP) is a feedforward artificial neural network that contains one or more hidden layers between the input and output layers. The back propagation algorithm is the supervised learning method used to train such networks. It computes the gradient of the loss function with respect to every weight by applying the chain rule of calculus backward from the output layer to the input layer, and then updates the weights using gradient descent to minimise the prediction error.

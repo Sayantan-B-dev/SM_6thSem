@@ -1,4 +1,22 @@
-# 01 The Learning Task
+# The Learning Task
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2pWv7GOvuf0](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/d2-Ca8lfDgAbKuSToFckt42NtzmGRrf_OcXKE0G-k5woh9lM3z-6DVGLIAOHvfXzD3Qdx9VIPdIFCJUwtUP-608UxcV5w5Ds5cXBme97uRBq8iWmC7BsegsQCKb0ablUTmWVTHlRNOPPTogSO7aAGe8_XR40hjqLrhf2WsEx3xTdj_PrVv1nxRMVBK0Ak1fs?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xvM3KmflswEsQ1o0Ta30FG4u9WIAaQWdaFPDrSvAZHe-r9r3Mr03YqENCZEzLjE0yhsVERl8DvsaY3fe0YDxuPG3ZQywC2sAkXQsHZvTZ-PZyeUFdBmbc7nRzyiawZQEmRiR22uOyXdBD0MRzBEq3SJAMpD3cBVulotPTLEsf8FYK3EMKPLqhy7U9Zg0v1T3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zE_mBZlkqSrjEYVeIUnt9Lx5JJBcg5pIM_YHDWEBNQaOn1sIXiyxrEH9_2aIT9SroPiSOFZxUonzApoyXQo9YLM_kksG1lPhBgeKfBXEMFSFKcNa03YBkWMEhXJemnsKtC9RRaCFCFiCWt1EOe0daGb065wzRi4SUoyvs8eUJ_lxUBC0zSYUT0toaCB6M05Q?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/cbg0I13OjF_3Iie0Dz57Yw7V6TxOANGdmqbpDneHHCeZXP6G1rhB8_IrJBKXyLzGYERDpbzEvl7lAgYjMrQ1R9UuekcYUelbJJFsTURvNWonJ8Av6gHmy7aVOf7QbJltpTrLmVk0Im_jfVWpDsMu0VRhkc6wb_B6OYdQPW0xqxAHMbulifLC1XjDIBq4G-p9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YvaGJjtWNCeQcc5V-OORRQ8CdWInsabaydRWp31C0RTndTxkEr_SGW6EykHL8_Ei0v2TLCSqgd-FFEqlZA6UvZn7HTs5oxmP7DQ0jI8_vAoDhonhgM2NHoTxX-mndp68Mq1Ke1ZLfTmQtJpKUj_NCqe0FwaOtXAnkIIhw40ZM5gzEwVvCxaE1AFwBRFonFxX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/XWTDvZX6y29ZrxnHvifOLxaUhoc1TagznvCayC8RVZwud9QJPdgeVLdno5A1IrEiR4YUdFlVCPmSOpiZJt7GymUr8QQsSaTSciuRT9YgJrmzYLOnuIEJBgXv19W3o71veWqijD-5VfaYGvMrAdGrN5H44lA7KwJ_bHXrbSN7OFDoHYz2R_Gfn4lKn9W7qj87?purpose=fullsize)
 
 ## 1. Definition
 

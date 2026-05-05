@@ -1,5 +1,25 @@
 # Q Learning
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=VnbkzsnLL8M](https://www.youtube.com/watch?v=VnbkzsnLL8M)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/NAIWLTeSzntjDxVg2CoCTZwP-o_wzv7mJnanrhCpgHHhMOKGau5o-vhnponLrf7Ngm7_GdOp_O2eznRlnhCu1obfiLhmPCYqlxbMWH2V4_wYpCSS6B8a7sYs42jDI06QrYcQuEi-88ZPAbM2VVxDmiO6tYvICu4fw7pmGJ-z8tXK5-4tMOWZ_SHNpFiK8E4k?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/twim2n64O3KKXDqbIEd3cYFw4CLpeFz4FnzpotoVfkhEZMi8ctQgzXCxzldkNPvTLj0m3YCO4HFx0k2yWql2rKbZua1izYZI4JKfoPAwUbOHmGsJjAjRvH0drL0pfqFIiUcVOAdnsJHAGx5ulcPdxrK0oReDjCg8bFsCTUDYpoaW2zP8Jj5Aog5ihz4PJTN6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/1umhABrObSE2pYijcH2cFk8PwJuNjWCjsdxp2P89ccsF9RkViyZDl_3GilVsOPs2TWlk-rAArzDbSqYVBDdxKBHH-TA4L8ZhSA42OnQ7fSjWRIOqcNVlSsSXw5GN2-Y8FDLHWmUXaygymaiNy0ZJ2a35hzTnZYnZEJpsi6n3jSNGXEDPCJw0j9IPUQL0jba5?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EcqjGaO3oNKUyC-7PTwvl3iaEE2s3xO8i8eC5tuSZvvaeOj9u7kDm3amEvtH78-kfzAQOCUElSO29Q-iDRHVWlRgX5ITUQGCxam_K5sQajsdj5zI-7WY3bHIiJA-RNmqhVOOfTgBZqG4dbUQh-sMR9qibV1dOyx0BvWyQ9chBZy2jSCr0fBKGyIex38aJUmo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ORnZWmtfhRAiKnoOJ8c4eLJJnv-vjVKluiEz6S4NbyAHkMz5veWOYMsPfhPg7ucaqi-c0e8zQon0iUsk05aikhXTHH-XhfmgzcKx1pfiJ_D0A6s_R36cjcc3I-Ygn6coMcebeG0vVGQQbm3dz3xSHeXQeu-IulB0yyEDdsqMHNEmqsetLXa4a1WUnI9cZczV?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/L9kTbNO6W32Pw9hX3dT8He9v2x4RHyX9Om0WWHzQmVzODmROqjrVCYqo0angsvH4RcnUuA-whXsqaLL5SvOoI9v8G4XoDUbDGDZbAIM6_cyNVFKVRH0YKCZH9NvSs8Dp-adizOiWL9hJ1IuBB7XTQKcyQFlo5jMOQH8EViQCgKC3O2wIIvckyTaKfHavFwLf?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ognvB9DxOuDL1RuW_7m60RTniK_4oDq2-UY1qRjprHpLG_0HUSYX5MsnIHGiHDtf8GbT-UQL6hGON9MdaqpNPjMTnyEqV0qislfBKqYJHDsaDqPV0oehYTPzUJCVUpjEhGREdpQb42DnDp3Syf2N9aWXiXgxHswXAdEnORlu1AKDTTEntAben1Ez4fpQfzKU?purpose=fullsize)
+
 ## 1. Definition
 Q-Learning is a **model-free, off-policy** reinforcement learning algorithm that learns an action‑value function, called the Q‑function. It estimates how good it is to take a given action in a given state by iteratively updating Q‑values using the **Bellman equation** without requiring a model of the environment’s dynamics. The goal is to find an optimal policy that maximises the expected cumulative reward over time.
 

@@ -1,4 +1,22 @@
-# 02 Kernel Methods
+# Kernel Methods
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3liCbRZPrZA](https://www.youtube.com/watch?v=3liCbRZPrZA)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/XerhP9U_ppttjJI-SL4Tr0LwS33Yx_7PuutjE6FB_P-isGRa93S8-vNWX3ErMgpJyRWEmutm5YY8g_apYADXyxW4JIO7F4aFjTQPuJ3L-j8T6JVFadt9Co1dagdCtGC3u4t8xWVDlq-a0GvJEEHGO_2xBT7GfBU2aJLL_adSzKRjM4VkM5C1p6tu0dQf4-Af?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Ow0eGFQapUebHE56oWtF8Cwc12WsrjxMr_Nd3SBReOpNEGJzjHbvXDK8Lq5cBIjRVR4CWDz0zTHK6jcjAbUAEdh3WxRSCHY5hLip_4SjdaqvogeZhQMKCIcjkDCW6VZdK69vdOHzTQIbd52sTTmwpX-9q_l2fHtUw7xukuD9DqPB-h5PMw_dOqudl5R5LeKL?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/FKCsoNmDoaDSPe7Nscq8MaJhfXiTvsdHAs4Dxiuthv1CrrnqI565WBTu_F4XRWio2ljy7jn6qRj1p8JU-bltBEV_0YiXp__fzLqpXVYPzcfdykWNQhWjtRlec-omOdow2pwrsJsAKDQiSPODYThA4LQoi7Ylpay9GojmoKfCBwUN3SLDtJwTtcZQVec4yK_e?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/4q905Op2GwJm_-CRkjHT0McPichiBCf08WbN56v1PKnermGCi8Qez7uy3d9y1DT-_IJaLNe2pOqbaAWzw4tfWma6sl5BVyfXQCXmwGI82arXSuTrZs1BnyzLDO3zfBoGOGg9gymz4qS-65zOhs2a8StK8TAS57R1yQkThtQgjUcHmsuOpGN9eHQp3pkhoE1T?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Y9g0BxpzkqOoVos65tqt0MFNKNZd_-fgOYbbvZhZ-STqQhfMJ5IBAC2AFYORSvOEsh03h4Z6ukyMkqMFb9fCst2SmySoT4XcqcvohJs_cae3w_eSzmKxzoSuXy_aaSe12Cej1lUR7irl-qawwFwFcymglcw9j9hEv5EZCCV-GZu-7hNxzv9Ah-dqHq4iaVEA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/d7O6ynKaiul2m4dmgKn71q0Z0DsKM4DR5Ca7sOYRIcsq3WbOjntxyjDV74WGgJsp_T_rAqdWRJ-LTg-I777ZnwzkpH2dum3in_W_th7tGZ6Jy3L1FL1rp9_C_OkCA600a3Cr7JGFdWsN_CJuXc7F3HEPUM9N374MdjRuU52OgD2Sqh0lYyB0GsouZw1mEjgl?purpose=fullsize)
 
 ---
 

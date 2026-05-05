@@ -1,4 +1,22 @@
-# 04 Hypothesis Space Search
+# Hypothesis space search
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Y8Z0SgXl3oM&t=200s](https://www.youtube.com/watch?v=Y8Z0SgXl3oM&t=200s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/BBHItnETGytXwZ9yJcNaR-do2n-6nYlMk-D9-w1aJol_9dYTElm3oqHZqVVhXUnCG_BnEMDE80ocORe_kfOXMK5PgHqaVAB3sKtkW1DRT7bl9xQ3YoACVUhrn2YZiUBgKHus9s--IwRGG5IECv6a8sleE1-UcycMeTSvomDvGO6boJykJCQ9L2TKW26e4f03?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/FKwdzbEjUEhKYcyg8214Ti2M-ptdxq_h0fBXb09_SdXna7OmCqzXxcQWQNLS-KnjR5ResU0f2Ju7AKMqYuMdY3fs6C-GehrQOd649CNJGUKUqn-gLqB63TLM3SV3DqzmqDCRY0rEByFhZV45ecSBcqSx8wVIBLF1fErYXw1nzdVb8y-BtuKs-vLxmYv3LwW9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/VpR9Nm1cWvl80p-8d-tDP3_KNgyNJ37ltn6wffyFNLBJrvjhcDynlzus-Hltn0EmsRb-2XhklDRAuVOxf8bBuvkm8Hjqfj8tOXSBbXnPClpTK1qpnQ5jQgqdWOVeXOzIuQIPp0kiwC6U_Somg5QVYNdEJUh3c0y0ztOV7-6qnegyJhM6k7IVRfjQey5jqrit?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Qc2UxPe-FGXyq7VD9uEtLtW_rRZQDqQMzf6J1Kt1hjOLLD7aTWx32rQ-qCxgLGNPs91TuaFxgcp8RsQPOE5NXINZUAxfD21tjLvhWGj1UYpIDM2h1ZwPWXexdFgOuiyWD-WaFGUT4m5kHG_Vjngdm6GbF9udOgg-IfdGTEUvbxUXhfzN_XDU4NUTC7_GzqTs?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/HJ4RcXBI278H0uyWSO3G-kixVhlxm_gpjzQYp10XsQm78nWAtbWGy5Sr-b4CGDIxNiC2RyMhvrks2NjbHM7SleJkiBhCiTthVCwl7tJPZ31W32Db1df0Ck07YygmB52C1QHb3Y_t4l0alIhmrs6ODysdSz0LBWusAznoqd-benXUrCgUi4h54aEDFOnRGVHj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/X0LKWHjfF-Vt3uR4gynT1Z1Wxgtf9PKpOuQZ5IrzyarcqF_lSj_KXrs3841wRR42Y2aJmMciGkvRZ9XsxxMIiOi8JjNg-DNKTuZZ0Bzh_8S81dtWx5ysKeCxrNjI7PJWVsByveCll-nEe60xGDDr9G5vG1L-7J8GgwU0s8JM0ArHp5T1nrveusLJchuJQfsL?purpose=fullsize)
 
 ---
 

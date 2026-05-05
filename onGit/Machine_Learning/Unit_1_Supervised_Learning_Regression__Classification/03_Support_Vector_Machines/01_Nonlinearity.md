@@ -1,4 +1,22 @@
-# 01 Nonlinearity (in Support Vector Machines)
+# Support Vector Machines Nonlinearity
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=efR1C6CvhmE](https://www.youtube.com/watch?v=efR1C6CvhmE)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/XerhP9U_ppttjJI-SL4Tr0LwS33Yx_7PuutjE6FB_P-isGRa93S8-vNWX3ErMgpJyRWEmutm5YY8g_apYADXyxW4JIO7F4aFjTQPuJ3L-j8T6JVFadt9Co1dagdCtGC3u4t8xWVDlq-a0GvJEEHGO_2xBT7GfBU2aJLL_adSzKRjM4VkM5C1p6tu0dQf4-Af?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/JYmLmppeKvhs2apz2txVGUSIVqDmCs4qwcc7pHxwC6TVDuUZbi0vmZFunDoCSRTljcYZkMkr42BCjiVlvqVBkz5wxOdQrAB1VxyoGzXFgxKUlrGAjxI30jDqm-ycantgDlGQePfn1jNlFziJ6ElX4RRL72zeq3yYn9uNY3r2FedBoTuAiTME_DhB-r0q1E4N?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zk455Om9Thantlwq3Dw3N_LpoQ4I7nbheDXnMskZNG65v_ut4uUWUQzhDQQyZfntObGwjlbIHYvwMFUG0AG4qhbiXKNnGCNjC6WBVu7o4FQE4gzfXOeBfcAOp1tJXKwNMlc_2vUuwZEj1kto1JrwFlY0oJmTw-d7LPWRRpiX4fdS1rrNaYkOjSD9Imt3986n?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/GD1Nno3uC0XgUHhT-8kB6lHeZnOMJ4QUxmKlw9xlEjoIEg8gCa6ZnDxK-SVhLuDS04yfUMBO4pIXtM8UxEB-99dpHXv4zN8VVs5U71GiGCCX00A9ygfnZEFEFvys-o31n1kLU-kd95qmN7u6SuifjXu0onuHWwvTUTUfAOA9TiJk3vnmSwBeG98EKXPFEvAs?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/-Avd0Lqz15KF67hNMzQCwuY8rC-hZH-yi7uPYqwB_V4gXIizRP1U01e78uQ_LMbzsd_CQtTM1Pq1upMIIr3G2uxmzOzT-OY4qSrTbcdMlNXGaIqlyijFzVTeQWamsW2DFtCATSW5_ZIlFdL5juK-KdjPgaFThFNByBjOanMV4tXsYF7u7Rw4Z4albuexPHIO?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/R2lF_fDnPScGgQXERJFwyKJGV80K_eWK-qUhMHUQVfLWePwqZHzht504t3XF25ac5g7fNkQIZzzFhZxGWQos9HJXVrq4NAhyegnWYv0EXd1dhRWn5piH7536nrWS9MzUck-ywxkCfnfHDZCvRYAVMGcEE6Kryj6aSiqRH3AeEZStpdPaP_X5x1cf8h-pVvID?purpose=fullsize)
 
 ## 1. Definition
 

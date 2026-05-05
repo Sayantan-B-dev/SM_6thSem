@@ -1,4 +1,24 @@
-# 01 Representing Hypotheses
+# Representing Hypotheses
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=nhT56blfRpE](https://www.youtube.com/watch?v=nhT56blfRpE)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/4IhA9xxa74HwF4qVvRqbLVL6AheHVjoMmB29Ix8QwVlgtIopnWc-dudQO1-Jgiy93YCQF1MhI1v_dfwnGOCZNwLi_J0OjmsW6i9my1GHSN9RS9sJ0FYYKNdngpoCqocjdo9hh1kIeeb4jLSvePDaSg3ph6rG-CicSK22c5OqIZkY8Q1CMfCju8grBgyV1tLC?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/iajqfagPNdwWybywH3whM-8k6i91UHVi3mlGX2_WF-u-okZyfFeq7lgkorGe9LiyP5_XdWfJ4IKtrztJxWGykfWSpPRG5NbckEA4nuL5u0mT5iDYOx--yAeS8Xpjw-NgknWWRVWZIhmXi1XnWrYbqZHAcOou59fiy08mCCPLwFoiXRlM5ccUJPg6bCYhsL9Z?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/vFPe2Q_RbeMcn36zXNXxvmTSkGtPoIy0k87pNjLy0yP5UZckDzdC-tG4K_xFrULaULddirKIqGrlsIPB6GnYtHc8QMlnABRxVtrOL6j4VG9Ho4lg4f7QNpO1S7yHKNZiuhquBUZLvV1hZBDctrkLBEvPML2qOISUuRwQYVdFN-SFHYWUhIigSbm6cAN0AnTm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Uc-HZF8-eIlj_v_Kc6wT7a7Qxecujw9R4g8TouwYFSBanJhnUNJ9ebLDGTOlW6frGDKEZj1lEud4V6Y-pblrJeW3J-sCbkUuV8plemXyX7bIpeEv9q4GsltnotM1pNhUF2BeKL9UzjlXykxQlCfd1STslAqHqxcfWDIqjVolzpgxKFGTTBa3HruUoMRlDrH_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/eSoOXmRKNFoZjBwz_oQXYAVJCpsqc57HtRngno0UwbL50rmup4zZQm1aWlnxBGWmzDZHN7VVAEA7QEU1R7R9mQviG9LKIYStCk3Ol0EivevejLY4LyG3cLyB6mH988M2rOte9YpAFf3_hhIiF-A16HL20cyaaKOMlSsZgmnUhMBrHXwI8oI---Mk_QZxGRsE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/7XQsjylqA4u0Q2030VKB1VQFzq4odOuhPrkEt7Pc4XAzxJ_uew3-yvSXVIGb10BKhMuWzAi7i7xgWuLZmkZKxW5CQkkWdshn2Oi7cOeQ2XvFBYGcaMnE4rFS3RlCHkQopCdTkNAufJDTRw2NAFRq1sg2Q2A_2feirXEMDB450nd15wv33edL3GDi5tfT9WzE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/00ZaOnM-DEOUGZazVsFdsA5g1CCHJg9AfbpDu9MWDyhkOhqoVVpt0nLQj-eKxvYqR0FtvSk-NFUbNt0269C_ezxQ04UYNcRHPiEcrElvjmonuJYWwlSPw5PNhNrlcyFfq8loZEKMCG32yQn8QelATS8veWOvM1glhfcdi1HyLe2NI3oAJJiaojfbbrdsooc2?purpose=fullsize)
 
 ## 1. Definition
 

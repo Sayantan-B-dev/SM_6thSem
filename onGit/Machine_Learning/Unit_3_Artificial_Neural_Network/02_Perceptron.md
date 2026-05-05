@@ -1,5 +1,23 @@
 # Perceptron
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=ntKn5TPHHAk](https://www.youtube.com/watch?v=ntKn5TPHHAk)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/HiEoxqVStGy4lN7Kh2N2ACzwzsAS4DnJKjbkNRvi7niHizodPd7NGY_JbQbatbdCFvm5HmDQtlLP_0RMsydcB_y4jiDKNEk8XisDAJqPBmzSuxbzFJPV4rkeG5HDO0KdqUSX7x34s8S1bhNbXmg6lhrtxgTiF5bbM9X7G3W9_6-GhowTd9lqbdDycJosZzlZ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/QFMXKDfe1Lyqja9zZld38qOSlHf6SfYGLOcF_-xHz3jDB2vSOH5n7QUhKoXsf2r_vOPIJE3DO83ROnFFRQREgNxsW0wMGF0YP7H-d_3MXjNPEU9fPW8uNvEfkJ6kWQln0s8fgsVhVxzOtJb4NKdfm78p8ueNcOJUggokEAKrFN7QXOaHcrwMeXodgO_9VJlo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/6tsjjUavaX6LBeva2pPKTC_XsFLF2OYWD1foZvub93boS34gvxZ7lbkSSiMeQ6VLAcyOQjGq4TYRJCD6Dr-Tq8TNN_LIavIMB0fQHq0ry1_g0UNri67uUVVs5PXdze17xv2S0GGZ6fUt6wbcBUzWdWCORwuFVjSY8anvYyMFAoKUllV8YFqjCE9-5GfkLY_s?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/oP9ce_D1CtFs15q646c58IeDFm6z-DRTowvmb54SACFP9edkhOsFutNcZYyzCnDWkzj-KevUY5hoD_NNiC33u69Sqqcv8u3cDA1wfXh1krZmhEufjb5ouPQXjLmjC2hbR-syIZKmxwVPqvPHjHrVsJbvw9W9l5ouG-26JoN_qMnDTNKBgmaMiNZ49mvwv6OG?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jZJgZVHHPvnw8JxWmnBPHv-fUXbJk4lzARv3AI99o1AGXmqD1YiqQvhWwBEhFOCVOOr6SkgpNlf_oaVu8Rxz6iZVNTod1WU6oH8gRow0OJ3MBErtavG2fUuWBJBi4EKz7S7ctt7q2OUmric5JL_ztRkonV9f3MSW4x5evcShdqGN72hAo1MX_dbHi4HG9lSm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/BPgMaXbcfUX2Bs9HpZS8qdm-P7EMr8sxsA5Qqdj-Q92A4vTGinUloEx9rDEQjbFe9DkyE1yGmJBdLiNO9Q822wYvjoc875uhG5d-skYers3Cdew6jkxicc2Ke0y9qqSRXHYzDkifFV-E-2koTOKCN27KFlW4CGrHBXx73Rl0owmxY14sH2POrP3N5le46jBt?purpose=fullsize)
+
 ## 1. Definition
 A perceptron is a supervised learning algorithm used for binary classification. It is a simplified mathematical model of a biological neuron that makes predictions by computing a weighted sum of input features and passing the result through a step activation function. It represents the simplest form of an artificial neural network and serves as the fundamental building block for more complex architectures.
 
