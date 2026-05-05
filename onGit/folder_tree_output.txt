@@ -1,0 +1,222 @@
+Folder Tree for: G:\6th sem\onGit
+
+├── Cloud_Computing
+│   ├── Unit_1_Cloud_Computing_Fundamentals
+│   │   ├── 01_Origins_of_Cloud_computing.md
+│   │   ├── 02_Fundamental_concepts_and_models.md
+│   │   ├── 03_Roles_and_boundaries.md
+│   │   ├── 04_Cloud_components.md
+│   │   ├── 05_On-demand_self-service.md
+│   │   ├── 06_Broad_network_access.md
+│   │   ├── 07_Location_independent_resource_pooling.md
+│   │   ├── 08_Rapid_elasticity.md
+│   │   ├── 09_Measured_service.md
+│   │   ├── 10_Comparing_cloud_providers_with_traditional_IT_service_providers.md
+│   │   ├── 11_Roots_of_cloud_computing.md
+│   │   └── 12_Migrating_to_clouds.md
+│   ├── Unit_2_Cloud_Delivery_Model
+│   │   ├── 01_Cloud_Delivery_Models_The_SPI_Framework.md
+│   │   ├── 02_Cloud_Service_Models.md
+│   │   ├── 03_Cloud_Deployment_Models.md
+│   │   ├── 04_Alternative_Deployment_models.md
+│   │   └── 05_Expected_benefits_of_the_models.md
+│   ├── Unit_3_Virtualization
+│   │   ├── 01_Characteristics__Taxonomy_of_virtualization.md
+│   │   ├── 02_Virtualization_vs_Private_Cloud.md
+│   │   ├── 03_Desktop_Virtualization.md
+│   │   ├── 04_Hardware_Virtual_Machine_HVM.md
+│   │   ├── 05_Virtual_Servers.md
+│   │   ├── 06_Logical_Network_Perimeter.md
+│   │   ├── 07_Network_Virtualization.md
+│   │   ├── 08_Data_Center_virtualization.md
+│   │   ├── 09_Cloud_Storage_Device.md
+│   │   ├── 10_Cloud_usage_monitor.md
+│   │   └── 11_Resource_replication.md
+│   ├── Unit_4_Fundamental_Cloud_Security
+│   │   ├── 01_Cloud_Information_Security_Objectives.md
+│   │   ├── 02_Cloud_Security_Services__Relevant_Cloud_Security_Design_Principles.md
+│   │   ├── 03_Secure_Cloud_Software_Requirements.md
+│   │   ├── 04_Secure_Development_practices.md
+│   │   ├── 05_Approaches_to_Cloud_Software_Requirement_Engineering.md
+│   │   ├── 06_Privacy_and_Compliance_Risks.md
+│   │   ├── 07_Threats_to_Infrastructure.md
+│   │   ├── 08_Data_and_Access_Control.md
+│   │   ├── 09_Cloud_Service_Provider_Risks.md
+│   │   └── 10_Cloud_Security_Policy_Implementation.md
+│   └── Unit_5_Cloud_Tools_and_applications
+│       ├── 01_Cloud_Performance_Monitoring_tools.md
+│       ├── 02_General_model_for_Application_platform.md
+│       ├── 03_Apache_Virtual_Computing_Lab.md
+│       ├── 04_VMware.md
+│       ├── 05_CloudSim.md
+│       ├── 06_Microsoft_Cloud_Services_Azure.md
+│       ├── 07_Google_Cloud_Applications.md
+│       └── 08_Amazon_cloud_services.md
+├── Engineering_Economics__Project_Management
+│   ├── Unit_III_Group_A_Different_Types_of_Market_and_Role_of_Government
+│   │   ├── 01_Perfect_Competition_Features_of_Perfectly_Competitive_Market.md
+│   │   ├── 02_Imperfect_Competition_Monopoly_Monopolistic_Competition_Oligopoly.md
+│   │   └── 03_Role_of_government_in_Socialist_Capitalist_and_Mixed_Economy_structure_with_example.md
+│   ├── Unit_III_Group_B_Project_Administration
+│   │   ├── 01_Gantt_Chart_system_of_bar_charts_for_scheduling_and_reporting_project_progress.md
+│   │   └── 02_PERT_and_CPM_basic_concept_and_application_with_real-life_examples.md
+│   ├── Unit_II_Group_A_Theory_of_Production__Costs
+│   │   ├── 01_Theory_of_Production
+│   │   │   ├── 01_Concept_of_production_goods__services.md
+│   │   │   ├── 02_Factors_of_production_fixed_and_variable_factors.md
+│   │   │   ├── 03_Short-run_production_function_Graphical_illustration.md
+│   │   │   ├── 04_Law_of_return_graphical_and_mathematical_derivation.md
+│   │   │   └── 05_Long-run_production_function_returns_to_scale.md
+│   │   ├── 02_Theory_of_Cost
+│   │   │   ├── 01_Short-run_and_long-run_cost_curves_graphical_illustration.md
+│   │   │   ├── 02_Total_cost_fixed_cost_variable_cost_marginal_cost_average_cost_diagrammatic_concept.md
+│   │   │   └── 03_Relationship_between_AC_and_MC.md
+│   │   └── 03_Economic_concept_of_profit
+│   │       └── 01_Profit_maximization_numerical_problems.md
+│   ├── Unit_II_Group_B_Feasibility_Analysis_of_a_Project
+│   │   ├── 01_Economic_and_Market_analysis
+│   │   │   └── 01_Economic_and_Market_analysis.md
+│   │   ├── 02_Financial_analysis_Basic_techniques_in_capital_budgeting
+│   │   │   ├── 01_Payback_period_method.md
+│   │   │   ├── 02_Net_Present_Value_method.md
+│   │   │   └── 03_Internal_Rate_of_Return_method.md
+│   │   ├── 03_Environmental_impact_study_adverse_impact_of_the_project_on_the_environment
+│   │   │   └── 03_Environmental_impact_study_adverse_impact_of_the_project_on_the_environment.md
+│   │   ├── 04_Project_risk_and_uncertainty_Technical_economical_socio-political_environmental_risks
+│   │   │   └── 04_Project_risk_and_uncertainty_Technical_economical_socio-political_environmental_risks.md
+│   │   └── 05_Evaluation_of_the_financial_health_of_a_project
+│   │       ├── 01_Fixed__Working_Capital_Debt__Equity_Shares_Debentures.md
+│   │       └── 02_Financial_ratios_Liquidity_Ratios_Activity_Ratios_Debt-equity_ratio_Profitability_Ratio.md
+│   ├── Unit_I_Group_A_Introduction_Theory_of_Demand__Supply
+│   │   ├── 01_Engineering_Economics
+│   │   │   └── 01_Relationship_between_Engineering_and_Economics.md
+│   │   ├── 02_Resources
+│   │   │   ├── 01_Scarcity_of_resources.md
+│   │   │   └── 02_Efficient_utilization_of_resources.md
+│   │   ├── 03_Opportunity_cost
+│   │   │   └── 03_Opportunity_cost.md
+│   │   ├── 04_Rational_Choice_Theory
+│   │   │   └── 04_Rational_Choice_Theory.md
+│   │   ├── 05_Theory_of_Demand
+│   │   │   ├── 01_Law_of_demand.md
+│   │   │   ├── 02_Types_of_demand_Individual_demand__Market_demand.md
+│   │   │   ├── 03_Determinants_of_demand.md
+│   │   │   ├── 04_Demand_function.md
+│   │   │   └── 05_Change_in_demand_Shift_of_demand_curve_vs_change_in_quantity_demanded.md
+│   │   ├── 06_Elasticity_of_demand
+│   │   │   ├── 01_Types_price_income__cross_price_elasticity_with_mathematical_derivation.md
+│   │   │   ├── 02_Elastic_and_inelastic_goods.md
+│   │   │   ├── 03_Measurement_of_price_elasticity_Point_elasticity_and_Arc_elasticity.md
+│   │   │   ├── 04_Variation_of_price_elasticity_on_a_linear_demand_curve_zero_to_infinity.md
+│   │   │   └── 05_Relationship_between_price_total_revenue_and_price_elasticity_of_demand_mathematical_derivation.md
+│   │   ├── 07_Theory_of_Supply
+│   │   │   ├── 01_Definition_of_supply.md
+│   │   │   ├── 02_Determinants_of_supply.md
+│   │   │   ├── 03_Supply_function.md
+│   │   │   └── 04_Supply_curve_and_shift_of_supply_curve.md
+│   │   └── 08_Market_mechanism
+│   │       ├── 01_Definition_of_Market.md
+│   │       ├── 02_Price_mechanism_determination_of_equilibrium_price_and_quantity_Numerical_examples_with_graphical_illustration.md
+│   │       ├── 03_Stability_of_equilibrium.md
+│   │       └── 04_Basic_comparative_static_analysis_Change_in_equilibrium_due_to_shift_of_demand__supply_curve_Numerical_problems_with_graphical_illustration.md
+│   └── Unit_I_Group_B_Concept_of_Project
+│       ├── 01_Definition_and_classification_of_projects.md
+│       ├── 02_Importance_of_Project_Management.md
+│       └── 03_Project_life_Cycle_ConceptualizationPlanningExecutionTermination.md
+├── Entrepreneurship_and_Start-ups
+│   ├── Unit_1_Entrepreneurship__Introduction_and_Process
+│   │   ├── 01_Concept_Competencies_Functions_and_Risks_of_entrepreneurship
+│   │   │   └── 01_Concept_Competencies_Functions_and_Risks_of_entrepreneurship.md
+│   │   ├── 02_Entrepreneurial_Values__Attitudes_and_Skills
+│   │   │   └── 02_Entrepreneurial_Values__Attitudes_and_Skills.md
+│   │   ├── 03_Mindset_of_an_employeemanager_and_an_entrepreneur
+│   │   │   └── 03_Mindset_of_an_employeemanager_and_an_entrepreneur.md
+│   │   ├── 04_Types_of_Ownership_for_Small_Businesses
+│   │   │   ├── 01_Sole_proprietorship.md
+│   │   │   ├── 02_Partnerships.md
+│   │   │   └── 03_Joint_Stock_company_public_limited_and_private_limited.md
+│   │   └── 05_Difference_between_entrepreneur_and_Intrapreneur
+│   │       └── 05_Difference_between_entrepreneur_and_Intrapreneur.md
+│   ├── Unit_2_Preparation_for_Entrepreneurial_Ventures
+│   │   ├── 01_Business_Idea
+│   │   │   ├── 01_Concept.md
+│   │   │   ├── 02_Characteristics_of_a_Promising_Business_Idea.md
+│   │   │   └── 03_Uniqueness_of_the_product_or_service_and_its_competitive_advantage_over_peers.md
+│   │   ├── 02_Feasibility_Study
+│   │   │   ├── 01_Concept.md
+│   │   │   ├── 02_Locational_Economic_Technical_and_Environmental_Feasibility.md
+│   │   │   └── 03_Structure_and_Contents_of_a_standard_Feasibility_Study_Report.md
+│   │   ├── 03_Business_Plan
+│   │   │   ├── 01_Concept.md
+│   │   │   ├── 02_Rationale_for_developing_a_Business_Plan.md
+│   │   │   └── 03_Structure_and_Contents_of_a_typical_Business_Plan.md
+│   │   ├── 04_Project_Report
+│   │   │   ├── 01_Concept.md
+│   │   │   └── 02_Features_and_components.md
+│   │   └── 05_Financial_Statements_Basic_components
+│   │       ├── 01_Revenue.md
+│   │       ├── 02_Expenses_Revenue__capital_Exp.md
+│   │       ├── 03_Gross_Profit.md
+│   │       ├── 04_Net_Profit.md
+│   │       ├── 05_Asset.md
+│   │       ├── 06_Liability.md
+│   │       ├── 07_Cash_Flow.md
+│   │       ├── 08_Working_capital.md
+│   │       ├── 09_Inventory.md
+│   │       └── 10_Funding_Methods_Equity_or_Debt.md
+│   ├── Unit_3_Establishing_Small_Enterprises
+│   │   └── 01_Legal_Requirements_and_Compliances_for_establishing_a_New_Unit
+│   │       ├── 01_NOC_from_Local_body.md
+│   │       ├── 02_Registration_of_business_in_DIC.md
+│   │       ├── 03_Statutory_license_or_clearance.md
+│   │       └── 04_Tax_compliances.md
+│   ├── Unit_4_Start-up_Ventures
+│   │   ├── 01_Concept__Features.md
+│   │   ├── 02_Mobilisation_of_resources_by_start-ups_Financial_Human_Intellectual_and_Physical.md
+│   │   ├── 03_Problems_and_challenges_faced_by_start-ups.md
+│   │   └── 04_Start-up_Ventures_in_India_Contemporary_Success_Stories_and_Case_Studies.md
+│   ├── Unit_5_Financing_Start-up_Ventures_in_India
+│   │   ├── 01_Communication_of_ideas_to_potential_investors__Investor_Pitch.md
+│   │   ├── 02_Equity_Funding_Debt_funding__Angel_Investors_Venture_Capital_Funds_Bank_loans_to_start-ups.md
+│   │   ├── 03_Govt_Initiatives_including_incubation_centre_to_boost_start-up_ventures.md
+│   │   └── 04_MSME_Registration_for_Start-ups__its_benefits.md
+│   └── Unit_6_Exit_Strategies_for_Entrepreneurs
+│       ├── 01_Merger_and_acquisition_exit.md
+│       ├── 02_Initial_Public_Offering_IPO.md
+│       ├── 03_Liquidation.md
+│       └── 04_Bankruptcy.md
+├── Machine_Learning
+│   ├── Unit_1_Supervised_Learning_Regression__Classification
+│   │   ├── 01_Basic_methods
+│   │   │   ├── 01_Distance-based_methods.md
+│   │   │   ├── 02_Nearest-Neighbours.md
+│   │   │   ├── 03_Decision_Trees.md
+│   │   │   └── 04_Naive_Bayes.md
+│   │   ├── 02_Linear_models
+│   │   │   ├── 01_Linear_Regression.md
+│   │   │   ├── 02_Logistic_Regression.md
+│   │   │   └── 03_Generalized_Linear_Models.md
+│   │   └── 03_Support_Vector_Machines
+│   │       ├── 01_Nonlinearity.md
+│   │       └── 02_Kernel_Methods.md
+│   ├── Unit_2_Unsupervised_Learning
+│   │   ├── 01_Clustering_K-meansKernel_K-means.md
+│   │   ├── 02_Dimensionality_Reduction_PCA_and_kernel_PCA.md
+│   │   └── 03_Matrix_Factorization_and_Matrix_Completion.md
+│   ├── Unit_3_Artificial_Neural_Network
+│   │   ├── 01_Neural_network_representation.md
+│   │   ├── 02_Perceptron.md
+│   │   ├── 03_Multilayer_Network_and_Back_Propagation_Algorithm.md
+│   │   └── 04_Illustrative_Example_Face_recognition.md
+│   ├── Unit_4_Genetic_Algorithm
+│   │   ├── 01_Representing_Hypotheses.md
+│   │   ├── 02_Genetic_Operators.md
+│   │   ├── 03_Fitness_Function_and_Selection.md
+│   │   ├── 04_Hypothesis_space_search.md
+│   │   └── 05_Genetic_Programming.md
+│   └── Unit_5_Reinforcement_Learning
+│       ├── 01_The_Learning_Task.md
+│       ├── 02_Q_Learning.md
+│       └── 03_Temporal_Difference_Learning.md
+├── PrompttoFollow.md
+└── showtree.py
