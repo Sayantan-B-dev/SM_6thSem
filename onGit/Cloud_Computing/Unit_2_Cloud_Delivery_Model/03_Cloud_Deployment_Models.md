@@ -1,4 +1,24 @@
-# 03 Cloud Deployment Models
+# Cloud_Deployment_Models
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2LaAJq1lB1Q](https://www.youtube.com/watch?v=2LaAJq1lB1Q)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/6IyfXMMiyeS69k3vHWnRZhvAVoIdK7Oe8_PSvLlwa6dOXnzggcGTXZn0TpBJYbPvi1oJdzalfSOGmgeijm1SW6RTYgmU7cZ_ltMbSonOdr4OwhaOsGaFA4JsAfFZERl-JEELYOBoK0UJbOZmUphC8FFDKs10FeO9AW8NyRiJNN5O4q55Dhf4wGUEjbniBiMU?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/vLhHkheDR5JY3zwfvxpTdk3CqZCp-dO4-W7qsX4vZ34p7tH3NU63R2jbF-7g_eH9wNSEqmQZkCZbO8ntlxke6H9euGdpu9OLGYKok1PR_3Yw7r-utFbTQzzG11WovUfS4PmW76ol_tn1m4oc5YL_4CMpSzIVt43Mra_5in5BHYCB7OGdlQbKyqTXYXES91ko?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Vy61K7JABVf-KTRdgxO7LxT0iGGk17oZe6x2zhCnouuIh_ktu8ZP7Y3KKEWENuhemU_aMQp6YXBpTsCN35khk8xiJOVnTyL6hTDKk5OwPdzlNiGyD2NE5Mqco3FuoaioLVFIYktZy0BojwZOvRRa1HSh0Ox5g47vBdnKrj8F05Lmru4LtJQqn2-u-QJjJdzI?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/07UgvpUj_PpmomXI32EnUY2J5kYtYmwbsVW83zBDsfwHOXcKvccFQck210SRS9G91vplXeEHPSxa6fHEAZfFPKjiUCHsK85lSMrFOfEEjkzTtL5NAA-OU4XUPcF4yU-eCdGIAXIUDV2_yDW-Rp_GoOU4GpDyo5U_TVqSgelFTHabb_UqpJKP3JaX8TrSbwTf?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/RRgfjw_3sUwTdMR98Vnvyor7vS7viFOA115F1oCRn95nVqJV-4yR1Lu6DHX_h9WthlOQaerBdOYrQ0ENlxRwJmpqJEt2fqw2EN3nBPa5av4EXhT3jN88xOasKq028_QWdcR2K9wlzvGMfckGm-fRiVV_p58NY9y9LH7BcczHOrsoqlvvWEPgw4nrfzurIZhH?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/I3j1ng7YfXv_No6SEJF-ElJUmYzEsTirhx1Gc6M91JDo9LwDicmeiyQT9zwjDfUq98Qgoj8DzqWofP9Uu5c2FvUIDcoDY0vhmoOmyg7MshapQ3g2yrJozoxPWZmPY6-uaBs1RYUEZ5KQQ1eioC1dZvK1W7W-qliztFWI-jFsFTBNRRdngfbuG-Bio5VKdzPg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/-1yR1XFrIBcVoPuDTYAXSI5t-dM6MW9E2sIQcqFD-EMB394G57MojeH5VPEQlLn4TO7n1spirvJ2CdcMtPAM_OCwRPy8t82dBP2jLtuneOvSTq9BgF13ul2wx-B8twUS14h5Gz4SN0_4P7WWtXKa5J3f62dZK4jPMDYoPXx3SRXjRG06-WHgS_7tGYhxrgo9?purpose=fullsize)
 
 ## 1. Definition
 Cloud deployment models define where the cloud infrastructure is located, who owns and manages it, and who can access the cloud services. It answers the question: “In what type of environment will my cloud resources run?”

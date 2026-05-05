@@ -1,4 +1,22 @@
-# Data Center Virtualization
+# Data_Center_virtualization
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3hLmDS179YE](https://www.youtube.com/watch?v=3hLmDS179YE)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/myU2ZsIevfDks_7F_sX-tSgw3uLxC3h0ahljUeCiE4iK5qaUpZedLBiOX-OjoLTp0-yC6M9d8-NLkUIYKbzUS7VuVRdBRde4Ah0HLasstEHtoBuwWJsu19bzGusg3TcJrpqPBKpDEQyoF-wyFr9eEZWEb8H65Nyb83PNl32Y-IAo-LTq-V7tFOeE9iiXUfs8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/a2fZ8z9bYvJcoqCQ-_SKl-q8S8_3psn0J4r7aiPa791dt8piTup6BuD9kS0Gz4a5BCp_RnF1lF0wRFz6oFpNLtkymjboLnvWNIfbNn5MamryyneKB13TV9BKOZ-3JOOLEwJozOrNyXsOZogCVOoQ4bMV_iVvN1wQqpQGIncENsleicRY7yWLepmhjOR0j4nl?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/KWg9iiy-TZ9RpPV3WjmPv8MdHZgZU9hzk8-Sf_6Pv9VL1D9vHdQIq-bygjMUT1NjHup2jZuuCyl3ucXoGJh5OK5TsjkCCNro_tnX0BkRG2I-MDY41LvwBwnBj6FvH7-Iunvmdj0kdf7GFSbWCt0Rkg_UmuF2aJgCpz5NfnKewIrDvYmHosv9Wqb7Vs3A_kk-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/WQ0nyWYmGeHT9uS8l9L2S3dXVNzAaz9xSKwjp3VmaXJz5wzeMGY4kSDFQH40nxC_yF7kyh8OGH5tEJTdvRI7ubWe_PKkkiMABmCuv56DB81841yoiStRsX0IcMMzGl934M0P-ObdA9BdEg4eJ-_z7gg7LEl01Y3Pxrjkt4hDFC9s8cF64BdfDpVvdl27Lu5R?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/HUIkZTdAM3lQOyd23naERVLl6ustC5K6E8ZFNvN5S_fF5GZR6wl7DJwmDFAU2bvHb22TqFsqPTu2yUi5jxTnXWtSonJ9JefRlRDKHK2gA7m0PbjlVkWnNasmlr1J90WIlyM9iN8WepgmhaPkTB_4ZRf9yW0Cbk878ZCXAkm2seQCd-u_5mPlttwR-qTMDcLb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/SabKXeXDlLL1FWulhZUk3Vliy_OgDRvX_YIF0gluiEewI4XjA_sIuY2Mk3Sx4ut3GKMk-vEFb1k_6MrxaMyoRtx0YOHo7B-IhTblOXFXHged5npu0KzEodPPqceRpSxpBjlegVMqU_k2e82I_ITPQAwC6H7SlgZ2WJGxSn9yBqAyBU1defZ22cBGqIjd8L3v?purpose=fullsize)
 
 ## 1. Definition
 Data center virtualization is the process of abstracting all physical resources in a data center — including servers, storage devices, and network hardware — into a software-defined, unified pool of virtual resources. This enables faster provisioning, better utilization, and centralized management of the entire data center infrastructure.

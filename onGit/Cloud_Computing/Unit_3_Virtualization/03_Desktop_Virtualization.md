@@ -1,4 +1,22 @@
-# Desktop Virtualization
+# Desktop_Virtualization
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=6Z0mFqz7s6A](https://www.youtube.com/watch?v=6Z0mFqz7s6A)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/642DUgcDzvNOM-RXcCwcuKS0etaF8KW22LG_KhB1_RzA63_Rwi7wRzZx1x19tuGQHl5iX0_jXNd-OAKpKv3WGY9F9XmGcWXEKFdspF_MJPyQWrOneVHV3H61j52Lt3lfR7VX5KC2Qi1Xhes5GDM9HJUL5tg3gz9dIQBpaBG6Bz3sVG84jW7rP3POdkZzNvVQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9YwrvsdIVUgmfa8lnhyqN07pTd7h-UNfhx-7s7Zoygw2WPqfYmAdWj-fEgu3ae-UGJ3ak1i3a2PHPnj8OiV9CQQ91-crvIBwWGeXdebIFA-8o3L53rtcSg7aLsebPjAfr6CVla5yQroK9PmGB1aHIlghIcHlhCLzHa7HS2MRQcTrhM6bP8HHApDjy5DHRXBX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/2bckvu3thQEVKR-MlU2SujhCTOyA88rl3JL7ilzOC99nhqiYd8lJd-ZKUzLeTENFA30v_FANREJycEx3J_NOZa0fUgqD2yuC8bNdYwJ_7DeuxMMruotS2F84FfhneSRfJODvVGZf8RGn8Bdz9E8hcB6i6frSqt4BVNFzaxLobsmfExMKTbymDRJkfJjtDTc8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/BI_deTJoXOFaxXCOloVPOUszwy1fRMUDJPh32T8bWMBsiz9tLCiwU6589_uKCV0hUIBFXVVF1sRe7ZylNMm7g8S2U7tM5wmOVqF0sTW8Dyi89xTmNOUOkOR8M0kLbnIH9bCPtJjTBlSHaXxXNY619KNhFaxPM0d-HwcmJUKE5QPS2f_WEG5j2l0DxMTqA2yN?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/pFCLhvdvWEOKqhw6mnV4ZJhra4fRCKh2ofAZ40iKNFqU3SJDDWK-9XHSGSN_GbZsFB4kdJqX-61z193sPDn-7BgKasaZWrErUFj4xAefZX2m21Nn3ZhYW-vuQyqmLALqAJbT7kzp0XQFOsxLSF7pIhW03ICnTFQhgmP_rqq8La8KQEoigw2FObXzPAPM2dRx?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/OcrGT6w15JBefxb0zcgOVzQorMSExIJeA9GiR32UDY9QDb0otBtyInAuQ4BAXf0HY-JgaijveVSKx2BvXi23ZZw-3q0R2MVMXW1S9MNcuTy34AjJSsMHrDD6Vqbzj1D_eIl6I5uvCs7wW2guCl0vF-zHulWDA3J-ERlYWokE3oZKdXB6FOcIBqZAtEOIyY0j?purpose=fullsize)
 
 ## 1. Definition
 Desktop virtualization is a technology that separates a computer's desktop environment from the physical machine. It allows users to access their desktop, operating system, and applications from any device over a network. The actual computing happens on a remote server, while the user sees only the screen output.

@@ -1,4 +1,24 @@
-# 07 Google Cloud Applications
+# Google Cloud Applications
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=JwKJkU4n1rM](https://www.youtube.com/watch?v=JwKJkU4n1rM)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/sPaZDX76lsG0AHl_Uk82AN7DRRJdOzmwAj7PxAw3lHvO5P-yeozQSNdFYQ6JzOG51nX57SNobpSFp9a7H7jzTRqFCUF8MydVRFC3340x9O5ZLsvCVQCrJoIGqpAP2u4pTLiXrNGJFoB1Ad9eBx5ntaQb9IHLZvp_HTY8l6UbTMHb-v_q4N6QqJnWiZNGdHPx?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/sx3N5eBW_G1NG4t9XtKmdjsDt94mTQr2YHOmJLcSIu_62CLi3OQ5-xuYRfYS4hoeT_GOGGiUWuAsZrn0oRLbvuKUq1sRxHYhAvUruZzNurfR4Ajp5ncqrWzvtYd3hx--4Nc8BVxnlRK3qM0Q3KtTJmMsHsqJaJDlE_4m5_tn6L3veUyVxGdNRRS97LUxvxkG?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/tQmCqHVH5-MXm-uTw6Hz2qUsAR9h7SEZ2QThTHEtnDf-clzeh_uTFiHae7CpJL5iQKyB_PA1FycysAZKSPem6pkc6tYSzubatfd_6a3dShMDdYq8rPKyx7XBKd16tljwbYC2FjDiCBXAyrDb-uL0GkZ9wk6WkGQObfUxinVAmxNCEbThNEZVv7oTR6cGNF83?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_sTvHtuHUoLwdiS-1T591c8RY4nuq2mmNEnqF_fiHlsf8etYUYAO2XYX3XdhcwalcyMOwT0tUDe3e1gNdk9zyUAxAM3Og6tlCqDISAGsDxz7xTNFFEcrDzupvlyjSzR0TSkzof1Wx6NL5Wdi20J2asti6YZofr9O1t5bWE52oMTApnM9BorfOvVx-VPbsMT4?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/djj3cYvQ2rYpJ90lD64t7XwmGjZOyEB-HHl2rmTzjDlFz2iC1xtZNxU3dA2CH1rYTwor8Ujxke7H3bKER_F3wmDkiQkFx8_nr_Maa-AW8aBtOiSVTYAaD3Ffu6OxGdHJn1xWmJE4HBXsxRvHzicR97iAC7owG8AmCdMrMzhc1OoUh_pDLWO8od9Dzm6UdrHS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/klFKQ3UUS-IOS8FIS7TAcbFIeJ6jPQONZEqczlIY5jf-BwgSDMKl1dn1K9RzWKqw3gRX7f8PnykGwXgacp5asaryBGg_RpgdijRWQ4cBfJTxnn9CPuK4jF40SULO2Zho7FF04Hdate2oHFQBjiLXN2YoZK7RGEaKx2WBj4wCyxYpzTSU6gZ7LvefKWmcthp4?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/a1lgtAuqU2aTgIi3ooCSbYLxWXxJExQj7nM0JLCybh1RaTeaVd4TvXFwPDIZmEgcodbTrpsGdo2RR1lr-3yVWip9A7_qjcfH5DNbrVvOs1WxvXrmg36H4V8JF7a55Yu2dRpxXRfOINZ58D2Uy7nTegyUCNgyuLfKZT-jlkZB-VkoSf-ia-e04wvHBYlo97ok?purpose=fullsize)
 
 ## 1. Definition
 Google Cloud Applications are software services and tools provided by Google that run on Google’s global cloud infrastructure. They are accessed over the internet and include both ready-to-use productivity applications (like Gmail and Google Docs) and platforms for building custom applications (like App Engine and Firebase).

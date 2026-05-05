@@ -1,4 +1,22 @@
-# Roots of cloud computing
+# 11_Roots_of_cloud_computing
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2LaAJq1lB1Q&t=120s](https://www.youtube.com/watch?v=2LaAJq1lB1Q&t=120s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/RMWw7OC6-UiK4aHP-9LMPkxIsG5xOfdwMiW8FgbHiCt9QmkAD1VtQo79JmaWWxO1zADLadkIgg642t37mhlKZxkb0cQB6f4kgDrclENFN9wIUNq8F-NDB1KMXn8jigiuuD8QuAL0CisHyS1KkSTlULiBCjkomaJEpHuCuubodKHbyP4NgD2hbodnWUm7Y32L?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/y6ndeix_5yjcBfDczVP06lyZg0i1g8Sk_uODDtuQyvL4Lkt8bEz-7eqdmw2TBlYrd2sF6M_XLTyO-jVUfN9jRF5vWFPhFnsYA_zT0108mX6qxu1oUZ1VC8iOcJ3Q8_n0yDbK67mQ_3ENn28-o8Y8PrgTZI0vxTVgDnnhHucHKUNYHKnaHEQdINRCwpkrtKFM?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/FXZFvzGU5azIwuYmDpSpih9C8fT7CKy1_gQYQUUfK3eUCJObwP53U2nlL6f7_6Ebgk3BPv5T6OpJ-XCqGYYvxwSl8houlqvBrOtvFn3U-4ms9Ibgh1lzUrWNfuB0mIuMBTyOr6tHImkGhDLg9RYHJmhTWVf9yL3ZxE_ZmDMALq7ZKr3i-cx5wR-L0qtgHkCc?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/rg-JQhRgZj0Ch-OGPNfzXKHRqFybwihOlu04NRVrRzGYRCK7ve9FdowYI933XJuZEnrPvwpveAFkdWZdlZUObKjjGIZmS1uzpEqRlO1uDYEaKhupcVhbuOifO6uhuzNUwgumoeAu6pNxXcs86GlTAhwJgQQJxnV-wUjXgKc7Mm50iQZIhsCkpJqOhdmYdN3Q?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/myU2ZsIevfDks_7F_sX-tSgw3uLxC3h0ahljUeCiE4iK5qaUpZedLBiOX-OjoLTp0-yC6M9d8-NLkUIYKbzUS7VuVRdBRde4Ah0HLasstEHtoBuwWJsu19bzGusg3TcJrpqPBKpDEQyoF-wyFr9eEZWEb8H65Nyb83PNl32Y-IAo-LTq-V7tFOeE9iiXUfs8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xl9MzHfHSJZFSDCvTMg3ag1Z1Zs0cnnlIi3ZWkZxKhufvP_FWKY38l5EFHSfoyN3JYYMIS4d3j99wTxZRzRQklBYaTN3aT2T3diWAODUT7T2E0PoP43vMP6Cc04Hee-qsS23FwlhY3bCn2LOd3hj4HH9sWfh4FtoNf3ntSS4GIafcVjLWgut9ubjfv0t_E9-?purpose=fullsize)
 
 ## 1. Definition
 The roots of cloud computing are the early technologies, computing paradigms, and conceptual models that evolved over decades and collectively laid the groundwork for the development of modern cloud computing. They include time-sharing, utility computing, grid computing, virtualisation, service-oriented architecture, and the global expansion of the Internet.

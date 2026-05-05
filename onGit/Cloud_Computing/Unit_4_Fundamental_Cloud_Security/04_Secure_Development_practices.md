@@ -1,4 +1,22 @@
-# Secure Development Practices
+# Secure_Development_practices
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1O6YQn7k3nI](https://www.youtube.com/watch?v=1O6YQn7k3nI)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/fjs1NhbCofBmyqWjVw25S-l2WtHxyTUKuiMY1NDw-R6txNtyPWLzvbrK-FK3uOTACa2rg06aJEm2Cqoao3tFL92gpg3NXbDWN1YhfhtdSPnhnuZ1XjWfcOslMcTLpxjPlri-f_89DPGhzAfZM8WQHjsPHsXG31wgYifggM6BM0aKCglzEZnPbPuxOA94FnCK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PBaoBHZnMVDnOHuvxI5MO5MKWhjJws7MhoY6WouO46N2hEGFq0WQ6V1lroKdeb1rdGmlVXcJh21LApKNOcc3gqxmU8OCiE-5BE7nkR1RwIJFa8bk1GWwcIWRNQGQq1VqS0eKw10qnckq1YTZ3L631Rxi5ufoSzn2WzOzjDUDjpAOmy-eDr4sMPLiSQ4saw1W?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/uMU_MA6SF8uuzRE3HzJaVUjertWKiiAFL4B04xqmfkRb5Y1K7hGnDrafvbTrhYm0Rr38y09TcUI4E-id5Hw6At29sSzGx0ehVJtCrrRYG6QBX2Ag7BTWo7X2wxhygvV0flHnDtpiI4sdNCNQDR2aC4eyRIdRKBjSkuS1ULDhptkKpm9WuK2aY0V4vDurQ0Zw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/7x-snm9j_ZBPt5oCSueOx7heeyADt7QrFlsg8fBBhMXIxqL87Q-JYoNMmNV6vI-lCtqSS6CWbEmcl4TqtmeFq4T-ncT90AGnufwWnOkdtejjRzDTsW5ZlvQfWVP2H4meBr_YNlHdh1mzvX0SxGC6selHTUjzL4OtWkXGqrznfRyrxUX4QM4u2oNEJczFABnZ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/y7YeTr0tzDGfID5K5NeMhGi53R24QQ5JYJqlzMApsR9GI09UKUSuk-6TVZvy4ucUb7K30t2Lj9Xe-d_eDbzujxSxDdApK78uBZ4gGglgbTGFOtWA44_L5ql_lpxoIpfA_4lcMZkPHnhpgm4c2yz6PdvhwtnJkYwAZV_IxP6to_esHbbYMgMLeH2BrR01RdyF?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/dN2J5UbDADBBnDBXYU1bubAGzEL4LIEXM-Kibi23408aIg-J6b03Nr7O1uFR0jKaCxPoXGjDeSuIbtaaCwkRwOEZjxCCdXg67l6G-44J-76RNgcop1YMhqHPh0u9bfUaXoP94dgGcvYg0u-T9KVL-7ovGQ7Me-8cVhQZ60zY6l9V7MytI_A6XwhEQJ1LaMKA?purpose=fullsize)
 
 ## 1. Definition
 Secure development practices are a set of guidelines, techniques, and tools used to build software that is resistant to attacks and protects data from the very beginning of its creation. In cloud computing, these practices ensure that applications and services are designed, coded, and deployed with security as a core requirement, not an afterthought.

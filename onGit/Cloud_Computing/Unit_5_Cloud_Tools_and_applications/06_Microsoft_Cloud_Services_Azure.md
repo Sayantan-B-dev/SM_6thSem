@@ -1,5 +1,25 @@
 # Microsoft Cloud Services Azure
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2LaAJq1lB1Q](https://www.youtube.com/watch?v=2LaAJq1lB1Q)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/nGGR9-uWZVMXVnHxZPUk8u4-R1v9XfDLeL2X6vmwbWj5zsa-zYmvhz7g6wLQEtTSw8lnD4dFKRkIvqvcuZD-0_3-v5kAcOChNeoO5YufUCLvc4k7t39SyNEgPIZNk87HlCPCTEqBFszoG_8LHfFHgc7cktYYBZqCI8kSp2YMH_UW7JsrIJmKSoQ5MUWai2XO?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/AbkYKP4BlxOcU4Up9VbrNoCl_j4sOoIs5fdr27CDVfSb8f0jh_Z8IPrF3d_aURmbG_FEUiX0dw-tBQyUzr1HuiLQ-N9G5PqcwGDRP_pUfy_NCtVRCjo4VHG-hcmI8b7I4waKqyCBVECU2XFwveE8D-z9XltJEekBQea1wzyK6fnmQd4gaRuJjw5eTvAk0yg1?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PNFgUK5T8ky3CMDn88QLC0bUF0RKTpzWhfpnbWlykn3fePv4Ljh8MLk_XsFVoZnlgk5xmnTkpueoQJhHJw-1kvLRX7Cgw-JrmLuHzXdQquziEcFYlVddcIHF0D-1m8eVaRZqEF4OGIN-k-MnsZ0vNl6jYWbUCUNTMRM3JNW9MHLO_q-MOasen3FIpxPVNLMa?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/VOo8u2ymtrjJa5v_mdKusnTBOVjlAR66a4ntoiACzxrWKFCBqS-XNtJ4nZlV93-kz3p0xxB8WggXKVpSnvyzb1poRrt3QikBXSTOARIVmf025-7-szkDrxS3VfBAx6WrlHJIgdR68YHFuspjM9uLSlBkxNymcdTn8na6wN9db8zm583ld8NDmaSRzvOwR9QS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9ngvmSp_oT8eweVi8qicw4Or3CW-yZmxVgbZyucMAYNe9lnoPRADxD1B5dlQPZNcO1JmFqa6v7o0q-W0A0iXSj0T9hwd_5iXPwo_TsGtoAay2oibiuVTJ-3K1vQnPOmicZneDVeG0m3a68VRdAqELYmRnHX9cChwRTBwlHjpd-YwcaX4Y6UL-knRxkL3OMDx?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0k8sR_JtBkXp9KbtFpuWfiKFWGPZj5BC71E_cTeHIGkfQQDo4vlRHFOisFVYA5PmxIQEwagVz682Wr77zsbw-n3F6CsG_78BWc2cNMXVBc1coK60703FUTU3C6pe4B16ZO5Ajh20GSLka-bjN5fE5z0iz0Zk0RBpt0gGsR4-bzDZUl3yJ0dqcMWVxRF0IuEG?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/4cYKHP4ivR9JefpF1UEvYN7pVWZosdS937aGWXbJMVdF7mbhDxLqy2dYkRNlFWdc2CcdM_UHK3lARrdwoCzEDYj2E7v_NlB6xRyKVa0Bz6UK9p9eJQOx02XbjisI2PYbOoalHnEzWtkrR2KekplVMFgK_o38jSoAK1nrrdJQBJYrL6g8cDcX8JBL50-RAnSL?purpose=fullsize)
+
 ## 1. Definition
 Microsoft Azure is a public cloud computing platform created by Microsoft. It provides a wide range of integrated services—such as virtual machines, databases, artificial intelligence, and networking—over the internet on a pay-as-you-go pricing model.
 

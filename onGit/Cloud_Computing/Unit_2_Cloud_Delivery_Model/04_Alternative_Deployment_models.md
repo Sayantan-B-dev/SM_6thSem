@@ -1,4 +1,22 @@
-organisations# Alternative Deployment models
+# Alternative_Deployment_models
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=mxT233EdY5c](https://www.youtube.com/watch?v=mxT233EdY5c)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/ykILUXlj3d3IiYpG1DqSnz6ITGfc6XXx33LXHP-bj56oJxrDnPaswesZeAz_ZJPv5AK-roMOvZ5Wiz0UvZJmv5L2ZC4cCTeb7CrlFsprIDcz_EvizMTsL8mMBPeTSoI9ERgfll_utcUuHGemZvnhIiggcBIUh4Mat_mqmczbM0lBlxAvhT1UOi6CWTTK6y6r?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0Hxlb_Jv5QR-ugz0EH9YX5hd2JlmafTDKRACUpVpZZmYKKumAYQvfYDK3WMw0YUGhnfSuEWkIQsqdxDr168gCsMzE5csSx3TEm-6lI-a49wy9pSOwC5V8O8EDiZi_AsZD5AmkCalfW2IQYlgeLgn2LCijL7Sys9ejWxvUgiJ87uEtEVDe4McUdHyNpW_GfP8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/NBQWmew0V9xewPw58_SWBeFKYe0OJuz4Edkd386qnPBQqp8jXud9H7VlZ6KK6JrXCXR54OidHtbnhrq9JmgRFqJ9cYRIVmKT6w-od2SByXj0u910NgvoDFPSuI7cdWIFn4dHOpOtnx9S4L8WoXF4aNZqkoUYZinfuyeHQ_2W5FwnQA071B0BDiMseSzs2IVD?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/qWbpYsSAs5b8w0mtQc5vhmisULIQLwBke2fqzeGcsHywirndrQQZp-twkpr61Nbu-fY-pNcZ7j6z3Av2W_380UWYpnp_pDWl0VVI6OBwBXW6zSSr7LuFaGx1eNyqraLcNGmO2MNPcLKy1epKuQvbcwauUsopuescnJaFWzvPbxYva28rS3v-s_G3-kUG8G7M?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/r_zqlKRW9H4EHJ6I4ncEezpJ6PiZhLj1OCYkf1dxGLxnnB4sHbJ_zQ1n3CzBD6O0Pr-O3MJJw3E0orhZb3ABGMYeVuyxkMiCMUVRSz9_dD5PAjsKPHfuZF1uWhGak24jf1DuPal58DF-NVPHV8EgfmXwbzUa8kvx7ukpP3z_ahrUZ8AGWhoQAP7OEUrg35Sx?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/VUVI4ilOjzmbk3uONrwdVFdIqv_Z7bhml3hU2MrTJ_eBmu_0iMLzBW7J9xxUDQ3t5-z2pQTJhcuF0v1yxO1HRM3Qm8G911hN7wUc6o9yIbFOH4zni-gTw6Vf936eVyXFMMUrAutwlOTwcUh_0pyLAB_g6Vm2IoVXs1ytWvcyMJvaEh8p19Of5JzEyIlj5xG-?purpose=fullsize)
 
 ## 1. Definition
 Alternative deployment models are different ways of setting up and using cloud infrastructure beyond the basic public and private clouds. They include community cloud, hybrid cloud, multi‑cloud, distributed cloud, and edge cloud. Each model changes who owns, shares, and accesses the cloud resources.

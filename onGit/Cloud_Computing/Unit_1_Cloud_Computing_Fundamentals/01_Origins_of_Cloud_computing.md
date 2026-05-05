@@ -1,4 +1,24 @@
-# Origins of Cloud computing
+# Origins_of_Cloud_computing
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2LaAJq1lB1Q](https://www.youtube.com/watch?v=2LaAJq1lB1Q)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/WDfm9PJfMZvN8fmMJaOUicDaHaVXL8GbkRWK61KEDzK25X1ojqqAmHtyr1n1lB2wbkBqogegkv9cDuqDJKO4OF1G2d7-eGauDedA_VjhBmSHCCzYusJJVHPnIX--trO0GxZt32XtaKwsPcOFX8PYbRkXHm1rXnXO6pjPBQzbi3cyEKkjWXRq3ujL32IgqgDu?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/A_yq0xrhNlmm-v3_yA4Z1vKRSKIK8XkoD8C-kTIKzmqqyf93zg85VrspLqGEykX_ROr7uGjBZI_xzGtrOwZ5HzmbOkN6AldHvfDPbmXQ_0-bffh4oq4bAzPomMuh_lrlCgwojENXdy15R7Dsl9iPV5YfyD_hd8bIZYwipEfTY1533cvcEXaKVRhS27-sBc-h?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/c5Txc0DDs-VqU2HE8epAymJaN_s_mKKS1JNPM7rRi1A_8G1VcWgzFEsL_7ENLZT-nsdrIFt-nNcTCv4rBy5luW5TwAiFhFINjm-92vL4TV901rm_QnxeTzZ0fUdXYbPF_ZAzzPMiQlD7Q34C48jgTBzqji7IF3YXcpL_TQ-xTxz0epXMeGz8Www7Xlmfu6Ag?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/NUpUPP4wkAZH00ohyvs8Z92gK7PqRDu7wF0ZKp4KLTzEoLm5zPsRdO-lVJEXTS58WPU24wNxUdSR3P5lSa2ed0-pxfXbskNk357JtRExrzjloRBFA1Oi5xKJQiy49fYV5MSLPOyYOI0XFY-tUB4uWBVJxSU4Y0Fp7J86_Y6uMhV-5EWrqyKZ75BbKjpvUvJF?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/qUlgC3wdl6iWVFOqh8m9jOmSRmLcuY5zFM5xAK8CAyVsLleICiD7T3y0kpH9nsilPIsTfbArERO-RBgV-m--TS4YdT7TJeyPfPROr9BVAQxsyjWLmNwjEGhDgr36zvUDSNopAw2yP_r-eei9tL_phxBoQ5_wf1GhObMyly_IZYpxp2pRx6wJqW4endO7lDDd?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/MjdPH9UA1RPnZVfYHs2qguvR-u4w62ff1NjpbCH7iT2AWJJaet6-PiOijju8DUZqyBs3EWIjou2WdONWWQI4Ny0maeZJCeRGLIgr4TGp2Sbs_okj1wNPfow2MphtanSWmfGaHItAkdspnqyF9TZ3MROxWKvcyj2a1AcFKoYbQuQJ6n--lD0d9e9r-O-XxdYO?purpose=fullsize)
+
+
 
 The origins of cloud computing are a fascinating story, evolving over more than half a century. It's not the invention of any single person or company, but rather the convergence of several key ideas: treating computing as a utility, developing technologies like virtualisation and time-sharing, and the growth of the internet. Here is a detailed look at that evolution.
 

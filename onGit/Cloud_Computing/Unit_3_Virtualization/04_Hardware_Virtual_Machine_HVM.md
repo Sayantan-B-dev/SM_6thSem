@@ -1,4 +1,22 @@
-# Hardware Virtual Machine (HVM)
+# Hardware_Virtual_Machine_HVM
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=R6gZoAzAhCg](https://www.youtube.com/watch?v=R6gZoAzAhCg)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/Hpvw-Gcl3q7NkFPMtBQbgMkibDrAjQMby1KIx8p7AQ_B7Fj2bAh1wOSKvfLoXtGR5stTBpBigOW05Op3pnHgPW-Dtni0lNrZ240YH60pWbZohNX3X2VGV34HGm2SAGAjutSP1c2eeLw4tJ37tyASXjNNkfnx_kuY57AnrBnz1xoSr6TmB93Y0AcpfppVdTqY?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/AUIpvlHTqjCfVDjfEB2WLfHx9Csu3I1F_orgJRzT_oX_mdwkUA6DWBMsv-q2Kbe88qc7ORreMmrRgw3puSxlkFZ9j6CdNFPGVhOrz7JRp6gvhJcO21tFiJn523gcyOC2DpSxGrOrgZIzvTWXG7sspZhxURsQZvuQTYIn2F48UFs5Ukhuw37uNEvPbbkwwm0c?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YRbXK84JUJ1vQKiFJ1Ao5EOXyAVSwH8kZkfckUaCOvwMnr0sznrHbvR1S00BMc_lI2_2EYAbaqmLOWacieJcwVITl1auN1VGPHxP6gh6FkMwaNtd77s5MQ_oN-rtIlKBdwSM8y4-vGhdceYqWNLswi9tRTGzrWUpbizhf7N0V8Y3DuqdIgOKHTIQx6Lovx0t?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/AZRorB_ujT1xMn7NJf-strfuTMdTpuOB8rfYtYrcV3HP_XSZLkarvnvypwZZ9bfLHkecos9_Ss4QNgYsephvrX93zKD9qQbGmpXYiqkzJLXhUpxoqPmdFI-3POoDebf7tE3wyJon2SMOj-P9lX7t2Nris8_juiYQPPxGfHzpYExFRhdRFVxndDzVGGJMLm7G?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/qTe4ptJTNM-5nzmE7F_inghQe9521-7PUcnB5-rGsxiP1-t5iv-N7ZJpPKdhW7gGb548l6JsNgA9VfH2r5MSB9uOdzI5K-1SY2SfvZPJ4zclQt6xWPanGFcoQBCMh25Lljt35DIkyhfQ7I4S8WpvQoJgsj-LVUY4WJbqAGv9v6IgrHwu2EpgCx39uWtU-gGt?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/nIa1xBYlfpEO391x65qQK6yePB_69USdQMR6AR5coSR--3EFR7HtkW5bdpRTaW7IKdfgPcnXV_lTvPzeLO6--XJRG86D58aHFqzmH75exebi3fbGUt0rVVdHjnpbT2bcSXIfV9ojrnXN8nDgUzjD8EXu54aDMecDuB7CGmqizeMfsqRCZ90pEqrhds__ZzY-?purpose=fullsize)
 
 ## 1. Definition
 

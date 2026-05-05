@@ -1,4 +1,22 @@
-# Rapid elasticity
+# Rapid_elasticity
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=mxT233EdY5c&t=200s](https://www.youtube.com/watch?v=mxT233EdY5c&t=200s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/WUAYlsHdjZ-x5jT6dPJfAa4UGoC8C70snXaGFVuwuLzhSSEPMPfuALMedIEm5g98jc0NWrpgtT0ZPlcJ6_Tt3HtEZOqsrwOUkxq8hnaryIA8XE0ULb76IxU_k2Mjh2fwkZtKP_NAqlzAfq2p21GCSpfGa7ZMS5Y8w56JRhTSELAQD7Uxp6LNV7C2UxmdzeND?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xFjQgDANzLCYkFMO6IUZ0S050Jl2AR_eETmlhU2rpVKVsVAGE8-a0uPwD3Q_5ftSqA4sYLhXhlKF1_oFqL5QPpcmuw1Wgwhg1wM1EQ4MI3Bwce5H-65JND2T3wArd2LGP0OqnhBHx3WALv5am0VG8-Q0fwQMmM-Cc4D1PaRl1ZHge801k-euR-fT5pC8qDx0?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_cd8bAqz5aB_eoGF8vW01L_wKZQwi3qKggJUyUbo8bVC055DLPFRhROk5eHxhaiNDKm6crveCyY0bulWTyzl5Nr_jXtm13gax1ndf3my0o1msRzVeBjS5lEb3I115y4llRLwj3Q5L6iy0PkOQ3pZgZPNOX2cvwR4splo6qv9jgxzTu817CN1c78FnbYpF3W6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/MZBn4JkaZ_jhXKJKmeI3fMxBmZN-uuLxI0VzI4ntGNbHb0xVvnje0CceEPh2u3Cd0FjjtyklDi2IX47UbBrPA3KapWrx9XUU4VcQlVcipZBe6gB4IGQ-V0PuDEcYKs05Sizikn9OGWaLkiaWTfKF0kCj9S5k-hh7bGYh692X0ICl68lvtgOo_Q8djPwQ74bl?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/J9F5Mf0LuOwt7ZsugpWSdmIwDlMAOiY2EhgT6fS9qThU79pLlcL7PagyynKeQ-XLLLNOVQoAx_hhmxbY6NWCDz00TCGma-I4d2dVxfUHPTZO1wnRRMH857lawD3d-mi-hyVZOsLWAS3s2878o4GiRiSrcWqJbFUr9RTrtcbFA06h7i3oCNIvYT0mg7qOOWZT?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/s7LjyWHBj95qqbMUWmDl0wAwUIAOVmyuQTKOhoP3EpxPyWTfA8kRnlu-rQ2eSvyF9xsij6xAlTR-j0zIF4YujXz8RgyEru2g6gr6kaOz0ZNFiLybrR488yWDuLdGaDxrB8sEm4x_49KO7MbhkUxDmWfEUmBY7rF5s3HBIRfP8Cl7PTGvskBjeJ6obHa_8yUI?purpose=fullsize)
 
 ## 1. Definition
 Rapid elasticity is a cloud essential characteristic where capabilities can be elastically provisioned and released, in some cases automatically, to scale rapidly outward and inward commensurate with demand. To the consumer, the capabilities available for provisioning often appear to be unlimited and can be appropriated in any quantity at any time.  

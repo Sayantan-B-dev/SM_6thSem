@@ -1,4 +1,22 @@
-# Virtualization vs Private Cloud
+# Virtualization_vs_Private_Cloud
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1C2VZ7kG2mE](https://www.youtube.com/watch?v=1C2VZ7kG2mE)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/j0jop880iQuRNJhn0r4vIxJHaXqTZwu7wB_lmCtFfoQ-Ze8XR7HGOIDfDv3uPuHiR6F74MpyKiLVk88wLN-SsTVQlqXi8OPbX6qgjygE9smvi21QDsvxt2QaN0_4a4P8M4qIAJPM-cbgGn70c8a_9y-oXEfY4bZkCaMXJwXVH2UGk5jw1HKUeyBlI8SKxyWG?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/VZOiUwXPKa9hapl9yYwc6TpWn7OOvaM2mt7I-JGCf23qYeTp2DLAxs1rtBmMRMDfGJfmZ1EPa8yNPwy3teXi25FYuXndkUDfr93MYXUeF8ykl3Ize52OOgw3tcv77YiRW7bBerKbkVq_v9PtVGCRfTz1kgoa1VaDHgbcUdkv4JywgiDzea6rqbzyPpblNAUg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/DgArzXIfPECHFlHTMVXaQXQL0VfFPmPjwGDkIdwHv8aLlPFCw_B4L1B2plEvmF4gYCQ8ByqkYPjQs-fRMwGm4eUpj7XmFl2GyW8MKgVRW9CMPkwhYwZ3lZXix-gh6GLH2RQ-o71NXeRGkvoIJe1092lPutN6B1jHDpdzN8Mi-YUqlQXCHNUVUDu3_0lcMwZl?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/HOR_U2yaKCK2bKpkJLUrPUgHD8rubSI_34Svk-hp19xK2FGKs6KoF9obWZpz3QXlOaZgYNeWG6I6tDHCzrYrTWQjwsGIaHVImbVw7N6MQIpHtNdbyDbuqxqcMei7Y_cyFIm_ktblUE37TjWzTMsGdTj40OSY-fcpMDVEbhaOZe4czy8STOTc9YJhOcD0okL8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PKkcSFcgmFi8gzn0XZWiT1xDn53OoRztSstDsoej14_UpRqWJW5nNcHawWjW4FChlJcUObAy1zYJ1EJWQ5b0TsiJNbuBoC0S-hdWMiJy_AMkqnoWWRUP9Bv1Z7Dxu_jMSG0N_v-ZzIKa-0d7HzFpiqPn5FGuZvOMrkBKike11lQQJj1PyMI41iqxIcnE6xDm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/eXSUmRnxqeJ42UW6Oc15QZ9yte-BLxNtvI6ByUZ2SlaFk0FlW-eZbeRE--9Zf74qlHMMQejVojFNB6GksrDksfzHxHBsZa1SKJhAiAaGCC6gCtKNvVnksVAmen-yjpRXsgusbFz0LYwsFZnUG7NGbnVcNkenRKlEWIzQuTgX6LUlPkYCModCCa3tC9qxkQEy?purpose=fullsize)
 
 ## 1. Definition
 **Virtualization** is a technology that creates virtual versions of physical hardware resources like servers, storage, and networks. It allows multiple operating systems and applications to run on a single physical machine.

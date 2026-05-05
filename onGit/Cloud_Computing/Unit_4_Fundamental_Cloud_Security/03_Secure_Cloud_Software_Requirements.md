@@ -1,4 +1,24 @@
-# Secure Cloud Software Requirements
+# Secure_Cloud_Software_Requirements
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=9IGmwk2t0oQ](https://www.youtube.com/watch?v=9IGmwk2t0oQ)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/EVMLKKVo00MC7f-HITT4ihX5yBD_nR2LZ9UYlHkwrOB23rQCqrRlST09q33fcOnXPRbyB4m9sHoenbOtK6ePzU6aF7tC4icM78bUYNNIijpneo1eu3i7eu9OQbDR-5tI7AY_fPnsgwjFub42-ewisT17bw5wcvwHUF3HzORpM_M3nDQB1zt8t5lHW6cvRUct?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Y4F6ig6Nkdx69IL9OxWUViiDn2Bxp-B9eP3TraH6JtSWsP3EwGHTYiyzaNAZe9QbR56emlzICpfR42OP1Mi97_caqhtLzmEXfbJaZxMA31z7ObRJf0I7e0xPr3qfaLCve6UtxaN7nYODqpbghHyejSZwbNsWSR8b8QYvhGfyhdecHJW2q7uoGvvASbToGz75?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/uvQZ3LzvQmSHnlXslKfpMxn2tA2DqxkNB8Mtk6CDG3EBRDJSGK7oviXS4a4XnT-odQolPwugA41K1a1QXyXR5VZ92SHfQAeeXe-xbNaPPbAMZJ62jD2MOW2nA_FVP7POEygOxSQYUmdvClkPbGwyy3XCkUQQs9OwdPS7OWqnn3XwjME7Jaypf4OgcJTpBzIA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/-uZIS5ToBi_pexK8ciA6QT1zKPZfJFd1Ix6xj4uQXGSoheAw5Zwb30-GLCwueqXSXjOJ6CifC5tLraEBdYVpmSOvA3ejYvuexowdCceqm4wJA0KtOxZE3fdyXNrlp7k00r-M6y7dcRCb8bjaFFWXUlq6JMvrdsrN_Z3IIjhnzWP4il1Y2tSP4wVCjHkz-KKj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/TuMpBgUrJr_q9Zg5CP8w4R3LXiyaEh62y-ahIjo_Hmd2tl6V7pUH_uQO6qOP-MsTwTy2pVRnOJReGcoyFSpZ8RWakGoayPKXDzdqbNMgxNf7IcTFm_lnpmLAAlmHRQZu0S42ywCKsuV8J5_ddNSp3CSdzFm7yNumAHr73qyfmKoMlJmNq0MF7eMO0E7SX4-Y?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/tBHULT7sr-lCuruknrvVSe2c54kwyfk2MvQeyATwzUjDP9DwvhHgLEr400Xk_8vrPLlDl3WzdYyEa2JZbCKaEinQYr0-cEWcmD1m6jHrc5L0E80aizhcVK9xKhFkikn33L7aYE-5hWpX4l6YoILcUmrDOY767jBEJyO1LqPZShNe77KO3LJcI-I7b_ILqZBi?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/OGoCWcRR35NKuDTT5NtOwJhyN9xgjHVtq85QDDekKINLLjiPhZxt68FMQADIsu3qX4W7aSgIqG_sa-2sv7dtYeK47Los2_TY03NTO9C4MH5q6GAM-L3-eqgn85kzT8U98B8c_k6zivlhBohBBTh0-000iX-lV4BUVbJgH1tKU1dtgtGfvYEOLSMzGKy18EBz?purpose=fullsize)
 
 ## 1. Definition
 Secure cloud software requirements are the specific security needs and constraints that a cloud application must meet to protect data, ensure privacy, maintain compliance, and resist cyber threats throughout its lifecycle.

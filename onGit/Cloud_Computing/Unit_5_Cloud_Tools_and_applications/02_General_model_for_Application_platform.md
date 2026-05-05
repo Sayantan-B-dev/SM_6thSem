@@ -1,5 +1,23 @@
 # General Model for Application Platform
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=ae_DKNwK_ms](https://www.youtube.com/watch?v=ae_DKNwK_ms)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/NK0YXwQ15sBARX9DCJdN38DfBbrjbqATpOWWxBqvGGjmK8pYOhwR5XyBbN-_Yha7Ulkmxek4YrpEvzrL3O70x1R-DyPONTtXDfXXCplGm52ecoVgHYlfcbtMR-IX99dRDnyE4wIYws80l28nD2vadIZZMW8yQLmHzV6xRHaw5eMJT_yY9eAyV7riTc7ptOqT?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/VEMuwLrFF3cCIoEmvQ6jQ6_GOWo8_Ac-e05lZB-Wbe-oD45wjKAddcWfnEuCsQshK-B0EA_jIcbVGliNHLBo2VNlDHMa7CEX5UywUMeVPy1PBvxkO3gCG93J9REX1UIA2WtnH1NX7CEBZPvzRDoNBxpI4fSibo4XSgcf9oQRFoTedb-ROZZPGW7vtw_k88u3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/pudpmr5Bv82zxg8S0PPyrQJzxFrEwU4rwv-P-MuVT90iHzGeNiLKIzaZE91lbnf56dC_QNNAsh_2l5nCdpu42poIQDu5whQm1MA25YJlB4kkztkJ2l3q7_uL0sjoaZ4YhR3TIpo6zL9cKW5kl478lEQLZLpgHMA4A2M7k6-PAw9ATNa2VLqmM3nd4HX3qy4o?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jzfaXP1DhyypoXe4_daZg0zXdBWg_rXtVFJdkhMx94gRUdeRDooi7puRPCUWuaM-_7yOrl8JVF0soo5gCMAlsdKNPwIeAUseI-QAQzu78n_S9655mq2zTDpdeNAOC649VbRUYYbi9BrEgrutOnQV2UkQJJa7xrI-k2dBoc-IeHMXchumrAwps_rF9qMvO1s0?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/AKUfWUUQgSaHpZ50db0WL_PGtT059raxftZZY4_WGkeHc_3O8bzkkKajosaiYnd9ezicmWEncKcqiiIgM6QrEKyB5OCOd5pLW4AIjbaHa16P5LwvU4C0ORw-XYQvmIcBS516ubDVOOw7_3MtjU_niNcjBTbD848XoxzZvaOgyviFp1B2--kEgCKXP1MHeIsj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/v4POSrUfbwU3LqUNdQ15n3EOqusyXMHQhLAXC_pU61Yc4-iETvFEzQoZPmUd82rXt2MDqiDMFZuPsDl9PiugSmXxfVPh_jkZYlfmkrYu4LWM-s0UNZIpAOT4KWJ-Qhl-XtLID1K7jhvyhHlYyh15ecf0urFkwd67CczftplOqcKYpASJUA_z4SjyC_Ohuvh8?purpose=fullsize)
+
 ---
 
 ### ## 1. Definition

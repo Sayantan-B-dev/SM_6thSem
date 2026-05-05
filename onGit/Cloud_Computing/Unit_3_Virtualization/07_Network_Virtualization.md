@@ -1,4 +1,22 @@
-# 07 Network Virtualization
+# Network_Virtualization
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=8b8z8Fj1K5E](https://www.youtube.com/watch?v=8b8z8Fj1K5E)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/AxC1nAt-AoLCMr4FYmCOHYI7PJp6z5rnmPv021VnOnCac_0aqnevUe-8rjCRmruNZdEFl2bjpE4RgSxDepmPkqp80ZjOcWAUNWKWNVt4d0FI6vCDsDWFwaL0ba-k2tfN1732-ZdYGo_qf5nnuBPKvpQNJ2OrI6doRXFVqR7EY8lffbMzFWF3eN3JGWM9VOtB?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/fF8pNpq-EBx2mBYe6L-tGRgioB2j5GeJmRNtCPE2iL4WjnrkOqaFMuxf1BVc2-d0j7Q7-dJMDHI1Z2V6I3vzctkz8cmPd1yGM8dbMF4VJ4PwytGYhYLPQEg3F-PHbfAjK88vRLqZ7yexxTL8Qm2NYiWRjPENcxAwcZAD8WkHbAmwzY07uuIdHD6Knv4m7VN9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/QBU16D6I7IEMKfUeK34ZTaEcPcTwE9Br1YH8vDgsXemk19NzNSz1oIFoFDG9p8CGNnAf7Tw7iVqEnngeUaPXfgB9oEWwyRVtoT_DFtDn8iaGoGBnJgyqT1FToOKZ2djlcgeZlYQdnt4nLgg4VXOt7IYQedQGXYaVCG1ExScrGVGzofCodk9i4sueeikL2L48?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jXSrS5gHcHCpreMdKTts536hal0wIIGPXE-SDhf9VIMSzp1IoXa8kVE0N8WYnGhvG1jBo6UJIZmxM_Jc0KFRtKGywhEgcjpw52HUOZOoE_ABAWOm8J5I_aWqIxjyFeo8DbVdOMZ1xqiM-SO6rXlk0_itcA8wDG-1Zxoax3ovd3tCxhmW_rdid_8IONHiDjf-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/gY3aXNq3ZSQNPfUqQC9-Dp2_KKhqeD5RRJgb5HIk8LyqnDC8IcNYUA_spF4uljhlcWrYe9qfJWuIMRoyqqTHZBptjEhtsEksAT98IR5NkzrQA_G6ODjODHfe-L5yYLdHgtcY9VMm13mrgMlFI3k2LC9M5Igl4seGkJPZ3MomzQZfQnTbIr2CjM4AmEDF4QJi?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/qsaTdPaubj2Nzk1_pg91q6eGllBxr7UPnI9NJIE2wDiqRuXsZLSQ26fTljWChYp6ZFl6WnycLjBvj179f8LKec8BdI9Dsb1_wHwMKHSwn_09gc6Im6nz0w829JFaRiNvQOpoiBVERS4h7G_SIjo3IeNGvv2JUvwOWW6S2VJLJmYIhr0VTLz_v-3NJvjQ1-1w?purpose=fullsize)
 
 ## 1. Definition
 

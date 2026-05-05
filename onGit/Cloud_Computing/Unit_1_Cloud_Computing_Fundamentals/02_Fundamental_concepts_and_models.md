@@ -1,4 +1,22 @@
-# Fundamental concepts and models
+# Fundamental_concepts_and_models
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=ae_DKNwK_ms](https://www.youtube.com/watch?v=ae_DKNwK_ms)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/tavLGSKEd3FB39R2qNEhkZZe5jHWHangMYlp8De2WurK_vfHrgnuLWfzeDMADuKS4BPEY8FOpKYm6EAkisXteRcTvwEipo9t6TdGiWE9llkvsLJucWxT5eOyZnrWleaJCyJAOtP6_vIyPFNsKos1V1U7QNPxtewuu-jhY8XHdYffsLm2zgvgKMURNViW0GAU?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/K8v5O2ebMQ4EUFYLmvVkB5ltaeiwDmbacc8xkYTJZiVWeONEVAFpTysys7U-3ISNGGk7Y152lSzfBq5VRPvi-OXC2rmhhkEeajVibS7t0KgA3aYi4l-NkNfoHD5xdXmG8NIS3OrcvhTpiPob17lQRCZPMHSOghZU7CgUsOSVfKH4VUiP5efsej9mxhkOT3w6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/p2yPmbq_W1ldkfrY2shlXvDIE8QU-2Vu5MqMfSiBuVFF62mDRbJXTpxATVb071lR-dXzIPYPSxzq7idKoLYjg68FXNL-SlnLhYzaE3dbCv3JI7CmIRATRLZ6MXZKblzocINLLqgHFzOP5ct_K-XBhbbsGlB0EiPpxBCKduKc06GhsCqum4_T3CaniebxDI2m?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Q8BUpxyDUwDJeof-mo9JTktqLeDsXdFbRGh5uEEf3PvDzkRbQQDUCxVPBLa37jYC-wnbulXgZ7Jd08nTgrrtye3Fd9CaEVDIxpPBU_YA5WUCq__VGcDnf8PbMwVdDjgCwbiU6CuaZxpi1KGq5rmADBG2HBmi2CtAY-t_D7IAjbbcoxPaPJW5SOwCzO5_u-y4?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/1yWAaiHmjTZNGTis-vk_PDNwEIpEYBY4sANZA09hX_O7uGJiyLLcHYLo1LBCraQidUPVoozueemqf5XVOrUD6tCzdsNjsE2lqO77BgOF3OEa59jru7yv1mIUkHlV3ogr0jbcB-hYAYfimCSjWV4vcWI6HIEHoOTf-Cjde70KeAiEcEcob8DfOdCh3SKb68cA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/qwieTMvWwC0EcVYJH1FGPf8Rl2eItrSO1x4q367LfX9EXm8GqZx6Pxa6Y1J138T_ZI3QZcxaTaOIFu73YcgmOKosZ7LEftQgEp6LIRVH0FX5xRkeTjns_qgBUpY1yXWWvbqtXQzmJLSno6jEaPPI2iRAgVRZuNRb4ceHoCjsCxQqzcPDO4f1EHnZIa3YjqFu?purpose=fullsize)
 
 ## 1. Definition
 Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction.  

@@ -1,4 +1,22 @@
-# Logical Network Perimeter
+# Logical_Network_Perimeter
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Z9w0z0x7p3Y](https://www.youtube.com/watch?v=Z9w0z0x7p3Y)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/eicefGYxB6yCce1pVV14GjsJuQVku-P3C6honJVnYbxTHY8YF4N75I46rrwZJo0ikDOxwiDqdVU1fQsoL2H2tZ8ACBe0o51AMB6xCLD2kJf1G2WNdGhKou3WU_Rpar8IJ516tECMU9wGNIqOp3DXUqofgg3aRYagEG0omosDOX6f8yg32knPcj6uWW6DNsYi?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Ss-CsfSYty6pPUhuSMpFcwkWzemhdSk6VmqVS32HCp7DnBawB89_-HsoUJ29642aFgO3l_EQJv2GU4ZQ15jCLE9xuDELIR10ADFSjawyedK2ASOi4pL5hlepX87lIUkc9SlyNwHDn8Z7_LbepaHGuFvCUoSfI9gdaMt-RvZ0FWPEKsP2zurrxpcnfp-HAW6D?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Y0XYo5kMlqP_lfWOArg-0Zm_ZpMdLVnVnNlWbajt3D1GNVbejuzdseDO7NyFTGM2FtR1lP52g58w1kaqkOSAvOh6uk58x8IIysZXMsfN_jtT_rbUb6PpXyWIkPjr1phVR9sZeY-0w-b13XYr8ZeAxCuT_sLoN9DN7aOV9Y2-IL4om5GEZDfVbKit-QvUAKYz?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/pbrfhzG_7On26Gp855YKEhR1RcF-k-k_I1pi9AA5_rjThSRl1pbGMxViKn7CBtgJ5JEV8OVM-4kwP9NcEHwm4t7Dq6AB7FSaeSHhOzAfIjyRtXXgPMq2eBVuhITQgvANuFSD3RDLk4n-0R3xnlyDbdxIs1eoPHGZxtft7UhNP8RBaxjkyx3Wl6kZzLIMvVi7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/l7o1S2tVpALS8ZiQRxtvufajIxAt-P3AJumSMsHQmnjMK3NhOz88vjzHMd3cCJN1GWR3xTmYVTLJezzBdYzvbmqVu-HFedVK-ooaqvJlBWLhqEsa2PUv2HG8sspxpws7sl_awOnuD1y7tCV-TMn00NvpfLj8kYm9U4oCmXY3PB6zJXN0qNw5zM42zNJTxbOb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/nGtX_CDAJr6YRctAvqQXCbPIAQaFmyN1AVV4krT9dqNGNMZqjyDCFSo0TxT_lNc5RLxwkOCLHFDBPWMJWHxBV3QZvtihLDiw01lyfjZkfqiyD12S5I-5WT37JS1HbtcsBJRjOsBzstbkLxzzoKS5kARe0zcyMDyhtzChUg6S0rNat_vqD9cYo_JHaXWTa1W3?purpose=fullsize)
 
 ## 1. Definition
 A logical network perimeter is a software-defined security boundary that isolates and protects groups of virtual machines, containers, or workloads without depending on physical network devices. It uses policies and virtual firewalls to control traffic based on identity and labels rather than physical location.

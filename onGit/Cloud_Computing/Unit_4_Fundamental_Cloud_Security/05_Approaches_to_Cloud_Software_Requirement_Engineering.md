@@ -1,6 +1,25 @@
-# 05 Approaches to Cloud Software Requirement Engineering
+# Approaches_to_Cloud_Software_Requirement_Engineering
 
-```
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=FZR0rG3HKIk](https://www.youtube.com/watch?v=FZR0rG3HKIk)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/QYkkfZV1KlroOTFVeRdE4uQyReJi-FKuieLmTmH5j8LDqQAXcLWt7ds_6PVwN1XhBp7iO-aTybpGZh09MIJf6xPVMXuWfprbQyRw96tCY82OIBAQaU2rCOfVYMjmL2GfXfWIn4Dc64AdxTg2XyRtgXl1pO1W1L7Y8eShEo6zkLvGGnsI7YQxS4K4YCGLaGCh?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/VU2ui9gBk7iM53PiQxW2eJyQMms73EKPL0D22cZVueJQNnUmZmfM0-cGPjLZjrxlEKhQLY5nxt6e8VG4VDC5YSlmrK1OyUuSeLMuP6TapJPIHzjgeQyFnyu0HNpOWKAO-gttcEoOg943D2l54NnYt5ZuwE2QjvxdjkzbWIKUoRT5nJIKjuRozF6bujHeeWnd?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/RqgiWaZMmCZ9zoeBUQmK8CSNJPN1BqTH8vBPEWnWluIx77TlexWBO5Cp3EHA_MY7fu_pbvOIbmzGypNEDbADSc8KjdrwOJhkY_Gr-kVVB6nEX5RKb6NPKpDs1Jiahi1rVIkefrA3XzWd0fxr8T8bLorj6JHZjzd2BpqsgkxGZATNvzZ1wtmy6hutOd6nnoIC?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ZJBxOI1SHkyXT_D3jcvzZ3wdYJ_ORYrIsw87-QZ1QHWRGAiUYlbabRLQEJRTjCpSSoxEzK_76V8lhHbk9IcXRtLGcGgDagn2_fVzQuZ2aSu3QuoXIK_TtIFX0zq2HSha_VJ96Q8Y1ghqKvplo3YJkkJTiheGeJtF1p_0i1FH5S1LHrpk2fy0gRJWOo7zJz5B?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/MvRuHqvWIhsVwQicHChsmuJ-av_S_zBHf3aQcA8Q8g-tX_Yh76F2eRjcP3fHUC69gpg3S7daoC6kUf6AVzZMNcceUOU0flpORFb5ylevnsXvbWfYvZMUA9vbapgecTgskXqmYjTIa3Ph-9u7qzbwu8ic2dVkp2a2zZvHYJyWAm1TzSrKQcHUAjn22y0FyrAc?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Cjeu2CKsuk3qHYdYfi9iduyBxmAWibmoknUerqCQagv8edHCWNd9I2gOWNPjGZNnLt4hBTxbH3CPcGKzy-FcI_VXjpdnnQqCpmxn1gDnhZDR_ugLxRZ5WH4R9m17QV9noxf6QjjJ0myAvvsF4XUv6tNPt4vbQraYi87C7yI_ZnVw2xKpTeIXiaXw8NS9Y0Qm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/P0yUVXisXve0xqDBWf3cBlApBqeT6oqWVYvmCUtZt-syKRQVDuE1tDVmDHYdB5lcG65XTBTv80RpdwWKWzbYj5g19hMyg8uFVorTLz74rcbWXrFipdqAe4SL1yw_39msmXYN-bgW48qDUi9tJpp0UX2ryoyFvRmbjE61q8akqaPEABm0h8nahijW5fZLCbAq?purpose=fullsize)
+
 
 ---
 

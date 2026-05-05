@@ -1,4 +1,24 @@
-# 10 Cloud Usage Monitor
+# Cloud_usage_monitor
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=36zducUX16w](https://www.youtube.com/watch?v=36zducUX16w)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/hhtz18zA0zMyv06dXnGM9u_O3b5q9tTDytohUq7VhMwCdgD28-nYZVzr7FCYiywui35oNmG04spV-n8_0hE3d0A8hnrXYzAw4MfJb0jftLws1L5Flert9j6JRiMGu5AxyHVZClRM55RED8rSeqh4k9KW_iXxOa22Pfq50mVq8nGKREAPSn_hhcd_NiEWCNj-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/KXaEfWwha1WtjN6yPF2VCpeMFo-KKvQaGfdfdQpTnK3PyRR_40i2gtlREFLE7RAARgGG4mJ0Rp_c_navlM_0uAi3de-qHboZ56-E_FMTikSonPsjHCx4p2wMuHFr2zXbrVBDV5d7T4WQiMpXVTsCeZHKuJygSAcshF0jNZfNWaYR4dzPh55QWvAfu4-yv4N_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PrzmjvDcShIIQNW-E4-Pf0ihVEpJ772giJwWFmfdEQEdwEkTsVLZ8qUIaGPiN8Z-JMQD-u1OaypJoAtTIrWvWQ6y-9XqQaTiMxVcG8Kejm9BhXYLsowXHgZqyHoc4qkglrJovoDwm5tHygzsSlwzSsnqQEzb6N9Hpj7S4QS1FWXUWK--ujrzr1SKu5CB8jhE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/IhV2z5bF5TgS-WYqHdE1BSVfFXiqimTsYXNhMPsbSXZUuBUFp2mLbYaiW6d856emiS7j4BWvhIaNjnD5d1mLlAqp8ZdTshtpUDZPNup4gduWoQCppavxSsFj17YeKOkFEPSeiNKJEcWXmqS5ooZXZf6PsvDUkeNALFysWUqyO9J6sLp0KU081LDdyfFie0ky?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/paBFmUFlA_x9IfkZ5_GwQVlE_VQcTEoLiqBpt7aszzgRg-yZlnkNiC2SVuVe6-_C4Ra5gfadlJrW9Stwoe2QLtc2c0eCro_4u31sYQ3MUyuYNQ0SRBxcE5HwzdyTskzXYTeqvyAviIHXGkeqqUqPYdalES8VlJJfivAYzDFW9iyWdcpsfmKe7OyF8ITGvGXi?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/QYu0DJA4iWXbBVzDbLXaczFFL_KEseR5rbJx87uwxiP8QwQf0PXm0eTuEWCIAZuSuO2EkjjRDQmEf_KdJjT0cyFEJF23tJj4mlFUF5ptxgucr40rb9o3B7a_nrMChcQiNb7KKcFl9nPxyIXHYzXEvSAlGpPqc8MaZHjb5-LY0y3evjtQoBxjenGn-BCx83MN?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YDDiAtp6Q3flvCAZVqMc-6tFfyTbCtlaBbMJIxjT3jZmq32Hg_4LQ34C24k9FaQL1IXgA9t7YriwoLaSaudsZKB5UsBhzMp1NHTqX9RuNDRsoe0_3BNrBbbcN8-x_CPdCYwI7rYjI3_lCqxUuRmNWux_6C2iQTUzoG6MiBqQkPQl_SwIYpe0kfKo6lnz7cLC?purpose=fullsize)
 
 ## 1. Definition
 

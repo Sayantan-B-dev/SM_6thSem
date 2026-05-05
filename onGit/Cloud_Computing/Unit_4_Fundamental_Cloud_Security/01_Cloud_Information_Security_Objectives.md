@@ -1,4 +1,20 @@
-# 01 Cloud Information Security Objectives
+# Cloud_Information_Security_Objectives
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=inWWhr5tnEA](https://www.youtube.com/watch?v=inWWhr5tnEA)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/DmCLeCXTI72bMEuOie4mBMo9GjVhHgJN_pHuQGb9TM5dbCLh5k7DZ1QIv76IWqpuaPKnCCm67CCpNqDt6NE9m-OTV5DrNJiWDxDVjA7MQ-wnlk6CvJtVU1SLSyu_3ATqHhQ5qRxB7TNDs91p9cHZcrRB05sShZVW-TBxCCOvAw_g9-XFgvIOy9RcE0GIsOqj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/-Z2uhAEHk8oLhK80KK6hdUHLjrVIWHkkKjsPdiuPEDmwgbWRmnw0DkjN_d3UTIbZr1w7vF6J0DSWk0FvxVhP1SP5RpsyTuHFz498zCRAnb0oooUK-2LNv9WXWeIYi5WQsHQocNVro-y_mbYzCGlpbmDeZ6XBV3zVIAiZyYn8hC5r68c-br9rj8sCCb6SAbDo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/my0CQ8kl9R6my-XqfpH_bTZSrwPcK0vHygJrNFK8O0HbJ6SIMHv1eiGX37sGpxGptPoTAmzi53DZxoeuYllxm1OW2rbJGTYsTT9qT9AX0phly7ZHxw0VQ6zAhVd9nLrGdu5SEHNp7acahGmErNLRB5Q3iRUZEarEVPs-YSG9VbrxCSwiaCxviUKuk6_wrbel?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YeSIF-fsaFUydA6kNe_a0ElPESzYmCbOamwWz20ZDnSNiv0RqVe19bPCbCCr7-N4Cvnh_nP-nRQls7w0Cdx--eWEED8QhMO3N2nnlkCSechvlY1N35tPzZyuOoDgPik15qcfLvO-jZv8WkvWCHrrio7WsRl7dbnCLOhVwMbVB7bDicb0jBhrntheC5B8vv9B?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/4Y-RnC92_qFagx88wMvQUFfrY9CjQdLgGI9R-4NYX25RsN7i437Ghr_vJpZmHUPuJLyg8PbHVHqleolFwe9Cddb37HdhtZelk4qz_yycpfRnOzBIy9mp8DGFQ1z3yuvAxU0RDh45xpWokRUythCN5hLEoGAXVFVsB7qUrqV8BrJljULmO-6u2bFZlLCJJC-M?purpose=fullsize)
 
 ## 1. Definition
 Cloud information security objectives are the fundamental goals that guide the protection of data, applications, and services in a cloud environment. They define what security must achieve, such as keeping information secret, accurate, and available only to authorized users.

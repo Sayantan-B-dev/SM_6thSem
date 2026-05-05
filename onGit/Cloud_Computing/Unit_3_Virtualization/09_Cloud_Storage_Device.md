@@ -1,4 +1,22 @@
-# Cloud Storage Device
+# Cloud_Storage_Device
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2LaAJq1lB1Q](https://www.youtube.com/watch?v=2LaAJq1lB1Q)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/Kn8qEdmRX7f2yAp-RIZeUuNpXaxv-sR9OsfXOpRZRxCzO3J6kUfwphxzQYngPhwn_igPr6qH6-ieitr8ALvFypM5fNf43HfMeUVUAwidewazQzSYt5SORHaBUdJTWCCwbaIOW10Etljhv4-m3Kvm_rQipTlZg04wimnrk9gDy0jiXhBWvXwZmKspWmYTnn2C?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/gG-Iv2oe_C1fHlLKuohXQzQMS4KgFqpwaIwSMyCxH5byjj6FQE_QcEkzicJBmuZ9vLW5pkFzwNLTOWk35wq3jYea1gePWs4wJjxvNjYrvK-Va0igcBdTGsSB3whe5ky5UtNNGV0lp5nmNmymFT_2tAMUp4CtCaS5-FTLSvx2iuIKYO77Kz-j6hJOfTqaBwS6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/nIwLca_BRObBVgNMXwhyNjkIIJBNotGWUrw3FzknoL40KrM2cYfzie6iqSXwgkydreoDRajxYTfLO8irjt4-krSKvxAGe7fOqYv6W7veaS7BWA4RP6u1a_c7IF1gKwyx1DY519kOMnK9kgRhPB2xggXPICUWutVyiYW68icevG6-zMzp5C0zov_NTzKdzDGy?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LfqhduJ8vBQf0muZxtDdIuAn73pMFx1qjiWhoa1iqCUoAhFpRrt8jY71324s6Z8f6qE-iw30RRKszyYYV7itY2V0h5GClTceK09oVC0KOgXKrg6y3TKqKydMNDhww5mTwmMu5p8cQog4oLnysrPH8SygSpDrmmCgIcfDN6kLYTOzIGIiuDtoJsj5obV1awpz?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/kSEIpGpUazX0ZGeceBQQsraRmp4kYbtZoVDlsY1HMnUhiDpB95B2-vhjLki9Yvv8Vsu_1Tn4AAL3n6yslbM5jmX97mWdsFYUJEPb3gYKbnDmyP4y529TGPxsLFB5h53NsEHsDlqMdMPeudl_F2syhwab5-bL2CQvHriwovS934FRvc1sfDmdVhyeW8vrpYFz?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/v-XQfztTnPKciUocjwZYW-wbMqHcBhu_1FOkiAiRRexFJmAtq6zvwlTMTt-D2now5rY4M9s67xOPHPDRuAzTyPEDSNVWxZjvl-eBou5PLrc3oEDkrx-10yX6izPUbzAOZ7z4bF_dvclqvth9wst1fE47n8cMsnGpryeyGzk4MoWwP_j0ImU0ZnKC7_FdRVpu?purpose=fullsize)
 
 ## 1. Definition
 A cloud storage device is a logical, software-defined storage resource provided by a cloud service. It allows users to store, manage, and access data over the internet instead of keeping it on a local hard disk or a physical server in their own building.

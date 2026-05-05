@@ -1,4 +1,24 @@
-# Cloud Security Services Relevant Cloud Security Design Principles
+# Cloud_Security_Services__Relevant_Cloud_Security_Design_Principles
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Kji2cX3q3Qw](https://www.youtube.com/watch?v=Kji2cX3q3Qw)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/DeH_6YxchcMfWTYoBS21tF1LMda5DHKXl1-Dmu89OrGQuPNF5EO2sN6fJOa7cXI33YSt6dmrUqahshPiClW171_rgVOv5nhCNPY0_pIY9yvkRmHuP9nERrOkrcqr_hCh6tKEyS91FmULkpBtlyo6wN7mHl5Vg9V3alguGduAoEkbyP-rwpM31O6K3O-CoibS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/M6dNIZ8RSQ4BER3p3Mf1X_gpmTKXnmYNuRR4NQ49ICJlYm4Eysx6-_1y_sFO23RlX2idPkogNBBMSNkbzg_aysk2ieCvBJ7AQnb8ibSg-dnBheS_3BWGI2_ni6Hy7DyMB7Lb-kKSVzCC4qmVAlAwq_O-0nDmKFRdRJM2OaBrlq2AUjDlKzhtVgKxRVtZeptN?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Z13AypnUAJnDK6_689yivDJR2vY4eRKef5Fn2_Yt4-dlcxvwAHJrG3BBF8VS4Y_gp3ErSYbzIAWf82DFBHJONw-b6RGGuwkABbXVZ0zWZZ6Z05VPJW4ZeDzK2qjoxtBZT84Tkwbt7fRKghQyQOo4oQq80tUtIxmdjo8Y8jscJVCVXAGxI0y4qd1t7nzwR8fM?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/uYRmAeN4aFmeIQr073MDzG2nggxeMMT_Fo2lyAfTJ0LOwxq7Gx6fNsQJNAumYXx7f0QU6fiKvTHntG1obqwg5kZ1y2-RJcRrsUj6pfJkQPEaN7SHpqITu-j1kkifLtmXCDYmSMi3TJh8PMtO2lTqSmJW_0h_BLTJta0kFLIJPsfdcsNfavu6H1Ij_3_Bi8U-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/u-sOu2gsfpK7O_JgNynz1tED7zWsLNQTIVhlUFWmly1kPz0kgpad8uHDDmztTBFN8oXaWGof-23fG8XU8EryNRpQpELbMqHkM4nXj9aQtiTKvNX9rNCqzGHjeEbu8iwboRZTf8nSty-_0tCMyzY76rwG0Znes46WA8RSkH5rqgHc7BB25eEFLHSEit_9DOZt?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/lOXY2M9Jct0RNPB54H0RyKerFqb5p6X3F_ukGVxR6R3Nu8uVkaaR0hqA54GQvsLRojhHOHHr81WyXVmyjiu60LfJ8HLwLfQ1dSMjiuY_Bh2Upb86nGVDJ1_PZ65zG0cL1nJ0rS-jWGgnC2hInWSH6EwDLb7Q83yZym_KXGcJh0twZQoJJrMSo5sK31quaCYX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/wZnQONQrDtGGFHBnudrtOcsLjSHHZT_pMdRhuH8t87xLnQrhURJH-KQNEiWdqZf7bLHNtiKOiJ5z_eaTml24LtPUmqDDhBKdAJ-2jCFBzWHcpaQMrHVoXbAbfweMtClXqBiqubgBfc8BIJo61FYdmzGvpbhJenmqC2LhvVIuDrxra6JUpwygojcKRJfboUS2?purpose=fullsize)
 
 ## 1. Definition
 

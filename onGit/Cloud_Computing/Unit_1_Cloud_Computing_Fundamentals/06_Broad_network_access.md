@@ -1,4 +1,22 @@
-# Broad network access
+# Broad_network_access
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2LaAJq1lB1Q&t=600s](https://www.youtube.com/watch?v=2LaAJq1lB1Q&t=600s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/8nFt2ZMI9sCP1DynhRm805gnwyyLOGv1nZxqz_8pLDq_dUUDleIZUwoGYZD3KEjzG4GedK86TNBDi3_33zr5cNA1JZq6XvLP8Z0Yw1RwFlC_RSNT0Tuht0wfrxQlaxTssXGMYwrvWF5II_Qp3ujFzz3lz21X8YcFuef2nIOv5mXmaGWRg08cPaN91u46_XYs?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/bgbIhyVY8E8pmCoSb-BOhyluX7288d9ROph_kxefx3IlZhr9r6opfclOR6Ktqop5nFfvre-Lts4b2nWi5LUTFvJ-fnAB7ndpoVEFyshCHF3GmpXJfKlwmWohbxchvMDH8tJDfRj8tlQTGpFif36Lzg_qGTBY8YlnZNywych_8oTYBkhak1jjEXUKSG_jb_o-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/XWg-y6zMgkL_Jd9fNhp_1QJZHf9uJ3eJzlcec6_sIBpuD7Qb-Siis6zJg1AxvQZV2FNMa6ysCShcOieJr3m2ha0TYXJUwwcAfg4HYAL8n93EWRa0CYrHySH8NxR5d5SvZ-AQKg9kCxQ0hcgenbkTB76I-1jg2L8r_Lrlcq4fXjMbJJwWw9jIs-tuM55iwtKJ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/qNbvX6W7u5JN-2NkbE5uhBR3sj3ZrqB3cBlakM87Hpv13t4gnQ1YtlJJTi6S5N-niMfHGnAOarPYJ4HWGgNkYA-ZOPI3a7AbRiUM6ZP8OYMZjAh-SFon8wERa4tHeVDKoVCEf_CpNHAtO8Qor-AwKCBFgNlFw1HaA6vn0JbBocVHcedPwfpCRDtcusfN1WYF?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/AIiGKaKY5WKTHEMnNifmtsPUmwdWj7Z_MungdSDkri-Uk6HTv7ByRXIvEZXyQG1C3NclQ6EN8J4WkPHJilmhekqlBLW95GDGY_t1eQ5O28htk1VJUtPgdQuwajROQHQxnYjqGrG6Hc_DzueIzAtE8JwJA7_nEm01Y110hg9P_6hP01JdHYDor86eqtodItKZ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Jpbfvf2e0hz54Msic4gSnsOEZrA5oYqJB32O-ko7WsP4fP5XDfnPw5E-PVqFhOmWyFPEPTaTl8EcFP1aQ_gSm-owFY0bFeEi8hrwOmRUY5NY-MGG3EQfK0v6vGB342MZFuMawV7yNMyWMh0cToQZt18rjC2Slf0u0nNghlxfrPuNq3mBKdGI4XPQu7d2FWfy?purpose=fullsize)
 
 ## 1. Definition
 Broad network access is one of the five essential characteristics of cloud computing, formally defined by NIST as the capability that ensures cloud resources are available over the network and can be accessed through standard mechanisms that promote use by heterogeneous thin or thick client platforms — such as mobile phones, tablets, laptops, and workstations. This characteristic guarantees that cloud services are not bound to a specific device or location and can be reached via common networking protocols from anywhere with connectivity.

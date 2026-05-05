@@ -1,4 +1,26 @@
-# 07 Threats to Infrastructure
+# Threats_to_Infrastructure
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3Kq1MIfTWCE](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/mL7qJO5EmocE6g451zZxXfV2pR3Qc2ht0S3EDemaUWVrzD9m5aGrFX1hSeFXZC9I8PZ0dzJFgHZpvz9KQtKnpj8s6mEHKm10mVrJEQ4GJEYp3GplT-fi1xAgYfa6zCHzZinQR5HTwFD3S5wBKbSvrGL57g99q4HQWDWJV8QTrYXaxkRgrpHssajXVquRkG7z?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/1l24Iv7ksAn5kCKI-AymoVNm1Bayn1BXysIHWYwmvz9QQC_OdgmaokCnMW4r-wPT5gt8-LBgPtkFcFWdMufL7Qun8JtM03pBzHbmE4_SdYlMrrkVlypYGPh_vmGzXFihg_jnNb6_WsS7_EiXPiduD8roKJYfZAz1o-zwZc9gcUKuuImSS_LE_Suvn1x34f1w?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/507BRZk40Kr8bOXUNHrd2HP5xK5qrwNOXjbGC1F7hw_Yg8wqmHH16hJcKqhTWruE-juzVuPX5gPRHaTVK0xdh3g3Is4koplnFE_e-4Wtjv6wJDrI69UhyiFLjrDJf34GE_3BKS_ghhYAAmx1hx_ia0kGsj_noCUR69ur-FZZtXxMZQ-nRK8sL9JxKp_NrBBN?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/DXvn31OGEKy66prhocLNwuYJO3rxwhDGnB20Ml7nLgIsIzv_ez3yYtbQzFhOlPACN6semS-jZ4P3RraQ15N2dLxBLOeWmMvqSYZ0WIyE7ndA3eeSkrSGAWKhCK_2AgugkNZl4Y9hVxot5mKPBts9TJ8kjj8FAnwmb0cnGAv9eeXMkPCbHxEJLXkZogJHlNLt?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/1SSBzBTYkPEchGz3aokz9JYCIBKKkVnQLNcY1coZsbFLqBaQbizAbgQtOOWJiyj1vudvoN1LI2kiphcOtnpEiXnCULdxzdrpIarBb6jxlUonzQvVUo-D5CmR2dxvI3CTKN8tB-zsLQP4FAJH09Kg0xp1YdnlV6cx5uRR3VbeYdzjiuhjjhPnIG2dHbc-JQGT?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_Z-y1kwkrY1-wrKo3MkWYew6q3Rk2Llf53cW2AwkmUdouNydEwB7HcZeBo26i04zC7NKCKnujpnk7CV7Hr_gXj0wGZQQopDkzvsI9k70cr2_3AOCPy_R5n7gX2qpcuk1AcXbtzCN4Mbf9Tt_U70Nneq9fpkcV-aNT47dAnkaM8tIc7V0rXjNB4fuKww9bGAV?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/JdnT8TlVW6FikE_iHEDNhRQSr8EjMidnzxuK6Fj4Qp9eCyP1bmkldfrNxUg4_qUXTuETe3WnYR7ZH-nAYrHezr_VmfnLWYgMhpRCzTdrkA-5k18CG_068-t7v8ykXVukFrNOiyGOefds04fBF-PJv7ahwa2JoNQHm518LZuLAaUZZSTJzRkTasbZxUh_KWI3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/XNucU2Lir_ml5ELwNGQMwp9mcnfl65R8sxHz-HuTsAiTcV6HTAnYg1-CBWedPiq45uOu2TV6XBh6zaXoZB3g45qHa6u-ypAdO5fp5M9640vJne5pyW4H7Hj0amBAMbuvtS8Olw1jCnsejMTKYJNeYIw8FGkhdQaTTYIxlmCQr__ZGRXUS2o4EXCPw9fvVZ6M?purpose=fullsize)
 
 ## 1. Definition
 Threats to infrastructure in cloud computing are any potential events, actions, or weaknesses that can harm the underlying physical and virtual resources that support cloud services. These threats target the hardware, network, storage, and virtualization layers that make the cloud run.

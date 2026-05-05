@@ -1,4 +1,20 @@
-# 01 Characteristics Taxonomy of virtualization
+# Characteristics__Taxonomy_of_virtualization
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=FZR0rG3HKIk](https://www.youtube.com/watch?v=FZR0rG3HKIk)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/hYoyofDucsvhA1cJz_tiTygPs4ZcreCc0yXl5KzoJlGFYVmyPck8GS3so9mN8JrMGxCYn8UZKncYClDF6hAm8Rwt4RYZbB6vKdkYkKnbG9_2e4csmB0XHlY2rbS9rFjQPHYyy5IYrFRegTwokavWXIQtyaxxLsnRZGoPZc4gvrENXtsdOMIbbLJRC96m5F2Y?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/8b8cbxI637WgwL282FaaT5lMNi4nmNxxbCBmASYuQQ67Jkl0y9txd9ylu4I4NVfVtAw1w5dFoE3RFCe0qtvMrkx6PO1ub7JNHNrxkiX_tk0CvA75MVnVKzVI5-2p0SxiN3P6BcQuN8pNArM0D8k6PbECTHfx8dLBhRUzJ8_VXWHRi0SODPkqGuTVOo0guABu?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/AUIpvlHTqjCfVDjfEB2WLfHx9Csu3I1F_orgJRzT_oX_mdwkUA6DWBMsv-q2Kbe88qc7ORreMmrRgw3puSxlkFZ9j6CdNFPGVhOrz7JRp6gvhJcO21tFiJn523gcyOC2DpSxGrOrgZIzvTWXG7sspZhxURsQZvuQTYIn2F48UFs5Ukhuw37uNEvPbbkwwm0c?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/eOZJunGxpoY3ZjhTXoXsaTPiml8MyYUUjMDGAU_0v5UQHFyGYsmqWKuodkcf4F3rC2Odz7cvowcUnM4k9eVBQ1kUpCRaa1e7k0Y2vk5NY03PmWCmP2H5Bo_CQdv2sfcyP4l8iC3QjRrQQooh3lgoFtAxMb8_HPPibCzHs7plVjzAPCbge2kRJgNBHojsCFd7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/myU2ZsIevfDks_7F_sX-tSgw3uLxC3h0ahljUeCiE4iK5qaUpZedLBiOX-OjoLTp0-yC6M9d8-NLkUIYKbzUS7VuVRdBRde4Ah0HLasstEHtoBuwWJsu19bzGusg3TcJrpqPBKpDEQyoF-wyFr9eEZWEb8H65Nyb83PNl32Y-IAo-LTq-V7tFOeE9iiXUfs8?purpose=fullsize)
 
 ## 1. Definition
 

@@ -1,4 +1,24 @@
-# Virtual Servers
+# Virtual_Servers
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=OaP3t5c8P5Q](https://www.youtube.com/watch?v=OaP3t5c8P5Q)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/Hpvw-Gcl3q7NkFPMtBQbgMkibDrAjQMby1KIx8p7AQ_B7Fj2bAh1wOSKvfLoXtGR5stTBpBigOW05Op3pnHgPW-Dtni0lNrZ240YH60pWbZohNX3X2VGV34HGm2SAGAjutSP1c2eeLw4tJ37tyASXjNNkfnx_kuY57AnrBnz1xoSr6TmB93Y0AcpfppVdTqY?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Xto2XSbKmsy98Mb6gzwz0f-YYVV4HuGoqtgfZOqClE5UmjOEQ76yankJ4FIQRp_WRkXGm-5Avf7Tin0IvDy7iC87B6rl08-yEfBexnt7zvGHDle7dtRPq2vpfbX6WzSekAFai4gP7oxMDXwdcDxfhDKAxrJe1bbKRWiHE0Kl7dlbjcRMnODNGdpAq4Ypewb_?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/fJsvLsp4FIMsdxjec0nLMJjNnOmuykGNWZtlPndTEnjsbMHAaKqqTSGPnWXLHtpjWuQZXvlDbg3aWgHsCMWZLrzXWkM5iKyl0xKJkEb9apOHtuObRcMo8jGcuCQSvfNuVr7RByiLvbqVijOQPMbQiuifZqNtQ0GJjcCumz7jXDKI-WF00ymo7hWQRp5pCQGN?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/SdDGYOLTJj56Xqegjx8iINfqkZF_AE_mvenC1kUFlErfoVo3tUJVzqYhzUrBKt6b8ARsCqqacAleB7Kx-5PrdnxoU__v8qIzYHBSU7cklofcXIriWm9Clhe98Gi_nfRx6IxgVrQBc2TeBNnbbYVhDoKtcChR8Sy2Cdyp0Pc79vN2K4yHTWkP2ipdV0gkOjWL?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/N-35x4EXg1L6B5uZAbj8YF0oK1Tlmfi8zZ9Rw339gixhIv-uicjaiAtHSr0oc1hplXg0tqatxrN4G2NMpcyQ3Wzz_v8UdCG9pjKAC8QlH-CiLXfhgc4sYtUAjK-qz1qJLB8attfBhQMr2D57w9O5P0AJhoVa1uMmXjHXmlec3kXCvxYWRDb8p_oq6--L5n45?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/NYRBADuSPytyjecH7ZBVfYo1suWI0klwMSduZpSUU-9OJgZEFwbyxgZFRDUSQIofELKq2z_nXjvZDIV3ppHAEnXTx-_mKl8tMCqvR4RbiKPUXBQHPdD5LqOy6yR2lrZgcu3lMnXyXsoL1kZagGsi2o7-srLA4655tQUTPfHKu0-w5Msxz1AMwvQASyx2rT09?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/n_6IUbKm2Tx-sKZU84sEAsYlKf5Q7GNc2Y2uiCQDjKcyJgFeJ0XemYMC7p5fEepz04bwrAhcq54kwu90X_bEQ9wtZM9segZXPTKTufcuZ8va_rkmWTXmdh6wr1VS8R0R2XxNbVeQ9v3AEt645NerZ1g_yGlnrVGchL-mGr3Lg-oNxgXGJrDqMJJEYEdQ18Pr?purpose=fullsize)
 
 ## 1. Definition
 A virtual server is a software-based representation of a physical server. It runs its own operating system and applications while sharing the underlying physical hardware with other virtual servers through virtualization technology.

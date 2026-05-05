@@ -1,4 +1,23 @@
-# Resource Replication
+
+# Resource_replication
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1e9aM4Kz1bQ](https://www.youtube.com/watch?v=1e9aM4Kz1bQ)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/WT425vrEXjQq_GG4pJQ-TrTslR3v1EmvsRBkrdmf6MTwvO8iHm8oiP_kWrgzhacRo_5jHd67t9Gq96mA8NQvwHBPanp2JbwkMR3BqngM4NmagmA2244_mP5OpeEFQmxEjAaVNYl_7aJYlQYPwyCBlDi_GqZQsKeusRDF_N4HDdTehhUZTn-OXKY4IN2qlANu?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xELUnnoOa1IYROxqfpiRcL4K2uO8hqynihCNeUhBk-wC5zQEWe8-SKaKCZ9w6exn6e6tviK59pPU-avBs0gvbMMrG5g4PThRdgFIs6fA69Ooe7gbAkhrh7f7y1P4BzG3aX1iE-xGZc_RIC02y7xH9dJd2winfnwEtA4rRpaX6rLH0alMaQzPD1xEMfylll9y?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/OlAkl3KTWPGuQusrJZ3br0UU3_3Qq7gcrt1u7X6h-8FGz67wWfshhiXmYX-jCL50aTcx8HsZyJzjCYywme3I_U7iQJMpA3gWoXLAjO2IFJQGV--LmHr1MEgUVdjk7BJDV3Y1bkZ1Jyqs5uKtI-hOVZanhoUVUjSwA7R4G1aoi5ecfcu9QSRAgWO7UHGKYQgo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/NBRs4gtudtqQPkuBlTmICHAC7mYVjIdoRVhwjlcVwOZiCS4Yt41e-2PALOkujqaqw8Uvwk5uQvFC_eqZIEeLg55zrNDGeYGSGTeQ76tzQ1-94E8m-eSryFnp1NHUuFlOVx6VKPbFlYs9CXi65CkyMkjofYxxTjF0KGLX0gJSNIZbJvZB6ChZxW5pnxja0LqH?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/i3s2dFAIhvhWZ0exhzmnlpgqNp6iifp6pj4qnw3TMK1J5AAdlaPQQ0RdlPgJaGok1Hffa_vcKuAUcrBRUbr5j3Dyb5TuAcw_BrHhMbmIGddHwhZlGHz2oTG4b3-5lj4s28zWUOqpS2QfjLyJiLm2n7nL-iZ_SDm652TLsyIrBRLcCPsXGjB5wzeON6bm3hZ7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/5_kyZUcynLYJ_s2MKVWvs5Xb85tbBXWls_-KOSKZFlsP1bu1trv86UHI3F4GrCUGA2IJfaS54-8W0VfWIK8sy5iHGBPk0LtaPrlhAm8GZpuvWmpWn81DU6qX_J8aYg5z3qUpJWfGx_CdE3wXPDDZ9vdSM9A13QsNNdZczi3tCm6RzqFttfBeF9R10RKFs9GV?purpose=fullsize)
 
 ## 1. Definition
 Resource replication in a virtualized environment is the process of creating and maintaining identical copies of virtual resources — such as virtual machines, storage volumes, or data sets — on separate physical hosts or storage systems. This ensures that a duplicate is always ready if the primary resource fails.

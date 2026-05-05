@@ -1,5 +1,23 @@
 # Amazon Cloud Services
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=ulprqHHWlng](https://www.youtube.com/watch?v=ulprqHHWlng)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/rVp1ahDQtTD9WreIN-pPRrT_s_t_Q-ZO68gDqX6PFRNQYQ-sROKSa5NGREdhc_plCIvPem2CScjWCCTHC39sHw5fmzjRFBWCrWy5GKNmm9VPhA5SVKJzvItbjB0VSRWCmO_DUTKfazkNRopEEYVHYsxHQyBHW65uqvgtFlV4VDHPqjCMepCPSvnIdF11Ptvk?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/gf_kk1aK7djg7sSD2ZYESqT1zw3vwk_u8wdeJa8l4Ceh1TB6py6kEIj1ct9sCQO-g73Ivl-c9PGYCw-n4FNPaP4PSrfY4VFBewNrEv2AW_0r2DuMGvlSs1nrTQ-N5p7OHk1lqXh6-r9D_jONkHiRZ4-px3jzGZPJQ5gY2RYHy4MOgcR6ljOfhDaLfPN5P5OA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/hRgsLeAYxeKZFhlRKaYQFUcwpHobVAe5PFqxEjRwv8ivfaNQehiq4BJHSFJsGLU2xVZ-vZb6qgdGN5AcX8qtBglZ3hUy2ztFfsnaP2OWPhqWf6r5smtFJZreJmP_yM0otbW16ny73ljeBvDK9WlHreSgePWnqxiKW1fl5l1FXW_HjZ0T02cbcRipWz2EF1BS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/VchhGQtEUHidWBakUuSWaRo9pkmJdapPY8PlwAEM7aptTCmM4pDOkubS55MWXw-HopRsmg9EZBjMeVvcHLpkvwJ310nxL5_ZEqZTnCab6OY7syudfU3tWnbZHJDdsRFF40oSxqys16dijdzDpgGrBcbFTU8I4U-jAqVXT2jqYSEe6ZL5LM3KZBnRaVtAI5Ws?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/mRhRP8NP9VO8249GUXtlU4j6WxxOTrQnpGko2_2wBWHelzYCjBTz7uKNXiZyz7FLRWQgj2aLmg4-MLxzirrwPMjQ4SrEENnMRjrHEA3JRUEH2x9QI7hLIIkVqcRIxTb8YwiQ-CEJKWxe58UvhSxOJ2ncVvdujE1zzBYit4fRkYdYzzYFCVbWl7qZb_lvSqWu?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ibsfwK-PcKVHIUFc5utU_zoaXPGDFcfPTHD2-XJ7114HUmZeFULm0ljt2wZtJGecaT-qrfwEx2ec8Hiqg-CwFlp6wgys6RLmRbQsTat7sIIYmIS4uxb01LeTJGUAPsyIAjyc4exNIc5b-1ZeXlr4bL2MMkcStrlRCvnI9OJ2B8Imol6NJqN8jn1wYCKOnO0J?purpose=fullsize)
+
 ---
 
 ### ## 1. Definition

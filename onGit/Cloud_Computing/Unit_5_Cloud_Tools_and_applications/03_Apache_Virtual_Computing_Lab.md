@@ -1,5 +1,23 @@
 # Apache Virtual Computing Lab
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=1C2VZ7kG2mE](https://www.youtube.com/watch?v=1C2VZ7kG2mE)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/vMzCys3AF5OJXiU7fmasZ-l9KZ8nhocNl7Cl82FaEo31P3gmic5HfmxCxWUz5rUziPs8Ac-gMBAqzwpQnAZjXdmWrZbqJulYXT-pO1mQGM0lUlKuyckX2T_LCQtNP-dSwYiEggRRNUnA25xSx6HB0Hx6KcI36jjokh-ZqsSR1LGej_YAcgEB-Yeix7A_Pbx1?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ATtpuH5iaI7vMOQP4EVRN3iPwMt9xixxGpXySMOc6KewEcgND8FL2QrMKuSKXmv-sCPxo1gqLbQwrvr8vg_STFMb0Cn4Qrygf1khPcIrGRMAvu8pmHRbs4JjHEkavzVCpgAxEgx7BAcURgHF-mep1lgIYYw9gjCrdqKj37uDxQ-RdiYW6Am5sAufa8Hzsnvy?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zpo6KkEymKkFG8i4D0syL_phVUh0wUgB-T6_n87iIWdufxuz1MgL1w3T2PPLbZJhE3w2RSF1tkRppkbfi69ZuwStJew5mX7Mcv4jzzM1kbZmFTVrkM-FAaOHAYNkSZ7ntwCa_N8UiilArGZd16tjJaWN3FBKhLjUDlu1mBktUhLbmqjUx2NAMYk6v79LYXPD?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ZuMTyavAHX0aprbONAKiim15IJ9X2rHIMciAJbNPtleI7nO6SKU5hBfoV1UzH3zZwuN0_qVAF-Mq8Ul6jXf9BjCpSDhIu23mxdKk_0wStWK5SlqDQqyMksCAC49Tl2JUL0HSGjfEGmThscKMKoIBGVifiOHuFolFLqyBT87iYBdq9THJn3fb8fRE4DBophfw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ggqvf4Ysiwftvn1r1uzBRd8Mxet2QoMCNLWA8oytCTe_ny0cwtYaEW_gOwtWtVL8XtlH9iO8KUY-0ByCB-kBNdKQvuvwE8EAXkTQckTpNmEI_GLUXYRpgZlD3pf_sGkDbp1wG2BFZ1wFfSWCrHRcZNI0hq6N3b9ywMoxxmkO2wfe8Of98E1CNeT9iJqNjemJ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/uhYw2zltpq-HqtrJQzhK_uQL91YpHImjnMz2DBK0wfu00jFoX-myQKxwJgU7fAU-Y4qvqaC1AoU6ZHTZG1DtEShc7wB4IwPGg4mA9LYg9djBLdWA-pflsVEB_Bkkr4tEanIEqvUVJRpXJcb90SAjc4_tplFnR5YJEZl2Mq8V9eHK6xGYMjZhXyYSTKb3u5lm?purpose=fullsize)
+
 ## 1. Definition
 Apache Virtual Computing Lab (VCL) is an open-source cloud platform that manages and delivers remote access to virtual machines, applications, and bare-metal servers. It allows users to reserve and use computing environments on demand through a web portal.
 

@@ -1,4 +1,22 @@
-# Location Independent Resource Pooling
+# Location_independent_resource_pooling
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=ae_DKNwK_ms&t=400s](https://www.youtube.com/watch?v=ae_DKNwK_ms&t=400s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/oqcJtI8hrExfa1PYSs0ho8qMohS2w9YAFVgEPuRYM5-Hwxd9xwGnxDtQLzzOLICvgM0SmeH76y-VqV1h-fAlE6FcsNm3Mb5koj3kh15rIWQqhA6cwWSj_P__rv3g_z41Q_NG34-mXRQordXjX-XOshy98Rh97frwHEj6Bdz-pJDpJrq8PXvLnAPopb2QSZpj?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zCqwVrvdgCGFTS3EfOdtTt6jnpniqsPLGEHIsYByKSpSFVX0q0uNi3F6ZvtdD2Ejzv6aLfQbg4l3d8ob9kQ3PSN_NOcUg51V9FxW5aV_xRZuKnz1re1Ddvp2OwvqHKb8IuInA6puT2LZF_Eghpx7CZ96g4LD19SOkYdmoOKqMcIMQj37t-kQSuvByMc0xtn5?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/vYMsomTydXLttu1qg2RpWsVsrA4iI-CtFXXBzI0jCG0IpEZzfq_tNlQEz7ukLeGQ0ZtQ9uIQAO-j9bQb3OVqmNGjHOtCy_lL53C8-_bU7VhDtywK1Vs2bI6bHI76hX8SeNuiJOwDnVMFWjHmbaatL5Da3zE2HS7Em5uomBUoNhrqWKfh54_vy_pk0j4WJApr?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/56MCrNGLNpqM5mtl6QzK3px3zSqDjotjCBHIiSU7VakG8ZjaVuuhHtHmPXOe5ijkVovvx6SxVShCdLElGKTpz2F2KbK5p9oEyEQEsc8lCCp_s_8o1g0sDido6PdB0nw8HiwTTGTF79yDDsVFgqSwAZbt1Pse328Mzj-Z3tI07Rv0sV-FMtj2F2ThX8yRwMf4?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9WtzFFaDi6QLHfmNxUu6IUFQndI6f8vTypSZsLFNLIPPwc2llmr9z8fc2bKhv9JCi36QPdCH5MxE7huUIA8WhzN16RRE_aAJAN1BIMmdAPohyCuuvJk-NXkxOBQiFUrVTB3Yc5pbeB6Rp0g2sfU2qp3nfALWj2KM4AiCZPon8cYr_v8nhWhDSkFUO23TzVlg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/aTB6BYSSzFW2yz5gtmXEXsPR1MEtVld3--2VQ2L2YNXZLYupCEPkK1mM9d8V70rAEpufwrf5MA3raws6NUgzLiCTfXTMOAAIEqY88hLdHau-kDXTrDhJexLYqp1Ft7fxe-SF6lzc66KehpGmRa87P9yVzWsG459f27cwgmmjtpm1ti_AHgx2ytmOioLKNNfL?purpose=fullsize)
 
 ## 1. Definition
 Location independent resource pooling is the cloud computing characteristic whereby a provider’s physical and virtual resources are aggregated into a shared pool to serve multiple consumers, with the consumer having no control or precise knowledge of the physical location of the resources. The consumer may, at most, specify location at a higher level of abstraction, such as a region, country, or data centre, while the provider dynamically assigns and reassigns resources from any physical location within that abstract boundary based on demand.

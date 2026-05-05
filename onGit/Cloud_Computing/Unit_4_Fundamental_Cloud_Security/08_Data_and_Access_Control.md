@@ -1,4 +1,22 @@
-# 08 Data and Access Control
+# Data_and_Access_Control
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=9e7kzZK6tG0](https://www.youtube.com/watch?v=9e7kzZK6tG0)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/-JApQFnTSPcls3DI_nzPbhY9XgK6DkwNZT9PU_mnmzPjrC5qbWVT_9IfmHdUqL8z0pIiKerOEt1qE6g-NUtdo15DIsw8e2G7ho36p1lpRlkKwkwYfD0zYPorZe9SzB9DezzOw8dwKfA6shWi8NTgEhPgO8JhKhi8ZpimzbfIOPZHpQRD6-ks1x-WPRbEZNF2?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/wNElw5e_R1LK_yLxYEVNXhynkzMKBJ9FwbsvnPzVFZuzbYpFu3z6AtPKhMwhjVrROq22tPZFhnIB5Sy7tU51lYB3Uhh3SNxGzpr2IGfIUupI_x6Y6TU6UgkJiSR0WH8LkjawP-O33YIuTcOLP8FZIKvXrU_hpdT2-NOFQC8lBtO8Y42DYRIu6bgmuO9GvGY8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0B0YhHjoMLFhKaID7Pos3fET7bkw8l6diAPQzgJvFt5-Hk5HmS63r6G6SMY-2kdoAISU6rXSieTIcmXsHAPszFet-Sb9zjspwX0fuW9oMJr_f5BvUAO9XmjXewOvmRNufwQP_2tNF43NIPTgMi3yFz03cGWz6l3RFCHXTKcT5MvyrD7pZo8BuxgLBk5XCECs?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/BUlpJ3zNK0cC5xY3Tp49Ylxq70ZJNbhV3w5Ozvt4ZbfON5jb1Qn2VidJigzARuZmFNTAi487auvYtJXNTsV6dpqoQohcnwDicuhpW7L7czsxp-fVGjBzulkusVQ5syrIiqXhl3U8UiSWcI1Udk62JRCTQT38z1NtE9lkTlL-Fhqy0XxlM89aNKoJIqmqgFVc?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/H-Mj40GGJSqeTOQ0UzK1BMCl9cT2fEH4HKyJj4M2FPWFC07k-6JLgZbdbAu-xuYJZ8POHVoFosUBRnF4k3Ytp9cR6yuEhpWqE4S4jWpS4rh0Q5y5cW0bdynOCHrpcxl5pzxNjWDVnjy4g52lzkqk1EHEpEOCzsuuFZGlFTsaM3mPojEtM2p622Z17tR0hCWH?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Y1Zv7CTP1tXtlPjVCSSf3GmnZ3r6uOxIDutTethxg4cn1enqPXeTEVVhvSL9Umt8-YL7q2g4qxGMhHH90UvFwYbwt9ew2nrPfS-cOUm7p9R1IPrzVNHW61PQp10f0qlFT53LxCZvW3W4Wx0b0JNXsPSmDOV3NiFfYOM8Eiudha767_mKJcxn9N_6YJEXVXql?purpose=fullsize)
 
 ---
 

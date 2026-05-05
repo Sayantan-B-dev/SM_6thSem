@@ -1,4 +1,20 @@
-# Cloud Service Provider Risks
+# Cloud_Service_Provider_Risks
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Y2hZ3QxFQbA](https://www.youtube.com/watch?v=Y2hZ3QxFQbA)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/ZKPZ7UJFokLXv2QVjGuQgowqtJploAUXGA2wbD5nGoOUuK5zHN5_j6SqI6AM0tt6sZrRLS5S8CCAQ-bHACqFX9b0QuyJo1AI0TbgcYJ_yB78a4qevLA5xGGjxhJzTBLEn-xnCRkTCKacWXBbdEESzatXzVfvHEHau_8Yqhls-Bha0PVokw5HydLx1IMj5_6U?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/m-yMHzCP4cypKkDsZacJpyQmvPFluxu-3VQ2cbp0ibadxrIYpZjr1PzaVVKuN6F-2jHHX_KibZFbZqOAzRZ0Rli42nqd3gn-mEx8K3F3jBbnarWSd1CF1DvFWxEbC_Vee09bsEg3paAxS8frq5nh0tyMxZOnFkkkdP4NR_wNTRXLCNLZMoyOMDwm04CUNIPz?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/W8vyBBBzGZvjPrx9QLN-PxM28h-31PxzMY730H7IqlQg2MG9Muij7jXPGFSfw9pRk3WJU_-37zFb_wWpURz61o0Oy3L_9DaglgV6-gUT4B2Wgad1HNppvifUVMcnWGuqj4OHZnpgC1TfO3TyBmLxyNtr1iRcbVtK1NRN7e5bYGfTRGGLABoJeTACRd_XyYIV?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ehpj-SArS5KBuyHKFT6wcQZDfessndT_7FY3-QU0FBYM3qd9AXH8sma0-S9vB6Gxnx83jPTt7T68g-5ewaK__1kBKVm7P03lOUkPYEjBXI-PeD_97_7l0YL9slBh_juhJ31JzSVlKID8S6g-qRCDChqaYHErUu9KaVx13W47pgrhQoS_j6wyxyQ_A0hgqCNX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/8Ul0WkP28bHUCnl9H-jc659b1Zr-H6zEGUaftBdJw6XfpVsiVD5u37UWAGeoZiAdTCQYKt0xe0A3cDsJNSYZ87JcH3dvMJWqsNQ2CSexkjRhTUSnicRsn8VIeO4A_0BFP_x5RKaV7Fx18J8dnmJlZS7x-ocB63Y_b7-2qrzLqJA7EA6yz3K8Q5M2kjaF2w7h?purpose=fullsize)
 
 ## 1. Definition
 Cloud service provider risks are the potential threats and negative outcomes that arise from relying on a third-party cloud provider for infrastructure, platform, or software services. These risks affect data security, service availability, regulatory compliance, and business continuity.

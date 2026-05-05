@@ -1,5 +1,23 @@
 # CloudSim
 
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=FZR0rG3HKIk](https://www.youtube.com/watch?v=FZR0rG3HKIk)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/eQ0qjZ-32fkUJXdgOr9TTcSzKum4eBRebmhf4NVSfiKAusufGtC8qS6PxETgnmWsApR3Pn94IxPrlO1XIzQ4qmqy8h1m6wFExwIx22zLRW2pnTWpe2lqOYEehyZYvRaaAZ0MLOiCGhwFVGWC8xjufDND4o-ujHyyZimc46AXijXlZGocQs8uYI8GV5mBfMSM?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/FPl_0GZEP-jgbpSXIWtDGMHR9SF9IMjY2UIkPZoIu3d2t1Wo1iSwxKUG3z9yig1VjCJXctUgLG_xho0kCSg_znpvn8F_uZgs9QFLnFdp3SltbV3qRx92LmkEnpL58Tna2z3dnb-yo3mANR_pQ7hBAgPvyDt58DdvmSM9WhHL3Vf85Da53I8vHraHAPKUyzGN?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/or6QwrEfVjqOyZGSzMAoomJDbm2ovC1l4OvXmJwk9mBSr0KGJyQQk0kV5umVgfLiLRUbtFarVpRRVCsy_zhgK20y1iS-BDpMeqKzG_uYrl7Fm98rm6J8byARuFfsQsh_CNGHWxrOYr-Yokgq8XNoWbWGEj5Bp9YBeCX8f721Fjc0q9RN3SO3aMwB1EdT2AD7?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/4C_5FrXT3kctz7yVvk1_S8CZgHZkjQ6_dxXRSkBI52k-w1lMiXX0QYo4tG-gqObuqNoGR4csEsj8X3hK_SxZG0PFgfzLbqs1ulMmtp5l9Z-b5JXUHyd0hrjAwt5rJKzvGjraDZ5LDIYckstv8UgzIYs-3L-PN0ybYCcdyAmsN3U6-k3Q-6GQsDtH2sEgPBq9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Y53qpjwBC3n50_2IB9ffCrPE-LtsLgPvnEczN-8vvsDr5oPyUI19p7cbcIGUpf7l1wGEHR7qe5fTzNvlYMdKxme_6b6rInu8cX6A1aN8FyE0_z9ceO_m2wyXJzcy3n-2AoQV6K2SK8mMxYUlgti2zYvu0rGzeW4S4J0YyqD4nedZmc9oKRbUN8P6iwwCmgeE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/763dCqaE3S3srUe0F8Y1SJripFxI6GPIoydjsCQTVoSo-uoYJ7aPkEf85jCjYtg8ghkeKwWsPyZDyPRXLDuth1-uFuya9e5scW7FFGKTLUk0AMLwVnJh5Rf7zidgspMYUow6LOlMWdfjHZxKZECaMGXtRXpNugNMZA2nCrVAnRESvQ2ZvN2hYux-BJ0ffkUj?purpose=fullsize)
+
 ---
 
 ### ## 1. Definition

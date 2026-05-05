@@ -1,4 +1,24 @@
-# Measured service
+# Measured_service
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=36zducUX16w&t=300s](https://www.youtube.com/watch?v=36zducUX16w&t=300s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/CTxx-EIkRwdvRiw_Nn061sRxbD8xY18P-0o3Gz7MhG0jh_jzumH4KJak6xpOZgnCC2h_XVut4p_lMKuTDyebK6uPf_PNIthZjjfaIOftZLI_7KFwW4G3LnbT0Fmex9gTGBGehZo9er2s9Laabazk7LQ0yttdxeRf_I2fM7j6ZWE51sZApao1kej-MQLX8Cyi?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/tg6LmALszdnBxjoiBQ12_gt9wSqpePbZEZy5Px9JICGrpEaFqNrwMNElgVnzOTkSqzaaSG-bKDru88dUmkH6HKPE81q3zkmAPxdtXAmjAjWjhzzxopTCUyoao4cDYC6c7qpR4R12So4PsoAGGO8D8-hzpDhkiKqw7d0s7VfbH4l2ujG3-vsuAFNST0WUzdXP?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/-NnDwby04xWYkJ687nWE_UoCvk6GYsOS0tMbVWSOJx6k9J25fgP3V8GI0X5f_QYIrczvaELuSuJtcZUPmiHZl8fqvC2DGrl9Vyi0qJQN1DlegxdG_vl5tP3EEL2b0Id7hd_c4aR7nd6QJmAvzErg-RFknVxi3j_ytMzR9DmIY7xH6c6ntL2Jq5SFvBzmAkLN?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/BITPNBzcOuBRQreKhlJtxzFkM3168xLDxqC2cmYa0lzsQDI9YqKGjyt-EL4knVZbmYCD8yqoqWJhZC2kCQP1-5XhgYXm0Oe2iQ5HfXhUnb8KMyk404KQZhR7KU1AMJpwgcPYj6ZTbAmR-7RzgMq4-nY4wmOgAPIPuHmRLNZfH0CrFJV78BF8U1GMg_hGqJc0?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/iLVDGZukHwZVMURlbnFH2VCMNSMi4qjDQu7DEJBH8bVUV7MWVOVjSc5eiXm3pA628ED0dF10oBkxUTRFn3qDBHmDxoU4XZ2KfO7DQPGK3on2n22M-0mbK_VrDGOFjtT0qXNiIUyeeG61KwSo6tnWPhVcDv0NyqBgUtaUfZ-iajORCOGQXUH8usuVTVWmWp_w?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/rLHLDVbfW1UR8UEq5GLYlygjnZgRMLjCgbUs6Xg8Wc0UPTmoXdoBlHEli9FskstIVoc6rQn9mAursB87tBJr3iLrfflbOwBYiXcHyMFoyqIj1NXiVYZFYNKR8MxFtwVVK7bpGEb3T5Z6_53qXvVGGYNIp1uv74pZZk0lACkreNWfz-z8eaJn4nhqXw1XXQlw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/yXMOeQkZw8Yt8Mw241MLPtUv3cM20D940gm37Yd5jkTqQdpNSqvlLx-aHLdwMnyM9q2-Xs6Ft20D7Mf3oE5UKQttZncdxJX1-anHTwIgggVSPcLhQuMIorVnqF8GY4oDqnVhMFDRE8ZsH1aOFuPpH8cZSRclN-k5Bv7a7VPn8p7PoYuN24NI71JtePB4iGS3?purpose=fullsize)
 
 ## 1. Definition
 **Measured service** is an essential characteristic of cloud computing, formally defined by NIST as the capability where cloud systems automatically control and optimise resource usage by leveraging a metering mechanism at some level of abstraction appropriate to the type of service (e.g., storage, processing, bandwidth, active user accounts). Resource usage is monitored, controlled, recorded, and reported, providing transparency for both the provider and the consumer. This metered delivery ultimately underpins the pay‑per‑use utility billing model, where the consumer is charged only for what they actually consume.

@@ -1,4 +1,22 @@
-# On-demand self-service
+# On-demand_self-service
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=mxT233EdY5c](https://www.youtube.com/watch?v=mxT233EdY5c)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/58p9f9n8YEaSRfCzBypUZ_AwLiicShMj0sSdnja33GSbSAy95gyNe8AxtvRxNrDWb84NA3pLTahSsytOoc8kIM0phuOyLAc1tDb8Vb-U3tLUyEjmh_vgxjyn5Od4jB4kNgUP7YRI8vW73RvExoVd_kyj6heNiDc296md9j-o7JF9Z-InRUkrqjV2m7ZwPmTF?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ZhdSVKdj2dNKAn9erib3C6L1Ye54EhoKMlIafIG8FDb6l0m7uLJ9whe2jRlSODCCipPXwPRtQhCVQZIy_8LDiv2493a7gQl2RqrEaRZEMmpcsQdakY0VgGdK_hD5W6MxAAaLL_Hx7wjwEdbrXgbbtT7qs3vBZD2-Kccoa0FN9CyNr4cSb6eBHP97vsEXemIo?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/WIhALvHwnzcZHho6tsMqAsWH5nAPaJdxpdjilV5AMcyspwP8fF1IHakaVapRj5rhCdrMo2Z8uN8oGQcjIFE_k6aQYIMNx-ty_q1pZaKHWGawjV8DV80NqD-yy-XE2JgW-n4RoCtRujqfIlrgfzukaN2VxCxIzcYMZn-LD80NQA_vHDF3M83EdPzwVIsewKlu?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Fntzl_Y5vjc6vqxr0QsscPxM8S6Wk4OPQrHkL-S-R5MzCw9gEuEn2VNTzyBj94hI_sqEPZA1RMVDmU7tXJxnbIWv3LbG-tOirutX3c8kduXmfLjluqKw6_aEjiNm6a447HlbalKzAETcFBm6fCngnUZaCPg5MSvE0Y0aPFh75xfvFcxNpuDsO2NFMKsLhU9X?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/XRV8GB4NV0HgRbWDCpio2q13ArsGbzpeHMfPCEN6gYzXNsFnYY3CtzYUtW9_YSyj9Y1JVfjjcJhXwWuuSVbBaBA4hLSsIkuVz_yOQ0tKTAukWqPjRdxaPPQqj2a8G2K2fG6uYHGY-ERUmT1TTYv8DARB7rnRXnoal4dbRfXGFEwIZjBNMJBn0NIvP-aM_PHU?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/BJ9_DaaUEjzA-nqxqhuXQSpmqFtrGWNkeUzGcupG_G77nFIPtEgpT9s1heSn-cBwF9_bQtxsn8u3Xn0OD1IyRL32VXfShEmOy3R1MzjLp_qjO0h0Q9XxOQzd167uIoJLOmkdL1icf2DVBBndHrYM36vSuUkoc0xswrmh2Px_HiSyCROqnbWH-eRvUeKBr1fq?purpose=fullsize)
 
 ## 1. Definition
 On-demand self-service is a cloud computing essential characteristic that enables consumers to unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction with each service provider.

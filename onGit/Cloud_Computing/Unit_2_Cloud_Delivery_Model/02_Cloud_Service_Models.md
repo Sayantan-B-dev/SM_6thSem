@@ -1,4 +1,22 @@
-# Cloud Service Models
+# Cloud_Service_Models
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=ae_DKNwK_ms](https://www.youtube.com/watch?v=ae_DKNwK_ms)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/mqNL1PI3Q6Vp3nG_N0SwP-nsyZHFrQj-G_jbFQKuMoWl14TqSaylueKUEqGh-QgQzEFn-gSlLLcQtP0IkhQMKVwBJFZASNm2GDd4VpfRBr3mPQcCt6UHE-2LQVh2sSjjEai14DUj-tZnb4G5VHfip2sk7z-oGZ9U-Zi9rBL8EUHa5ANukFZfw1ZqxC2BpVv8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/P2ZbpjdzWC4JrUgtP0FlxJgij7iF0jssgKU30_wl5nukrf6dua5Cw-rlMJiPky7QSpnPC8FuG6YVmqXAbGeN5Pd-VR5cCafTHzPGVymsH6S13N9vcmrVHRu_Sb01pg2r3pMigWzQ4juohb3klH7IeQILwPqhbxZ1302BpiWjAlZz9WQ8qxp1k2yHbiTPGMBu?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ABIrEpEzCstExnDTIhbSLbMhbY8JZ0TgyshZeDWWTvfVveUaGSneHTOBA7jXkaqNAjRDi4HoFVim96Y2deTygWjF8EPMLBDppJmPz2lpKM3ZE3YUDJp5ULVshLsCy5sOGeoax0_oyJuPgE_wU1y1_DmZL6OzBb7Ynu8xl2eeC6pqgzbRciTg-ZJeIncObyh8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/rAcGe12dnQm8bdWMBQxINQ2rkMYzOdmRT5yJ3wJIlw8C8JQT3m6zW8xhFyS3_s_fBmWhyNBKAmG8zYLQsyDselOLgMlaGHRl9uvZSlHpVH0bFW-KonuMo8_WrwXtr9sRrsLVviav3Oy-RK3NDQev2WceJPXiJUFvZUaCUA7eRvgh9OkCAi9lIvflH8GZZz1h?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/J2mCmvJYNCYVp-geCep56IRwZa2k68vTEdZJGbudl1Wc2b5y-L31Jc-HkylPYJLU1N-c_AOCv9DLi-pKuUK1qRAzcEWu7rUMWYow6_cXB8RjR7cVVZ3IQlDhHujw7CJ2reTKcmJ41oUIidSUghtPwmSHsLtHsCxKhG5gTeh736Vx6pATwcZPMgS0Imob2K0D?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/b-0bXXi-RqoSmSZZOGsF70TxoRj0exOs9lgTsndZSps1JFujPSC-e5bmz6BDbE9CmgYfTgzZa1pW0dcuxcvxyIHCQFISL8I_Nk0LIIDk5gbT1ay6pvptLrXoThXV-YHm6wBGftygEaI9_xoKDhNmAxlQZ4XfnTCKhYcLCuSp50Ea0tLat3_msB-KnFaDeYrM?purpose=fullsize)
 
 ## 1. Definition
 Cloud service models are the different ways cloud providers deliver computing resources to users over the internet. The three main service models are Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). Each model gives a different level of control, flexibility, and management responsibility to the user.

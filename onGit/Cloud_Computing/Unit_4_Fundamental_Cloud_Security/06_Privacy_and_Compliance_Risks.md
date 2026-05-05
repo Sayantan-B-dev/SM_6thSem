@@ -1,4 +1,22 @@
-# Privacy and Compliance Risks
+# Privacy_and_Compliance_Risks
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=7o3bV5X4tT8](https://www.youtube.com/watch?v=7o3bV5X4tT8)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/7GlY56ca_xPMTa_RcvqMFKRV4QQoSoLWIB6k3Cm5Tq3I4Mw_LugxdbJyByvW7mj9t4rD45lGp5LqQTBNpyq1qttYICurFqJc49JaJpoWhMqt95DEVK-_tOaQMk-HKSp57woH1ra4hVdel7yS7YMUpDeF613AtP6mvAJnmIwVOp5ouNNcH8ZVj577msRxXagJ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/plr0GnhsgKS_Kqx-U5sltWrbjaLesY9Jep9RFc49PNq2IscxvDgc01MSNEn8K6PUKIcFN-3gFuwDDjmZpy8AQKjJgaHO96D5J8KxAK9rZu38T67FEKcJuvUQAZc4-iokaOJhVHppzTK_mUaWbgjN0DBICm-ovaLl8xiUOPsLNx_nhpVDygeKLasJKtpG7mD0?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/OqPfh4C8DjUtZfrI0Pt3BjhxK6TIvmIscBVde8VdBf_TkrTA6M-osYUQz9kRe1nS1xbE67DMeM5nVSek6YZUZIu2yHfdFe4ZNXPMmHSw1Da34eohnComaQpeeAZ_cPOcKkSHx8lG89gIxPLhw4q_bC2mbwUW8qs5Y3Mis3ge2C3Bz_Ul2N2tr0D1qtmjt_Sx?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xZEG2I9eUs0WFZAnHnQDAW7zm1M_beJIUAQCbLd6gduWS5q3AdLZ6JrGcR0yJlQ4_gUa9MlWjfVJp63N4rSZxJBjIRLxV-t_xFPZaWVik0hBxw1yp3eKqxbZeaB3w0Wza7X3lz5wjuc6MwJx6LNzxg6ndqQoH2cAD-Y49bcyTEgzSwyiKQeDy6GpAf3tkFF2?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/wRB7MYcbqBUThNT8ZE9vp-u_DQJwxR9HVeWXcsqRlSFlulQiwPoxOZ6IZjK7KEEgjIaZEBVZekSI_DfCiGVMim_1ASPgZqbU9wvZ2Gdub_TAe6xt2kuHcQcUx4T0qlGEVnfAr9sa_Mr8-MkuaOWciuxSxyMuPgM-4QR8DAMk-tpIuXhxzC_sOZ4yWapHlE3O?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/W5mHnCx42WDwvfG0nhmbjQ9JIbp_B8MQNgAPxV2tcuZxVjGvf1JTNBIhVEcUyCptXUB1P1r9x1Ftwbk46zgUpF-nqm8W2E44cKcpkKcmWqKv6LTDKN1HgOL_VpuTj0qA4UhHtoHsQQgksG_9smYSY9mmSVgfPEtoiz_Dab9VMYItNE4h7AyMlXLC3Myl6xAG?purpose=fullsize)
 
 ## 1. Definition
 Privacy and compliance risks in cloud computing are the dangers of failing to protect personal or sensitive data and not meeting legal, regulatory, and contractual obligations when data is stored, processed, or transmitted in the cloud.

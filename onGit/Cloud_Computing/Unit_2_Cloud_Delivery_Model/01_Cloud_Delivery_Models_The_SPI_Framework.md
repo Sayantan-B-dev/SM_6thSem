@@ -1,4 +1,24 @@
-# Cloud Delivery Models The SPI Framework
+# Cloud_Delivery_Models_The_SPI_Framework
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=36zducUX16w](https://www.youtube.com/watch?v=36zducUX16w)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/VAlekuHVTMKb64f6WxQpcXLSJ91wgO5VUK3hLI-Fapgl5yiv9E5wYWnbINjOnD8kazERQVl0spN4HsjR6XV3d56hrGLZ9DE_rASqbdrfusZ2YNKIR_7AQcq5Wh3B37RsLtKcwupFKRr7QNRz0JXg73Pt8YBkw-vobYLo5O5EyXbEJK9JeslW5Ajr-I4Qb-ki?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/WeCvJxQVbmAKBtKSbCE8x2f_Gdgo1OZ0G8N_pOvg0alUkwij2wKC2bWTK0rgVMEJwEWxb0gS120duE0kcEu4MH8vtvJ8CKilEuVEb4d1V8w-t9xfmbbR1zuTy1PlYvEuN0R6lkcWA8GluTCAV-rlphaQJQX9n7de39RytbiNXLzo_qIadeWKY9mZjrUJzXXg?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/faOKF6MylqA_o4Sl1BtoH6lvlQM-b366bhPPbwXOYTgQ9HtzhswRo-VvO94QFUhqqaoQIwIhG4zvQ-kfU88ZEhmLgQEOD_AP_5NeFIHFWT9BbFi8sZrqkjFm1HSIZPs5tPbzX94iDSMI9VJdaEBM4JFGFvchSOqtegUwoLflg6ULV40YmolqAL0ae-GPh3zn?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/nYklNOYpjxF-Foc8rK_fRCk0ZOFa9dBolT_IkspjKNP7g-z7G3M0n60Ngk3j5roX_hFZu0CZMvV-Lw_4edfNM1NbRav1Pz5bHXJUCSG-ki-ok2Q2svsn_acDxnYjP6Q3A9CnLjuoAxnLZWPKaIqpS1oFqn_v6n80zkALCumoOZnk4MyU6XhqFurz9bYrMVKi?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/nciyrzruRo2Run5nkTPq42xZxOPJ95padl5gDt_ra778DB3Rw0ERA-GJ2rwcxNObD3TIL2mGE7J5tQVUr9plFxDy6srMiJ7AfMOM9EsKSK-kEc1hT4KDrz6t_GDJVRp2lw8CLXhcItnN8MmueypiO78oZ0UVjrLNw_eX_WcGznuApmMniioAU7k1IniT2EKh?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/k6plhLacKaO3V2iQGLeFZJBgIyByLGumJYyHpJX72YcfKSUzOa-hCwr1Xr8UAwhfHG6fIgPZdZie4JCpauFEwkV6rUSuvbNuHUGNOjsdPr_CHeMahNJBVAsYQodgZnKZtY4zB6mdhBjD5JkYehblzP7oOKJ88oYGxbB0exZI1uD2LVB9ZhyQWlRvlQuEXs41?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/efYHjcoscgxmy0kvimSPNSa1D4Dl_U_b2KkzX9Jl-nGvxa1lcTs73jTSS4xnEZ7fkRQt2trtFMZLBi8udW2ss8ArmoQr-RWmmMHrp-C6uF6abeLS86yHfy-RuxUO7LPfMzLnVNBhCEiTp218TW4pDPGLJ6wr3BCcwZ515gvVygIDto0BhAFLbi8YHSRmIjj7?purpose=fullsize)
 
 ## 1. Definition
 The SPI Framework is a simple way to classify cloud services into three main models: Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS). It describes how much control the user has and how much the cloud provider manages.

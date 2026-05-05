@@ -1,4 +1,22 @@
-# Roles and boundaries
+# Roles_and_boundaries
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=36zducUX16w](https://www.youtube.com/watch?v=36zducUX16w)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/nFbi40qEa_gDv1efqYn2s_wGIqvuKIKPOqUFEBdwoUW-2KrYiC7Ko6-ohNm5uZ2tCGi1G2XAyNuqf2MNCDfw8U1UUBAFDQpl_SuTBGffneQFrhH-Vun6M4k-MAVWCUMg_E4ZuFNlVSlxU16cuXrqtOgdgw89uu7Jed9s1o2y1zuBNy1TH-O6wq6iV-YPulhh?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YCpkf-2u3LyPRLs647blHW-goI9s9xntpLesQATwJF1H2FCRH_mwQgc6nsJ8-C2_4-JK0eSwX3OHx05tJQBg3-dMO2UcHsjS6snvmwd6X1c3fzb7qc4_dwCzQRcXi750fGuQgvivP86znVslmkvH4Xfbcy_6V6CgMr4XpGPx1fm7G37YVt36X3OTSBvXkfBt?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/eE5uQLDp0_Nr-P6omP2KJnC79HZ36O_niGyIjgb8AXEUEnNuMHt98TrDesOdM5QHTYIgbE6lX-BH9og23CVwtTOHnIZMbhJAX1S5T4NORLW1ha3kW_hAFxFwGCPox6DTzXxuWopiYsIYHdnUjC4x1EcCmtTUszWnasBswO7V44nkVoX8B9bQwoLe_rLXgTGR?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/vaLi3lZgHQLajyIoWQFs5bZ5yR3-LIE4NIHHDh1i048BYMf0B4YpiWu6kY3qOyVHorH5gT87j5LuhiS7S42z5hCGpVK1nyOyjz_jZKWkKopBK68vdrfqQZgMWIkWJbg4M1rE-dP9s8Hw7CqmDy--kC1A4v1KNYv-aicK28JsF41uf6AncU-q7dAatxTBZJvA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/b2WnKZ5FdxE7mIOpDs29UtxB43BVPYXMfzyIxY-xs4CmzMxkoyBdPC4dlGkB2RwTz_XzSrp5a2E0rytRK979k-noJ8-8aTsg5XvQQaZOvy8QB5kYbYaWlfD0vm9czWrJqP7oI1qOlC8YASh841dqbTHUsOHawwbtItUeCNSpHx1jhR4D9cNImZ0nujDEn7wv?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/yzg7a6vPcpIEw03qyP7Zykp-Wpr-ud-vF3sPqSn8uhUZvfvnGSe66u9Ggt9dN3lqtRR5selK0uunvS6NL8wHR7opl1KZNWHj1hpywSf7uWgMcPOca3MQ3ZWf3b2MetWAjFZlWNXIcv-ANxZea18RXCu64snO1eME5RDvI7SPwtjlwSE8lM76PXzp8dMMOuxv?purpose=fullsize)
 
 ## 1. Definition
 In cloud computing, **roles and boundaries** define the formal division of responsibilities, duties, and control between the cloud service provider (CSP) and the cloud consumer. The boundary establishes the demarcation line that separates what the provider manages (typically the physical infrastructure, virtualization layer, and certain platform services) from what the consumer manages (such as data, applications, identity, and client-side security). This concept is operationalised through the **shared responsibility model**, which specifies who is accountable for security, compliance, and operational tasks at each layer of the cloud stack.

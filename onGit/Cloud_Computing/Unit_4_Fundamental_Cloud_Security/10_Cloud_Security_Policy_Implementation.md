@@ -1,4 +1,26 @@
-# 10 Cloud Security Policy Implementation
+# Cloud_Security_Policy_Implementation
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Gd9x9J9mZ3U](https://www.youtube.com/watch?v=Gd9x9J9mZ3U)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/zEArNKM-W5h7iyK3Kw62rmnWi5d4LlovA5Oj48lXtm7jemmh_bo7naxNs9L4f9RoPtr2lGT1RyxkRYTy76X0yzYy0-SS2SYauqgIKuM3w8lGUFOJkeoe8vBno4Zl-1nUn5nIHRG4HWBt0k6ZFTXgJgMr1hv1dCDskOqncLJLOUp84H-Pt4gQpv-1IUdg8MC9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/XuX575cIKKJlmpYM5A9OocelJ4qkPf17PcPXc24yU3jFddlah7V8DZ8CV56Z3Z3ygr590fBSLLxJHM_NhCX4gAmHBALLdg_zczVX-Zz3miKeHnAg_RKCegSioldehGz5NU-qdo14b1McsrCLJjss7xumJUcuYlb6VIEKXS20mgUPV7zYSEQLOzKGyoQ4Dikl?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/xZEG2I9eUs0WFZAnHnQDAW7zm1M_beJIUAQCbLd6gduWS5q3AdLZ6JrGcR0yJlQ4_gUa9MlWjfVJp63N4rSZxJBjIRLxV-t_xFPZaWVik0hBxw1yp3eKqxbZeaB3w0Wza7X3lz5wjuc6MwJx6LNzxg6ndqQoH2cAD-Y49bcyTEgzSwyiKQeDy6GpAf3tkFF2?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/UynidDZYUiMvVNEpFZxD7x5UlxXiDBeAZa3mpXy4PbEWN0zu46zzqCTh1v72hXiNB-0Kaauu6fXG9EORja_AuulohYeqnJn8-nSVcgPc56cUngVXfEaj45hANZMaSkla_JzV7iPF3YQGguSicXspu-Yfc3cLb3ocrAtUtICWDOb-sjeaEMXuUG6zfx4U_aSa?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LIBDmMR8youH8B3sBpnwaBxbcxreIcBS9Y5P5kjUUAmpHLGFnlNnos6wwoPAmuaaNkNBSyJrnHF1M_Twm7jVOI30vuVlGE_pUjKIAKLCGllt5dY68y0q0-JPwcsiVK1hqGtAoVzEoNw230ejh1F9tHYHPDxrk1SPdOOxdgXIkNmdMyXszPwLTsM_9Yz3iB6U?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/hp3IX_lNPpkZxgKfE--gMLSo6ouuZsrh2R1aPJUOA5gjlLWXuYsDBsV0SmPL8FG6baf_myGaMx0EO5duYIjzNiWkWtDpfsrmuw5zTnnT4fGwVdq2eRhCwSh3SQ4e5popd1XP62GDfvEIwoY9rFbMm9Jg3L2HKmxP9m2RYVQF_y2iwTjuVrel036xtR0uoxE-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/if9qlRGYcZoWLJejYvbYfofjGEeJTK4bzfMRLqgqy0W7FT0SWTSNCiCeZMzvYOFv5f-rfksxAgkVig61hm1PtJf5NpdwUt6w9dM4BA9wpckeanFPhTZy-iCJj_FvlbVr5hN1LkU6W6mJtZmG9kiP-t8Q7u-mGJk_Hvls-VYvNhqx0uX47w_Th7RoZNrIznYa?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/qfdkQXPc620f9C0iM7eTc5irBSQdd4F7kfT7SKJkrfdJW8TiJTZOuMeJu66k0GN7ChE1kryo3p3009zJdcCjVWyKuVahGHCwIvD440Er4bsqG-ZJuNnmxDEhagImPSIavHXggyqwGBeVB0vtIVoiYLS8SLS4uohrIM4PEjU1JpHOLwqckmSvTXVJQ9pWW-Aw?purpose=fullsize)
 
 ## 1. Definition
 Cloud security policy implementation is the process of creating, enforcing, and managing a set of written rules and technical controls that define how an organization protects its cloud resources. It turns security requirements into real actions that govern user behavior, data handling, and system configurations.

@@ -1,4 +1,20 @@
-# 04 Cloud components
+# Cloud_components
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2LaAJq1lB1Q&t=300s](https://www.youtube.com/watch?v=2LaAJq1lB1Q&t=300s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/WZvJEUGuKvUAq6xcI3pP4WTrqFXvNKEGjA43LMao9jNeBPwOl0TRkcOR0JAl6GnTuFvZsIGWhqYUHR8q-MGysz86c_tqo2jcthu3ykYc0Yte37wdTM-ioi9BUhSIjMIR_ndm_vCMK_au6oXCkRRiq7pbNf7p2miOLeOs4GL3B9u4TByJgOfybfjo1jRVJDO3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LUBfw-75WrAQ-mtyBiKK4lbfrUnvxkhQHc1Bh2jtV2eRAMOLUPkJZdKLSetsnMFF15GCL8clTineqI6qeOLKyxguGzVU-rAwW8dSmCZydC7We4QUVVHsU84lFRfDf2PnP22z1wyLUZgQVX6UM2YwWmqNr5Lsx6QH19rVcndLZ4iQum51Prhpm-uo1AQLOrCd?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ODUli95PyKx-_svkGE54RruPhVLC7gpl2QHvg-cTNeLOlUnTKe4m-q9gTok5MzhpC8d_wp3aoFJ40KfREUq8K2IN7Y63BzkWJRGYqYF-Py8FRaRpFRQUjR_oAtJxntzhbwiN_VtvnxbIHhGZwZcSLUXR-YJ4ofaidMP3x01ywWJ5GOZIVWHLZmvCagvdtifF?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/up8N6cpE91IMZ3LRINwmJ94XBQhsPHiIYWeZWfkSFyE6WvB1jSYSFIGrAxpRGLGR2aw7Gs5qzR2HPetkNu63VWMmnM7BGAgAMeesSP8S-30RAWnnI3eZ1aBFruPQgf9Y5qTn8JtWDaA9FgCtTVrrCWrQ9fyQjnOInw5iQ0GlvuayRPjFR5Zb-Nxog3FbM2X5?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/WNWSzMToiFw2X55HNzvJAKhBFbDXin3XWvUfGBJJuvHj_rp98g7FSu_6JPGqmqUl_Aw4k_0z1Y-7k7v1g87n7IXuA24haSl7QAH-LmRIY7d7MXCJe_60NBZeMDV5MzpuqbBxYgnpllVt6LRDrfZV_No38bnldqb6ax1NAzQgY8XFQKLIzzXbSmfZHIF3Y43y?purpose=fullsize)
 
 ## 1. Definition
 Cloud components are the fundamental hardware and software building blocks that collectively constitute a cloud computing environment. They include client-side front-end interfaces, back-end data centre resources (compute, storage, network), virtualisation layers, management platforms, and security frameworks, all integrated to deliver on-demand, scalable IT services over the internet.

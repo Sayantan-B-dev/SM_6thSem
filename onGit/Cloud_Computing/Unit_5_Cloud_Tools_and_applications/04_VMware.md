@@ -1,4 +1,24 @@
-# 04 VMware
+# VMware
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=R6gZoAzAhCg](https://www.youtube.com/watch?v=R6gZoAzAhCg)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/pdUhRoyNuYi9Xv8R-qfKJWzp_2l6eUGTDomjgnPp8vNBNM36WFVNG9pRsLeKYi9SIKxkJnA6iS_TalPN4rfdU-K3jU9ujNTcsXcBaNxk1hgAnyN6l8F-0H4yRnbus4GxsohktSLtumwvsAmwrCJe09bZLCbFtlE6coHMj96dpI-7uHEmbsOMe_gyc1gLlFvM?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/vzP-YmJDLmKlq1OdAq9rlzm97ioKFxQEAsvTqr8ClfrcX028wsbjg1pUgDy3f4vD0J94aZCIF0OXXrUx7nEuFlf_CtwAcHM9HYFwC_VLBjOp068LEEmYiMoISorVRHa0_J0SUJJPPpqIDV5FS_OcdiKBCeapHqQBXSxYJp2Uk7GzNvwZ5EBVuUCmjnU24gPl?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/rp0QGWYMs1zYfJGh1-SghRtjrhApz9C_sDALAdhqOKaQX2q19H1CaJQ8z7QzEU9cjS0R6MCm6GFPOV0FgdKloZ7OEVjltf10n4MaEVKFUBVNOfR6qHpw1v8r4_pYjIuZmFR3jcprv4KX17FlDXKyloLWmyMyGK-wbp5XS5Ph26-7vP2CX3-h_M_UlrkeTNuC?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/C18juL2igTgjXXn5rdmE4hHy9gXyyAEx9DpR6FK9d0Qi5QhTpNRHk_8GbOvaMx38Qvj7qfSiHX2xWKTNThwJDAVfnJu6DZ1_9QKaaPl0DjQcgf8w7fdTV-3cANKEBLT3o_fe7Em0pB3FiBK6PAvdnczxxs7QzEXBhAqPBg5AZ-w8dlq30HJmRKYNQtAFuoTi?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/cBHEUgEvEEB4p142TgLO7c4SWr7tuyhHZAvoEBHTGB3pV-x5P8fKDzB84TAarA4_s7v9u9uDPmOKVUotM7fCQsAfj4P3twAv3M9pjIol58lsDE8d__5Uz9_wMrXg7eI7V8aeQfxE0WwXnxw_WQ6dwy5jb5YmzPVeMT07D1USWPvyr3-AvGwXrC9BgxLwx8Ja?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ezhG6IuOHm4b4hH6PJesZZxhlI1eD2PqTvW3jHMzjKKiZ9-3SQtkFhReRgRwu29NxKsO1QeHRGOFG0MqfmchwXva193HJ0jdfOe4d3xnZGB76c3B1jn0DJZVZURxbza7Y9Tqh9ZrlLYsToS0Oua45gBFYLMMT2pFS1p-xtpuB4IgkOJteyuh1QdD9dPcbBfb?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/qEDiPJalpS59mIJXtPq4Vletps9iL8SrN1cxZjGvklg5miFS0f3psILb13E4BqQgB7Gjz9Dy8zn2qaGdvmwiYX3M39JtHD6CpRS3v2mz-F1rw1odUee7DGnMJy0RI56l9W9WZeeEv55HAMEk0faTLHLWB-YxXm0BRjFip2nX4sf_mo-J8fSYOHFh7PEoH-8R?purpose=fullsize)
 
 ## 1. Definition
 VMware is a leading software company that provides virtualization and cloud computing technologies. Its core product, a hypervisor, allows a single physical server to run multiple isolated virtual machines (VMs), each with its own operating system and applications.

@@ -1,4 +1,24 @@
-# 10 Comparing cloud providers with traditional IT service providers
+# Comparing_cloud_providers_with_traditional_IT_service_providers
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=2LaAJq1lB1Q&t=900s](https://www.youtube.com/watch?v=2LaAJq1lB1Q&t=900s)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/Jmy7Zvit69WQwKzgv2vpapQtYKqPAem77Cj682fs1-i6iFraxH9eUohivs3sXqSCDkt-OcU0aRzsVgh9m56yeCeIG_UEMIKei3XL2Xt7dklLqZIaGxd0w0bXuCp4adwjZHcTaA08G0xqTCTnzTwlaaQMn97-PLveBeeusu0H6fnan0ItPg40w4E_0qmT1VG3?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/cOVPPnO5XYsBd1FMYm8WIkEc3jy6LeEyg4P1_9N43Y3N5_3vVRCgrSrqmaERMZEuKTM2xTUi1KolSajyTXteTlnSIaqR_yNfPXcCyVQ8sVcCdnqgBf9ExjwtcJldyvBPLf3StCgVif9m5FRrYmtQQ2ulucNU8DXT5UOIZgmEqIWYit2secZzNJ3aK4xDXdmO?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/balfytUZaO6d1twOc0qQCqLVk-CGaRJHlbAawRqZachRZAqtg6t2iNkKazCQlBsQwZx7gElehcczzjWB0FyjwlxvtcQm-VFc9w6jCX0i6yzzHHn5vEh_QkPx-mYydI1dml_kLApEp14gl6vwYXR-Asee8HMfr-hnN6dF5pC3V__HoQ09cug1T1Wx6NEtT39-?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/YxdfO72vfBnZq9cQq-wLnu1xndHfJ5ZoHYdVxBK7glkTL_Zns5sqX-EABIfrh2ydaYpX8Tk8fUVSapK_O0yFk0WGo0VQyU13pfH3LfRE6sn6DQF1G5XXrTTUUpNn9IeIgpuneg9eYiIXx4ZPFDIZ1OPgcH6MycMcBgoepMtDCqvSTaeRNJdny644vnMPAxWv?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/r-UCcLkf36tg_GvgoIHuANSCtRmDsTEY7qLdttA79FVQroeqNDRmoLIl4hOc4G4e5utFsnUCbR2oB18IhKCYsWbsy-f-NfVZ67YxFHmp2nRaryneEYSibeBYwEIz2iMCpM-lISUV9vTwUF4K7nQ8b-J8udw4076-Sy4CTdZkKydZ4gpOLB3Ku7l0DXy7C6lD?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/x722n0tYfrkfjnhqbVWENzcK8sDKkNxCQIjXaBHeGhWEHRn4DUmQU3AtUOQ7Y8PHkgVRCnU121EjdQKCWdiFOARPpPRdJpux0KcQiP-f9OAfo_vEb167X3Uhmc7xkeocaXXFn1FsO60kVeJlZQbHNDMFKufAaeEk_xAadI6eCON1hfc5cnTj6Lrj91J7mESi?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/MtjVnXVJkoEH7ff2lftViDBjSjSTdvC7snOsfA947Cxy1PyqXa_EAEcDllOJZiHIzgWjHXbjd761wkJ6sso1CJpFpEXAm0LuHM_WTVrXyZSHMu_LvZN2PrYv2slH240vHBENOk9OhmaIeTtHt_DBz83EE6eC3pN0h3TuFrehBOjcx0hFyG-f10p0KkS4LI_s?purpose=fullsize)
 
 ## 1. Definition
 Comparing cloud providers with traditional IT service providers involves evaluating the differences between on-demand, self-service, utility-based cloud computing models and the conventional approaches where IT resources — hardware, software, networking, and support — are procured, built, and managed either in-house or through managed hosting and outsourcing vendors on a dedicated, long-term basis. The comparison spans cost structures, provisioning speed, scalability, control, maintenance responsibility, and service delivery mechanisms.

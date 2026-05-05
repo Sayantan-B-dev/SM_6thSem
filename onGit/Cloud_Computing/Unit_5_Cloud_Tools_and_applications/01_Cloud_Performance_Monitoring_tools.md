@@ -1,4 +1,22 @@
-# 01 Cloud Performance Monitoring Tools
+# Cloud Performance Monitoring Tools
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=3hLmDS179YE](https://www.youtube.com/watch?v=3hLmDS179YE)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/yK4V2OHJ_pVQAcWKCdxTuax0DNA5740I3uleB-zY1lvP8CkI4YcoPItNdeXatZzsFmCtiG-lc2r9DfYw-u3_8DEp6FJOYhqRKG_tQKUQauH6I3BFs1cVNHvJy-AD-cHrsJxess_nRf-9TM6XRuXsr-1cC7IxqtB-NZvfWv3T4ICU76bHF5FetdZCunA0Wn0l?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/N-HuLpnvPIdKoGJq6Nzcf_vKlVSTpbqvm4cyIcQaozvQrZXYtMpcNoPxvRPwoVmMUuy2-Wj8K1n4PDVmBCGnY2XmQpV2F4WNl-iDAP14OPuTWB9LAA6bV8S42hyf2jxcc0KyCRiCqBkXyDMVCcZFf7xrAsT6BDuNyNApPig4RwZ81JWFRZJz5f6Wl7GX2yoP?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zTWLQ_IyuL7SA_RwGOP3AYVJ8elLgIEWPEekrwfonfCcNq0ywtY3cJ0mlQiu0IHN6cdtCWyLfJnnB9eYCZrjUogePPqDhBpENYhDYTz2VmfCQFbR-2kKuve7xCJfdCDXa2Vz8KS1ZpfLEAS1_J73OeTuSHh3WjXP0b_1mXWEuWoiFV36plplmXHj5yBjBXCR?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/igF7ngrvzeOYB57V7ii9e6XUz8uogIjllXVSNnjnD2TSSeuQg7lAPD1Qr0P0msOqOmn-URsWMCkhQKKClRJBQzWY8OAtwhG8vz1zL9UZUlQa1QSV2f_H-SyyLiWO_jsrebNFfqqVhKHYn5ktlSEMmPjmNGLtEqgzS3wLHrDmCP9m2-4W7mPlVOxxR7owuwVQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/lu7LkS1WKxTXPsijB7NQ3ghrMMhNq_sO1cDUJIjUqPEzE4xbg83yK9_EomDmu7wNgMTlxTTgO9tsr6g4Wec3Kx15DHkXHBDEyxOTuCemFILaiPnNSvE8NG78-SoADY9pv63WQ8UrptzmxcKr8f_eBWsJR52azV2OV7c5hJx5newj6Tt4rv7oey9ukaCoZfcS?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/b-VcmsT0c0dke8h2TP895A1z_tc3alWPvg7UQmE10_2EiZClyYYspBRDX6YWFbkW49mXOa2LJo8PDkRdRUm_KwcNwf7aHEahbevK39YGDWZGkWzSfHcZWsty43kcVDZihOP8KdE0gAmmKCEiNuBXURvmPEOQ134w3Jwmk8jvyPlWfEu8rAm_-DWMzUP5SJZi?purpose=fullsize)
 
 ## 1. Definition
 Cloud performance monitoring tools are software applications that continuously track, measure, and analyze how cloud resources and applications are behaving. They provide real-time metrics and alerts to ensure that services run fast, reliably, and at the expected level of performance.

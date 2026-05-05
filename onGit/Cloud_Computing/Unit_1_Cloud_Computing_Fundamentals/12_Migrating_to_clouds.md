@@ -1,4 +1,24 @@
-# Migrating to clouds
+# Migrating_to_clouds
+
+## Video Explanation
+
+* [https://www.youtube.com/watch?v=Z3SYDTMP3ME](https://www.youtube.com/watch?v=Z3SYDTMP3ME)
+
+## Visual Aids
+
+![Image](https://images.openai.com/static-rsc-4/8ZSrkjOZ5TnhXUmx7uHfxVUkrohQzfX2kQW6JkxLQIE_tJaobq-d5sIISXtwqvgoYwxIlOEv2S3xfVsUaO6633SBNie2hS6Q53pqT-F0CMZ6KWu78HkKol-rYw-0qDwejDDjV1zOzNn_08IDNgiIaLrL8EA3oXKIlWZwhJUKGI7fDZL8oxAMZf6kT5H7AYYi?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/DMmMf4UoN9mSSo8FYWLYeEiAktI8h5fj58z2VTJE07XaOFl8Fh_r9Osi_r9e6I-WdIlnXOXM72WhVKjq1PempUBJggRRWiuNdmbXmGtO7c7nN-ZvyPuqVDQFB9tx3bqENF3UVELj17R1Ej6UB-6Gf1-TljkEpedQ7jpuaR2NP4eS4w_5DBPnh679kcUU7FYm?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/c75E0ASR6jWi-mifW49lCi34p8S4CmzyUIh-mymGrP8HNcLGsrCaMsg34n3QoWhrK6XX14HmYkXYFemCphQsNwdICyjpqNQeupq2o4H1jlnats-QJfxqu6jpDkdDqGwxuR3XloKBAPB-8rVe9LHq8FAW2tYwcwVOKbsXT2WG_Azf1jB3sTYEqo9YjiosfcbM?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/nVPUb3gi5T78D7SJ7QL7Qbm75VhmLBRdzWBRNUAl05lvtbdDvAgkXwD4DoZB3XAtGDkcAgns0po7MpZCHCTwj8NKBGmhShjjKLyRD8bPSZ-tjCnOq6dZsh9O9gRJ1Deqy8WwAzViFWlX9SClvz4NUYkrMpCf7eFLz5DJc2LXLI376pjpSCViffZgrzMOxiwB?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/lGoWGIsOkh39wSVhUAzufmx1km9zLtXWHTmpmtRVRLU02PmFR51B9VfUegrilnI9RfvJPwqzHrJDt2MJa-nSk2i11HHpzTWjPwSxURIH0LA4ZkufP9A0gmB1Wz-Es_lCs7yCG5DGWjpPyZISOjUY5a0rgfCvZWi3dmBmMBkW7J99wRSXvEBWL6Npw7WzgMRT?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/l5nyknTY0oJehkyqsLYf6JqblTlaScoLLNLiPejS5GE1l0yAzfJoo-d0x3nzCBuiwI1AgbVsujV6G8X8QqGxNA8FOwvLU2K2VczovnTHGDGcPZPbzHdxbT3vxvH52VrFGiRfb-snoQXkFz7HJL9W9LmpA-c3RliFjk1dRS43aE8g4jue_3z3CQk4MRmYb9Ya?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/b2F9JQ05itqRIf1BmYOzpPpAUNDNzfehJEp_Pats4neRxMS1Ecj3CF5HZs97bt9EODhxrK3ubyegUi8zYUAtfGFZay6lYbToUPAOuFrtsr_Qdj106iBkRvWuNjFJRHfNbFx3AUEobc88B7_qv05fkAtfcLwrc88UK1wjWrZCqX2wA8HiUGLQKmpIDHnbyPD3?purpose=fullsize)
 
 ## 1. Definition
 **Cloud migration** is the process of moving an organisation’s digital assets, applications, data, and workloads from on‑premises data centres or legacy hosting environments into a cloud computing infrastructure, or from one cloud provider to another. It involves the systematic transfer of IT resources while ensuring minimal disruption to business operations, preserving data integrity, and optimising the target environment for performance, cost, and security. Cloud migration is not a single event but a structured lifecycle comprising assessment, planning, execution, validation, and ongoing optimisation.
